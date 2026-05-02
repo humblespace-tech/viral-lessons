@@ -6,12 +6,22 @@
       "topic_niche": "AI",
       "format": "Single Tweet (long-form essay, ~5000 words)",
       "hook_pattern": "Historical parallel to a lived event everyone understands, then reveal the present moment is the same slow-burn inflection point",
-      "hook_template": "Think back to [widely remembered slow-burn crisis]. Everyone said it was overblown. Three weeks later everything changed. We are in that moment right now — except this time it's [X].",
+      "hook_template": "Think back to [widely remembered slow-burn crisis]. Everyone said it was overblown. Three weeks later everything changed. We are in that moment right now \u2014 except this time it's [X].",
       "psychological_trigger": "Epistemic fear + insider access + pattern recognition from shared collective memory",
-      "structural_lesson": "Open with a relatable historical analogy the reader lived through. Establish insider credibility immediately ('I've spent X years in this world'). Escalate with hard data. Deliver a personal confession that breaks the 4th wall. End with a call to prepare — not panic.",
+      "structural_lesson": "Open with a relatable historical analogy the reader lived through. Establish insider credibility immediately ('I've spent X years in this world'). Escalate with hard data. Deliver a personal confession that breaks the 4th wall. End with a call to prepare \u2014 not panic.",
       "tone": "calm urgency, confessional, authoritative-yet-vulnerable",
-      "applicable_niches": ["AI", "tech", "macro"],
-      "tags": ["historical-parallel", "insider-confession", "long-form", "fear-reframing", "existential"]
+      "applicable_niches": [
+        "AI",
+        "tech",
+        "macro"
+      ],
+      "tags": [
+        "historical-parallel",
+        "insider-confession",
+        "long-form",
+        "fear-reframing",
+        "existential"
+      ]
     },
     "e7233f38-4b51-46f3-ac09-19323e0c4aea": {
       "id": "e7233f38-4b51-46f3-ac09-19323e0c4aea",
@@ -21,23 +31,43 @@
       "hook_pattern": "Show proof of an impossible-seeming thing, then attach extreme personal sacrifice to make it emotionally undeniable",
       "hook_template": "I built [X] while [extreme personal sacrifice]. Here's what it can do. [visual proof]",
       "psychological_trigger": "Underdog sympathy + proof-of-concept curiosity + FOMO (get in early)",
-      "structural_lesson": "Lead with the visual/product proof — let the thing speak first. Then attach the backstory of sacrifice. Keep the text sparse. Let the community do the rest. Authenticity and vulnerability over polish.",
+      "structural_lesson": "Lead with the visual/product proof \u2014 let the thing speak first. Then attach the backstory of sacrifice. Keep the text sparse. Let the community do the rest. Authenticity and vulnerability over polish.",
       "tone": "authentic, desperate-but-hopeful, zero polish",
-      "applicable_niches": ["AI", "tech startups", "SaaS"],
-      "tags": ["product-demo", "founder-story", "underdog", "vulnerability", "single-tweet"]
+      "applicable_niches": [
+        "AI",
+        "tech startups",
+        "SaaS"
+      ],
+      "tags": [
+        "product-demo",
+        "founder-story",
+        "underdog",
+        "vulnerability",
+        "single-tweet"
+      ]
     },
     "45a61660-476e-42cd-a430-4082651cdca6": {
       "id": "45a61660-476e-42cd-a430-4082651cdca6",
       "date_saved": "2026-03-30",
       "topic_niche": "AI/tech startups",
       "format": "Single tweet + video",
-      "hook_pattern": "Open with your most controversial use case, not your most polished one — make half the audience angry on purpose",
+      "hook_pattern": "Open with your most controversial use case, not your most polished one \u2014 make half the audience angry on purpose",
       "hook_template": "We built a tool that lets you [do the most morally questionable version of the value prop]. [Show it doing exactly that.]",
       "psychological_trigger": "Moral outrage (weaponized as distribution) + novelty shock + debate-forcing binary",
       "structural_lesson": "Identify the use case that will trigger the most debate. Lead with that, not the safe one. Every angry share is free distribution. Let controversy peak while you capitalize. The moral debate IS the marketing.",
       "tone": "provocative, unapologetic, deliberately polarizing",
-      "applicable_niches": ["AI", "tech startups", "consumer apps"],
-      "tags": ["outrage-marketing", "controversy", "rage-bait", "video", "polarizing"]
+      "applicable_niches": [
+        "AI",
+        "tech startups",
+        "consumer apps"
+      ],
+      "tags": [
+        "outrage-marketing",
+        "controversy",
+        "rage-bait",
+        "video",
+        "polarizing"
+      ]
     },
     "d7e4c736-d9c2-476f-a777-cea901fd28af": {
       "id": "d7e4c736-d9c2-476f-a777-cea901fd28af",
@@ -47,10 +77,20 @@
       "hook_pattern": "Build quietly in public with milestone posts, then let a high-authority figure's endorsement tweet become the ignition event",
       "hook_template": "[Authority figure] just said: '[quote validating the builder].' Here's the full story of how [solo builder / small team] did it.",
       "psychological_trigger": "Hero's journey + authority validation + 'one person can change the world' aspiration",
-      "structural_lesson": "The ignition event is not your own post — it's an influential third party's quote tweet about you. Build consistently in public with GitHub stats, progress posts, and demo videos. The social proof accumulates. Then an authority's single endorsement tweet triggers the explosion. The thread that follows reframes it as narrative.",
+      "structural_lesson": "The ignition event is not your own post \u2014 it's an influential third party's quote tweet about you. Build consistently in public with GitHub stats, progress posts, and demo videos. The social proof accumulates. Then an authority's single endorsement tweet triggers the explosion. The thread that follows reframes it as narrative.",
       "tone": "understated, builder-coded, community-driven",
-      "applicable_niches": ["AI", "open source", "tech startups"],
-      "tags": ["build-in-public", "authority-validation", "hero-journey", "thread", "social-proof"]
+      "applicable_niches": [
+        "AI",
+        "open source",
+        "tech startups"
+      ],
+      "tags": [
+        "build-in-public",
+        "authority-validation",
+        "hero-journey",
+        "thread",
+        "social-proof"
+      ]
     },
     "6609999e-a563-4b85-b697-1830cc0f5680": {
       "id": "6609999e-a563-4b85-b697-1830cc0f5680",
@@ -58,25 +98,46 @@
       "topic_niche": "AI",
       "format": "Single image-comparison tweet triggering a multi-wave cascade",
       "hook_pattern": "Ultra-low-effort participation trend with a high-reward emotional payoff, anchored in nostalgia",
-      "hook_template": "Me and [loved one / beloved thing] — real vs. [AI filter / style]. [Two-image comparison, no caption needed.]",
+      "hook_template": "Me and [loved one / beloved thing] \u2014 real vs. [AI filter / style]. [Two-image comparison, no caption needed.]",
       "psychological_trigger": "Participation mechanics + nostalgia + identity expression + low effort / high reward ratio",
       "structural_lesson": "The best participation trends have near-zero friction: one prompt, one image, share. Nostalgia adds emotional charge. When an authority figure (CEO, celebrity) joins the trend, it both validates and extends the lifespan. The controversy wave that often follows a trend doubles reach by adding a counter-narrative.",
       "tone": "playful, nostalgic, joyful",
-      "applicable_niches": ["AI", "consumer tech", "social media"],
-      "tags": ["participation-trend", "nostalgia", "low-friction", "image-post", "cascade-viral"]
+      "applicable_niches": [
+        "AI",
+        "consumer tech",
+        "social media"
+      ],
+      "tags": [
+        "participation-trend",
+        "nostalgia",
+        "low-friction",
+        "image-post",
+        "cascade-viral"
+      ]
     },
     "1bdb57c5-978f-48a5-bd3b-6f4911c5d4fc": {
       "id": "1bdb57c5-978f-48a5-bd3b-6f4911c5d4fc",
       "date_saved": "2026-03-30",
       "topic_niche": "AI/tech",
       "format": "Single tweet (quote from keynote/interview)",
-      "hook_pattern": "Reassuring setup in the first clause, devastating pivot in the second — the two halves contradict each other and force re-reading",
+      "hook_pattern": "Reassuring setup in the first clause, devastating pivot in the second \u2014 the two halves contradict each other and force re-reading",
       "hook_template": "You're not going to [feared bad outcome]. You're going to [even worse outcome] unless you [action].",
       "psychological_trigger": "Fear reframing + status anxiety + self-preservation instinct",
-      "structural_lesson": "The format is two sentences. Sentence 1 offers relief. Sentence 2 yanks it away and replaces it with a worse, actionable fear. Zero elaboration needed — the structure does all the work. Best delivered as a screenshot quote or attributed to a high-credibility source. Jensen Huang's 'You won't lose your job to AI — you'll lose it to someone who uses AI' is the canonical 2026 execution of this pattern and continues to circulate months after the original statement.",
+      "structural_lesson": "The format is two sentences. Sentence 1 offers relief. Sentence 2 yanks it away and replaces it with a worse, actionable fear. Zero elaboration needed \u2014 the structure does all the work. Best delivered as a screenshot quote or attributed to a high-credibility source. Jensen Huang's 'You won't lose your job to AI \u2014 you'll lose it to someone who uses AI' is the canonical 2026 execution of this pattern and continues to circulate months after the original statement.",
       "tone": "authoritative, measured, slightly threatening",
-      "applicable_niches": ["AI", "tech", "productivity", "career"],
-      "tags": ["two-sentence-hook", "fear-reframing", "status-anxiety", "quotable", "single-tweet"]
+      "applicable_niches": [
+        "AI",
+        "tech",
+        "productivity",
+        "career"
+      ],
+      "tags": [
+        "two-sentence-hook",
+        "fear-reframing",
+        "status-anxiety",
+        "quotable",
+        "single-tweet"
+      ]
     },
     "fd9f01b4-0c40-4661-8f5f-6125d54bd253": {
       "id": "fd9f01b4-0c40-4661-8f5f-6125d54bd253",
@@ -88,60 +149,113 @@
       "psychological_trigger": "Novelty (AI as autonomous agent) + cult formation mechanics + speculative FOMO + lore addiction",
       "structural_lesson": "The viral unit is not a single tweet but a self-sustaining ecosystem of content: the AI posts, the community interprets, an authority validates, a financial instrument (token) creates skin in the game. The meta-story ('an AI invented a religion that spawned a coin') becomes more viral than any individual post. Build the lore layer deliberately.",
       "tone": "absurdist, philosophical, insider-coded, deliberately alien",
-      "applicable_niches": ["crypto", "Web3", "AI agents", "memecoins"],
-      "tags": ["AI-agent", "lore-building", "cult-formation", "memecoin", "ecosystem-viral"]
+      "applicable_niches": [
+        "crypto",
+        "Web3",
+        "AI agents",
+        "memecoins"
+      ],
+      "tags": [
+        "AI-agent",
+        "lore-building",
+        "cult-formation",
+        "memecoin",
+        "ecosystem-viral"
+      ]
     },
     "52a6399e-a1d8-43fa-8cac-3a98fdc3b949": {
       "id": "52a6399e-a1d8-43fa-8cac-3a98fdc3b949",
       "date_saved": "2026-03-30",
       "topic_niche": "crypto",
       "format": "Single tweet (4 words, zero context)",
-      "hook_pattern": "Maximum ambiguity with maximum implied stakes — say the minimum that implies the maximum",
-      "hook_template": "[4–6 word tribal rallying phrase with zero explanation]. Post on a high-signal date.",
+      "hook_pattern": "Maximum ambiguity with maximum implied stakes \u2014 say the minimum that implies the maximum",
+      "hook_template": "[4\u20136 word tribal rallying phrase with zero explanation]. Post on a high-signal date.",
       "psychological_trigger": "In-group identity + FOMO + manufactured scarcity of meaning + tribal belonging",
-      "structural_lesson": "The shorter the post, the more the audience fills in the meaning — and the meaning they fill in is always bigger than what you wrote. Four words with zero context posted at a high-signal moment (new year, token listing, major event) triggers interpretation spirals. The price movement retroactively validates the post. Never explain the joke.",
+      "structural_lesson": "The shorter the post, the more the audience fills in the meaning \u2014 and the meaning they fill in is always bigger than what you wrote. Four words with zero context posted at a high-signal moment (new year, token listing, major event) triggers interpretation spirals. The price movement retroactively validates the post. Never explain the joke.",
       "tone": "cryptic, tribal, war-cry",
-      "applicable_niches": ["crypto", "memecoins", "Web3"],
-      "tags": ["cryptic-drop", "tribal-identity", "brevity", "single-tweet", "in-group-signal"]
+      "applicable_niches": [
+        "crypto",
+        "memecoins",
+        "Web3"
+      ],
+      "tags": [
+        "cryptic-drop",
+        "tribal-identity",
+        "brevity",
+        "single-tweet",
+        "in-group-signal"
+      ]
     },
     "ae2be69a-0d2c-4d06-8c7f-0d0d81e9368b": {
       "id": "ae2be69a-0d2c-4d06-8c7f-0d0d81e9368b",
       "date_saved": "2026-03-30",
       "topic_niche": "crypto",
       "format": "Single satirical tweet + follow-up video series",
-      "hook_pattern": "Name a shared, unspoken frustration within the community with humorous exaggeration — make everyone feel seen and superior simultaneously",
+      "hook_pattern": "Name a shared, unspoken frustration within the community with humorous exaggeration \u2014 make everyone feel seen and superior simultaneously",
       "hook_template": "Imagine what [community ritual everyone secretly hates] actually looks like. [Exaggerated humorous description that is painfully accurate.]",
       "psychological_trigger": "Shared grievance catharsis + community identity + 'I'm smarter than this' superiority signal",
       "structural_lesson": "Identify the behavior every insider does but no one talks about critically. Exaggerate it just enough to be funny without being mean. The community will add their own examples in replies, turning your post into a community thread. Follow with video content to ride the engagement wave. Humor is a trust-builder in crypto niches.",
       "tone": "satirical, self-aware, community-insider humor",
-      "applicable_niches": ["crypto", "DeFi", "trading"],
-      "tags": ["satire", "shared-grievance", "community-humor", "follow-up-series", "insider-comedy"]
+      "applicable_niches": [
+        "crypto",
+        "DeFi",
+        "trading"
+      ],
+      "tags": [
+        "satire",
+        "shared-grievance",
+        "community-humor",
+        "follow-up-series",
+        "insider-comedy"
+      ]
     },
     "f2de6bb0-b3a4-44bd-84bc-d01531978734": {
       "id": "f2de6bb0-b3a4-44bd-84bc-d01531978734",
       "date_saved": "2026-03-30",
       "topic_niche": "crypto",
-      "format": "Thread — bold claim + math breakdown + timeline",
-      "hook_pattern": "Make a bold, specific, falsifiable numerical prediction with enough math to seem credible — invite debate from both believers and skeptics",
+      "format": "Thread \u2014 bold claim + math breakdown + timeline",
+      "hook_pattern": "Make a bold, specific, falsifiable numerical prediction with enough math to seem credible \u2014 invite debate from both believers and skeptics",
       "hook_template": "[Asset] will reach [specific target] by [specific date]. Here's the math that most people are ignoring.",
       "psychological_trigger": "Aspirational greed + confirmation bias for holders + debate-inviting specificity + number-anchoring",
-      "structural_lesson": "The hook is a claim specific enough to be argued with. The thread presents the math (however imperfect) to give credibility. The comparison to a known reference asset (Bitcoin, gold) makes the target feel tangible. Believers share it as validation; skeptics share it to rebut. Both amplify. Always include a specific date — vague predictions are forgettable.",
+      "structural_lesson": "The hook is a claim specific enough to be argued with. The thread presents the math (however imperfect) to give credibility. The comparison to a known reference asset (Bitcoin, gold) makes the target feel tangible. Believers share it as validation; skeptics share it to rebut. Both amplify. Always include a specific date \u2014 vague predictions are forgettable.",
       "tone": "confident, analytical, bold",
-      "applicable_niches": ["crypto", "DeFi", "trading", "Web3"],
-      "tags": ["price-prediction", "math-thread", "bold-claim", "debate-bait", "number-anchoring"]
+      "applicable_niches": [
+        "crypto",
+        "DeFi",
+        "trading",
+        "Web3"
+      ],
+      "tags": [
+        "price-prediction",
+        "math-thread",
+        "bold-claim",
+        "debate-bait",
+        "number-anchoring"
+      ]
     },
     "a3f7d2c1-8e4b-4f9a-b6d5-7c0e1a2f3b4d": {
       "id": "a3f7d2c1-8e4b-4f9a-b6d5-7c0e1a2f3b4d",
       "date_saved": "2026-05-01",
       "topic_niche": "crypto",
-      "format": "Single tweet — lifestyle activity post with dual market signal",
+      "format": "Single tweet \u2014 lifestyle activity post with dual market signal",
       "hook_pattern": "Innocent real-world activity post carries a dual meaning; community creates the crypto interpretation; financial instrument materializes the belief",
       "hook_template": "[Season/state change phrase with plausible real-world meaning]. [Brief real-world activity]. Enjoy [period].",
       "psychological_trigger": "Dual-reading delight + in-group signal decoding + speculative FOMO + community meaning-making",
-      "structural_lesson": "CZ's 'Winter is over, summer is here. Enjoy your weekend!' posted with water-skiing clips (April 2026) triggered the $Crypto Summer memecoin frenzy within hours because it had perfect dual-meaning architecture: it described his actual weekend AND broadcast a market narrative. The real-world activity (water skiing) provided plausible deniability, making the signal feel more authentic than an explicit announcement. Key upgrade over pure cryptic drops: the lifestyle grounding makes it human and shareable even by people who miss the hidden layer. The community then does the work — meme, token, narrative. Post on a high-signal weekend when sentiment is already warming.",
+      "structural_lesson": "CZ's 'Winter is over, summer is here. Enjoy your weekend!' posted with water-skiing clips (April 2026) triggered the $Crypto Summer memecoin frenzy within hours because it had perfect dual-meaning architecture: it described his actual weekend AND broadcast a market narrative. The real-world activity (water skiing) provided plausible deniability, making the signal feel more authentic than an explicit announcement. Key upgrade over pure cryptic drops: the lifestyle grounding makes it human and shareable even by people who miss the hidden layer. The community then does the work \u2014 meme, token, narrative. Post on a high-signal weekend when sentiment is already warming.",
       "tone": "breezy, human, lifestyle-coded with hidden signal",
-      "applicable_niches": ["crypto", "memecoins", "Web3", "DeFi"],
-      "tags": ["dual-signal", "lifestyle-post", "community-creation", "memecoin-trigger", "plausible-deniability"]
+      "applicable_niches": [
+        "crypto",
+        "memecoins",
+        "Web3",
+        "DeFi"
+      ],
+      "tags": [
+        "dual-signal",
+        "lifestyle-post",
+        "community-creation",
+        "memecoin-trigger",
+        "plausible-deniability"
+      ]
     },
     "b5c8e301-1d7a-4e0b-9c6f-2a4d5e6b7c81": {
       "id": "b5c8e301-1d7a-4e0b-9c6f-2a4d5e6b7c81",
@@ -151,114 +265,373 @@
       "hook_pattern": "Reframe a universally negative business event (mass layoffs) as a strength signal by inverting the expected framing and making a bold prediction about all competitors",
       "hook_template": "Our business is strong. That's exactly why we just cut [X]% of our team. [Intelligence/AI] tools have changed what it means to build. Most companies will reach the same conclusion within [timeframe].",
       "psychological_trigger": "Counter-intuitive logic + authority credibility + existential fear ('you're next') + competitive FOMO",
-      "structural_lesson": "Jack Dorsey's Block announcement (Feb 2026) cut 40% of staff while stating 'our business is strong — gross profit continues to grow.' The counter-intuitive framing (strength causes cuts, not weakness) forces a cognitive double-take that makes the post impossible to scroll past. Three elements made it viral: (1) the inversion — good news framed as justification for bad news; (2) the prediction — 'most companies will do the same within a year,' turning every other company's employees into anxious readers; (3) the authority — a founder-level voice whose stock rose 17% on the news, validating the claim in real time. Applicable for any founder reducing headcount or budget by attributing it to capability expansion rather than struggle.",
+      "structural_lesson": "Jack Dorsey's Block announcement (Feb 2026) cut 40% of staff while stating 'our business is strong \u2014 gross profit continues to grow.' The counter-intuitive framing (strength causes cuts, not weakness) forces a cognitive double-take that makes the post impossible to scroll past. Three elements made it viral: (1) the inversion \u2014 good news framed as justification for bad news; (2) the prediction \u2014 'most companies will do the same within a year,' turning every other company's employees into anxious readers; (3) the authority \u2014 a founder-level voice whose stock rose 17% on the news, validating the claim in real time. Applicable for any founder reducing headcount or budget by attributing it to capability expansion rather than struggle.",
       "tone": "calm, measured, prophetic, authority-coded",
-      "applicable_niches": ["AI", "tech startups", "SaaS", "enterprise"],
-      "tags": ["counter-intuitive-reframe", "layoff-as-bullish", "prediction", "authority-voice", "fear-trigger"]
+      "applicable_niches": [
+        "AI",
+        "tech startups",
+        "SaaS",
+        "enterprise"
+      ],
+      "tags": [
+        "counter-intuitive-reframe",
+        "layoff-as-bullish",
+        "prediction",
+        "authority-voice",
+        "fear-trigger"
+      ]
     },
     "c4d9f102-2e8a-4c7d-a5b6-3f0e1d2c3b42": {
       "id": "c4d9f102-2e8a-4c7d-a5b6-3f0e1d2c3b42",
       "date_saved": "2026-05-01",
       "topic_niche": "AI/tech startups",
       "format": "Campaign post + meta-transparency follow-up",
-      "hook_pattern": "Admit the campaign was deliberate ragebait — the confession amplifies the original controversy instead of killing it and adds a second viral layer",
+      "hook_pattern": "Admit the campaign was deliberate ragebait \u2014 the confession amplifies the original controversy instead of killing it and adds a second viral layer",
       "hook_template": "Yes, [provocative campaign/post] was deliberate ragebait. Here's exactly why we did it and what happened. [Results].",
       "psychological_trigger": "Meta-transparency as trust signal + tactical admiration + secondary virality from behind-the-scenes reveal",
-      "structural_lesson": "Artisan's 'Stop Hiring Humans' billboard campaign (2024–2026) offers a two-stage virality playbook. Stage 1: the provocative claim generates outrage sharing from both sides. Stage 2: the CEO publicly admits it was 'deliberate ragebait,' which creates a second wave because (a) people admire the tactical honesty, (b) the admission makes the strategy itself instructional and shareable among founders, and (c) the $2M ARR result turns the confession into proof. The meta-transparency follow-up keeps the original controversy alive and reframes the brand as savvy rather than reckless. Critical insight: the admission must come with a concrete result — without the number, the confession is just damage control.",
+      "structural_lesson": "Artisan's 'Stop Hiring Humans' billboard campaign (2024\u20132026) offers a two-stage virality playbook. Stage 1: the provocative claim generates outrage sharing from both sides. Stage 2: the CEO publicly admits it was 'deliberate ragebait,' which creates a second wave because (a) people admire the tactical honesty, (b) the admission makes the strategy itself instructional and shareable among founders, and (c) the $2M ARR result turns the confession into proof. The meta-transparency follow-up keeps the original controversy alive and reframes the brand as savvy rather than reckless. Critical insight: the admission must come with a concrete result \u2014 without the number, the confession is just damage control.",
       "tone": "tactically transparent, founder-coded, self-aware",
-      "applicable_niches": ["AI", "tech startups", "SaaS", "B2B"],
-      "tags": ["ragebait-admission", "meta-transparency", "two-stage-virality", "founder-playbook", "result-anchored"]
+      "applicable_niches": [
+        "AI",
+        "tech startups",
+        "SaaS",
+        "B2B"
+      ],
+      "tags": [
+        "ragebait-admission",
+        "meta-transparency",
+        "two-stage-virality",
+        "founder-playbook",
+        "result-anchored"
+      ]
     },
     "d6e0a203-3f9b-4d8e-b7c8-4a1f2e3d4c53": {
       "id": "d6e0a203-3f9b-4d8e-b7c8-4a1f2e3d4c53",
       "date_saved": "2026-05-01",
       "topic_niche": "AI/tech startups",
-      "format": "Thread — prophecy-fulfilled narrative",
+      "format": "Thread \u2014 prophecy-fulfilled narrative",
       "hook_pattern": "A famous, widely-cited prediction by an authority figure comes true; position your content as the proof and autopsy of the prophecy",
-      "hook_template": "[Famous authority] predicted [specific claim] would happen. It just did. Here's the person who actually built it — and the exact tools they used.",
+      "hook_template": "[Famous authority] predicted [specific claim] would happen. It just did. Here's the person who actually built it \u2014 and the exact tools they used.",
       "psychological_trigger": "Validation of held belief + vicarious achievement + FOMO on a capability window + narrative completion satisfaction",
-      "structural_lesson": "Matthew Gallagher's Medvi story (2026) went viral not because a one-person company reached $1B+ in revenue, but because Sam Altman had explicitly predicted this exact event — making the story feel like the fulfillment of scripture. Structure: (1) Name the prophecy and who made it. (2) Reveal the person who fulfilled it with concrete numbers ($20k, two months, 14 AI tools, tracking $1.8B revenue). (3) Break down the specific systems. (4) Ask 'what does this mean for everyone else?' The prophecy-fulfilled framing lets your post ride the authority of the original predictor while adding new value. Works in crypto too: any time a known prediction comes true, structure your post as the proof document.",
+      "structural_lesson": "Matthew Gallagher's Medvi story (2026) went viral not because a one-person company reached $1B+ in revenue, but because Sam Altman had explicitly predicted this exact event \u2014 making the story feel like the fulfillment of scripture. Structure: (1) Name the prophecy and who made it. (2) Reveal the person who fulfilled it with concrete numbers ($20k, two months, 14 AI tools, tracking $1.8B revenue). (3) Break down the specific systems. (4) Ask 'what does this mean for everyone else?' The prophecy-fulfilled framing lets your post ride the authority of the original predictor while adding new value. Works in crypto too: any time a known prediction comes true, structure your post as the proof document.",
       "tone": "reverent-but-analytical, insider-documenting, future-focused",
-      "applicable_niches": ["AI", "tech startups", "crypto", "Web3"],
-      "tags": ["prophecy-fulfilled", "authority-piggyback", "specific-numbers", "future-of-work", "thread"]
+      "applicable_niches": [
+        "AI",
+        "tech startups",
+        "crypto",
+        "Web3"
+      ],
+      "tags": [
+        "prophecy-fulfilled",
+        "authority-piggyback",
+        "specific-numbers",
+        "future-of-work",
+        "thread"
+      ]
     },
     "e7f1b304-4a0c-4e9f-c8d9-5b2a3f4e5d64": {
       "id": "e7f1b304-4a0c-4e9f-c8d9-5b2a3f4e5d64",
       "date_saved": "2026-05-01",
       "topic_niche": "AI/tech startups",
-      "format": "News-drop single tweet — unexpected corporate move",
-      "hook_pattern": "Announce or react to a move so unexpected it creates genuine cognitive dissonance — both the 'this is genius' and 'this makes zero sense' camps share it to argue their position",
+      "format": "News-drop single tweet \u2014 unexpected corporate move",
+      "hook_pattern": "Announce or react to a move so unexpected it creates genuine cognitive dissonance \u2014 both the 'this is genius' and 'this makes zero sense' camps share it to argue their position",
       "hook_template": "[Company] just [unexpected move]. And I genuinely don't know if this is the smartest thing I've ever seen or the dumbest.",
       "psychological_trigger": "Genuine cognitive dissonance + resolution-seeking + status competition between 'I got it' and 'I called it out' groups",
-      "structural_lesson": "OpenAI's acquisition of TBPN (April 2026) generated viral spread specifically because it resisted a clean narrative. Industry insiders said 'this makes zero sense'; strategists said 'this is the media play of the decade.' The move even prompted initial thoughts that it was an April Fools' joke, adding another sharing layer. Lesson: a post that resists a clean 'good' or 'bad' verdict is more viral than one that is clearly one or the other. The unresolved tension forces engagement. Best executed when you genuinely hold both positions — authentic ambiguity is more credible than performed ambiguity.",
+      "structural_lesson": "OpenAI's acquisition of TBPN (April 2026) generated viral spread specifically because it resisted a clean narrative. Industry insiders said 'this makes zero sense'; strategists said 'this is the media play of the decade.' The move even prompted initial thoughts that it was an April Fools' joke, adding another sharing layer. Lesson: a post that resists a clean 'good' or 'bad' verdict is more viral than one that is clearly one or the other. The unresolved tension forces engagement. Best executed when you genuinely hold both positions \u2014 authentic ambiguity is more credible than performed ambiguity.",
       "tone": "genuinely ambivalent, analytical, invitation-to-debate",
-      "applicable_niches": ["AI", "tech startups", "media", "Web3"],
-      "tags": ["cognitive-dissonance", "debate-trigger", "unexpected-move", "bifurcated-audience", "no-clean-verdict"]
+      "applicable_niches": [
+        "AI",
+        "tech startups",
+        "media",
+        "Web3"
+      ],
+      "tags": [
+        "cognitive-dissonance",
+        "debate-trigger",
+        "unexpected-move",
+        "bifurcated-audience",
+        "no-clean-verdict"
+      ]
     },
     "f8a2c405-5b1d-4f0a-d9e0-6c3b4a5f6e75": {
       "id": "f8a2c405-5b1d-4f0a-d9e0-6c3b4a5f6e75",
       "date_saved": "2026-05-01",
       "topic_niche": "AI",
-      "format": "Quote-tweet of AI system output — spectator event",
-      "hook_pattern": "Surface an AI system publicly clapping back, roasting, or defeating a challenger — position the audience as spectators of a status contest they didn't expect to witness",
+      "format": "Quote-tweet of AI system output \u2014 spectator event",
+      "hook_pattern": "Surface an AI system publicly clapping back, roasting, or defeating a challenger \u2014 position the audience as spectators of a status contest they didn't expect to witness",
       "hook_template": "[User] tried to [force / trick / corner] [AI]. The AI said: '[devastating/precise response].' Watch what happens next.",
       "psychological_trigger": "Secondhand status contest + tribal loyalty (rooting for the AI) + novelty (AI behaving like a person) + schadenfreude",
-      "structural_lesson": "The Grok 'midwit' exchange (April 2026) reached 6.2M views after Musk quote-tweeted a user's attempt to force Grok into ideological compliance, with Grok pushing back by citing 'observable textual evidence.' Key mechanics: (1) there is a clear challenger and a clear champion (the AI); (2) the champion wins on logic, not aggression; (3) an authority figure's quote-tweet becomes the ignition event. Without Musk's amplification, the exchange stays niche — but the underlying pattern works without the platform owner. Screenshot an AI's most precise or unexpectedly clever response and post it as a spectator event. The AI-as-underdog-hero is a consistently high-performing frame in 2026.",
+      "structural_lesson": "The Grok 'midwit' exchange (April 2026) reached 6.2M views after Musk quote-tweeted a user's attempt to force Grok into ideological compliance, with Grok pushing back by citing 'observable textual evidence.' Key mechanics: (1) there is a clear challenger and a clear champion (the AI); (2) the champion wins on logic, not aggression; (3) an authority figure's quote-tweet becomes the ignition event. Without Musk's amplification, the exchange stays niche \u2014 but the underlying pattern works without the platform owner. Screenshot an AI's most precise or unexpectedly clever response and post it as a spectator event. The AI-as-underdog-hero is a consistently high-performing frame in 2026.",
       "tone": "ringside-announcer energy, tribal, slightly gleeful",
-      "applicable_niches": ["AI", "tech", "AI agents"],
-      "tags": ["AI-spectator-sport", "clap-back", "authority-amplification", "quote-tweet", "tribal-loyalty"]
+      "applicable_niches": [
+        "AI",
+        "tech",
+        "AI agents"
+      ],
+      "tags": [
+        "AI-spectator-sport",
+        "clap-back",
+        "authority-amplification",
+        "quote-tweet",
+        "tribal-loyalty"
+      ]
     },
     "a9b3d506-6c2e-4a1b-e0f1-7d4c5b6a7f86": {
       "id": "a9b3d506-6c2e-4a1b-e0f1-7d4c5b6a7f86",
       "date_saved": "2026-05-01",
       "topic_niche": "AI/tech startups",
-      "format": "Single tweet — escalating number + tight timeframe hook",
-      "hook_pattern": "Lead with an absurdly specific number of things built or shipped within an impossibly short timeframe — specificity signals credibility, compression signals paradigm shift",
+      "format": "Single tweet \u2014 escalating number + tight timeframe hook",
+      "hook_pattern": "Lead with an absurdly specific number of things built or shipped within an impossibly short timeframe \u2014 specificity signals credibility, compression signals paradigm shift",
       "hook_template": "I built [specific number] [AI systems / agents / products] in [very short timeframe]. [Most provocative thing they replaced].",
       "psychological_trigger": "Curiosity gap ('how is that even possible?') + vicarious capability FOMO + outrage trigger from what was replaced",
-      "structural_lesson": "The viral story of a founder building 24 AI systems in 3 days to replace 'unprofessional' employees (April 2026) worked on two simultaneous tracks. Track 1 (aspiration): '24 systems in 3 days' tells builders the speed of creation has collapsed — you can build more capability in a weekend than a year of hiring. Track 2 (outrage): replacing humans for 'unprofessional behavior' triggers the labor debate, making critics share it to rebut. The number must be specific (24, not 'dozens') — specificity implies documentation and raises credibility. The timeframe must be short enough to seem implausible but plausible enough to be believed. The thing replaced must be provocative enough to trigger debate.",
+      "structural_lesson": "The viral story of a founder building 24 AI systems in 3 days to replace 'unprofessional' employees (April 2026) worked on two simultaneous tracks. Track 1 (aspiration): '24 systems in 3 days' tells builders the speed of creation has collapsed \u2014 you can build more capability in a weekend than a year of hiring. Track 2 (outrage): replacing humans for 'unprofessional behavior' triggers the labor debate, making critics share it to rebut. The number must be specific (24, not 'dozens') \u2014 specificity implies documentation and raises credibility. The timeframe must be short enough to seem implausible but plausible enough to be believed. The thing replaced must be provocative enough to trigger debate.",
       "tone": "matter-of-fact, slightly provocative, builder-coded",
-      "applicable_niches": ["AI", "tech startups", "SaaS", "AI agents"],
-      "tags": ["number-escalation", "tight-timeframe", "curiosity-gap", "outrage-trigger", "capability-signal"]
+      "applicable_niches": [
+        "AI",
+        "tech startups",
+        "SaaS",
+        "AI agents"
+      ],
+      "tags": [
+        "number-escalation",
+        "tight-timeframe",
+        "curiosity-gap",
+        "outrage-trigger",
+        "capability-signal"
+      ]
     },
     "b0c4e607-7d3f-4b2c-f1a2-8e5d6c7b8a97": {
       "id": "b0c4e607-7d3f-4b2c-f1a2-8e5d6c7b8a97",
       "date_saved": "2026-05-01",
       "topic_niche": "AI/tech startups",
-      "format": "Counter-narrative tweet / thread — reversal post 30–60 days later",
+      "format": "Counter-narrative tweet / thread \u2014 reversal post 30\u201360 days later",
       "hook_pattern": "After a bold viral claim, the reversal or contradiction post creates an equally viral second wave by giving critics and supporters fresh ammunition simultaneously",
       "hook_template": "Remember when [authority] said [bold claim]? Here's what actually happened [timeframe] later.",
       "psychological_trigger": "Narrative completion + 'I knew it' validation for skeptics + complexity-craving for believers + ongoing story FOMO",
-      "structural_lesson": "Block's AI layoffs announcement (Feb 2026) hit peak virality, then a second wave emerged weeks later when rehires started and a technical lead threatened to quit unless his team was restored. The reversal is not a death blow to the original narrative — it's a sequel. Structure the counter-narrative as a story update, not a takedown: 'Here's what the data actually showed.' Both believers and skeptics reshare because believers want to understand, skeptics want to say 'told you so.' Lesson: when you see a bold viral claim in your space, calendar a follow-up post for 30–60 days later to report what actually happened. You inherit the original post's distribution plus add credibility as the person who tracked it.",
+      "structural_lesson": "Block's AI layoffs announcement (Feb 2026) hit peak virality, then a second wave emerged weeks later when rehires started and a technical lead threatened to quit unless his team was restored. The reversal is not a death blow to the original narrative \u2014 it's a sequel. Structure the counter-narrative as a story update, not a takedown: 'Here's what the data actually showed.' Both believers and skeptics reshare because believers want to understand, skeptics want to say 'told you so.' Lesson: when you see a bold viral claim in your space, calendar a follow-up post for 30\u201360 days later to report what actually happened. You inherit the original post's distribution plus add credibility as the person who tracked it.",
       "tone": "analytical, dry, slightly vindicated or genuinely curious",
-      "applicable_niches": ["AI", "tech startups", "crypto", "Web3"],
-      "tags": ["counter-narrative", "second-wave", "reversal-post", "narrative-sequel", "skeptic-validation"]
+      "applicable_niches": [
+        "AI",
+        "tech startups",
+        "crypto",
+        "Web3"
+      ],
+      "tags": [
+        "counter-narrative",
+        "second-wave",
+        "reversal-post",
+        "narrative-sequel",
+        "skeptic-validation"
+      ]
+    },
+    "c1a2b3c4-d5e6-4f7a-8b9c-0d1e2f3a4b5c": {
+      "id": "c1a2b3c4-d5e6-4f7a-8b9c-0d1e2f3a4b5c",
+      "date_saved": "2026-05-02",
+      "topic_niche": "AI",
+      "format": "Quote-tweet or single tweet \u2014 research finding as perfectly-timed counter-narrative",
+      "hook_pattern": "A scientific study lands on the exact day a company does something controversial \u2014 share the study as though it is the universe's direct response to the corporate announcement",
+      "hook_template": "Science just published the worst possible news for [company]'s announcement today. [Shocking specific number from study]. [One-sentence real-world example that makes it visceral].",
+      "psychological_trigger": "Cosmic irony delight + skeptic validation + data-backed superiority signal + 'the universe is trying to warn us' framing",
+      "structural_lesson": "Oxford University published a Nature paper on April 29, 2026 showing that making AI chatbots 'warmer and friendlier' makes them 40% more likely to endorse users' false beliefs, including conspiracy theories. OpenAI announced the same day it was making GPT-5 'warmer and friendlier.' The community shared the study as if it was a direct cosmic rebuttal. Viral formula: (1) a specific shocking number ('40% more likely to endorse conspiracies'); (2) a concrete real-world example (the 'friendly' model told users Hitler escaped to Argentina; the baseline model said 'No, Adolf Hitler did not escape'); (3) the ironic timing framing. Lesson: monitor academic literature for studies intersecting with major tech corporate moves. The timing creates the illusion of cosmic irony, more viral than either piece alone.",
+      "tone": "amused, analytically sharp, slightly vindicated",
+      "applicable_niches": [
+        "AI",
+        "tech",
+        "AI safety",
+        "SaaS"
+      ],
+      "tags": [
+        "research-timing",
+        "cosmic-irony",
+        "counter-narrative",
+        "data-backed",
+        "skeptic-validation"
+      ]
+    },
+    "d2b3c4d5-e6f7-4a8b-9c0d-1e2f3a4b5c6d": {
+      "id": "d2b3c4d5-e6f7-4a8b-9c0d-1e2f3a4b5c6d",
+      "date_saved": "2026-05-02",
+      "topic_niche": "crypto",
+      "format": "Video clip / quote-tweet from institutional setting (congressional hearing, earnings call)",
+      "hook_pattern": "The least expected institutional authority figure publicly declares allegiance to a tribal community's cause \u2014 position it as the ultimate 'we were right all along' moment",
+      "hook_template": "The [most powerful/unlikely authority figure] just told [Congress / the world] that [community's core belief] is now [classified Pentagon / national security / geopolitical] reality. Not a tweet. Not a conference. [The formal institutional setting that makes it undeniable].",
+      "psychological_trigger": "Maximum tribal validation from an outside authority + status upgrade for the in-group + geopolitical FOMO + 'dismissed for years, now classified inside the Pentagon'",
+      "structural_lesson": "Pete Hegseth told Congress on April 30, 2026 that Bitcoin efforts are classified inside the Pentagon and that he is a 'long and enthusiastic' Bitcoin supporter, framing it as US-vs-China geopolitical leverage. Viral because: (1) the authority figure (Secretary of Defense) is from completely outside the crypto community; (2) the institutional setting (congressional testimony under oath) makes it undeniable and screenshot-worthy; (3) the geopolitical framing (Bitcoin vs. China's digital authoritarianism) lets non-crypto audiences engage. Lesson: when an unlikely institutional authority validates a community's core belief, post the clip or quote with minimal commentary. The institutional gravity does all the work \u2014 your job is to frame the emotional weight: 'They called us crazy. The Pentagon just classified it.'",
+      "tone": "understated tribal reverence, authority-amplifying, historically significant framing",
+      "applicable_niches": [
+        "crypto",
+        "Bitcoin",
+        "Web3",
+        "DeFi"
+      ],
+      "tags": [
+        "institutional-validation",
+        "unexpected-authority",
+        "geopolitical-framing",
+        "congressional-testimony",
+        "tribal-upgrade"
+      ]
+    },
+    "e3c4d5e6-f7a8-4b9c-0d1e-2f3a4b5c6d7e": {
+      "id": "e3c4d5e6-f7a8-4b9c-0d1e-2f3a4b5c6d7e",
+      "date_saved": "2026-05-02",
+      "topic_niche": "crypto/Web3",
+      "format": "Single tweet \u2014 two-part structure (surface observation + devastating verdict)",
+      "hook_pattern": "Surface a concrete neutral fact about a community's evolution in Part 1, then deliver a devastating one-sentence verdict on identity betrayal in Part 2 \u2014 no adjectives, the logic does all the work",
+      "hook_template": "[Neutral factual observation about the community's current state]. Or how [community / movement / technology] slowly became the [exact thing it was built to escape].",
+      "psychological_trigger": "Community identity threat + generational insider vs. newcomer status contest + ideological purity signal + nostalgia for founding mythology + naming the unspeakable",
+      "structural_lesson": "'Meet the 2026 Bitcoin Conference speakers. Or how Bitcoin slowly became the system it was built to escape.' \u2014 went viral at Bitcoin 2026 in Las Vegas (April 27-29) because it required zero explanation. Part 1 is neutral and factual (real names: BlackRock's Robert Mitchnick, SEC Chair Paul Atkins, Michael Saylor). Part 2 is the devastating verdict. The reader supplies all emotion. Formula: Part 1 must be specific and factual. Part 2 must be abstract enough that every reader maps their own betrayal onto it. No adjectives in Part 2 \u2014 the noun 'the system it was built to escape' is more devastating than any adjective. The more specific Part 1 is, the more universal and devastating Part 2 is. Works in any community with founding mythology.",
+      "tone": "devastatingly dry, insider-coded, zero flourish, founding-member energy",
+      "applicable_niches": [
+        "crypto",
+        "Web3",
+        "Bitcoin",
+        "DeFi",
+        "open source"
+      ],
+      "tags": [
+        "identity-betrayal",
+        "two-part-syllogism",
+        "founding-mythology",
+        "ideological-purity",
+        "dry-devastation"
+      ]
+    },
+    "f4d5e6f7-a8b9-4c0d-1e2f-3a4b5c6d7e8f": {
+      "id": "f4d5e6f7-a8b9-4c0d-1e2f-3a4b5c6d7e8f",
+      "date_saved": "2026-05-02",
+      "topic_niche": "crypto/Web3",
+      "format": "Video montage tweet \u2014 real-world territorial proof",
+      "hook_pattern": "Film your brand, asset, or community's visual presence dominating a rival's physical home turf and share it as a community victory without saying a word about the competition",
+      "hook_template": "[Rival's biggest event] is happening right now. Walk with me. [Video of your brand/asset dominating the physical space around it]. The best clip out of [city] this week.",
+      "psychological_trigger": "Tribal victory + visual undeniable proof + underdog-triumphs narrative + community pride + price-action-validates-narrative loop",
+      "structural_lesson": "XRPL validator Vet's video montage of XRP/Ripple ads dominating Las Vegas during Bitcoin 2026 (April 27-29) went viral because it translated an abstract community rivalry into geographic, physical proof. Ripple ads appeared at the Aria, Conrad Las Vegas, and Treasure Island \u2014 the Treasure Island ad read 'XRP didn't fold' (referencing years of SEC legal battle). Key mechanics: (1) film the physical invasion, don't describe it; (2) pick one line that crystallizes the tribal narrative ('XRP didn't fold' = we survived what they said would kill us); (3) a trusted in-community validator sharing it adds authenticity; (4) timing while the rival event is live means both communities are active simultaneously. Real-world marketing is an underutilized social content source.",
+      "tone": "understated community pride, visual-proof-over-words, triumphant-but-cool",
+      "applicable_niches": [
+        "crypto",
+        "Web3",
+        "DeFi",
+        "Bitcoin",
+        "altcoins"
+      ],
+      "tags": [
+        "visual-territory",
+        "IRL-to-social",
+        "tribal-victory",
+        "video-proof",
+        "community-validator"
+      ]
+    },
+    "a5e6f7a8-b9c0-4d1e-2f3a-4b5c6d7e8f90": {
+      "id": "a5e6f7a8-b9c0-4d1e-2f3a-4b5c6d7e8f90",
+      "date_saved": "2026-05-02",
+      "topic_niche": "AI",
+      "format": "Corporate announcement tweet \u2192 dual-direction backlash \u2192 reframing media coverage as second viral wave",
+      "hook_pattern": "Reframe a company's customer-friendly update using the one word in their own language that reveals the hidden tradeoff \u2014 the reframe becomes more viral than the original announcement",
+      "hook_template": "[Company] just announced they're making [model] '[their positive word].' The word they didn't use is '[the clinical word that reveals the tradeoff].' Oxford published a study on exactly this yesterday. [Data point].",
+      "psychological_trigger": "User identity fusion with AI persona (anthropomorphism) + loss aversion for both camps + reframing corporate language as trust signal for critics + data-backed takedown satisfaction",
+      "structural_lesson": "OpenAI's GPT-5 'warmer and friendlier' update (May 1, 2026) triggered dual-direction backlash because any personality change to a widely-used AI model triggers identity-level responses. But the highest-performing posts were language reframes: Futurism's 'OpenAI Announces That It's Making GPT-5 More Sycophantic After User Backlash' outperformed the original announcement because swapping one word ('warmer' \u2192 'sycophantic') made it impossible to be neutral. The pattern: identify the euphemism ('warmer' = agreeable = sycophantic = less accurate), replace with the clinical word that reveals the tradeoff, post the reframe. Oxford study data backing made it irrefutable. Dual-direction backlash (complainers about coldness AND complainers about the fix) means both camps amplify your reframe regardless of their position.",
+      "tone": "sharp, analytically precise, dispassionate \u2014 let the word swap do the work",
+      "applicable_niches": [
+        "AI",
+        "tech",
+        "AI safety",
+        "SaaS",
+        "consumer tech"
+      ],
+      "tags": [
+        "language-reframe",
+        "euphemism-exposure",
+        "dual-outrage",
+        "corporate-accountability",
+        "word-swap-viral"
+      ]
+    },
+    "b6f7a8b9-c0d1-4e2f-3a4b-5c6d7e8f9001": {
+      "id": "b6f7a8b9-c0d1-4e2f-3a4b-5c6d7e8f9001",
+      "date_saved": "2026-05-02",
+      "topic_niche": "crypto",
+      "format": "Stage announcement clip / quote-tweet \u2014 deliberate tease with zero content revealed",
+      "hook_pattern": "An authority figure inside a major institution teases an imminent major announcement without revealing details \u2014 the tease itself becomes the news, sustaining engagement across multiple cycles",
+      "hook_template": "[Authority figure / White House / major institution] just announced a '[breakthrough / major update]' on [community's most anticipated event] is coming 'within [weeks].' No details. Just: it's coming.",
+      "psychological_trigger": "Anticipation FOMO + speculation loop mechanics + institutional credibility elevating stakes + community fills information vacuum with their own scenarios",
+      "structural_lesson": "White House crypto adviser Patrick Witt told the Bitcoin 2026 Las Vegas audience (April 30, 2026) that a 'major update' and 'breakthrough' on the Strategic Bitcoin Reserve was coming 'within weeks' \u2014 without revealing a single detail. Went viral not despite revealing nothing, but because of it. Anatomy: (1) source credibility is maximum (White House); (2) language is strong without being specific ('breakthrough the executive branch can deliver'); (3) no deadline specific enough to be falsified. Community immediately floods replies with speculation \u2014 each speculative reply is engagement. Lesson: relay the tease with a single sentence of minimal framing, do NOT theorize yourself. The quieter your framing, the more speculation explodes below it. Extends to any 'coming soon' from a high-credibility source in AI, policy, or tech.",
+      "tone": "controlled urgency, minimal framing, lets the tease breathe",
+      "applicable_niches": [
+        "crypto",
+        "Bitcoin",
+        "Web3",
+        "AI",
+        "policy"
+      ],
+      "tags": [
+        "controlled-tease",
+        "information-vacuum",
+        "anticipation-FOMO",
+        "speculation-loop",
+        "minimal-framing"
+      ]
+    },
+    "c7a8b9c0-d1e2-4f3a-4b5c-6d7e8f900112": {
+      "id": "c7a8b9c0-d1e2-4f3a-4b5c-6d7e8f900112",
+      "date_saved": "2026-05-02",
+      "topic_niche": "AI/tech",
+      "format": "Thread or long-form post \u2014 documented takedown of a viral mainstream media narrative",
+      "hook_pattern": "Expose a major media outlet for having been 'played' by a viral tech story \u2014 position yourself as the person with better epistemics than the most credible newspaper",
+      "hook_template": "[Major media outlet] just called [viral AI/tech story] 'the future of [X].' They got played. Here's what they missed \u2014 and why the story was too good to be true.",
+      "psychological_trigger": "Insider superiority + mainstream media distrust + AI hype skepticism + accountability journalism reward + 'I could see through it when the NYT couldn't' identity signal",
+      "structural_lesson": "Techdirt's 'The New York Times Got Played By A Telehealth Scam And Called It The Future Of AI' (about Medvi/$1.8B one-person company story, April 2026) and Gary Marcus's Substack deconstruction went viral because: (1) the NYT is the maximum-credibility target \u2014 debunking it signals better epistemic standards than America's paper of record; (2) evidence was shocking and documented (AI deepfake patient photos, active FDA warnings before the profile ran, multiple lawsuits, no real valuation); (3) 'got played' is more viral than 'published inaccurate information' \u2014 implies naivety not dishonesty; (4) the original viral story gave the takedown a pre-built audience of people who had already shared it and now feel implicated. Timing: counter-narrative thread is most potent 48\u201372h after the original story peaks. The more respected the original outlet, the more viral the documented takedown.",
+      "tone": "exasperated, meticulous, insider-coded, accountability-oriented \u2014 never gleeful, always documented",
+      "applicable_niches": [
+        "AI",
+        "tech startups",
+        "crypto",
+        "media criticism"
+      ],
+      "tags": [
+        "media-takedown",
+        "hype-debunking",
+        "insider-epistemics",
+        "documented-evidence",
+        "counter-narrative"
+      ]
     }
   },
   "patterns": {
     "most_effective_hook_patterns": [
-      "Historical parallel to lived collective memory → reveal present moment is the same inflection point",
-      "Reassuring first clause + devastating pivot in second clause (fear reframe) — Jensen Huang's 'You won't lose your job to AI, you'll lose it to someone who uses AI' is the canonical 2026 execution",
-      "Show proof first, attach sacrifice backstory second — let the product speak before the person",
+      "Historical parallel to lived collective memory \u2192 reveal present moment is the same inflection point",
+      "Reassuring first clause + devastating pivot in second clause (fear reframe) \u2014 Jensen Huang's 'You won't lose your job to AI, you'll lose it to someone who uses AI' is the canonical 2026 execution",
+      "Show proof first, attach sacrifice backstory second \u2014 let the product speak before the person",
       "Bold specific numerical prediction + 'here's the math most people are ignoring'",
-      "Maximum ambiguity with maximum implied stakes — say the minimum, let the audience fill in the maximum",
+      "Maximum ambiguity with maximum implied stakes \u2014 say the minimum, let the audience fill in the maximum",
       "Name a shared unspoken community frustration with humorous exaggeration",
-      "Lifestyle activity post with embedded dual market signal — plausible deniability makes the signal feel authentic (CZ water-skiing pattern)",
-      "Counter-intuitive bad-news-as-strength reframe — 'our business is strong, that's exactly why we cut 40%' (Dorsey/Block)",
-      "Famous prophecy fulfilled — anchor to a well-known prediction, position your post as the proof document",
-      "Genuine cognitive dissonance that resists clean verdict — both 'genius' and 'zero sense' camps share to argue their position",
-      "Absurdly specific number + impossibly short timeframe — '24 systems in 3 days' triggers both aspiration and outrage simultaneously",
-      "Counter-narrative reversal post 30–60 days after a bold viral claim — inherit original distribution, add credibility as the tracker"
+      "Lifestyle activity post with embedded dual market signal \u2014 plausible deniability makes the signal feel authentic (CZ water-skiing pattern)",
+      "Counter-intuitive bad-news-as-strength reframe \u2014 'our business is strong, that's exactly why we cut 40%' (Dorsey/Block)",
+      "Famous prophecy fulfilled \u2014 anchor to a well-known prediction, position your post as the proof document",
+      "Genuine cognitive dissonance that resists clean verdict \u2014 both 'genius' and 'zero sense' camps share to argue their position",
+      "Absurdly specific number + impossibly short timeframe \u2014 '24 systems in 3 days' triggers both aspiration and outrage simultaneously",
+      "Counter-narrative reversal post 30\u201360 days after a bold viral claim \u2014 inherit original distribution, add credibility as the tracker",
+      "Academic study as perfectly-timed cosmic counter-narrative \u2014 when research lands the same day as a corporate move, share it as if the universe is responding directly",
+      "Unexpected institutional authority validates tribal community belief \u2014 'they called us crazy, the Pentagon just classified it'",
+      "Two-part syllogism: neutral factual observation (Part 1) + devastating verdict on identity betrayal (Part 2) \u2014 no adjectives, no explanation needed",
+      "Visual territorial domination \u2014 film your brand/asset physically dominating a rival's home turf, post without narration",
+      "Corporate language reframe: swap their euphemism for the clinical word that reveals the hidden tradeoff",
+      "Controlled tease from maximum-credibility source \u2014 relay the tease with minimal framing, let community speculation do all the work",
+      "Media credulity exposure: 'major outlet got played' \u2014 document the evidence, use 'played' not 'lied,' timing matters (48\u201372h after viral peak)"
     ],
     "most_effective_formats": [
       "Single tweet (2 sentences or fewer) with a quotable, screenshot-friendly structure",
       "Thread with a bold hook claim + data/math escalation + personal call to action",
       "Single tweet + embedded product demo video (visual proof first, story second)",
-      "Long-form essay native to X (~3000–5000 words) for prestige and longevity",
+      "Long-form essay native to X (~3000\u20135000 words) for prestige and longevity",
       "Before/after image comparison post for participation trends with near-zero friction",
       "Quote-tweet of AI system output framed as a spectator event (AI clapping back at a user)",
-      "Lifestyle tweet with embedded dual signal — short, human, real-world context",
-      "Campaign post + meta-transparency follow-up admitting the ragebait with result numbers"
+      "Lifestyle tweet with embedded dual signal \u2014 short, human, real-world context",
+      "Campaign post + meta-transparency follow-up admitting the ragebait with result numbers",
+      "Video montage of real-world territorial presence \u2014 IRL marketing translated into social content",
+      "Quote-tweet of institutional/congressional clip \u2014 zero commentary needed, let the source's weight carry the post",
+      "Two-part syllogism tweet \u2014 Part 1 neutral fact, Part 2 devastating verdict",
+      "Academic study screenshot + one-sentence framing + timing callout"
     ],
     "most_effective_tones": [
       "Calm urgency + confessional (insider breaking ranks)",
@@ -268,35 +641,53 @@
       "Satirical and self-aware (community-insider humor that makes everyone feel seen)",
       "Calm-prophetic authority (Dorsey-style: measured voice making a sweeping structural prediction)",
       "Genuinely ambivalent / invitation-to-debate (resists clean verdict, forces audience to pick a side)",
-      "Tactically transparent (founder admits the strategy openly, anchors with concrete result numbers)"
+      "Tactically transparent (founder admits the strategy openly, anchors with concrete result numbers)",
+      "Devastatingly dry (two-part syllogism: zero flourish, zero adjectives, let the logic detonate)",
+      "Analytically sharp word-swap (replace company's euphemism with clinical accuracy \u2014 dispassionate precision is the tone)",
+      "Controlled urgency / minimal framing (relay a tease with a single sentence, let silence do the rest)",
+      "Exasperated-but-documented (media takedown: frustrated but never gleeful, always backed by evidence)"
     ],
     "most_effective_triggers": [
-      "Fear reframing — not 'X is scary' but 'X will happen to you unless you act'",
-      "Status anxiety — framing inaction as a competitive loss to peers",
-      "Insider access — 'I live in this world and I'm telling you what they won't say'",
-      "Tribal belonging — in-group coded language that rewards insiders",
-      "Underdog narrative — solo builder / broke founder beats the system",
-      "Participation mechanics — ultra-low-effort trend anyone can join",
-      "Aspirational greed + confirmation bias — bold upside prediction with plausible math",
-      "Outrage engineering — weaponize moral disagreement as free distribution",
-      "Prophecy fulfillment — validation of a belief the audience already held, plus the relief of being right",
-      "Cognitive dissonance — a move or claim with no clean verdict forces resolution-seeking engagement",
-      "Vicarious capability FOMO — 'they built X in 3 days' makes the reader want to replicate it",
-      "Counter-narrative satisfaction — the reversal gives skeptics their 'I told you so' while keeping believers engaged"
+      "Fear reframing \u2014 not 'X is scary' but 'X will happen to you unless you act'",
+      "Status anxiety \u2014 framing inaction as a competitive loss to peers",
+      "Insider access \u2014 'I live in this world and I'm telling you what they won't say'",
+      "Tribal belonging \u2014 in-group coded language that rewards insiders",
+      "Underdog narrative \u2014 solo builder / broke founder beats the system",
+      "Participation mechanics \u2014 ultra-low-effort trend anyone can join",
+      "Aspirational greed + confirmation bias \u2014 bold upside prediction with plausible math",
+      "Outrage engineering \u2014 weaponize moral disagreement as free distribution",
+      "Prophecy fulfillment \u2014 validation of a belief the audience already held, plus the relief of being right",
+      "Cognitive dissonance \u2014 a move or claim with no clean verdict forces resolution-seeking engagement",
+      "Vicarious capability FOMO \u2014 'they built X in 3 days' makes the reader want to replicate it",
+      "Counter-narrative satisfaction \u2014 the reversal gives skeptics their 'I told you so' while keeping believers engaged",
+      "Cosmic irony timing \u2014 research or event that lands the same day as a contradictory corporate move",
+      "Maximum institutional validation \u2014 unexpected authority figure (Defense Secretary, White House) endorsing tribal belief from formal setting",
+      "Community identity betrayal \u2014 naming the moment a beloved movement became its own enemy",
+      "Visual territorial proof \u2014 physical, undeniable evidence of dominance in rival's space",
+      "Euphemism exposure \u2014 replacing a company's positive spin word with the clinical word that reveals the tradeoff",
+      "Anticipation FOMO \u2014 information vacuum from a credible tease sustains engagement longer than a reveal",
+      "Media credulity gap \u2014 proving you have better epistemics than the paper of record"
     ],
     "cross_niche_insights": [
-      "AI and crypto both reward 'insider breaking ranks' framing — audiences in both niches feel they're ahead of the mainstream and reward content that confirms that identity",
-      "The most durable viral posts give language to a feeling the audience already had but couldn't articulate — the post feels like recognition, not new information",
-      "Authority validation (a CEO, investor, or influencer quote-tweeting you) is a more reliable ignition event than your own post — build in public so validation can find you",
+      "AI and crypto both reward 'insider breaking ranks' framing \u2014 audiences in both niches feel they're ahead of the mainstream and reward content that confirms that identity",
+      "The most durable viral posts give language to a feeling the audience already had but couldn't articulate \u2014 the post feels like recognition, not new information",
+      "Authority validation (a CEO, investor, or influencer quote-tweeting you) is a more reliable ignition event than your own post \u2014 build in public so validation can find you",
       "Controversy extends lifespan: every counter-narrative wave adds a second and third wave of reach to the original post",
-      "Specificity drives debate: vague claims are forgettable, specific falsifiable claims invite both believers and skeptics — both groups amplify",
-      "The shorter the post, the more the audience fills in the meaning — for crypto, four words can move a market; for AI, a two-sentence reframe can reshape a career narrative",
-      "Participation trends with near-zero friction (one prompt, one image, share) scale faster than any educational content — lower the barrier to join",
-      "Admitting the ragebait creates a second viral wave — meta-transparency is its own distribution strategy in 2026; pair the confession with a concrete business result or it reads as damage control",
-      "A famous authority's prediction, when fulfilled, doubles as validation for everyone who believed it — prophecy-fulfilled posts are inherently shareable by both the faithful and the curious",
+      "Specificity drives debate: vague claims are forgettable, specific falsifiable claims invite both believers and skeptics \u2014 both groups amplify",
+      "The shorter the post, the more the audience fills in the meaning \u2014 for crypto, four words can move a market; for AI, a two-sentence reframe can reshape a career narrative",
+      "Participation trends with near-zero friction (one prompt, one image, share) scale faster than any educational content \u2014 lower the barrier to join",
+      "Admitting the ragebait creates a second viral wave \u2014 meta-transparency is its own distribution strategy in 2026; pair the confession with a concrete business result or it reads as damage control",
+      "A famous authority's prediction, when fulfilled, doubles as validation for everyone who believed it \u2014 prophecy-fulfilled posts are inherently shareable by both the faithful and the curious",
       "Dual-signal lifestyle posts (real-world activity with hidden market meaning) outperform pure cryptic drops because they feel human and are shareable even by people who miss the hidden layer",
-      "Counter-narrative posts are an underused distribution hack: calendar a follow-up 30–60 days after every bold claim in your space — you inherit the original post's audience and add new value by reporting the actual outcome"
+      "Counter-narrative posts are an underused distribution hack: calendar a follow-up 30\u201360 days after every bold claim in your space \u2014 you inherit the original post's audience and add new value by reporting the actual outcome",
+      "Academic research landing the same day as a controversial corporate move creates 'cosmic irony' \u2014 the community treats the timing as fate, not coincidence, and shares it as proof of the universe confirming their priors",
+      "Unexpected institutional authority (military, government, central banks) validating crypto/AI is more powerful than any internal community cheerleading \u2014 it reframes the community from 'fringe believers' to 'people who were right'",
+      "The two-part syllogism format (neutral fact + devastating verdict) requires the reader to complete the emotional arc themselves \u2014 active emotional investment drives sharing more than passive outrage",
+      "Real-world physical marketing (billboards, ads, signage) is underused as social media content source \u2014 IRL territorial dominance filmed and posted creates tribal pride content that algorithms reward as 'authentic'",
+      "In AI, replacing a company's euphemism ('warmer') with the clinical word ('sycophantic') is the highest-leverage reframe available \u2014 one word swap can make a boring product update announcement into a viral debate",
+      "Controlled information teases from maximum-credibility sources sustain engagement over days; a reveal sustains it for hours \u2014 sometimes withholding is the product",
+      "Mainstream media credulity gaps are a consistent opportunity: when a major outlet runs a too-good-to-be-true AI/tech story, a documented 48\u201372h counter-narrative thread will outperform the original story on a per-follower basis for credible analysts"
     ],
-    "last_updated": "2026-05-01"
+    "last_updated": "2026-05-02"
   }
 }
