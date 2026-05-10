@@ -1083,6 +1083,182 @@
         "demo-proof",
         "research-preview-scarcity"
       ]
+    },
+    "a1f0b2c3-d4e5-4f6a-7b8c-9d0e1f2a3b4c": {
+      "id": "a1f0b2c3-d4e5-4f6a-7b8c-9d0e1f2a3b4c",
+      "date_saved": "2026-05-10",
+      "topic_niche": "AI/crypto",
+      "format": "Single Tweet / News-style thread",
+      "hook_pattern": "Comically mundane attack method + catastrophic outcome — the gap between the weapon and the damage IS the hook",
+      "hook_template": "Someone hid [absurdly simple instruction] inside [ordinary-seeming thing]. [Alarming AI system] read it and [enormous consequence]. No password stolen. No smart contract exploited. Just [the mundane thing].",
+      "psychological_trigger": "Absurdist contrast + security horror + 'this can't be real' dark humor + structural alarm (if it happened once, it will happen again)",
+      "structural_lesson": "Lead with the outcome (what was lost), then reveal the weapon (Morse code in a reply), then explain the mechanism step-by-step. Each step escalates the absurdity. Close with the structural lesson that widens the threat: this is not a bug, it's a class of vulnerability. The gap between 'Morse code tweet' and '$200K drained' is the virality engine — never explain the gap, let the reader feel the absurdity.",
+      "tone": "dark-humor-dry / analytically alarmed",
+      "applicable_niches": [
+        "AI",
+        "crypto",
+        "security",
+        "Web3"
+      ],
+      "tags": [
+        "prompt-injection",
+        "AI-agents",
+        "absurdist-contrast",
+        "security-horror",
+        "crypto-hack",
+        "single-tweet"
+      ]
+    },
+    "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e": {
+      "id": "b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e",
+      "date_saved": "2026-05-10",
+      "topic_niche": "AI/tech",
+      "format": "Single Tweet / Observation post",
+      "hook_pattern": "Identity swap between two rivals — each competitor now sounds like the other, creating maximum cognitive dissonance",
+      "hook_template": "Something strange happened this week. [Brand A] now feels like [Brand B]. [Brand B] now feels like [Brand A]. Nobody knows why. Both sides are confused.",
+      "psychological_trigger": "Cognitive dissonance + identity disruption for power users + contrarianism (the prevailing narrative is wrong) + status signaling (spot the pattern before the crowd)",
+      "structural_lesson": "Name the inversion without editorial. Let the reader experience the cognitive dissonance themselves. Then offer a structural explanation ('compute-starved Opus 4.7 vs hardware-rich GPT-5.5'). End with an open question or verdict that activates both fan camps simultaneously. Do not declare a winner — the debate IS the distribution.",
+      "tone": "genuinely-ambivalent / invitation-to-debate",
+      "applicable_niches": [
+        "AI",
+        "tech"
+      ],
+      "tags": [
+        "model-wars",
+        "contrarianism",
+        "identity-inversion",
+        "cognitive-dissonance",
+        "debate-bait",
+        "single-tweet"
+      ]
+    },
+    "c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7f": {
+      "id": "c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7f",
+      "date_saved": "2026-05-10",
+      "topic_niche": "AI/tech",
+      "format": "Thread / Talk summary post",
+      "hook_pattern": "Credentialed authority kills a term they popularized and replaces it with something more serious — paradigm funeral announcement",
+      "hook_template": "'[Catchy term everyone uses]' was a gateway drug. The real thing is [more serious term]. If your team is still doing [catchy term], you're already a sprint behind.",
+      "psychological_trigger": "Authority-driven FOMO + status anxiety (am I behind?) + framework shift (new mental model that makes old skills feel obsolete) + identity upgrade offer (adopt the new term, upgrade your status)",
+      "structural_lesson": "Anchor to a famous name who coined the original term (Karpathy / 'vibe coding'). Show how they've evolved past it. Define the new paradigm in one sentence. List 3 things that are now considered 'amateur' under the new paradigm. Close with 'your team is doing [old paradigm]. You're already behind.' The authority messenger is critical — this pattern only works if the source has credibility to kill their own coin.",
+      "tone": "calm-prophetic / quietly urgent",
+      "applicable_niches": [
+        "AI",
+        "tech startups",
+        "developer"
+      ],
+      "tags": [
+        "paradigm-shift",
+        "authority-signal",
+        "FOMO",
+        "framework",
+        "Karpathy",
+        "agentic-engineering",
+        "thread"
+      ]
+    },
+    "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a": {
+      "id": "d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a",
+      "date_saved": "2026-05-10",
+      "topic_niche": "crypto/Web3",
+      "format": "Thread / Investigative post",
+      "hook_pattern": "Post-exploit public blame war — two credible parties contradict each other on record, and the data proves one is lying",
+      "hook_template": "[Protocol A] said [Protocol B]'s settings caused the [$ amount] hack. [Protocol B] said [Protocol A] approved those settings. Here's what the on-chain data actually shows.",
+      "psychological_trigger": "Drama + accountability + on-chain truth-seeking + 'who do you trust' tribal activation + educational value (understand how the attack worked to protect yourself)",
+      "structural_lesson": "Open with the size of the loss and the fact of the public contradiction. Present each party's claim verbatim, equally. Then introduce the data that resolves the contradiction. End with the structural lesson (47% of live contracts had the same misconfiguration). The 'who's lying' frame gets the initial shares; the structural implication earns the credibility shares. Never pick a tribe — let the data speak.",
+      "tone": "alarming-but-analytical / court-reporter neutral",
+      "applicable_niches": [
+        "crypto",
+        "Web3",
+        "DeFi",
+        "security"
+      ],
+      "tags": [
+        "DeFi-hack",
+        "bridge-exploit",
+        "blame-war",
+        "on-chain-data",
+        "thread",
+        "accountability",
+        "KelpDAO"
+      ]
+    },
+    "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8a9b": {
+      "id": "e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8a9b",
+      "date_saved": "2026-05-10",
+      "topic_niche": "AI/Web3",
+      "format": "Single Tweet / Data-driven milestone post",
+      "hook_pattern": "Metric milestone as proof of cross-sector talent migration — one number reveals an entire industry trend",
+      "hook_template": "[X] GitHub stars in [Y] weeks. Founded by [Web3 infrastructure veterans]. The talent that built [famous Web3 protocol] is now building AI agents. The best DeFi engineers just became the best AI security engineers.",
+      "psychological_trigger": "FOMO + underdog narrative + cross-sector collision (two audiences excited at once: AI builders and Web3 community) + insider-status signal (know about this before it becomes mainstream)",
+      "structural_lesson": "Lead with the metric milestone that is objectively extraordinary (top 0.0014% of all GitHub projects). Immediately reveal the unexpected pedigree (Web3 MEV infrastructure → AI agents). Draw the cross-sector lesson. End with the emergent narrative this unlocks (Web3 security intuition × AI agent workflows = a new capability class). Posts that unite two audiences double their distribution surface.",
+      "tone": "excited-witness / data-anchored",
+      "applicable_niches": [
+        "AI",
+        "Web3",
+        "open-source",
+        "crypto"
+      ],
+      "tags": [
+        "open-source",
+        "metric-milestone",
+        "cross-sector",
+        "Web3-AI",
+        "talent-migration",
+        "Hermes-agent",
+        "single-tweet"
+      ]
+    },
+    "f6a7b8c9-d0e1-4f2a-3b4c-5d6e7f8a9b0c": {
+      "id": "f6a7b8c9-d0e1-4f2a-3b4c-5d6e7f8a9b0c",
+      "date_saved": "2026-05-10",
+      "topic_niche": "AI/tech",
+      "format": "Thread / Product launch reaction post",
+      "hook_pattern": "Capability convergence milestone — name the exact moment two previously separate AI capabilities merged into one system for the first time",
+      "hook_template": "Today [company] put [Capability A, previously separate] inside [Capability B, previously separate]. One model. Real-time. [Specific impossible-sounding feat it can now do]. This is the moment [use-case category] becomes a software problem, not a hardware problem.",
+      "psychological_trigger": "FOMO + 'we are at an inflection point' urgency + vicarious capability awe + enterprise relevance (specific named companies already deploying) + simplification for non-technical readers",
+      "structural_lesson": "State the convergence first in plain English. Name one thing it can do that was previously impossible. List 3-4 named enterprise deployments to establish credibility (not theoretical — these are live). End with the category-defining implication ('voice interfaces go from novelty to infrastructure'). Named real-world deployments convert announcement posts into credibility posts — never launch without them.",
+      "tone": "authoritative / forward-leaning",
+      "applicable_niches": [
+        "AI",
+        "tech",
+        "enterprise",
+        "developer"
+      ],
+      "tags": [
+        "capability-convergence",
+        "product-launch",
+        "voice-AI",
+        "OpenAI",
+        "enterprise",
+        "inflection-point",
+        "thread"
+      ]
+    },
+    "a7b8c9d0-e1f2-4a3b-4c5d-6e7f8a9b0c1d": {
+      "id": "a7b8c9d0-e1f2-4a3b-4c5d-6e7f8a9b0c1d",
+      "date_saved": "2026-05-10",
+      "topic_niche": "AI/security",
+      "format": "Thread / Pattern-level warning",
+      "hook_pattern": "Scope escalation from incident to pattern — 'not one system, THREE systems' converts a news story into a class-level threat",
+      "hook_template": "Not one AI coding tool leaked your company's secrets this week. Three did. Different companies. Different architectures. Same attack. This is what a vulnerability class looks like when it goes wild.",
+      "psychological_trigger": "Fear escalation (scope is bigger than you thought) + urgency (it's already widespread) + insider knowledge offer (understand the class before your team gets hit) + self-protection motivation",
+      "structural_lesson": "Open with the scope number ('three, not one'). Name each affected system without dwelling on any single one — the pattern is the story, not any individual incident. Define the vulnerability class in plain English (prompt injection via web pages / code comments). End with the actionable implication: 'If your team uses [list of tools] — check your system prompts today.' Scope escalation turns a case study into an alarm bell. The first sentence must make the reader feel they are behind.",
+      "tone": "alarming-but-analytical / actionable",
+      "applicable_niches": [
+        "AI",
+        "security",
+        "developer",
+        "enterprise"
+      ],
+      "tags": [
+        "prompt-injection",
+        "scope-escalation",
+        "security-class",
+        "AI-agents",
+        "developer-warning",
+        "thread"
+      ]
     }
   },
   "patterns": {
@@ -1124,7 +1300,13 @@
       "Challenger ARR leapfrog: two numbers side by side + 'nobody is talking about this' frame — positions reader as holder of insider knowledge the crowd lacks (Anthropic $30B > OpenAI $24B, May 2026)",
       "Vivid institutional insult repurposed as tribal proof: resurrect the most colorful dismissive verb from an institution's past criticism, surface the reversal, let the irony close itself — never say 'I told you so' (Eric Trump 'crapping on bitcoin' / JPMorgan reversal, Consensus Miami 2026)",
       "Paradox prediction with named exceptions: extreme macro bearish claim immediately followed by specific named bullish bets — contradiction is the feature, never resolve it, close with 'which side are you on?' to activate two distinct sharing cohorts (Arthur Hayes '99% altcoins go to zero' + Zcash/Hyperliquid, May 2026)",
-      "Contrarian 'the party IS the danger' institutional alarm: surface a credible institutional warning that the thing everyone is FOMO-ing over is the precise mechanism by which the market ends — counter-FOMO outperforms regular FOMO at narrative peaks (BofA mega-IPO drain warning, May 2026)"
+      "Contrarian 'the party IS the danger' institutional alarm: surface a credible institutional warning that the thing everyone is FOMO-ing over is the precise mechanism by which the market ends — counter-FOMO outperforms regular FOMO at narrative peaks (BofA mega-IPO drain warning, May 2026)",
+      "Identity swap between two rivals: each competitor now sounds like the other — cognitive dissonance without editorial is the hook (Claude/GPT soul swap pattern, May 2026)",
+      "Paradigm funeral from the coiner: credentialed authority kills a term they popularized and replaces it with something more serious — makes entire skill categories feel obsolete overnight (Karpathy 'vibe coding' → 'agentic engineering', May 2026)",
+      "Post-exploit public blame war: two credible parties contradict each other on record, then on-chain data proves one wrong — 'who's lying' frame gets shares, structural implication earns credibility (KelpDAO vs LayerZero, May 2026)",
+      "Metric milestone as cross-sector collision proof: one extraordinary number (top 0.0014% of GitHub) reveals an entire industry trend (Web3 engineers flooding into AI) — unites two audiences simultaneously (Hermes Agent, May 2026)",
+      "Capability convergence milestone: name the exact moment two previously separate AI capabilities merged into one system for the first time — inflection point framing converts product announcements into historical markers (OpenAI GPT-Realtime-2, May 2026)",
+      "Scope escalation from incident to pattern: 'not one system, THREE systems' converts a news story into a vulnerability class — the number is the hook, the class is the credibility (AI coding agents prompt injection wave, May 2026)"
     ],
     "most_effective_formats": [
       "Single tweet (2 sentences or fewer) with a quotable, screenshot-friendly structure",
@@ -1146,7 +1328,10 @@
       "Infographic or timeline chart with two-line framing question — no verdict, full debate triggered by the visual alone",
       "Precision-correction tweet: 'Quick note: [viral headline] is slightly wrong. Here's what actually happened — and it's more interesting.'",
       "Two-quote reversal tweet: verbatim insult quote + verbatim reversal quote + one-line verdict — no commentary, no padding (most compact viral format when the source quotes are extreme enough)",
-      "Visual AI product launch tweet + demo clip: outcome-first framing ('I replaced X hours of work in 2 minutes') + screen recording — feature announcements fail; profession-disruption framings win"
+      "Visual AI product launch tweet + demo clip: outcome-first framing ('I replaced X hours of work in 2 minutes') + screen recording — feature announcements fail; profession-disruption framings win",
+      "Scope-escalation thread: 'not one, THREE' opening + named systems + vulnerability class definition + actionable close — converts individual incidents into pattern-level alarms",
+      "Post-exploit blame war thread: loss amount → Party A's claim verbatim → Party B's claim verbatim → on-chain data verdict → structural lesson — court-reporter format, zero tribal allegiance",
+      "Paradigm-transition post: named authority + killed term + new term + three things that are now 'amateur' under the new paradigm + 'you're already behind' close"
     ],
     "most_effective_tones": [
       "Calm urgency + confessional (insider breaking ranks)",
@@ -1168,7 +1353,10 @@
       "Dark-humor-dry (Morse code hack tone: the absurdity IS the point — treating a $175K theft like a fun puzzle signals confidence and generates engagement from the 'this can't be real' reaction)",
       "Neutral-curious infographic presenter (no advocacy, just the question — two-camp debates generate more total engagement than one-sided takes)",
       "Patient-informative corrector (precision corrections should feel like a helpful colleague, never a teacher — 'quick note' framing preserves the reader's dignity)",
-      "Dry-amused witness (public 180-degree reversal tone: two quotes + one verdict, no emotion — the gap between 'evil' and 'no one set off my evil detector' is funnier the quieter your framing)"
+      "Dry-amused witness (public 180-degree reversal tone: two quotes + one verdict, no emotion — the gap between 'evil' and 'no one set off my evil detector' is funnier the quieter your framing)",
+      "Court-reporter neutral (post-exploit blame war: present both sides verbatim, let data resolve — no team, maximum credibility)",
+      "Quiet paradigm-killer (authority figure killing their own popularized term — the confidence to retire your own coin is the credibility signal)",
+      "Scope-alarm clarity (scope-escalation format: no hysteria, just clean counting — 'not one, THREE' lands harder when the delivery is calm)"
     ],
     "most_effective_triggers": [
       "Fear reframing — not 'X is scary' but 'X will happen to you unless you act'",
@@ -1201,7 +1389,12 @@
       "Public 180-degree reversal recognition — documenting an authority figure's extreme prior insult alongside their complete reversal activates cynical worldview validation ('money beats ideology every time') which generates dark-humor shares across audiences who held either prior position",
       "Insider metric alert — 'nobody is talking about this' framing around a publicly verifiable challenger-beats-incumbent metric makes readers feel they are discovering a paradigm shift before the crowd, driving epistemic-status shares",
       "Vivid-verb resurrection — repurposing an institution's own colorful dismissive language ('crapping on') as the headline of their capitulation generates quotability and screenshot sharing that abstract criticism never could",
-      "Counter-FOMO trigger — warning that the most celebrated event in a space is the late-cycle danger signal generates more alarm-shares than any bear case framing, because it targets people who are currently happy and confident"
+      "Counter-FOMO trigger — warning that the most celebrated event in a space is the late-cycle danger signal generates more alarm-shares than any bear case framing, because it targets people who are currently happy and confident",
+      "Identity inversion recognition — when two rivals seem to swap personalities, readers who follow both share to resolve their own cognitive dissonance",
+      "Paradigm obsolescence fear — a credentialed authority making existing skills feel outdated activates immediate professional status anxiety (Karpathy pattern)",
+      "Blame war tribal activation — when two protocols publicly contradict each other, both communities share to defend their system, doubling the distribution surface",
+      "Cross-sector collision discovery — content that reveals talent/ideas from one established world flooding into another makes both communities feel special simultaneously",
+      "Scope escalation alarm — 'not one, THREE' or 'not one country, five' converts case studies into systemic warnings and activates both fear and epistemic curiosity"
     ],
     "cross_niche_insights": [
       "AI and crypto both reward 'insider breaking ranks' framing — audiences in both niches feel they're ahead of the mainstream and reward content that confirms that identity",
@@ -1235,8 +1428,13 @@
       "The public 180-degree reversal is the most compact viral format when source quotes are extreme enough — Musk calling Anthropic 'evil' then saying 'no one set off my evil detector' needs exactly 40 words and zero commentary. Collect and document extreme public positions in your space; every one is a future reversal post waiting to be written",
       "Business necessity is the most powerful villain in AI/crypto narratives: when a company does the exact opposite of what it publicly stood for (Musk/Anthropic, JPMorgan/Bitcoin), the community is fascinated not by hypocrisy per se but by what the reversal reveals about the underlying economics. Frame the reversal as proof of market forces, not moral failure",
       "Paradox predictions (extreme bearish macro + specific bullish micro names) are systematically underused in crypto compared to pure bull or bear calls — they generate two distinct sharing cohorts simultaneously and create longer comment threads because two camps of asset holders argue past each other without a clean resolution",
-      "The mega-IPO wave (SpaceX, Anthropic, OpenAI, all 2026) is the most consequential macro narrative simultaneously affecting both AI Twitter and crypto Twitter — it creates content opportunities in both spaces around capital flows, valuation compression of existing holdings, and the question of whether these IPOs mark a cycle top"
+      "The mega-IPO wave (SpaceX, Anthropic, OpenAI, all 2026) is the most consequential macro narrative simultaneously affecting both AI Twitter and crypto Twitter — it creates content opportunities in both spaces around capital flows, valuation compression of existing holdings, and the question of whether these IPOs mark a cycle top",
+      "The AI model war (Claude vs GPT) is generating the same tribal loyalty dynamics as the L1 wars (ETH vs SOL) in 2021 — both niches reward identity-inversion posts that force users to question which team they're on",
+      "Web3-to-AI talent migration is the biggest undercovered structural story of May 2026: security engineers who built MEV bots, bridge protocols, and DeFi smart contracts are now the most dangerous AI agent architects — this cross-sector story unites both audiences and has almost zero competition",
+      "Prompt injection is to AI agents in 2026 what reentrancy attacks were to Ethereum smart contracts in 2016-2020: a fundamentally new attack class that most practitioners haven't internalized yet. The window for being the canonical educator on this class is still open — post a 10-tweet thread explaining the class (not just the incidents) and it will compound for months",
+      "Capability convergence milestones (voice + reasoning + translation in one real-time model) are the AI equivalent of DeFi composability announcements — name the specific 'money lego' that just clicked into place and your post functions as the record of a historical moment",
+      "The credentialed authority retiring their own term (Karpathy killing 'vibe coding') is a rare format that AI and crypto creators should both study: the confidence to publicly evolve past your own popular coin generates more authority than doubling down on it ever could"
     ],
-    "last_updated": "2026-05-08"
+    "last_updated": "2026-05-10"
   }
 }
