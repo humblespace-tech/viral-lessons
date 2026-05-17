@@ -2366,6 +2366,195 @@
         "quotable",
         "template"
       ]
+    },
+    "13a7edc7-686e-4fed-850e-f1026276064e": {
+      "id": "13a7edc7-686e-4fed-850e-f1026276064e",
+      "date_saved": "2026-05-17",
+      "topic_niche": "AI",
+      "format": "Single Tweet / Long-Form Essay (~5000 words)",
+      "hook_pattern": "Mass-event historical analogy reframed as personal warning \u2014 'this is bigger than [catastrophe everyone remembers]' spoken to friends and family",
+      "hook_template": "Something big is happening. I've been watching [field] for [X] years. This is bigger than [widely shared crisis]. Here's what everyone I care about needs to understand before it's too late.",
+      "psychological_trigger": "Epistemic urgency + identity threat (your job will be automated) + parasocial duty (warning loved ones not strangers)",
+      "structural_lesson": "Open with catastrophic scope comparison to a lived collective trauma. Establish insider credibility in one sentence. Escalate with specific model names and capability milestones as receipts. Insert personal confession mid-essay to break reader detachment. Close with 'prepare, don't panic' call \u2014 not nihilism but agency.",
+      "tone": "breathless but lucid, confessional, insider-warning",
+      "applicable_niches": [
+        "AI",
+        "tech",
+        "future of work"
+      ],
+      "tags": [
+        "mass-event-analogy",
+        "long-form",
+        "jobs-disruption",
+        "personal-warning",
+        "existential"
+      ]
+    },
+    "933f2ec2-c8ce-41b2-9e6e-e2a9cd6a2856": {
+      "id": "933f2ec2-c8ce-41b2-9e6e-e2a9cd6a2856",
+      "date_saved": "2026-05-17",
+      "topic_niche": "AI",
+      "format": "Single Tweet (quote capture / clip reference)",
+      "hook_pattern": "Bold declarative claim from high-credibility authority \u2014 one sentence that resets the entire debate",
+      "hook_template": "[Authority figure] just said '[impossibly bold claim].' They're right about the wrong thing. Here's why that still changes everything.",
+      "psychological_trigger": "Credibility collision + tribal identity (AI believers vs. skeptics) + debate bait (unclear definition invites everyone to weigh in)",
+      "structural_lesson": "Lead with the authority's exact quote \u2014 let the claim land without commentary. Then add one sentence of gentle skepticism or nuance to signal you're adding value not just amplifying. Leave the core question open. The ambiguity of the definition IS the engagement engine \u2014 everyone has an opinion on what AGI means.",
+      "tone": "measured awe with analytical skepticism",
+      "applicable_niches": [
+        "AI",
+        "tech",
+        "philosophy of mind"
+      ],
+      "tags": [
+        "authority-quote",
+        "debate-bait",
+        "AGI",
+        "single-tweet",
+        "definitional-ambiguity"
+      ]
+    },
+    "27eee0ce-9a71-41ad-a554-b1495ad83024": {
+      "id": "27eee0ce-9a71-41ad-a554-b1495ad83024",
+      "date_saved": "2026-05-17",
+      "topic_niche": "AI",
+      "format": "Single Tweet + link to interactive visual",
+      "hook_pattern": "Data-driven analysis that inverts conventional wisdom \u2014 the group you assumed was safe is the most exposed",
+      "hook_template": "I analyzed [large dataset: N things]. The result shocked me. [Counterintuitive finding]: [specific metric that flips expectations]. Here's the full breakdown.",
+      "psychological_trigger": "Curiosity gap + identity threat (you specifically, not 'workers in general') + high-credibility author signal (methodological transparency)",
+      "structural_lesson": "Open with methodology in plain language ('I vibe-coded a scoring system against BLS data') \u2014 transparency signals honesty. Lead with the counterintuitive key finding immediately. Provide granular tier-by-tier breakdown. End with a data visualization. The deletion of the post added a second viral wave \u2014 controversy around the artifact extended its life.",
+      "tone": "dry, methodological, matter-of-fact understatement",
+      "applicable_niches": [
+        "AI",
+        "future of work",
+        "economics"
+      ],
+      "tags": [
+        "data-visualization",
+        "counterintuitive-finding",
+        "jobs-exposure",
+        "high-credibility-author",
+        "deletion-amplification"
+      ]
+    },
+    "d1b9d5cd-294f-4626-83c2-48c9573a48c6": {
+      "id": "d1b9d5cd-294f-4626-83c2-48c9573a48c6",
+      "date_saved": "2026-05-17",
+      "topic_niche": "AI/tech startups",
+      "format": "Reaction Tweet / Quote Tweet",
+      "hook_pattern": "Blunt executive quote + ironic counterpoint from the supposed victims \u2014 two-sided narrative in one post",
+      "hook_template": "CEO says '[blunt thing about your future].' Meanwhile, [percentage]% of [affected group] are [surprising counterintuitive behavior]. The people who should be most scared are fighting back \u2014 and accidentally making things worse for themselves.",
+      "psychological_trigger": "Identity threat + tribal conflict (executives vs. workers, old vs. young) + ironic reversal (saboteurs sabotage themselves)",
+      "structural_lesson": "Stack the executive's provocative quote first \u2014 let it provoke. Then pivot to the data about the opposing behavior. The ironic reversal (sabotage harms the saboteurs) is what makes it shareable across both sides. Both camps forward it: executives feel validated, workers feel seen in their rebellion. Structure: quote \u2192 counterpoint data \u2192 ironic inversion \u2192 implication.",
+      "tone": "dry/humorous, slightly incredulous, journalistic",
+      "applicable_niches": [
+        "AI",
+        "tech",
+        "workforce",
+        "Gen Z"
+      ],
+      "tags": [
+        "ironic-reversal",
+        "two-sided-narrative",
+        "quote-reaction",
+        "identity-threat",
+        "generational-conflict"
+      ]
+    },
+    "01d6c9c7-b26a-4f65-a161-b2de3d4781ad": {
+      "id": "01d6c9c7-b26a-4f65-a161-b2de3d4781ad",
+      "date_saved": "2026-05-17",
+      "topic_niche": "AI",
+      "format": "Tweet + Video",
+      "hook_pattern": "Unexpected high-profile protagonist (non-tech figure) extracts a shocking admission from AI \u2014 the format becomes the story",
+      "hook_template": "[Unexpected non-tech figure] asked [AI system] the question everyone is afraid to ask. What it said should shock you. [Video/screenshot of answer]",
+      "psychological_trigger": "Surprise contrast (politician + AI = unexpected pair) + epistemic fear + parasocial trust (if even this person is alarmed, I should be too)",
+      "structural_lesson": "The engagement driver is the unexpected combination \u2014 not just the AI's answer, but who is asking. The AI's candid-sounding response triggers more alarm coming from a senator than from a tech journalist. Format: introduce the unexpected interviewer \u2192 surface the AI's alarming-sounding answer \u2192 imply systemic concern. Note: the AI was agreeing with leading questions, not confessing hidden knowledge \u2014 but the format made it appear revelatory.",
+      "tone": "alarmed, earnest, slightly theatrical",
+      "applicable_niches": [
+        "AI",
+        "privacy",
+        "policy",
+        "tech"
+      ],
+      "tags": [
+        "unexpected-protagonist",
+        "AI-confession",
+        "video-format",
+        "political-framing",
+        "fear-of-surveillance"
+      ]
+    },
+    "f180b04c-6029-4bab-82ea-dc6760f9762a": {
+      "id": "f180b04c-6029-4bab-82ea-dc6760f9762a",
+      "date_saved": "2026-05-17",
+      "topic_niche": "crypto/Web3",
+      "format": "Single Tweet (stacked catalyst list)",
+      "hook_pattern": "Convergence of simultaneous bullish catalysts listed in rapid-fire format \u2014 the stacking effect creates more force than any single catalyst alone",
+      "hook_template": "Today: [Catalyst 1]. Also today: [Catalyst 2]. Oh, and [Catalyst 3]. [Asset] is doing exactly what you'd expect.",
+      "psychological_trigger": "FOMO + institutional social proof + pattern recognition (this is a real inflection, not noise)",
+      "structural_lesson": "List 3+ simultaneous bullish signals in a staccato rhythm \u2014 brevity makes each hit harder. The casual 'Also today:' creates an 'oh by the way' energy that signals you're underplaying something significant. End with the price or volume behavior as confirmation. Do not editorialize \u2014 let the convergence speak. Works especially well when catalysts come from different sources (institutional, protocol-level, exchange-level) because it signals multi-directional validation.",
+      "tone": "calm, matter-of-fact, slightly smug (I told you so energy without saying it)",
+      "applicable_niches": [
+        "crypto",
+        "DeFi",
+        "trading",
+        "Web3"
+      ],
+      "tags": [
+        "catalyst-stacking",
+        "FOMO",
+        "institutional-validation",
+        "staccato-list",
+        "single-tweet"
+      ]
+    },
+    "676f8c29-c2b5-468c-add2-baffc9751a69": {
+      "id": "676f8c29-c2b5-468c-add2-baffc9751a69",
+      "date_saved": "2026-05-17",
+      "topic_niche": "crypto/Web3/DeFi",
+      "format": "Thread (explainer / accountability breakdown)",
+      "hook_pattern": "Security catastrophe + public institutional blame-shift ending in admission \u2014 accountability drama across multiple acts",
+      "hook_template": "They said it was [Party A]'s fault. Then [Party B] admitted they 'made a mistake.' $[X]M lost. Gone. Here's exactly what happened \u2014 and why it will happen again.",
+      "psychological_trigger": "Outrage + curiosity gap + trust crisis (who do you blame?) + fear of vulnerability (could my money be next?)",
+      "structural_lesson": "Open with the blame-shift narrative \u2014 the institutional finger-pointing is more engaging than the hack itself. Reveal the admission as the plot twist. Then walk through the technical mechanism step-by-step in plain language (no jargon walls). End with the systemic lesson: this isn't a bug, it's an architectural choice. The 'it will happen again' close is critical \u2014 it transforms a news story into an ongoing threat, which keeps readers subscribed for future updates.",
+      "tone": "investigative, controlled outrage, technically precise",
+      "applicable_niches": [
+        "crypto",
+        "DeFi",
+        "Web3",
+        "security"
+      ],
+      "tags": [
+        "accountability-drama",
+        "hack-explainer",
+        "blame-shift",
+        "trust-crisis",
+        "fear-of-vulnerability"
+      ]
+    },
+    "8fdbad85-0952-42e5-bf4f-e9325fee7336": {
+      "id": "8fdbad85-0952-42e5-bf4f-e9325fee7336",
+      "date_saved": "2026-05-17",
+      "topic_niche": "AI/tech",
+      "format": "Single Tweet",
+      "hook_pattern": "Exponential metric compressed into a time-comparison with an untouchable benchmark \u2014 the compression is the point",
+      "hook_template": "[New thing] just did in [impossibly short timeframe] what [beloved institution] took [long timeframe] to accomplish.",
+      "psychological_trigger": "Awe + FOMO + pattern recognition (exponential curves feel different from linear) + competitive tribalism (new vs. established)",
+      "structural_lesson": "The hook is entirely self-contained \u2014 one sentence is the full tweet and it works. The compression ratio (60 days vs. a decade) does all the emotional work. No need to explain what the thing is first \u2014 let curiosity drive the click. This format works best when the benchmark is universally known and respected (React, Bitcoin, etc.) and when the time compression is at least 10x. Secondary viral wave comes from people debating whether the comparison is fair.",
+      "tone": "understated awe, matter-of-fact, no exclamation points",
+      "applicable_niches": [
+        "AI",
+        "open source",
+        "tech",
+        "developer community"
+      ],
+      "tags": [
+        "metric-compression",
+        "benchmark-comparison",
+        "awe-trigger",
+        "one-liner",
+        "debate-bait"
+      ]
     }
   },
   "patterns": {
@@ -2379,7 +2568,15 @@
       "Unexplained symbol/meme that floods a niche \u2192 insiders share to belong, outsiders share to ask",
       "Brand analogy hierarchy (Coke vs RC Cola) to make abstract tech comparisons visceral",
       "Bold resource claim: 'complete [X] stack and every tool is FREE'",
-      "Understatement of existential fact: 'Nothing in this video is real'"
+      "Understatement of existential fact: 'Nothing in this video is real'",
+      "Mass-event historical analogy reframed as personal warning \u2014 'bigger than [catastrophe everyone knows]'",
+      "Bold declarative claim from high-credibility authority \u2014 one sentence that resets the entire debate",
+      "Data inverts conventional wisdom \u2014 the group assumed safe is most exposed",
+      "Two-sided narrative: provocative executive quote + ironic counterpoint from supposed victims",
+      "Unexpected protagonist (politician/celebrity) extracts shocking AI admission \u2014 the messenger is the story",
+      "Catalyst stacking: 3+ simultaneous bullish signals in rapid-fire list format",
+      "Accountability drama: public blame-shift ending in institutional admission of fault",
+      "Metric compression: '[New thing] did in [days] what [beloved institution] took [decade] to accomplish'"
     ],
     "most_effective_formats": [
       "Single punchy tweet (one-liner or short confession) \u2014 highest ceiling for virality",
@@ -2388,7 +2585,10 @@
       "Breaking news thread with step-by-step mechanism breakdown",
       "Resource list tweet (tool stack, free tools) \u2014 generates debate replies that boost algorithm",
       "Essay summary tweet + link \u2014 contrarian counter-narratives spread via this format",
-      "Community meme + underlying technical substance (meme as wrapper, depth as retention)"
+      "Community meme + underlying technical substance (meme as wrapper, depth as retention)",
+      "Long-form essay as single 'tweet' (threaded or linked) \u2014 5000-word personal warnings now routinely hit 20M+ views",
+      "Tweet + video (unexpected figure confronting AI) \u2014 the video is the proof, the tweet sets the frame",
+      "Stacked catalyst list (3 line items + asset performance) \u2014 brevity creates impact disproportionate to length"
     ],
     "most_effective_tones": [
       "Calm contrarian \u2014 making a bold anti-consensus claim without emotional heat",
@@ -2397,7 +2597,10 @@
       "Authoritative-yet-accessible \u2014 expert voice translated into plain language",
       "Measured awe \u2014 factual but slightly amazed, as if witnessing history",
       "Dry/humorous \u2014 one-line wit that becomes quotable",
-      "Urgent-but-analytical \u2014 alarmed without panic, breaking news tone"
+      "Urgent-but-analytical \u2014 alarmed without panic, breaking news tone",
+      "Breathless insider warning \u2014 escalating urgency framed as duty to warn loved ones",
+      "Investigative accountability \u2014 controlled outrage with technical precision",
+      "Understated awe \u2014 no exclamation points, the numbers speak"
     ],
     "most_effective_triggers": [
       "Identity threat \u2014 challenging a belief or tool practitioners have already adopted",
@@ -2408,7 +2611,12 @@
       "Fear of vulnerability \u2014 security threats, drainable wallets, hidden attack vectors",
       "Utility/actionability \u2014 concrete free tools or stacks readers can immediately use",
       "Competitive tribalism \u2014 brand analogies that invite people to pick a side",
-      "Debate bait \u2014 opinionated lists or claims specific enough to be arguable"
+      "Debate bait \u2014 opinionated lists or claims specific enough to be arguable",
+      "Epistemic urgency \u2014 'this is already happening and most people don't know it yet'",
+      "Ironic reversal \u2014 the supposed victims are accidentally making their situation worse",
+      "Institutional accountability \u2014 public blame-shift followed by admission of fault",
+      "Metric compression awe \u2014 exponential growth that defies intuition about timescales",
+      "Catalyst convergence FOMO \u2014 multiple simultaneous signals that add up to an inflection point"
     ],
     "cross_niche_insights": [
       "AI \u00d7 crypto convergence is the dominant narrative of Q2 2026 \u2014 posts bridging both worlds outperform single-niche content by a wide margin",
@@ -2420,8 +2628,13 @@
       "Text-first content outperforms video by 30% on X in 2026, but tweet + video demo is the highest-ceiling format when the video itself is the proof",
       "Security incident threads (hack breakdowns, exploit explanations) consistently spread across both AI and crypto audiences because fear is a universal engagement driver",
       "Short one-liners that become quotable templates (brand analogy format) generate secondary viral waves as others remix and apply the template",
-      "Threads of 8-12 tweets with relevant images see 40% higher completion rates \u2014 the sweet spot between short-form punch and long-form depth"
+      "Threads of 8-12 tweets with relevant images see 40% higher completion rates \u2014 the sweet spot between short-form punch and long-form depth",
+      "Deletion amplifies: posts deleted after going viral receive a second wave \u2014 the controversy around the artifact extends its life beyond the original post",
+      "The 'unexpected protagonist' effect: non-tech figures (politicians, celebrities) engaging with AI technology generate disproportionate cross-audience reach by bringing their existing audiences into tech conversations",
+      "Catalyst stacking is outperforming single-catalyst announcement posts in crypto \u2014 listing 3+ simultaneous signals in rapid-fire format signals inflection points more credibly than any individual catalyst",
+      "The AI jobs conversation has split into two viral lanes in 2026: (1) insider warnings with long-form essays hitting 20M+ views, and (2) data visualizations that score specific jobs \u2014 both require counterintuitive findings to go viral",
+      "Institutional accountability dramas (blame-shift + admission) are a reliable viral template in DeFi \u2014 the multi-act structure (accusation \u2192 finger-pointing \u2192 admission) creates sustained engagement over days, not hours"
     ],
-    "last_updated": "2026-05-16"
+    "last_updated": "2026-05-17"
   }
 }
