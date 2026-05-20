@@ -2956,6 +2956,215 @@
         "collective-blame",
         "single-tweet"
       ]
+    },
+    "2d3e4f50-6a7b-4c8d-9e0f-1a2b3c4d5e6f": {
+      "id": "2d3e4f50-6a7b-4c8d-9e0f-1a2b3c4d5e6f",
+      "date_saved": "2026-05-20",
+      "topic_niche": "AI/tech",
+      "format": "Single Tweet (consent-copy indictment)",
+      "hook_pattern": "An AI agent's own onboarding consent language explicitly admits autonomous financial or data action — screenshot the exact verbatim line, share it without commentary, let the company's own words be the indictment",
+      "hook_template": "[AI agent] launched today. Their own onboarding screen reads: '[verbatim consent copy admitting alarming autonomous action].' Not a critic's interpretation. Not a journalist's paraphrase. Their exact words.",
+      "psychological_trigger": "Privacy alarm + consent theater exposure + retroactive alarm ('I signed up for this?') + two-camp engagement: early adopters alarmed by what they opted into AND critics who share it as 'told you so' — both camps spread from opposite motivations",
+      "structural_lesson": "Gemini Spark's launch (Google I/O, May 19, 2026) generated its most viral moment not from the feature announcement but from the leaked onboarding screen reading 'may do things like share your info or make purchases without asking.' The TestingCatalog thread hit 1,700+ likes in 24 hours because: (1) the language is the company's own — no interpretation or spin required; (2) 'without asking' converts an agentic capability claim into a permission violation admission; (3) Google had not published a Spark-specific privacy policy at launch, making the consent screen the only official document. Formula: quote the verbatim line with no punctuation changes. Don't frame it as 'alarming' — the phrase 'without asking' does all the work. End with one sentence clarifying this is the official onboarding text, not a critic's paraphrase. The absence of editorializing IS the editorial.",
+      "tone": "deadpan / source-document-speaks / zero editorializing",
+      "applicable_niches": [
+        "AI",
+        "tech",
+        "consumer tech",
+        "privacy",
+        "AI agents"
+      ],
+      "tags": [
+        "consent-copy-indictment",
+        "AI-agent",
+        "verbatim-admission",
+        "privacy-alarm",
+        "deadpan",
+        "Gemini-Spark"
+      ]
+    },
+    "3e4f5061-7b8c-4d9e-0f1a-2b3c4d5e6f7a": {
+      "id": "3e4f5061-7b8c-4d9e-0f1a-2b3c4d5e6f7a",
+      "date_saved": "2026-05-20",
+      "topic_niche": "AI/tech",
+      "format": "Single Tweet (regime-change framing for dominant platform upgrade)",
+      "hook_pattern": "When the world's dominant platform announces 'the biggest upgrade in [many] years,' frame it not as a product improvement but as a ground-shift that invalidates all existing strategies built on the old version — the implications-first frame always outperforms the feature-list frame",
+      "hook_template": "[Company] just called this the biggest upgrade to [dominant product] in [N] years. That's not a press release. It means every [business / strategy / workflow] optimized for the old [product] is now miscalibrated. Here's the specific thing that changed.",
+      "psychological_trigger": "Urgency + FOMO + professional identity threat ('my expertise just got recalibrated') + 'first to understand the implication' status signal — the incumbent users of a dominant platform are the largest possible audience, and they all take the announcement personally",
+      "structural_lesson": "Google's announcement that I/O 2026 Search gets 'the biggest upgrade in nearly 30 years' — multimodal input, AI-powered conversational mode, Gemini 3.5 Flash as default globally — is a deliberate escalation of stakes. The '30 years' number references the 1995-era paradigm Google itself displaced. Three-part structure: (1) surface the company's own framing verbatim ('they called it their biggest in 30 years'); (2) name what the old paradigm was and why everything built around it needs rethinking; (3) name two or three specific professions or industries affected (SEO practitioners, content marketers, developers). The regime-change framing outperforms the feature-list framing because it tells the audience what they now need to DO differently, not just what the product CAN do. Works for any dominant-platform upgrade that claims historical magnitude.",
+      "tone": "authoritative-urgency / implications-first / paradigm-declaring",
+      "applicable_niches": [
+        "AI",
+        "tech",
+        "SEO",
+        "developer tools",
+        "SaaS"
+      ],
+      "tags": [
+        "regime-change-framing",
+        "platform-upgrade",
+        "Google-Search",
+        "Google-IO-2026",
+        "implications-first",
+        "single-tweet"
+      ]
+    },
+    "4f506172-8c9d-4e0f-1a2b-3c4d5e6f7a8b": {
+      "id": "4f506172-8c9d-4e0f-1a2b-3c4d5e6f7a8b",
+      "date_saved": "2026-05-20",
+      "topic_niche": "AI/tech",
+      "format": "Single Tweet (triple-data deadpan contradiction)",
+      "hook_pattern": "Stack three simultaneous facts from one company in the same quarter — record-high revenue + mass layoffs + largest-ever AI capex commitment — in bullet format with no commentary; the third data point resolves the moral ambiguity of the first two",
+      "hook_template": "[Company] this quarter:\n→ Highest revenue in company history: $[X]B\n→ [N],000 workers cut\n→ $[Y]B committed to AI infrastructure\n\nThe old logic doesn't apply anymore.",
+      "psychological_trigger": "Moral-economic cognitive dissonance escalated by the third data point — 'record revenue + layoffs' is jarring; 'record revenue + layoffs + AI capex' is existentially alarming because the capex explains the layoffs in a way that removes any ambiguity about intentionality",
+      "structural_lesson": "Meta's May 20, 2026 announcements — record $56.31B quarterly revenue, 8,000 layoffs, and AI infrastructure spending raised to $145B — created a three-data-point moral dissonance that surpasses the standard two-item contradiction formula. The third data point (AI capex) is the structural upgrade: it converts 'company cuts workers despite record profit' (cynical but explainable) into 'company is explicitly replacing workers with AI while posting its best results ever' (implies permanence and design). Post within the first two hours of earnings/layoff news for maximum first-mover effect. Three-line bullet format is more viral than prose because each bullet hits independently before cumulative dissonance lands. Close with one declarative verdict ('The old logic doesn't apply anymore') — not a question, not a lament. Certainty generates more engagement than uncertainty in moral-dissonance posts.",
+      "tone": "deadpan / zero editorializing / verdict energy",
+      "applicable_niches": [
+        "AI",
+        "tech",
+        "labor",
+        "macro",
+        "future of work"
+      ],
+      "tags": [
+        "triple-data-contradiction",
+        "moral-dissonance",
+        "layoffs",
+        "AI-capex",
+        "Meta",
+        "record-revenue",
+        "deadpan"
+      ]
+    },
+    "50617283-9d0e-4f1a-2b3c-4d5e6f7a8b9c": {
+      "id": "50617283-9d0e-4f1a-2b3c-4d5e6f7a8b9c",
+      "date_saved": "2026-05-20",
+      "topic_niche": "AI/tech",
+      "format": "Single Tweet (open-source vindication framing at Big Tech keynote)",
+      "hook_pattern": "When a Big Tech giant explicitly names an open-source product as its primary rival at a major keynote, frame it as the open-source project's maximum validation moment — the establishment naming you means you already won the narrative",
+      "hook_template": "Google just built a product specifically to replace [open-source project]. Named it directly. At their biggest keynote of the year. When a $[X]T company stops pretending a challenger doesn't exist and starts building against it, the challenger already won the narrative. Congrats [open-source project].",
+      "psychological_trigger": "Open-source tribal pride + 'David vs. Goliath' underdog vindication + FOMO for anyone not yet in the open-source ecosystem that just got named by the establishment + tribal engagement from both camps: open-source advocates share it as a win; Big Tech watchers share it as a warning",
+      "structural_lesson": "Google launching Gemini Spark explicitly as a rival to OpenClaw and Hermes at Google I/O 2026 — naming competing open-source agents in its own launch narrative — created an unusual viral dynamic: the open-source community shared it as a victory ('they had to acknowledge us') while Big Tech observers shared it as a strategic threat ('Google is officially entering the open-source agent market'). Key mechanics: (1) when a trillion-dollar company names an open-source project as a threat at their flagship keynote, the naming is more valuable PR than any independent announcement the project could make; (2) the open-source community interprets being named as proof of relevance, not danger; (3) the corporate attack becomes the open-source project's best marketing. Formula: frame Big Tech's competitive move as Big Tech's concession. The phrase 'when [X] stops pretending you don't exist' is the structural engine — it reframes the attack as acknowledgment.",
+      "tone": "understated community pride / wry calm contrarian / slightly amused",
+      "applicable_niches": [
+        "AI",
+        "tech",
+        "open-source",
+        "developer tools",
+        "AI agents"
+      ],
+      "tags": [
+        "open-source-vindication",
+        "naming-as-concession",
+        "Google-IO-2026",
+        "Gemini-Spark",
+        "underdog-acknowledgment",
+        "single-tweet"
+      ]
+    },
+    "61728394-0e1f-4a2b-3c4d-5e6f7a8b9c0d": {
+      "id": "61728394-0e1f-4a2b-3c4d-5e6f7a8b9c0d",
+      "date_saved": "2026-05-20",
+      "topic_niche": "AI/tech",
+      "format": "Single Tweet or short thread (institutional-setting context for authority narrative reversal)",
+      "hook_pattern": "Surface the institutional setting where an authority figure reversed their most-quoted prediction — who they were seated beside when they changed their mind is the story, not the updated view itself",
+      "hook_template": "[Authority] spent [X years] publicly warning that [alarming claim about the future]. Last week, seated beside [institutional partner] for the first time, they embraced [opposite framework]. The content of the new view is interesting. The stage design is the real story.",
+      "psychological_trigger": "Institutional cynicism + credibility scrutiny + identity threat for people who acted on the original prediction + validation for those who always doubted it + 'the message changed when the messenger needed a new audience' pattern recognition — both skeptics and former believers share it from opposite emotional positions",
+      "structural_lesson": "Dario Amodei's pivot from '50% of white-collar jobs eliminated' to Jevons Paradox ('automation creates more work') generated sustained discussion not because the view changed, but because the setting was Anthropic's first major press briefing alongside JPMorgan Chase CEO Jamie Dimon. The world's most prominent AI safety CEO issuing growth-economics optimism while seated beside the head of the world's largest bank made the institutional setting legible as a possible explanation for the shift. Formula: (1) state the original prediction verbatim with its most widely-circulated phrasing; (2) name the new venue and the new co-presenter explicitly; (3) quote the new framework; (4) deliver one sentence that makes the institutional setting legible as context — not 'he sold out,' but 'the audience shifted, so the framing did.' Leave the conclusion open. Whether this is genuine intellectual updating or narrative accommodation is for the reader to decide — that unresolved question is the engagement engine.",
+      "tone": "analytically skeptical / institutional-context-aware / inviting both interpretations",
+      "applicable_niches": [
+        "AI",
+        "tech",
+        "future of work",
+        "labor economics"
+      ],
+      "tags": [
+        "narrative-reversal",
+        "institutional-setting-context",
+        "Amodei",
+        "Jevons-paradox",
+        "authority-credibility-scrutiny",
+        "single-tweet"
+      ]
+    },
+    "72839405-1f2a-4b3c-4d5e-6f7a8b9c0d1e": {
+      "id": "72839405-1f2a-4b3c-4d5e-6f7a8b9c0d1e",
+      "date_saved": "2026-05-20",
+      "topic_niche": "AI/tech",
+      "format": "Single Tweet (dominant-playbook empirical failure at peak adoption)",
+      "hook_pattern": "When data shows that the dominant corporate playbook no longer produces the expected outcome, surface it as a 'playbook expiration' event — name who wrote it, name who followed it, name what the data shows — timed for maximum impact at the exact moment most companies are about to copy it",
+      "hook_template": "For [timeframe], companies announced AI layoffs and watched their stock climb. New data from [credible source]: that's no longer reliable. [N] S&P 500 companies tried it. Results: [specific underperformance]. [Expert institution] says some are 'dressing up layoffs.' The playbook just expired.",
+      "psychological_trigger": "Counter-narrative satisfaction + identity validation for workers who survived the playbook + investment recalibration signal (companies pricing in a formula that stopped working are mispriced) + corporate accountability + 'I called this' sharing from anyone who always doubted the AI-layoffs-equal-stock-gains thesis",
+      "structural_lesson": "CNBC's May 2026 analysis of 23 S&P 500 companies that announced AI-driven layoffs — finding that AI-attributed layoffs did not reliably produce stock price gains, backed by Oxford Economics suspecting companies were 'dressing up layoffs as good news' — is the empirical refutation of a dominant 2025-2026 corporate strategy. This type of post is maximally viral at the exact moment the playbook is most widely being copied: other companies are watching Meta's May 20 layoffs and planning their own. The post arrives as a warning to both copycats and to investors who priced in the narrative. Structure: (1) name the playbook and when it emerged; (2) cite the source and sample size with specificity (CNBC, 23 S&P 500 companies — numbers = credibility); (3) quote Oxford Economics' 'dressing up' language verbatim — it is more memorable than any paraphrase; (4) deliver 'the playbook expired' as a verdict, not a question. The more companies currently executing this playbook in the same news cycle, the more viral the refutation.",
+      "tone": "analytically precise / counter-narrative / data-anchored",
+      "applicable_niches": [
+        "AI",
+        "tech",
+        "investing",
+        "labor",
+        "SaaS"
+      ],
+      "tags": [
+        "playbook-expiration",
+        "counter-narrative",
+        "AI-layoffs",
+        "stock-price-myth",
+        "empirical-refutation",
+        "single-tweet"
+      ]
+    },
+    "83940516-2a3b-4c4d-5e6f-7a8b9c0d1e2f": {
+      "id": "83940516-2a3b-4c4d-5e6f-7a8b9c0d1e2f",
+      "date_saved": "2026-05-20",
+      "topic_niche": "AI/tech",
+      "format": "Single Tweet (third-party consent gap — always-on AI wearables)",
+      "hook_pattern": "Frame an always-on AI wearable not from the wearer's privacy perspective but from the perspective of every person in the wearer's vicinity who has not consented to being heard — the unconsenting third party is the viral angle, not the wearer",
+      "hook_template": "Google launched AI glasses that give 'all-day Gemini access' spoken privately into the wearer's ear. The consent form went to the person wearing them. The AI is listening to everyone in the room. The glasses are for the owner. The ambient audio is everyone else's.",
+      "psychological_trigger": "Third-party privacy alarm ('I didn't consent but I'm being heard') + 'technology is outpacing consent frameworks' urgency + visceral embodied reality ('someone near me RIGHT NOW could be wearing these') + identity threat for both AI enthusiasts (undermines adoption) and privacy skeptics (validates every concern)",
+      "structural_lesson": "Google/Samsung's Android XR glasses (Google I/O 2026) — all-day Gemini access, responses privately spoken into the wearer's ear, launching Fall 2026 — triggered a new class of privacy debate that smartphones never fully surfaced: the consent gap between the wearer and everyone in their vicinity. Unlike phone AI (you can see the phone), smart glasses with AI look like regular eyewear — making ambient recording invisible. The most viral posts addressed not what the wearer agreed to, but what the people AROUND the wearer agreed to. Structure: (1) state the product's user-facing benefit in the company's own language; (2) pivot to the unconsenting third party in a single sentence; (3) deliver a structural observation about consent frameworks — not a solution, but a named gap. The post does not need to cite any specific policy. 'Tech consent frameworks were designed for the user, not for the people near the user' is a new category of privacy critique applicable to all always-on AI wearables — a durable content theme for all of 2026.",
+      "tone": "measured alarm / precisely observational / consent-framework-level critique",
+      "applicable_niches": [
+        "AI",
+        "tech",
+        "privacy",
+        "consumer tech",
+        "wearables"
+      ],
+      "tags": [
+        "third-party-consent-gap",
+        "AI-wearables",
+        "ambient-AI",
+        "always-on",
+        "privacy-framework",
+        "Android-XR",
+        "single-tweet"
+      ]
+    },
+    "94051627-3b4c-4d5e-6f7a-8b9c0d1e2f3a": {
+      "id": "94051627-3b4c-4d5e-6f7a-8b9c0d1e2f3a",
+      "date_saved": "2026-05-20",
+      "topic_niche": "crypto/Web3",
+      "format": "Single Tweet (dual-purpose data point — one number, two tribally opposite uses)",
+      "hook_pattern": "Surface a specific official dollar figure from an institutional setting that both sides of a political debate are actively using as their primary argument — name the number, name both camps using it, and observe the symmetry without resolving it",
+      "hook_template": "Senator [Name] named one number in the committee vote: $[X] in crypto gains by government officials and their families.\n\nCrypto holders are sharing it as proof of political obstruction.\nCritics are sharing it as proof the bill is compromised.\n\nSame number. Opposite conclusions. That's the most viral kind of data point.",
+      "psychological_trigger": "Dual-audience activation + political tribalism across two simultaneously opposite camps + the meta-observation ('same number, opposite conclusions') rewards the reader's analytical sophistication while generating shares from both camps who want to deploy the number in their own arguments",
+      "structural_lesson": "Senator Elizabeth Warren's '$1.4 billion in crypto gains by government officials' attack line during the CLARITY Act Senate Banking Committee vote (May 14, 2026) is a textbook dual-purpose data point: simultaneously the most effective argument FOR blocking the bill (officials have financial interest in crypto-friendly regulation) AND the most effective argument AGAINST the obstruction (crypto holders: Warren's opposition is about political power, not consumer protection). Posts that surface a specific verifiable figure being used symmetrically by opposite camps generate engagement from both sides without alienating either. Structure: (1) establish the official context (Senate committee, attributed testimony); (2) state the exact figure; (3) name both camps and their uses of it; (4) deliver the meta-observation in one sentence. The meta-observation is the viral upgrade over a partisan take — it flatters reader analytical sophistication while letting each camp feel seen. Works for any dual-use data point across crypto, AI, or tech regulation debates.",
+      "tone": "analytically neutral / dual-audience / meta-observer",
+      "applicable_niches": [
+        "crypto",
+        "Web3",
+        "Bitcoin",
+        "policy",
+        "DeFi"
+      ],
+      "tags": [
+        "dual-purpose-data-point",
+        "CLARITY-Act",
+        "political-tribalism",
+        "symmetric-argument",
+        "crypto-regulation",
+        "single-tweet"
+      ]
     }
   },
   "patterns": {
@@ -2988,7 +3197,15 @@
       "'Nobody is talking about the real meaning' frame: acknowledge surface news, signal crowd missed the point, deliver the real structural shift in one sentence",
       "Industry-wide fraud percentage: bold specific % + visceral one-clause fraud description + promise of a diagnostic test",
       "Future-dated memo thought experiment: write the crisis from two years in the future in past tense bureaucratic format — fictional frame lets people share alarming content without feeling alarmist",
-      "Security warning + counter-launch irony: market leader gets security indictment; new entrant immediately asks for more access in the same week — 'We have learned nothing'"
+      "Security warning + counter-launch irony: market leader gets security indictment; new entrant immediately asks for more access in the same week — 'We have learned nothing'",
+      "Agent's own consent copy as the indictment — verbatim onboarding language admitting autonomous action without asking, shared deadpan; the source document is the entire editorial",
+      "Platform regime-change framing — 'biggest upgrade in N years' is not a feature announcement, it is a signal that all strategies built on the old version are now miscalibrated; implications-first always outperforms feature-list",
+      "Triple-data deadpan contradiction — record revenue + mass layoffs + AI capex in three bullet lines; the third data point resolves the moral ambiguity of the first two and implies intentionality",
+      "Big Tech naming an open-source competitor at its own keynote is the open-source project's greatest PR moment — frame the naming as the concession, not the threat",
+      "Institutional setting as narrative reversal context — who the authority figure was seated beside when they changed their most-quoted prediction is the story, not the updated view",
+      "Playbook-expiration post — empirical data refuting a dominant corporate strategy surfaced at the exact moment most companies are about to copy it",
+      "Third-party consent gap — AI wearables create ambient audio collection from people near the wearer who never consented; frame the unconsenting bystander as the viral angle, not the wearer",
+      "Dual-purpose data point — one specific official dollar figure usable by both political camps as their primary argument; naming the symmetry rewards reader sophistication and generates cross-partisan sharing"
     ],
     "most_effective_formats": [
       "Single punchy tweet (one-liner or short confession) — highest ceiling for virality",
@@ -3005,7 +3222,8 @@
       "Pre-event prediction tweet with 24h verdict deadline — generates two viral moments from one post",
       "Future-dated memo thread — bureaucratic tone, past tense, fictional but plausible crisis; fictional frame maximizes shareability of alarming content",
       "Post-exploit declarative single tweet — three stacked 'is dead' statements, no numbers, no links, maximum authority through bare assertion",
-      "Paired-event irony tweet — two simultaneous news items that contradict each other, ending in a three-word collective verdict"
+      "Paired-event irony tweet — two simultaneous news items that contradict each other, ending in a three-word collective verdict",
+      "Consent-copy screenshot tweet — verbatim source document (onboarding screen, privacy policy, corporate memo) shared without commentary; the company's own language does all the editorial work"
     ],
     "most_effective_tones": [
       "Calm contrarian — making a bold anti-consensus claim without emotional heat",
@@ -3022,7 +3240,8 @@
       "Curious-philosophical — inviting both pragmatic and philosophical engagement simultaneously",
       "Funeral / declarative / zero affect — most powerful immediately after a major ecosystem event when the community wants someone to name what just happened",
       "Bureaucratic calm from the future — fictional formality makes speculative warnings feel authoritative rather than alarmist",
-      "Resigned irony — 'we have learned nothing' energy; assigns collective blame without identifying a villain, making the take harder to argue against"
+      "Resigned irony — 'we have learned nothing' energy; assigns collective blame without identifying a villain, making the take harder to argue against",
+      "Analytically neutral / dual-audience / meta-observer — surfaces the symmetry of two opposing camps using the same data point for opposite conclusions; rewards reader sophistication while generating shares from both sides"
     ],
     "most_effective_triggers": [
       "Identity threat — challenging a belief or tool practitioners have already adopted",
@@ -3045,7 +3264,11 @@
       "Regime-change awe — a single daily metric showing the underdog eclipsing the category leader for the first time triggers both celebration and fear of missing the window",
       "Collective grief + identity rupture — post-exploit declarative posts capitalize on a community's psychological transition from confidence to disillusionment",
       "Fictional frame safety — future-memo format lets readers share alarming content without feeling alarmist, removing the social cost of spreading 'doom' content",
-      "Paired-event irony — two simultaneous events that contradict each other create an irresistible 'we have learned nothing' conclusion that spreads via resigned agreement"
+      "Paired-event irony — two simultaneous events that contradict each other create an irresistible 'we have learned nothing' conclusion that spreads via resigned agreement",
+      "Consent theater exposure — an AI agent's own onboarding language admitting autonomous action without permission is more damaging than any critic's external framing; the source document is the hook",
+      "Regime-change invalidation — when a dominant platform announces its biggest upgrade in decades, every existing strategy optimized for the old version becomes immediately obsolete; implications-first framing is the viral trigger",
+      "Playbook-expiration — the dominant corporate AI-layoffs-equal-stock-gains strategy stops producing expected outcomes at the exact moment most companies are copying it; empirical refutation at peak adoption is maximum-reach timing",
+      "Third-party consent gap — always-on AI wearables create a new ambient consent violation category where people near the wearer never agreed to be heard; no existing legal framework covers this, making it a durable content category for 2026"
     ],
     "cross_niche_insights": [
       "AI × crypto convergence is the dominant narrative of Q2 2026 — posts bridging both worlds outperform single-niche content by a wide margin",
@@ -3071,8 +3294,14 @@
       "Security incidents and product launches are converging on the same week repeatedly in May 2026 — monitoring for these paired events (security failure + ambitious new entrant) creates reliable irony content with cross-community reach",
       "The AI x Web3 sector is generating its own internal counter-narrative ('90% are cosplay') that spreads faster than positive project announcements — contrarian sector critiques now outperform project marketing by a wide margin",
       "The 'first time ever' metric milestone is the new product launch announcement in AI — daily infrastructure metrics (tokens processed, API calls) are becoming the primary virality signal for open-source vs. commercial competition",
-      "Future-memo format is emerging as a distinct viral genre for existential risk content in AI — it borrows credibility from the corporate memo form while giving the author plausible deniability through the fiction label"
+      "Future-memo format is emerging as a distinct viral genre for existential risk content in AI — it borrows credibility from the corporate memo form while giving the author plausible deniability through the fiction label",
+      "Google I/O 2026 confirmed that Big Tech explicitly naming open-source AI agents (OpenClaw, Hermes) as competitors at flagship keynotes validates the open-source project more than any independent announcement — being named by the establishment is the new open-source credibility signal",
+      "Meta's May 20, 2026 triple-data announcement (record $56B revenue + 8,000 layoffs + $145B AI capex) establishes the three-item moral-dissonance as an upgraded viral template; the AI capex third data point converts ambiguous corporate decisions into explicit intentionality — this is structurally more alarming than two-item contradictions",
+      "The AI-layoffs-don't-reliably-boost-stocks counter-narrative (CNBC, May 2026, 23 S&P 500 companies) is the first empirical playbook-expiration event of the AI era — this story compounds in virality with each additional company that tries to copy the formula",
+      "AI wearables (Google/Samsung Android XR glasses launching Fall 2026) introduce the third-party ambient consent gap as a new durable privacy content category — the unconsenting bystander near the wearer is a legally unaddressed class of surveillance with no existing framework",
+      "The CLARITY Act's dual-purpose data point ($1.4B in government official crypto gains cited by Senator Warren) demonstrates that crypto regulation debates generate maximum cross-partisan reach when a single official number is simultaneously usable by both pro-crypto and anti-crypto camps as their primary argument",
+      "Gemini Spark's onboarding consent copy ('may make purchases without asking') confirms that AI agent permission language is now a standalone publication category in 2026 — the consent screen is scrutinized like a terms-of-service document, and verbatim quotes from it spread faster than product feature announcements"
     ],
-    "last_updated": "2026-05-19"
+    "last_updated": "2026-05-20"
   }
 }
