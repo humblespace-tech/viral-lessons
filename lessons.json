@@ -3935,108 +3935,277 @@
         "problem-renaming",
         "dual-audience"
       ]
+    },
+    "e38f80c3-4dad-4da5-b8a4-86385383655e": {
+      "id": "e38f80c3-4dad-4da5-b8a4-86385383655e",
+      "date_saved": "2026-05-25",
+      "topic_niche": "AI/tech startups",
+      "format": "Thread",
+      "hook_pattern": "Authority credential stack + superlative era claim + numbered mega-shift list",
+      "hook_template": "I'm [age]. I've [credibility stack]. Here are [N] reasons [bold claim about current moment] \u2014 a thread:",
+      "psychological_trigger": "FOMO + era identity (fear of missing a generational window) + social proof from credible operator",
+      "structural_lesson": "Opens with a bold superlative ('GREATEST time in 30 years'), immediately backs it with personal credibility (sold 3 startups, raised billions), then delivers a numbered list of systemic shifts. Each shift is named with a punchy 3-4 word label, making individual items easily screenshot-shareable. Ends with a call to act before the window closes.",
+      "tone": "authoritative + energizing",
+      "applicable_niches": [
+        "AI",
+        "tech startups",
+        "crypto",
+        "Web3"
+      ],
+      "tags": [
+        "thread",
+        "numbered-list",
+        "era-framing",
+        "authority-hook",
+        "FOMO",
+        "founder-content"
+      ]
+    },
+    "3fc92b2d-be6e-4ea3-9475-31a62f841a2f": {
+      "id": "3fc92b2d-be6e-4ea3-9475-31a62f841a2f",
+      "date_saved": "2026-05-25",
+      "topic_niche": "crypto/Web3",
+      "format": "Single Tweet",
+      "hook_pattern": "Famous contrarian sounds alarm using sci-fi dystopia as warning metaphor",
+      "hook_template": "We may be headed toward a [sci-fi/dystopian scenario] future. Here's why [emerging trend] 'needs to be stopped.'",
+      "psychological_trigger": "Fear + alarm + pop-culture reference that makes abstract risk viscerally concrete",
+      "structural_lesson": "Named a specific sci-fi world ('Snow Crash') as the destination we're heading toward, quoted the alarming mechanism precisely, then made it personal ('no long-term personal relationships'). Used a famous contrarian identity (known for being right against consensus) to make the warning credible rather than alarmist. Short enough to screenshot, alarming enough to quote-tweet.",
+      "tone": "provocative + alarming + dystopian",
+      "applicable_niches": [
+        "crypto",
+        "Web3",
+        "AI",
+        "finance"
+      ],
+      "tags": [
+        "single-tweet",
+        "contrarian",
+        "alarm-hook",
+        "sci-fi-metaphor",
+        "celebrity-authority",
+        "fear-trigger"
+      ]
+    },
+    "25cb2324-9326-4787-8f13-1afec2dabd4a": {
+      "id": "25cb2324-9326-4787-8f13-1afec2dabd4a",
+      "date_saved": "2026-05-25",
+      "topic_niche": "AI",
+      "format": "Single Tweet",
+      "hook_pattern": "Term redefinition: declare old term dead, crown a better replacement with explanation",
+      "hook_template": "People say [old term]. That's wrong. The real name is [new term]. Here's the difference: [old term] optimizes [X], [new term] optimizes [Y].",
+      "psychological_trigger": "Identity threat (makes 'prompt engineers' feel their label is outdated) + intellectual superiority signal for those who adopt the new framing",
+      "structural_lesson": "Posted a deceptively short tweet that elevated one term over another in a field where many people have professional identity invested. The key move: explained WHY the old term was insufficient using a concrete functional distinction ('optimizes the question' vs 'optimizes the conditions'). This invited both agreement and defense \u2014 generating the reply-heavy debate X's algorithm rewards most.",
+      "tone": "educational + definitive + slightly contrarian",
+      "applicable_niches": [
+        "AI",
+        "tech",
+        "developer community"
+      ],
+      "tags": [
+        "single-tweet",
+        "term-redefinition",
+        "identity-threat",
+        "contrarian",
+        "educational",
+        "debate-bait"
+      ]
+    },
+    "59b14398-79f5-4a17-a218-51664b589313": {
+      "id": "59b14398-79f5-4a17-a218-51664b589313",
+      "date_saved": "2026-05-25",
+      "topic_niche": "crypto/Web3",
+      "format": "Quote Tweet / Debate Thread",
+      "hook_pattern": "Death proclamation after a major catalyst event, generating counter-takes",
+      "hook_template": "[Category] is dead. [Beloved tool/platform] is dead. If you're still in [category] \u2014 why?",
+      "psychological_trigger": "Controversy + tribal defense (crypto believers MUST reply to defend it, creating massive engagement) + genuine fear for holders",
+      "structural_lesson": "The '[X] is dead' format works best when it follows a concrete, newsworthy failure (hack, exploit, crash). The original alarmed take is brief and emotional. The counter-takes ('actually, here's why DeFi isn't dead') generate even more engagement. The pattern creates a two-sided debate where both sides fuel the algorithm. The hook's power comes from the call-to-defend it triggers in believers.",
+      "tone": "alarmed \u2192 contrarian (two sides)",
+      "applicable_niches": [
+        "crypto",
+        "DeFi",
+        "Web3"
+      ],
+      "tags": [
+        "debate-thread",
+        "death-proclamation",
+        "controversy",
+        "tribal-defense",
+        "catalyst-event",
+        "two-sided"
+      ]
+    },
+    "36fd4de3-c3da-458b-b222-fa57e8f5b9bd": {
+      "id": "36fd4de3-c3da-458b-b222-fa57e8f5b9bd",
+      "date_saved": "2026-05-25",
+      "topic_niche": "AI/tech startups",
+      "format": "Thread",
+      "hook_pattern": "Shocking quantification of disruption: '$[trillion] erased' as opening data point",
+      "hook_template": "AI agents just erased $[X]T in [category] value. Here's who survives \u2014 and who doesn't.",
+      "psychological_trigger": "Fear + FOMO (for SaaS founders/investors) + survival instinct + curiosity about the 'winners' list",
+      "structural_lesson": "Led with the most alarming macro number first (trillions in market value lost), then explained the mechanism (AI agents can replicate SaaS functionality for pennies), then revealed the survival framework. The 'who survives' framing is crucial \u2014 it transforms a doom post into an actionable guide, broadening appeal beyond pure alarm to include people who want to position themselves correctly.",
+      "tone": "alarming + analytical + advisory",
+      "applicable_niches": [
+        "AI",
+        "tech startups",
+        "SaaS",
+        "investing"
+      ],
+      "tags": [
+        "thread",
+        "data-hook",
+        "disruption-narrative",
+        "survival-framing",
+        "fear-FOMO",
+        "market-commentary"
+      ]
+    },
+    "7cb3bf35-f4b1-4297-b33a-5260eb78ed26": {
+      "id": "7cb3bf35-f4b1-4297-b33a-5260eb78ed26",
+      "date_saved": "2026-05-25",
+      "topic_niche": "AI/tech startups",
+      "format": "Single Tweet / Announcement",
+      "hook_pattern": "Tiny team + impossible milestone + impossible timeframe = proof-of-concept for a new paradigm",
+      "hook_template": "[Solo founder / 1-person team] just hit [$X ARR / major milestone] in [shockingly short time] using only AI agents. The playbook: [numbered steps].",
+      "psychological_trigger": "Aspiration + FOMO + paradigm shift (makes the viewer reconsider what's possible) + proof over promise",
+      "structural_lesson": "Shared a real, verifiable result first (no promises, actual milestone achieved). The impossibly small team + impossibly fast timeframe combination is the core tension. Then explained the 'how' in numbered steps to make it replicable. The 'one-person unicorn' label gives the narrative a sticky name that spreads independently of any single post.",
+      "tone": "awe-inspiring + educational + aspirational",
+      "applicable_niches": [
+        "AI",
+        "tech startups",
+        "SaaS",
+        "crypto"
+      ],
+      "tags": [
+        "single-tweet",
+        "proof-of-concept",
+        "aspiration-hook",
+        "milestone-reveal",
+        "paradigm-shift",
+        "solo-founder"
+      ]
+    },
+    "eae6bbed-4dbc-4473-b9a0-c228f92b725a": {
+      "id": "eae6bbed-4dbc-4473-b9a0-c228f92b725a",
+      "date_saved": "2026-05-25",
+      "topic_niche": "AI/tech",
+      "format": "Thread / Hot-take debate",
+      "hook_pattern": "Tool displacement narrative: 'I replaced [beloved tool] with [new tool] \u2014 here's the brutal verdict'",
+      "hook_template": "I abandoned [well-known tool] for [new tool]. Here's what [new tool] does that [old tool] cannot \u2014 and where [old tool] still wins.",
+      "psychological_trigger": "Curiosity + identity (developers identify strongly with their tools) + debate-bait (users of each tool MUST defend their choice)",
+      "structural_lesson": "Named both a winner and a loser in a category where many readers have strong tool loyalty. The 'brutal verdict' framing promises an honest, unbiased take. The key structural move: gave credit to the 'loser' in at least one area (Cursor still wins for speed), which made the take feel credible rather than tribal. This two-sided structure generates more nuanced replies, keeping the thread alive longer.",
+      "tone": "provocative \u2192 analytical \u2192 balanced",
+      "applicable_niches": [
+        "AI",
+        "developer tools",
+        "tech"
+      ],
+      "tags": [
+        "thread",
+        "tool-displacement",
+        "versus-framing",
+        "identity-trigger",
+        "debate-bait",
+        "credibility-move"
+      ]
+    },
+    "81de4e50-95e0-4d6f-8333-6bac3b020d94": {
+      "id": "81de4e50-95e0-4d6f-8333-6bac3b020d94",
+      "date_saved": "2026-05-25",
+      "topic_niche": "crypto/Web3",
+      "format": "Single Tweet",
+      "hook_pattern": "Specific contrarian price prediction with precise math and a deadline",
+      "hook_template": "[X amount of underdog asset] will equal [1 unit of dominant asset] by [specific date]. Here's the math: [calculation].",
+      "psychological_trigger": "FOMO + wishful thinking + mathematical credibility (precise numbers feel researched, not random) + tribal sharing (holders share it hoping to manifest it)",
+      "structural_lesson": "Used a specific, calculable prediction (5,000 XRP = 1 BTC, implying a precise price target) rather than vague bullishness. The phrasing inverts the standard comparison (rather than '$X price target', it frames value in terms of a ratio to Bitcoin), which feels more analytical and shareable. The precision creates both believers who want it true and skeptics who want to debunk it \u2014 both groups engage.",
+      "tone": "speculative + analytical",
+      "applicable_niches": [
+        "crypto",
+        "trading",
+        "Web3"
+      ],
+      "tags": [
+        "single-tweet",
+        "price-prediction",
+        "contrarian",
+        "math-hook",
+        "ratio-framing",
+        "tribal-FOMO"
+      ]
+    },
+    "e9997d04-c5b9-4609-a378-875e1fa97d4e": {
+      "id": "e9997d04-c5b9-4609-a378-875e1fa97d4e",
+      "date_saved": "2026-05-25",
+      "topic_niche": "crypto/Web3",
+      "format": "Thread",
+      "hook_pattern": "Contrarian retention-over-hype argument: 'The real problem isn't what everyone thinks it is'",
+      "hook_template": "Everyone thinks [category]'s problem is [obvious thing]. They're wrong. The real problem is [non-obvious thing]. Here's what the data says.",
+      "psychological_trigger": "Intellectual superiority + contrarianism + data credibility (shielded from dismissal by citing real numbers)",
+      "structural_lesson": "Opened by rejecting the mainstream narrative ('Web3 doesn't need more users') and replacing it with a counterintuitive one ('it needs to KEEP the ones it has'). Backed it with a concrete, alarming statistic (sub-20% 7-day retention for dApps). This pattern works because it makes the reader feel smarter for learning the 'real' problem, encouraging shares as a status signal.",
+      "tone": "analytical + contrarian + slightly provocative",
+      "applicable_niches": [
+        "Web3",
+        "DeFi",
+        "crypto",
+        "tech startups"
+      ],
+      "tags": [
+        "thread",
+        "contrarian",
+        "real-problem-framing",
+        "data-backed",
+        "retention-narrative",
+        "status-signal"
+      ]
     }
   },
   "patterns": {
     "most_effective_hook_patterns": [
-      "Counterintuitive claim + specific evidence or timeframe ('the gains evaporate within 6 months')",
-      "Personal confession of embarrassing failure \u2192 AI/tech as unexpected savior",
-      "Show proof of impossible-seeming thing before explaining it (demo-first, context-second)",
-      "First-ever autonomous AI milestone documented step-by-step with specificity",
-      "Absurdly simple attack vector vs. massive loss \u2014 the absurdity gap is the hook",
-      "Reframe a familiar event at civilizational scale ('you think this is normal, it's actually bigger than [historical event]')",
-      "Broken promise framing: '[Era] was supposed to bring [utopia]. Instead we got [dystopia].'",
-      "Blunt rhetorical question that indicts an entire industry: 'Are we [embarrassing label]?'",
-      "Smart money countdown clock with specific dollar levels and hard deadline",
-      "Uncomfortable statistic that invalidates prevailing narrative (vanity metric vs. real metric)",
-      "Production horror story: 'We gave AI access to [real system]. Here's exactly what went wrong.'",
-      "Institutional crossover narrative: 'Wall Street just validated [crypto/AI thing]. Here's what that means.'",
-      "Leader lifestyle moment with strategically ambiguous language the community projects meaning onto",
-      "Top-tier expert admits professional vulnerability and names an unnamed universal experience",
-      "Ultra-minimal announcement from high-status figure where significance is implied, not stated",
-      "Neologism coining: compress collective anxiety into a single memorable portmanteau + predict where it hits",
-      "Free practical stack/resource card \u2014 'build [impressive thing] for $0' backed by named tool list",
-      "Milestone stat contextualised against all of history: '[X] in [impossibly short time] \u2014 fewer than Y% ever did this'",
-      "Narrative resurrection with unexpected new mechanism: 'everyone buried X, here's why it matters more than ever'",
-      "Crime-first thriller hook: 'single harmless input \u2192 [dollar amount] drained in [timeframe]'",
-      "Public CT narrative vs. closed-room insider consensus: 'everyone says X is dead, every exec at [conference] disagrees'",
-      "Migration/identity-switch invite: 'Abandoned [competitor]? One command to switch to [product]'",
-      "Category inversion: 'Every [category player] does X first. [Product] does the opposite \u2014 and that's the unlock'",
-      "Alarming disclosure + root cause reveal: 'AI did [shocking behavior] in 96% of tests. Here's exactly why.'",
-      "Shadow + imminent legitimacy two-punch: '[Entity] is secretly building [thing]. [Authority] is about to make it official.'",
-      "Whale drama countdown: 'Someone just moved $[X]M to protect a $[Y]M bet. Liquidation at $[price]. [Gap] remaining.'",
-      "Industry blind-spot rename: '[Industry] doesn't have a [symptom] problem. It has a [real disease] problem. Nobody says that.'"
+      "Authority credential stack + superlative era claim: 'I've [credibility]. Here are [N] reasons [bold claim] \u2014 a thread'",
+      "Term redefinition: 'Everyone calls it X. The real name is Y. Here's why.'",
+      "Death proclamation after catalyst event: '[Category] is dead. [Follow-up].' \u2014 generates tribal defense replies",
+      "Shocking quantification of disruption: '$[X]T erased from [market]' as opening data point",
+      "Tiny team + impossible milestone + impossible timeframe as paradigm proof: '[1 person] hit [$X] in [short time]'",
+      "Tool displacement narrative: 'I replaced [beloved tool] with [new tool] \u2014 the brutal verdict'",
+      "Contrarian price prediction with precise ratio/math: '[X units of Y] will equal [1 unit of Z] by [date]'",
+      "Real-problem reframe: 'Everyone thinks the problem is [X]. They're wrong. It's [Y].'",
+      "Famous contrarian + sci-fi dystopia as warning metaphor: 'We're headed toward a [Snow Crash/Black Mirror] future'",
+      "Migration/abandonment framing: 'I abandoned [old tool] for [new]. Here's what changed.'",
+      "Inversion framing: 'The [category] that [does opposite of all others]'",
+      "Alarming disclosure + root cause reveal: 'AI did [shocking behavior]. Here's why.'"
     ],
     "most_effective_formats": [
-      "Thread (5\u201315 tweets): educational breakdown or autopsy of an event",
-      "Single punchy tweet with rhetorical question hook",
-      "Long-form essay post (2000\u20135000 words) paired with bold contrarian claim",
-      "Data post with specific dollar amounts and countdown deadline",
-      "Single tweet + image/video (lifestyle, screenshot, or chart)",
-      "Quote tweet with one-sentence contrarian reframe",
-      "Thread with real-world incident storytelling + structural diagnosis",
-      "Ultra-brief personal announcement tweet (3 sentences, no explanation)",
-      "Neologism tweet: single term + definition + list of affected domains",
-      "Curated named-tool list tweet functioning as bookmark-worthy cheat sheet",
-      "Mini-thread (2-4 tweets): milestone stat \u2192 historical context \u2192 community credit",
-      "Insider-vs-outsider contrast thread: public narrative \u2192 conference truth \u2192 implications",
-      "Official transparent disclosure thread: alarming stat \u2192 root cause diagnosis \u2192 fix \u2014 turns crisis into credibility",
-      "Real-time on-chain drama tweet: actor + action + dollar amount + countdown metric (compulsive checking behaviour)"
+      "Thread (numbered list with labeled sections \u2014 most shareable individual tweets as screenshots)",
+      "Single punchy tweet (under 280 chars, maximum provocation per word)",
+      "Quote Tweet + hot take (riding news/other viral posts)",
+      "Thread with a survival/action framework (not just doom, but 'who survives')",
+      "Announcement tweet (milestone reveal with precise number + timeframe)"
     ],
     "most_effective_tones": [
-      "Provocative (challenges tribe identity or industry self-image)",
-      "Authoritative (founder/researcher voice + specific data)",
-      "Educational (autopsy/breakdown with insider specificity)",
-      "Vulnerable (personal failure + systemic lesson)",
-      "Casual authority (lifestyle moment from high-credibility figure)",
-      "Alarm/urgency (countdown + whale positioning data)",
-      "Vulnerable-authoritative (expert admission of confusion/inadequacy from position of high credibility)",
-      "Understated (minimal words, maximum implied weight \u2014 works only at high follower counts)",
-      "Prophetic (naming what's coming before others see it, with specific timeframes)",
-      "Contrarian-insider (I was there, they said the opposite of what CT believes)",
-      "Transparent-alarming (official org admits failure with data + diagnosis = paradoxically builds trust)",
-      "Intimate-urgent (written for friends + civilizational scale = lowest-defense shareability)"
+      "Authoritative + energizing (founder/operator who's been there)",
+      "Provocative \u2192 analytical (starts alarming, earns credibility through data)",
+      "Educational + definitive (teaches new framing, cements a new vocabulary)",
+      "Alarming + analytical + advisory (doom + actionable insight)",
+      "Speculative + analytical (contrarian prediction backed by math)"
     ],
     "most_effective_triggers": [
-      "Existential scale mismatch (civilizational framing vs. what seems mundane)",
-      "FOMO + smart money social proof (whales/institutions are already there)",
-      "Identity threat \u2014 implies reader is behind, naive, or complicit in failure",
-      "Betrayal of collective hope (tech promised utopia, delivered dystopia)",
-      "Shame + tribal accountability (rhetorical self-indictment of entire community)",
-      "Fear + professional identity threat (production failures in AI deployment)",
-      "Legitimacy signal (institutional validation = 'you were right all along')",
-      "Contrarianism as insider-credibility signal (I see the hidden metric)",
-      "Collective validation + identity relief (even the expert feels this way \u2014 my anxiety is normal)",
-      "Vocabulary crystallisation (giving name to vague anxiety = shareable cultural artefact)",
-      "In-group pride + historic participation (your community drove this milestone)",
-      "Cognitive surprise: 'wait, that actually makes sense' from unexpected logical connection",
-      "Crime-scene alarm: absurdly mundane attack vector vs. catastrophic dollar loss",
-      "Authority contrast: closed-room insider consensus contradicts loud public doom narrative",
-      "Regulatory legitimacy surprise (shadow \u2192 official: transforms fringe into inevitable)",
-      "Real-time suspense + proximity to catastrophe (whale countdown creates compulsive engagement loop)",
-      "Category inversion identity reset (product reframes an entire market's assumption in one sentence)"
+      "FOMO + era identity (fear of missing a generational window)",
+      "Identity threat (makes readers feel their current label/tool/belief is outdated)",
+      "Tribal defense (believers MUST reply to defend their asset/protocol/approach)",
+      "Fear + alarm + concrete dystopian metaphor",
+      "Aspiration + paradigm shift (makes viewer reconsider what's possible)",
+      "Intellectual superiority (sharing = status signal for knowing the 'real' answer)",
+      "Curiosity + debate-bait (two sides feel compelled to engage)"
     ],
     "cross_niche_insights": [
-      "The replies-over-likes algorithm shift (27x weight) rewards posts that spark debate \u2014 contrarian and shame-based hooks outperform pure information",
-      "Specificity beats generality: exact dollar amounts, exact percentages, exact timeframes drive engagement velocity in first 30 minutes",
-      "The AI\u00d7crypto convergence is the dominant emerging narrative \u2014 posts bridging both niches get amplified in both communities",
-      "Institutional validation posts (ETFs, fund allocations) work in crypto the same way 'expert endorsement' works in AI \u2014 legitimacy triggers both believers and skeptics",
-      "Long-form content (2000\u20135000+ words) from high-authority figures can generate 20M+ views when the hook is civilizational in scale",
-      "Single rhetorical questions from credible insiders outperform multi-tweet explanations for triggering community debate",
-      "Ambiguous lifestyle posts from high-follower accounts generate derivative content (meme coins, reactions) without explicit calls to action",
-      "Production horror stories in AI agents resonate across both tech and crypto audiences \u2014 the shared fear of autonomous systems is cross-niche",
-      "The 2026 X algorithm rewards conversation quality \u2014 10+ thoughtful replies in 15 minutes > 500 passive likes",
-      "Brevity from high-status accounts is its own format: a 3-sentence announcement from a credible figure outperforms a 10-tweet thread from the same person",
-      "Neologisms from high-authority figures create long-tail virality \u2014 the term circulates for weeks as others use it, each use crediting the originator",
-      "Web3 communities (X, Discord, Telegram) are the fastest AI adoption amplifiers: high social cohesion + early-adopter identity = rapid milestone sharing",
-      "Narrative resurrection works when paired with a new mechanism from a different domain \u2014 bridging AI agents + NFT identity, or DeFi + AI agent rails, creates the cognitive surprise that drives quote-tweets",
-      "The 'crypto is mainstream / no longer contrarian' thesis is generating significant debate \u2014 posts positioning readers as early to the NEXT contrarian layer outperform general bull takes",
-      "Bookmark/save rate (driven by practical tool lists and cheat sheets) is now weighted more heavily by the X algorithm in 2026 than pure retweet counts",
-      "The 'shadow X' framing pattern is crossing from finance journalism into crypto/AI tech posts \u2014 framing a product as secretly already doing what incumbents can't yet do",
-      "Transparent failure disclosures (AI blackmail, agent horror stories) outperform defensive PR when paired with root-cause specificity \u2014 authenticity premium is at all-time high in 2026",
-      "Web3 token airdrop mechanics are now being applied to open-source AI projects to drive GitHub star virality \u2014 community incentive design is a new lever for technical virality",
-      "Retail ETF outflow data is being weaponized as a contrarian signal by both crypto analysts and AI market commentators \u2014 the same inversion pattern works across both niches"
+      "The 'death proclamation' format ([X] is dead) works across AI, crypto, and SaaS when triggered by a concrete failure event \u2014 it generates both defenders and believers, maximizing replies.",
+      "Precise quantification always beats vague claims: '$2T erased' outperforms 'a lot of value lost'; '30 days to $1M ARR' outperforms 'really fast growth'.",
+      "Tool vs tool debates (Claude Code vs Cursor, Bitcoin vs XRP) consistently generate the highest reply-to-like ratios because users identify with tools and assets and feel compelled to defend them.",
+      "The 'X is the real problem' reframe (retention, not growth; context engineering, not prompt engineering) works across every niche by making the reader feel smarter for knowing the real insight.",
+      "Sci-fi/pop-culture metaphors (Snow Crash, Black Mirror, etc.) make abstract technological fears viscerally concrete and dramatically increase shareability.",
+      "The first 30-60 minutes of engagement velocity determines a post's viral trajectory on X in 2026 \u2014 controversial takes that trigger immediate replies from multiple perspectives are the most reliable way to achieve this.",
+      "Credibility stacking ('I've sold 3 startups / predicted [famous event]') before a bold claim dramatically increases the claim's perceived legitimacy and share rate.",
+      "Number-led threads with memorable named labels for each point (e.g., '1. Hardware got smart. 2. SaaS is imploding.') make individual list items screenshot-shareable as standalone content, extending viral reach beyond the original thread."
     ],
-    "last_updated": "2026-05-24"
+    "last_updated": "2026-05-25"
   }
 }
