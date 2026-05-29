@@ -4728,6 +4728,187 @@
         "single-tweet",
         "crypto"
       ]
+    },
+    "d8df24c5-c092-4f41-887e-a1b500ea0bc3": {
+      "id": "d8df24c5-c092-4f41-887e-a1b500ea0bc3",
+      "date_saved": "2026-05-29",
+      "topic_niche": "AI",
+      "format": "Single Tweet",
+      "hook_pattern": "Understated personal announcement of a massive career move \u2014 no hype, just facts, let the magnitude speak",
+      "hook_template": "Personal update: I've [done the thing]. I think [reason this moment matters]. I am very excited to [what you'll do next].",
+      "psychological_trigger": "Status / curiosity gap \u2014 a globally respected figure issuing a dry, modest statement forces readers to project the magnitude themselves, which drives shares",
+      "structural_lesson": "Keep it under 300 characters. One-sentence setup on the facts, one-sentence on why this moment is historically significant, one sentence on personal excitement. Zero adjectives of self-congratulation. The understatement creates a vacuum the audience fills with awe.",
+      "tone": "matter-of-fact",
+      "applicable_niches": [
+        "AI",
+        "tech",
+        "crypto"
+      ],
+      "tags": [
+        "understatement",
+        "career-announcement",
+        "authority",
+        "single-tweet",
+        "status"
+      ]
+    },
+    "536b92f1-355d-4e6d-b92a-bd3f6b47dba6": {
+      "id": "536b92f1-355d-4e6d-b92a-bd3f6b47dba6",
+      "date_saved": "2026-05-29",
+      "topic_niche": "AI",
+      "format": "Single Tweet",
+      "hook_pattern": "Behavioral flip confession \u2014 'my workflow was X, now it is the complete opposite of X' \u2014 anchored with a concrete percentage",
+      "hook_template": "A year ago, [X]% of my [workflow/time/effort] was [old behavior]. Now it's flipped \u2014 [X]% is [new behavior]. Here's the idea file behind why.",
+      "psychological_trigger": "Curiosity gap + social proof \u2014 a famous practitioner revealing a complete behavioral reversal implies everyone else is behind; the 'idea file' artifact extends the loop",
+      "structural_lesson": "Open with the before/after percentage inversion. Follow with 1\u20132 sentences naming the new behavior in vivid concrete terms (dump raw materials \u2192 LLM builds a wiki). End with a link to a shareable artifact. The artifact keeps the post recirculating as people discover and reshare it days later.",
+      "tone": "educational",
+      "applicable_niches": [
+        "AI",
+        "tech"
+      ],
+      "tags": [
+        "behavioral-flip",
+        "before-after",
+        "workflow",
+        "idea-file",
+        "curiosity-gap"
+      ]
+    },
+    "df2c82a8-b0f6-4f47-bbe6-72e459c24cb3": {
+      "id": "df2c82a8-b0f6-4f47-bbe6-72e459c24cb3",
+      "date_saved": "2026-05-29",
+      "topic_niche": "AI",
+      "format": "Single Tweet + Thread",
+      "hook_pattern": "Name four specific failure modes that every practitioner privately experiences but has never seen articulated \u2014 exact vocabulary creates instant recognition",
+      "hook_template": "After [time period] using [technology], I noticed [tool/system/process] keeps failing the same [N] ways. Everyone using it hits these. Nobody is talking about them.",
+      "psychological_trigger": "Identity / frustration relief \u2014 readers feel seen and validated; the specificity of the failure list signals deep insider knowledge; saving the list becomes a status act",
+      "structural_lesson": "Lead with the meta-observation (everyone hits this, nobody talks about it). List each failure mode with a short memorable label (Silent Assumptions, Code Hypertrophy, Collateral Edits, Missing Success Criteria). Each label is quotable on its own. The artifact (CLAUDE.md) that solves the problem turns the tweet into a compounding asset \u2014 100K+ GitHub stars demonstrates how a tweet can spawn its own product.",
+      "tone": "analytical",
+      "applicable_niches": [
+        "AI",
+        "tech"
+      ],
+      "tags": [
+        "frustration-naming",
+        "listicle",
+        "insider-knowledge",
+        "artifact-spawner",
+        "developer-audience"
+      ]
+    },
+    "9fe3f7ae-c52f-4d29-9ba4-f9df4494b0e8": {
+      "id": "9fe3f7ae-c52f-4d29-9ba4-f9df4494b0e8",
+      "date_saved": "2026-05-29",
+      "topic_niche": "AI",
+      "format": "Single Tweet",
+      "hook_pattern": "Alarm signal + authority anchor + decay warning + life raft \u2014 four beats in a single tweet hook that curates someone else's wisdom",
+      "hook_template": "\ud83d\udea8 [Authority figure] was right. [He/She] warned that [X]% of [category] dies in [timeframe]. spoiler: most [items] will not even survive [shorter timeframe]. this [person/resource] is literally giving away the exact [year] playbook for [topic]. [what it covers] \ud83d\udc40 \u2193 read this today",
+      "psychological_trigger": "FOMO + authority transfer + urgency \u2014 the emoji alarm creates visual interrupt; anchoring to a trusted name (Karpathy) transfers credibility instantly; the decay warning creates fear of being left behind",
+      "structural_lesson": "This is a 'signal amplifier' format: you need zero original insight. The structure is: (1) alarm opener emoji, (2) famous person was right, (3) quantified death rate for the space, (4) promise of a shortcut/playbook, (5) mini table of contents. The key is making the source (Karpathy, a16z, etc.) the hero and positioning yourself as the translator.",
+      "tone": "urgent",
+      "applicable_niches": [
+        "AI",
+        "tech",
+        "crypto"
+      ],
+      "tags": [
+        "authority-anchor",
+        "fomo",
+        "alarm",
+        "curation",
+        "amplifier",
+        "urgency"
+      ]
+    },
+    "815fc4c1-82ea-4105-afa3-6808697aad85": {
+      "id": "815fc4c1-82ea-4105-afa3-6808697aad85",
+      "date_saved": "2026-05-29",
+      "topic_niche": "Web3",
+      "format": "Single Tweet + Thread",
+      "hook_pattern": "Founder of major protocol makes a specific falsifiable prediction that inverts the assumed user of their own product \u2014 'the next [users] won't be [humans], they'll be [machines]'",
+      "hook_template": "Unpopular opinion: [Your users] won't be [expected group] in [timeframe]. They'll be [unexpected group]. Here's why [data point] already proves it.",
+      "psychological_trigger": "Contrarianism + identity threat \u2014 tells existing human users they're becoming irrelevant; invites both true believers (building AI agents) and skeptics (defending human-centered design) to battle in replies",
+      "structural_lesson": "State the prediction as a short declarative claim. Follow with a supporting data point (68% of DeFi protocols, 250K daily active agents). Then explain the implication for anyone building in the space. The claim must be specific and falsifiable \u2014 vague predictions don't generate debate. The reply warfare IS the distribution.",
+      "tone": "provocative",
+      "applicable_niches": [
+        "Web3",
+        "AI",
+        "crypto"
+      ],
+      "tags": [
+        "contrarian-prediction",
+        "founder-authority",
+        "falsifiable",
+        "debate-bait",
+        "two-niche-intersection"
+      ]
+    },
+    "3df388b9-d408-41b7-af91-09f4a6f587e3": {
+      "id": "3df388b9-d408-41b7-af91-09f4a6f587e3",
+      "date_saved": "2026-05-29",
+      "topic_niche": "crypto",
+      "format": "Single Tweet + Quote Tweet chain",
+      "hook_pattern": "Public brag that invites on-chain accountability \u2014 influencer claims perfect market timing, community demands proof, absence of proof becomes the story",
+      "hook_template": "[Claimed I exited [asset] before the [X]% drop.] Community reply: [Show us the wallet.] [Silence or delay becomes the virality.]",
+      "psychological_trigger": "Social accountability + tribal justice + skepticism \u2014 crypto Twitter is uniquely equipped to verify on-chain claims; unverifiable brags trigger a distributed fact-checking mob that drives quote-tweet loops",
+      "structural_lesson": "This pattern works against the original poster, not for them \u2014 it's a lesson in what NOT to do if you want positive virality, but a lesson in what TO do if you want controlled controversy. If you want to make a market timing claim go viral, post the tx hash preemptively. The community's demand for on-chain proof IS the engagement mechanism. If you're an honest player, share evidence before anyone asks.",
+      "tone": "provocative",
+      "applicable_niches": [
+        "crypto"
+      ],
+      "tags": [
+        "accountability",
+        "on-chain-proof",
+        "controversy",
+        "quote-tweet-loop",
+        "tribal-justice",
+        "backfire"
+      ]
+    },
+    "2cd2311d-8b06-48d6-8aea-d99919e7a929": {
+      "id": "2cd2311d-8b06-48d6-8aea-d99919e7a929",
+      "date_saved": "2026-05-29",
+      "topic_niche": "crypto",
+      "format": "Single Tweet",
+      "hook_pattern": "Official brand account posts a one-line cryptic non sequitur referencing a rival ecosystem \u2014 implies hidden alliance, triggers speculation and financial FOMO simultaneously",
+      "hook_template": "[Single brand name]. [A cryptic short phrase]. [No explanation.]",
+      "psychological_trigger": "Curiosity gap + FOMO + tribal identity \u2014 followers of both ecosystems rush to interpret; speculators buy the rumor; the ambiguity IS the mechanism, not the content",
+      "structural_lesson": "Works best when a large brand account deviates from its normal posting style with a single anomalous statement. The post must contain: (1) the name of another project or token, (2) a phrase that implies but doesn't confirm a relationship, (3) zero further context. The official nature of the account gives the speculation credibility. Replies and retweets from both communities provide distribution.",
+      "tone": "dry",
+      "applicable_niches": [
+        "crypto",
+        "Web3"
+      ],
+      "tags": [
+        "cryptic-tease",
+        "official-account",
+        "speculation",
+        "fomo",
+        "brand-stunt",
+        "minimum-viable-content"
+      ]
+    },
+    "ae96160e-3930-4180-a900-382b19e83ca4": {
+      "id": "ae96160e-3930-4180-a900-382b19e83ca4",
+      "date_saved": "2026-05-29",
+      "topic_niche": "AI",
+      "format": "Thread + Single Tweet",
+      "hook_pattern": "Product launch with a built-in dividing line \u2014 one group praises the capability leap, another condemns the price leap \u2014 the debate itself becomes the distribution",
+      "hook_template": "The new [product] is [impressive benchmark claim]. But [specific price increase multiplier]. The question isn't whether it's better. It's whether you should pay [X]x more for it.",
+      "psychological_trigger": "Controversy + identity \u2014 developers who value quality rally on one side; budget-conscious builders rally on the other; both sides feel their identity is being attacked and quote-tweet to win",
+      "structural_lesson": "When covering a product release with mixed signals (capability up, price up), structure the post to make both sides feel they have a winning argument. Lead with the capability win (benchmark, concrete use case). Then pivot with 'But' and name the exact price multiplier. End with an open question that neither answers. The algorithm rewards reply-generating posts and this format guarantees a reply war.",
+      "tone": "analytical",
+      "applicable_niches": [
+        "AI",
+        "tech"
+      ],
+      "tags": [
+        "two-sided-controversy",
+        "product-launch",
+        "pricing-tension",
+        "reply-bait",
+        "capability-vs-cost"
+      ]
     }
   },
   "patterns": {
@@ -4743,37 +4924,46 @@
       "Name a shared, unspoken frustration within the community with humorous exaggeration \u2014 make everyone feel seen and superior simultaneously",
       "Make a bold, specific, falsifiable numerical prediction with enough math to seem credible \u2014 invite debate from both believers and skeptics",
       "Innocent real-world activity post carries a dual meaning; community creates the crypto interpretation; financial instrument materializes the belief",
-      "Reframe a universally negative business event (mass layoffs) as a strength signal by inverting the expected framing and making a bold prediction about all competitors"
+      "Reframe a universally negative business event (mass layoffs) as a strength signal by inverting the expected framing and making a bold prediction about all competitors",
+      "Understated personal announcement of a massive career move \u2014 no hype, just facts, let the magnitude speak for itself",
+      "Behavioral flip confession \u2014 'my workflow was X, now it is the complete opposite of X' \u2014 anchored with a concrete before/after percentage",
+      "Name four specific failure modes that every practitioner privately experiences but has never seen articulated \u2014 exact vocabulary creates instant recognition",
+      "Alarm signal + authority anchor + decay warning + life raft \u2014 four beats in a single tweet hook that curates someone else's wisdom",
+      "Founder of major protocol makes a specific falsifiable prediction that inverts the assumed user of their own product",
+      "Public brag that invites on-chain accountability \u2014 the absence of on-chain proof becomes the story",
+      "Official brand account posts a cryptic non-sequitur referencing a rival ecosystem \u2014 speculation becomes distribution",
+      "Product launch with a built-in dividing line \u2014 capability praised by one camp, price condemned by another \u2014 the debate IS the distribution"
     ],
     "most_effective_formats": [
-      "Single Tweet",
-      "Thread",
-      "Single Tweet or short thread",
-      "Single tweet",
-      "Single Tweet / Thread",
-      "Single Tweet or 3-tweet mini-thread",
-      "Single Tweet + embedded product demo",
-      "Single tweet + video"
+      "Single Tweet (under 280 characters, high authority signal)",
+      "Thread (8\u201312 tweets, educational or storytelling)",
+      "Single Tweet + shareable artifact (CLAUDE.md, GitHub gist, idea file)",
+      "Single tweet + video demo",
+      "Quote Tweet chain (controversy-driven)",
+      "Single Tweet with cryptic brand stunt",
+      "Short thread (3\u20135 tweets) with a falsifiable prediction opening"
     ],
     "most_effective_tones": [
       "authoritative",
+      "matter-of-fact (understatement for high-status moments)",
       "provocative",
       "educational",
       "urgent",
       "dry",
       "analytical",
       "casual",
-      "matter-of-fact"
+      "insider-alarm (\ud83d\udea8 + authority anchor)"
     ],
     "most_effective_triggers": [
       "fomo",
-      "identity",
-      "tribal",
-      "status",
-      "fear",
-      "curiosity",
-      "insider",
-      "community"
+      "identity threat",
+      "tribal accountability",
+      "status / authority transfer",
+      "fear of irrelevance",
+      "curiosity gap",
+      "insider knowledge",
+      "community justice / accountability",
+      "controversy / reply bait"
     ],
     "cross_niche_insights": [
       "Confessional satire (brag \u2192 reveal disaster) works identically in AI enterprise and crypto \u2014 the gap between hype and reality is the universal punchline",
@@ -4787,8 +4977,14 @@
       "Community grievance posts thrive when they combine personal data point + broad pattern + named villain + rallying cry \u2014 all four elements required",
       "Engagement velocity in the first 30\u201360 minutes is the dominant ranking signal on X in 2026 \u2014 early reply-seeding from a small network matters more than total followers",
       "Threads of 8\u201312 tweets outperform shorter threads by ~47% \u2014 the sweet spot is enough depth to feel educational but short enough to scroll fully",
-      "Crypto content visibility on X has structurally declined due to algorithm changes \u2014 crypto creators are migrating hooks to Telegram/Discord with X as amplification layer only"
+      "Crypto content visibility on X has structurally declined due to algorithm changes \u2014 crypto creators are migrating hooks to Telegram/Discord with X as amplification layer only",
+      "The highest-performing AI posts in May 2026 are not demos \u2014 they are behavioral confessions (I used to do X, now I do Y) anchored to a famous person's workflow change",
+      "Curation posts that anchor to a famous practitioner (Karpathy, Sam Altman) consistently outperform original takes by 2\u20134x \u2014 authority borrowing is the dominant amplifier pattern in AI content",
+      "The intersection of two hot niches (AI \u00d7 crypto, AI \u00d7 blockchain) generates 3\u20135x more engagement than single-niche posts \u2014 the cross-niche contrarian prediction is the highest-leverage format in 2026",
+      "On-chain accountability is crypto Twitter's unique weapon \u2014 any market timing claim without tx hash proof will be interrogated into viral controversy",
+      "Product launches that simultaneously excite one cohort and anger another generate more total engagement than universally positive launches \u2014 polarization is distribution in 2026",
+      "The 'artifact post' pattern (tweet + CLAUDE.md / GitHub gist / idea file) creates compounding distribution \u2014 the artifact recirculates independently and refers traffic back to the original post weeks later"
     ],
-    "last_updated": "2026-05-28"
+    "last_updated": "2026-05-29"
   }
 }
