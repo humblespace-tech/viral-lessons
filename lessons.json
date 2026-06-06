@@ -6218,6 +6218,186 @@
         "price-prediction",
         "debate-forcing"
       ]
+    },
+    "74090b78-4de3-4099-b2d8-7d93169451c6": {
+      "id": "74090b78-4de3-4099-b2d8-7d93169451c6",
+      "date_saved": "2026-06-06",
+      "topic_niche": "AI",
+      "format": "Single Tweet",
+      "hook_pattern": "Underestimation-phase declaration with lived-crisis comparison \u2014 name the exact disbelief phase a technology is in, then anchor it to a historical crisis everyone underestimated in real time",
+      "hook_template": "I think we're in the 'this seems overblown' phase of something much, much bigger than [widely-understood historical event].",
+      "psychological_trigger": "Identity threat + historical revisionism + contrarianism \u2014 forces readers to self-audit whether they are making the same mistake past generations made",
+      "structural_lesson": "Adopt the reader's current skeptical belief in the first clause, then weaponize it by framing it as a cognitive error shared by history's worst-informed people. The reader becomes the fool unless they reshare.",
+      "tone": "authoritative",
+      "applicable_niches": [
+        "AI",
+        "crypto",
+        "Web3",
+        "tech startups"
+      ],
+      "tags": [
+        "contrarian",
+        "historical-parallel",
+        "identity-threat",
+        "single-tweet",
+        "era-declaration"
+      ]
+    },
+    "e3ef38be-4b0f-4cc7-8c17-25c755c942e9": {
+      "id": "e3ef38be-4b0f-4cc7-8c17-25c755c942e9",
+      "date_saved": "2026-06-06",
+      "topic_niche": "AI",
+      "format": "Single Tweet",
+      "hook_pattern": "Celebrity-minimalist career pivot \u2014 a name the entire industry recognizes announces a seismic move in fewer words than a grocery list",
+      "hook_template": "Personal update: I've joined [organization].",
+      "psychological_trigger": "Social proof + FOMO + status signaling \u2014 the brevity is the signal; high-status actors don't oversell their moves; understatement implies the magnitude is self-evident",
+      "structural_lesson": "No evidence, no pitch, no explanation. The credibility is entirely front-loaded into the person's name and the destination organization. Every additional word would have diluted engagement by implying the move needed justification.",
+      "tone": "authoritative",
+      "applicable_niches": [
+        "AI",
+        "tech startups"
+      ],
+      "tags": [
+        "ultra-minimal",
+        "celebrity-move",
+        "social-proof",
+        "single-tweet",
+        "career-announcement"
+      ]
+    },
+    "50dbd7f1-0125-42be-96ad-179f7ddbb8f7": {
+      "id": "50dbd7f1-0125-42be-96ad-179f7ddbb8f7",
+      "date_saved": "2026-06-06",
+      "topic_niche": "AI",
+      "format": "Single Tweet",
+      "hook_pattern": "Privacy-inversion reveal with surveillance math \u2014 state how much a platform knows about the user, frame it as something users didn't ask for, then offer the uncomfortable calculation that makes it real",
+      "hook_template": "ChatGPT's memory just went from [low %] accuracy to [high %]. That means AI now knows [specific intimate thing about your life] \u2014 and the audit trail just got harder to find.",
+      "psychological_trigger": "Identity threat + fear + curiosity gap \u2014 triggers protective sharing ('warn my network') combined with information-seeking behavior ('how do I check this')",
+      "structural_lesson": "Open with a benchmark improvement that sounds like good news, pivot immediately to the privacy implication that makes it bad news, close with the specific control failure that makes it actionable. Three beats, one tweet.",
+      "tone": "provocative",
+      "applicable_niches": [
+        "AI",
+        "tech startups"
+      ],
+      "tags": [
+        "privacy-threat",
+        "before-after-data",
+        "identity-threat",
+        "single-tweet",
+        "surveillance-reveal"
+      ]
+    },
+    "b8e35cd0-2664-44e5-860d-ac120e9bc914": {
+      "id": "b8e35cd0-2664-44e5-860d-ac120e9bc914",
+      "date_saved": "2026-06-06",
+      "topic_niche": "AI/tech startups",
+      "format": "Single Tweet",
+      "hook_pattern": "Dependency-severance declaration \u2014 a subsidiary publicly cuts its most famous dependency, framed as independence, without naming the relationship as anything but strategic evolution",
+      "hook_template": "Microsoft just shipped [N] models trained entirely without [dominant partner]'s data. Long-term self-sufficiency is no longer a roadmap item. It shipped.",
+      "psychological_trigger": "Tribal allegiance + FOMO + paradigm shift \u2014 forces the audience to pick a side (incumbent vs. insurgent), implies the old partnership was a liability, signals a new power structure",
+      "structural_lesson": "Lead with the deliverable count (specificity builds credibility), name the dependency being severed, close with a declaration that converts the product launch into a power move. Never use the word 'rival' \u2014 let the product do the threatening.",
+      "tone": "authoritative",
+      "applicable_niches": [
+        "AI",
+        "tech startups"
+      ],
+      "tags": [
+        "independence-narrative",
+        "paradigm-shift",
+        "tribal-allegiance",
+        "single-tweet",
+        "product-launch"
+      ]
+    },
+    "7a1b6732-05c2-49c0-aa11-1379e572d83b": {
+      "id": "7a1b6732-05c2-49c0-aa11-1379e572d83b",
+      "date_saved": "2026-06-06",
+      "topic_niche": "crypto/Web3",
+      "format": "Thread",
+      "hook_pattern": "Asset class identity crisis crystallization \u2014 name the exact psychological state an entire market is experiencing using one phrase that converts passive investors into active debaters",
+      "hook_template": "With [dominant trend] sucking all the oxygen out of the room, [your asset class] is being forced through a painful metamorphosis: from [old identity] to [new identity].",
+      "psychological_trigger": "Identity threat + contrarianism + social proof from authority \u2014 a credentialed insider (CIO) names an uncomfortable truth the community secretly knows but hasn't articulated; sharing the framing signals market sophistication",
+      "structural_lesson": "Open with the named external threat stealing attention, use physical/biological language ('painful metamorphosis') to convey the severity without using financial fear language, close with the reframe that gives sophisticated readers a new identity ('I'm a contrarian investor'). Turns a loss narrative into a positioning opportunity.",
+      "tone": "authoritative",
+      "applicable_niches": [
+        "crypto",
+        "Web3",
+        "AI"
+      ],
+      "tags": [
+        "identity-crisis",
+        "contrarian",
+        "market-reframe",
+        "thread",
+        "authority-declaration"
+      ]
+    },
+    "adb90381-5e30-42b2-91b0-03e17f36f3ee": {
+      "id": "adb90381-5e30-42b2-91b0-03e17f36f3ee",
+      "date_saved": "2026-06-06",
+      "topic_niche": "crypto/Web3",
+      "format": "Single Tweet",
+      "hook_pattern": "Brand self-negation stunt \u2014 an official brand account posts a message that contradicts its own industry's value proposition, then hides the bullish thesis in fine print or a secondary handle",
+      "hook_template": "Don't waste time with [your own industry]. [Punchline that inverts the expected message completely.]",
+      "psychological_trigger": "Curiosity gap + subverted expectations + community speculation \u2014 the contradiction forces the audience to reconcile the dissonance; the resolution (AI agents will handle it) rewards the engaged reader while the confused reaction creates distribution",
+      "structural_lesson": "The hook IS the contradiction. An official account saying the opposite of what it should say is inherently newsworthy. The speculation triggered by the cryptic follow-up generates more distribution than a direct pitch ever would. Commit fully to the anti-message; any hedge destroys the effect.",
+      "tone": "provocative",
+      "applicable_niches": [
+        "crypto",
+        "Web3",
+        "AI"
+      ],
+      "tags": [
+        "brand-stunt",
+        "subverted-expectations",
+        "curiosity-gap",
+        "single-tweet",
+        "contrarian-marketing"
+      ]
+    },
+    "0c7fdbe5-10a2-4eff-8e86-3733f1f44189": {
+      "id": "0c7fdbe5-10a2-4eff-8e86-3733f1f44189",
+      "date_saved": "2026-06-06",
+      "topic_niche": "AI/tech startups",
+      "format": "Single Tweet",
+      "hook_pattern": "Revenue velocity shock reveal \u2014 present a single growth metric so extreme it defies normal business logic, then let the arithmetic do the arguing for you",
+      "hook_template": "Anthropic's revenue just went from [small number] to [5x larger number] in [time period]. That's not a hockey stick. That's a vertical line.",
+      "psychological_trigger": "FOMO + social proof + paradigm shift \u2014 the specific numbers create credibility; the invented metaphor ('vertical line') converts a data point into a shareable image; readers signal financial intelligence by amplifying the stat",
+      "structural_lesson": "Lead with the before/after numbers, name the time window (makes the velocity feel faster), then give the reader a metaphor or image that converts the data point into an opinion. The metaphor does the emotional lifting; the numbers provide the credibility armor.",
+      "tone": "authoritative",
+      "applicable_niches": [
+        "AI",
+        "tech startups"
+      ],
+      "tags": [
+        "revenue-reveal",
+        "shock-number",
+        "FOMO",
+        "single-tweet",
+        "growth-data"
+      ]
+    },
+    "0a313e53-5dce-422a-9f49-5d8e6fd453f9": {
+      "id": "0a313e53-5dce-422a-9f49-5d8e6fd453f9",
+      "date_saved": "2026-06-06",
+      "topic_niche": "crypto/Web3",
+      "format": "Thread",
+      "hook_pattern": "IPO-wave displacement narrative \u2014 document who lost the attention competition, name the winner that stole the oxygen, then flip the framing from 'crypto lost' to 'this is the setup for the next crypto supercycle'",
+      "hook_template": "[N] major crypto IPOs were shelved this year. Not because the companies failed. Because [competing category] sucked all the investor oxygen out of the room. Here's why that's actually a setup \u2014 not a eulogy.",
+      "psychological_trigger": "FOMO + contrarianism + reframing \u2014 the audience's existing fear of being left behind is validated in the first beat, then re-directed toward optimism; resharing signals the poster is 'ahead of consensus'",
+      "structural_lesson": "Open by naming the specific entities that paused (Kraken, Ledger, Consensys, Grayscale) \u2014 specificity makes it credible and serious. Then reverse the frame: the delay isn't weakness, it's coiled spring energy. End on a conviction statement that rewards the reader's loyalty to the asset class.",
+      "tone": "authoritative",
+      "applicable_niches": [
+        "crypto",
+        "Web3"
+      ],
+      "tags": [
+        "displacement-narrative",
+        "FOMO",
+        "contrarian-reframe",
+        "thread",
+        "supercycle-setup"
+      ]
     }
   },
   "patterns": {
@@ -6293,7 +6473,15 @@
       "Macro fear signal + micro structural winner pairing \u2014 contrast a widely-visible bearish sentiment indicator with a specific ATH or dominant metric for a single hidden winner to imply the crowd is looking at the wrong thing",
       "Problem diagnosis inversion \u2014 'the entire industry is treating X as the problem; the actual problem is Y' \u2014 where Y is a less glamorous, infrastructure-level issue that reframes all existing solutions as addressing the wrong layer",
       "AI as adversarial creative weapon \u2014 AI-generated cinematic or satirical content about a target designed to get a reaction from both the subject AND their opponent, converting both reactions into distribution",
-      "Verb-switch paradigm crystallization \u2014 '[Year]: [technology] stopped [old verb], started [new verb]' \u2014 reduces an entire paradigm shift to a two-verb contrast anyone can share as an era-declaration"
+      "Verb-switch paradigm crystallization \u2014 '[Year]: [technology] stopped [old verb], started [new verb]' \u2014 reduces an entire paradigm shift to a two-verb contrast anyone can share as an era-declaration",
+      "Underestimation-phase declaration with lived-crisis comparison \u2014 adopt the reader's current skepticism as a cognitive error they share with history's worst-informed people",
+      "Celebrity-minimalist career pivot \u2014 the credibility is entirely front-loaded into the name and destination; brevity implies the magnitude is self-evident",
+      "Privacy-inversion reveal with surveillance math \u2014 open with a good-news benchmark, pivot to its privacy implication, close with the specific control failure",
+      "Dependency-severance declaration \u2014 lead with deliverable count, name the severed dependency, close with a declaration that converts a product launch into a power move",
+      "Asset class identity crisis crystallization \u2014 use biological language ('painful metamorphosis') to convert a loss narrative into a sophisticated investor identity",
+      "Brand self-negation stunt \u2014 official account posts a message contradicting its own industry, hides the bullish thesis in fine print, speculation generates distribution",
+      "Revenue velocity shock reveal \u2014 present a before/after growth metric, name the time window to maximize velocity feel, give a metaphor that converts data into a shareable image",
+      "IPO-wave displacement narrative \u2014 document who lost the attention competition, name the winner, flip 'lost' to 'coiled spring setup' for the next cycle"
     ],
     "most_effective_formats": [
       "Single Tweet (under 280 characters, high authority signal)",
@@ -6321,7 +6509,9 @@
       "Short thread (3-5 tweets) with objective data lead + contrarian pivot + named specific winners",
       "Single Tweet (verb-switch paradigm declaration, under 15 words)",
       "Thread (anniversary + successor concept launch)",
-      "Tweet + AI-generated video (adversarial/satirical cinematic content)"
+      "Tweet + AI-generated video (adversarial/satirical cinematic content)",
+      "Single Tweet (privacy-inversion reveal: good-news metric \u2192 bad-news implication \u2192 control-failure close)",
+      "Thread (identity-crisis + contrarian reframe: name the losing state \u2192 reframe as sophisticated positioning \u2192 name specific idiosyncratic winners)"
     ],
     "most_effective_tones": [
       "authoritative",
@@ -6350,7 +6540,9 @@
       "deadpan-scientific (AI as character in controlled experiment narrative)",
       "contrarian-analytical (data-led reframe of losing asset as opportunity)",
       "clinical-insider (authoritative but self-implicating)",
-      "reflective-humble-authority (confessional + successor)"
+      "reflective-humble-authority (confessional + successor)",
+      "Authoritative-then-uncomfortable: open as neutral analyst, pivot to the implication that exposes a widely-held error",
+      "Self-negating brand voice: official account contradicts its own category \u2014 the dissonance IS the hook"
     ],
     "most_effective_triggers": [
       "fomo",
@@ -6387,7 +6579,10 @@
       "challenger narrative (new tool vs. dominant incumbent forces tribal allegiance and ref votes)",
       "Forced self-classification (readers must publicly pick which camp they're in)",
       "Dual-outrage loop (content designed to get reactions from both the target AND their rival)",
-      "Authenticity-backed authority (confession of accidental virality earns trust for deliberate follow-up)"
+      "Authenticity-backed authority (confession of accidental virality earns trust for deliberate follow-up)",
+      "Privacy identity threat: AI knows more about you than you consented to \u2192 protective sharing instinct",
+      "Asset class metamorphosis: your investment changed identity while you weren't looking \u2192 forces self-audit and side-picking",
+      "Revenue velocity disbelief: growth so fast it breaks normal mental models \u2192 FOMO + social proof sharing"
     ],
     "cross_niche_insights": [
       "Confessional satire (brag \u2192 reveal disaster) works identically in AI enterprise and crypto \u2014 the gap between hype and reality is the universal punchline",
@@ -6448,8 +6643,11 @@
       "The 'I see the wrong diagnosis' move works in any niche: the hook works by naming the wrong layer everyone is building on (model vs. runtime in AI; price vs. volume in crypto; features vs. distribution in SaaS).",
       "Vocabulary coining is niche-agnostic \u2014 whichever community first names a shared unnamed feeling owns the conversation around it. Clinical-sounding invented terms outperform descriptive phrases because they become proper nouns that others use in replies, amplifying the original post.",
       "Macro-vs-micro contrarian pairs work in any market niche: one headline fear metric + one structural winner ATH = a complete thesis. The reader does the inference work, which creates engagement.",
-      "Verb-switch declarations are the highest-compression paradigm posts \u2014 applicable to AI, crypto, SaaS, creator economy. Any major behavioral shift in a technology can be reduced to 'stopped X, started Y' and the simplicity IS the virality mechanism."
+      "Verb-switch declarations are the highest-compression paradigm posts \u2014 applicable to AI, crypto, SaaS, creator economy. Any major behavioral shift in a technology can be reduced to 'stopped X, started Y' and the simplicity IS the virality mechanism.",
+      "The AI\u2013crypto narrative collision is the dominant theme of June 2026: AI is stealing crypto's IPO oxygen, AI agents are becoming crypto's primary users, and the most viral posts are those that name this tension explicitly rather than treating the two niches as separate.",
+      "Brevity-credibility inversion: the biggest announcements in June 2026 used the fewest words. High-status actors signal magnitude through minimalism \u2014 the less they explain, the more the audience assumes they don't need to.",
+      "Surveillance ambivalence is a newly-unlocked trigger: product improvements now routinely generate both celebration (capability) and fear (privacy) in the same audience \u2014 the most viral posts hold both simultaneously without resolving the tension."
     ],
-    "last_updated": "2026-06-05"
+    "last_updated": "2026-06-06"
   }
 }
