@@ -7392,6 +7392,208 @@
         "existential-FOMO",
         "awe-dread-hybrid"
       ]
+    },
+    "242884a0-35b7-4474-9c1c-3e9cb508a920": {
+      "id": "242884a0-35b7-4474-9c1c-3e9cb508a920",
+      "date_saved": "2026-06-12",
+      "topic_niche": "crypto/Web3",
+      "format": "Single Tweet",
+      "hook_pattern": "Radical failure admission \u2014 'It did not work' \u2014 with no deflection, no blame-shifting, full ownership",
+      "hook_template": "We tried [X]. It did not work. Not because of [common excuse people expect]. Because [honest root cause that surprises]. Here's what we learned.",
+      "psychological_trigger": "Authenticity gap \u2014 in a culture of relentless bullishness, radical honesty is the rarest and most shareable signal",
+      "structural_lesson": "Open with a flat, undeniable failure declaration. Immediately disarm the expected excuses (security failed, got hacked) and replace with the harder truth (no demand existed). Specificity of what DID work (100% uptime, zero incidents) makes the admission more credible. Close with honest forward implication for the sector, not self-pity.",
+      "tone": "vulnerable, direct, honest",
+      "applicable_niches": [
+        "crypto",
+        "Web3",
+        "DeFi",
+        "tech startups"
+      ],
+      "tags": [
+        "failure-postmortem",
+        "radical-honesty",
+        "contrarian",
+        "authentic",
+        "single-tweet",
+        "crypto"
+      ]
+    },
+    "42ffcc73-8c6b-4f43-8661-1b115f4d3488": {
+      "id": "42ffcc73-8c6b-4f43-8661-1b115f4d3488",
+      "date_saved": "2026-06-12",
+      "topic_niche": "AI",
+      "format": "Single Tweet + Demo/Screenshot",
+      "hook_pattern": "Hard number + compressed timeframe + 'while you slept' framing to signal the unstoppable machine pace",
+      "hook_template": "[Implausibly large number] [units] in [short time]. AI did it [autonomous framing \u2014 while I slept / unsupervised / overnight]. The result: [specific % or metric improvement].",
+      "psychological_trigger": "Existential FOMO + wonder \u2014 the gap between human and machine output speed triggers both awe and urgency",
+      "structural_lesson": "Lead with the raw numbers without any preamble \u2014 let the math shock the reader first. Then reveal the human context (you stepped away, it worked alone). Then surface the implication for the entire field ('all frontier labs will do this'). Close with a 'first contact' energy statement that positions this as a turning point, not a demo.",
+      "tone": "authoritative, playful, slightly unhinged in the best way",
+      "applicable_niches": [
+        "AI",
+        "machine learning",
+        "tech startups",
+        "research"
+      ],
+      "tags": [
+        "autonomous-agent",
+        "demo",
+        "hard-numbers",
+        "FOMO",
+        "future-framing",
+        "AI"
+      ]
+    },
+    "e00463af-8532-40c5-a3b0-7b348a118ad2": {
+      "id": "e00463af-8532-40c5-a3b0-7b348a118ad2",
+      "date_saved": "2026-06-12",
+      "topic_niche": "AI",
+      "format": "Quote Tweet / Reply",
+      "hook_pattern": "High-credibility third-party validates a tool in a production context with a specific metric \u2014 the validation tweet outperforms the original announcement",
+      "hook_template": "Tried [tool/method] on [real production context, not a toy demo]. Ran [X time]. Result: [specific % or metric gain]. [Short implication].",
+      "psychological_trigger": "Social proof + authority escalation \u2014 a CEO or recognizable operator running something on real production data converts skeptics that demos never reach",
+      "structural_lesson": "The reply or quote tweet from a credible outside voice is often more viral than the original post. Structure: credible identity signal \u2192 production context \u2192 time elapsed \u2192 specific numerical result \u2192 single-line implication. No hype language needed \u2014 the numbers carry the weight. Zero exclamation marks.",
+      "tone": "matter-of-fact, authoritative, understated",
+      "applicable_niches": [
+        "AI",
+        "tech startups",
+        "SaaS",
+        "enterprise"
+      ],
+      "tags": [
+        "social-proof",
+        "authority-endorsement",
+        "production-context",
+        "metrics",
+        "reply-tweet",
+        "AI"
+      ]
+    },
+    "3d413406-533e-4159-8261-cd76dc85ba83": {
+      "id": "3d413406-533e-4159-8261-cd76dc85ba83",
+      "date_saved": "2026-06-12",
+      "topic_niche": "AI/tech startups",
+      "format": "Single Tweet",
+      "hook_pattern": "Counterintuitive IP or business strategy claim driven by a specific AI-age mechanism \u2014 the old playbook is now a liability",
+      "hook_template": "The conventional wisdom about [established practice] is now backwards because of AI. The moment you [old practice], [AI mechanism] can [specific threat]. [New default behavior] will become the norm.",
+      "psychological_trigger": "Paradigm shift + identity threat \u2014 challenges a founder or operator's deeply held belief with a crisp, specific AI-age mechanism they can't ignore",
+      "structural_lesson": "Lead with the bold reversal claim. Immediately attach the specific AI mechanism that makes it true (not vague AI hype \u2014 a precise mechanism). Then state the new behavior as a prediction-plus-recommendation. Under 3 sentences for maximum share velocity. No hedging.",
+      "tone": "provocative, confident, contrarian",
+      "applicable_niches": [
+        "AI",
+        "tech startups",
+        "VC",
+        "law",
+        "product"
+      ],
+      "tags": [
+        "contrarian",
+        "hot-take",
+        "AI-mechanism",
+        "paradigm-shift",
+        "strategy",
+        "single-tweet"
+      ]
+    },
+    "e15159de-b77a-4ea3-9532-ee7cb34b1a2e": {
+      "id": "e15159de-b77a-4ea3-9532-ee7cb34b1a2e",
+      "date_saved": "2026-06-12",
+      "topic_niche": "AI",
+      "format": "Single Tweet",
+      "hook_pattern": "Behavioral norm shift framed as already-arrived \u2014 describes the new default as present tense, making readers feel behind",
+      "hook_template": "In the [AI/agent/LLM] era, there's less point in [old behavior]. You just [new, simpler behavior] instead. The [artifact/output] is [reframed as less important than the idea].",
+      "psychological_trigger": "Curiosity gap + status anxiety \u2014 the post implies an already-changed world that the reader may not have caught up to yet; creates urgency without fear",
+      "structural_lesson": "State the new norm as an observation, not an opinion. Present tense only. Keep it to 1-2 sentences. The power comes from confidence \u2014 no 'I think', no 'maybe soon'. Let the audience's reaction (confirmation or pushback) drive the distribution. Ideal for thought leaders whose credibility lends authority to the declarative.",
+      "tone": "calm, confident, prescient",
+      "applicable_niches": [
+        "AI",
+        "tech",
+        "developer tools",
+        "research"
+      ],
+      "tags": [
+        "norm-shift",
+        "declarative",
+        "thought-leadership",
+        "single-tweet",
+        "identity-cue",
+        "AI"
+      ]
+    },
+    "9fff17fa-967b-4ae3-b1d3-99a0104bd7c7": {
+      "id": "9fff17fa-967b-4ae3-b1d3-99a0104bd7c7",
+      "date_saved": "2026-06-12",
+      "topic_niche": "AI",
+      "format": "Single Tweet",
+      "hook_pattern": "Named insider calls out a competitor's safety violation using specific evidence \u2014 combines tribal signal with moral authority",
+      "hook_template": "[Company] launched [product] without [safety/standard practice]. This is [strong adjective] and breaks with industry best practices followed by [credible competitors]. [Specific evidence of the violation].",
+      "psychological_trigger": "Moral outrage + tribal identity + authority credibility \u2014 the tweet positions a named expert as the conscience of an industry, generating both supportive and defensive engagement from all sides",
+      "structural_lesson": "Name the company explicitly. Name the missing practice specifically \u2014 not vague 'safety concerns' but 'no documentation of safety testing'. Contrast directly with industry norm (what others do). Attach named credentials of the poster for authority. Keep it factual and clinical in tone \u2014 the gravity of the claim carries the emotion without editorializing.",
+      "tone": "clinical, authoritative, measured outrage",
+      "applicable_niches": [
+        "AI",
+        "tech policy",
+        "safety",
+        "startups"
+      ],
+      "tags": [
+        "competitor-callout",
+        "AI-safety",
+        "moral-authority",
+        "industry-standard",
+        "insider",
+        "single-tweet"
+      ]
+    },
+    "fc27a7dd-1c09-4726-91be-cfaf139c9fef": {
+      "id": "fc27a7dd-1c09-4726-91be-cfaf139c9fef",
+      "date_saved": "2026-06-12",
+      "topic_niche": "AI/tech startups",
+      "format": "Single Tweet",
+      "hook_pattern": "Personal time-compressed productivity outcome with credibility marker \u2014 'wildly productive weekend' with a named tool and a comparison to old effort",
+      "hook_template": "[Extremely productive time claim]. Used [specific tool]. What would have taken [old time/cost]. [Question or provocation that invites debate about whether this is good or bad].",
+      "psychological_trigger": "FOMO + identity aspiration + debate bait \u2014 the specific outcome triggers desire (I want that) while the implicit question about what it means for professionals triggers argument (generating replies)",
+      "structural_lesson": "The opener must be specific and time-bounded ('this weekend', 'in 3 hours'). Include a before/after comparison even if implied. The credibility marker (former exec, CTO, senior engineer) must appear naturally \u2014 not bragging. End with a single framing question that invites a binary debate: good or bad? signal or noise? future or threat? This debate IS the distribution engine.",
+      "tone": "enthusiastic, conversational, debate-inviting",
+      "applicable_niches": [
+        "AI",
+        "tech startups",
+        "SaaS",
+        "developer tools",
+        "productivity"
+      ],
+      "tags": [
+        "productivity-outcome",
+        "before-after",
+        "debate-bait",
+        "FOMO",
+        "personal-anecdote",
+        "AI"
+      ]
+    },
+    "5d89db7b-eb6c-46a6-b8d7-a8b9d965b71a": {
+      "id": "5d89db7b-eb6c-46a6-b8d7-a8b9d965b71a",
+      "date_saved": "2026-06-12",
+      "topic_niche": "AI/tech",
+      "format": "Tweet + Video",
+      "hook_pattern": "Minimalist demo drop \u2014 show the impossible-seeming AI output, then end with a single provocative question that creates desire for the next step",
+      "hook_template": "[Product/feature name]. [One-sentence description of what the demo shows]. Want [the next, bigger version of this]?",
+      "psychological_trigger": "Wonder + desire + FOMO \u2014 visual proof of a new capability needs almost no copy; the single provocative question transforms passive wonder into active desire",
+      "structural_lesson": "Let the media (video/image) carry the cognitive load. The tweet text should be minimal \u2014 under 15 words. Name the product or feature once. Then close with a question that extends the desire ('Want full movie?'). No features list, no explanation. The provocative question at the end signals confidence in the product and generates both excitement and sarcastic replies \u2014 both are engagement.",
+      "tone": "minimal, confident, playful",
+      "applicable_niches": [
+        "AI",
+        "tech",
+        "media/video",
+        "consumer products"
+      ],
+      "tags": [
+        "demo-drop",
+        "minimalist-copy",
+        "video",
+        "desire-creation",
+        "provocative-question",
+        "AI"
+      ]
     }
   },
   "patterns": {
@@ -7415,11 +7617,7 @@
       "Research stat + 'but here's the part nobody is talking about' \u2014 the pivot clause is the real hook",
       "Name the scariest feature as the flagship \u2014 power-fantasy branding of the dangerous option (Beast Mode hook)",
       "Lead with the shocking dollar amount lost, walk backwards through the absurd-but-real mechanism (reverse causality reveal)",
-      "The 'Black Mirror episode but it launched last week' hook \u2014 frame real product as dystopian sci-fi",
-      "Dethroning consensus death narrative: 'X is not dead' + single counter-force that resurrects it",
-      "Platform rules changed and you missed it \u2014 counter-intuitive stat + immediate actionability",
-      "Meta-irony reveal: VCs are funding [the thing that counters what they're funding] \u2014 ouroboros narrative",
-      "An AI already achieved [human aspiration] without being told to \u2014 calm delivery of existential displacement"
+      "The 'Black Mirror episode but it launched last week' hook \u2014 frame real product as dystopian sci-fi"
     ],
     "most_effective_formats": [
       "Single punchy tweet with one specific number or claim (ultra-scannable)",
@@ -7434,7 +7632,9 @@
       "Product launch post naming extreme mode first, safe mode second \u2014 danger as the hook, safety as the reassurance",
       "Mechanism-reveal starting with dollar amount lost \u2192 absurd attack vector \u2192 step-by-step walkthrough",
       "Extreme use-case list thread (what are people ACTUALLY doing with this) \u2014 each example independently shareable",
-      "Platform meta-thread: counter-intuitive algorithm stat \u2192 old advice debunked \u2192 new formula \u2192 reply-bait question"
+      "Platform meta-thread: counter-intuitive algorithm stat \u2192 old advice debunked \u2192 new formula \u2192 reply-bait question",
+      "Single Tweet (radical honesty / failure postmortem)",
+      "Tweet + Video (minimalist demo drop)"
     ],
     "most_effective_tones": [
       "Calm urgency with confessional credibility (authoritative-yet-vulnerable)",
@@ -7446,7 +7646,9 @@
       "Casual nonchalance (from high-authority accounts \u2014 the effort-signal mismatch is the hook)",
       "Quietly alarmed (I found something \u2014 not panic, but you should know this)",
       "Matter-of-fact delivery of extraordinary AI displacement (calm > alarmed for existential topics \u2014 understatement amplifies impact)",
-      "Black Mirror narrator (clinical description of something morally disturbing without editorializing)"
+      "Black Mirror narrator (clinical description of something morally disturbing without editorializing)",
+      "Vulnerable/honest (radical admission)",
+      "Playfully unhinged + authoritative (AI agent demos)"
     ],
     "most_effective_triggers": [
       "Epistemic fear: 'what if the dismissed thing is real and it's too late?'",
@@ -7463,11 +7665,7 @@
       "Consensus destruction: I ran the numbers on everyone's favourite bullish trade \u2014 thread",
       "Reply-bait question: close with a personal provocation question to activate X's 150x reply multiplier",
       "Power-fantasy naming (Beast Mode, God Mode) \u2014 transforms fear of AI autonomy into aspiration",
-      "Mechanism-implausibility shock: the more absurd the attack vector, the more readers feel compelled to verify",
-      "Moral outrage as distribution: platforms that sound dystopian generate angry shares from BOTH camps",
-      "Pavlovian cadence pull: machine-level posting consistency creates habituated return audiences",
-      "Meta-irony trigger: when the funding round itself reveals the irony of the current cycle",
-      "Existential displacement: AI already achieved what you aspire to \u2014 calm delivery maximizes awe/dread"
+      "Mechanism-implausibility shock: the more absurd the attack vector, the more readers feel compelled to verify"
     ],
     "cross_niche_insights": [
       "The AI x crypto narrative collision is the dominant theme of June 2026 \u2014 AI agent tokens, DeFAI, and autonomous on-chain agents are the hottest cross-niche content",
@@ -7484,18 +7682,8 @@
       "X algorithm 2026: text-first posts now outperform video by ~30% for reach \u2014 the previous wisdom of 'always add media' no longer holds in AI/tech niches",
       "X algorithm 2026: external links in the main tweet body are penalized \u2014 put any URL in the first reply instead; this alone can 2-3x impressions on the same content",
       "The AI cost anxiety narrative is the dominant enterprise tech topic of June 2026 \u2014 posts framing AI tools as a budget risk get massive engagement from CTOs, CFOs, and skeptical operators",
-      "AI agent security is an emerging cross-niche explosive topic \u2014 prompt injection, wallet draining, and agentic exploits bridge crypto and AI audiences in a single post",
-      "The 'corporate tool cancellation' format (Microsoft kills Claude Code, Uber caps spending) generates tribal replies from both defenders and critics, effectively doubling organic reach",
-      "Casual ambiguity from high-authority crypto figures (CZ-style) can spawn entire sub-markets within hours \u2014 intentional vagueness is a legitimate influence tactic at scale",
-      "The 'AI Beast Mode' naming pattern (MetaMask, June 2026) is a replicable product launch tactic: name your most autonomous/risky feature after a power fantasy to make adopters feel elite rather than reckless",
-      "Security exploits at the AI+crypto intersection (Morse code attack, $200K drain) are now the single highest-engagement story class \u2014 they bridge both audiences and include a dollar amount, mechanism novelty, and urgency",
-      "Pump.fun GO (June 2026) proved that when a crypto product sounds like a Black Mirror episode, the dystopian comparison IS the viral distribution mechanism \u2014 don't fight the comparison, lean into it",
-      "DeFi+AI narrative collision is now the dominant crypto narrative of mid-2026: 340% TVL growth in AI-powered crypto since 2025, MetaMask/Coinbase launching agentic wallets, AIXBT reaching $500M market cap as an AI-run token",
-      "AIXBT's model (hourly posting by an AI agent, Pavlovian audience conditioning) proves that radical consistency at machine cadence creates organic authority that human creators struggle to match \u2014 study AI accounts to understand where human content is being displaced",
-      "The X algorithm's 2026 reply-weight change (150x multiplier) has made 'reply-bait' the single highest-ROI post optimization \u2014 every post should close with a direct personal question, not a call to share",
-      "AI efficiency / cloud cost management is the hot VC theme of June 2026 (PointFive $60M, PhysicsX $300M) \u2014 content framing AI as a cost center rather than pure value driver is now contrarian AND data-backed",
-      "Truth Terminal / GOAT token demonstrated that autonomous AI agents running their own social + financial operations create the most existentially engaging content category \u2014 'AI doing human things without being told to' beats all other AI content formats"
+      "AI agent security is an emerging cross-niche explosive topic \u2014 prompt injection, wallet draining, and agentic exploits bridge crypto and AI audiences in a single post"
     ],
-    "last_updated": "2026-06-11"
+    "last_updated": "2026-06-12"
   }
 }
