@@ -8383,6 +8383,200 @@
         "aphoristic",
         "empowerment-hook"
       ]
+    },
+    "337b98e2-3302-4c84-bc7b-053467a909e3": {
+      "id": "337b98e2-3302-4c84-bc7b-053467a909e3",
+      "date_saved": "2026-06-17",
+      "topic_niche": "AI",
+      "format": "Single Tweet",
+      "hook_pattern": "All-caps breaking alert + institutional entity 'PWNED' + product name 'LIBERATED' \u2014 zero-context shock announcement that forces the audience to seek context",
+      "hook_template": "ALERT: [COMPANY/SYSTEM] PWNED. [PRODUCT] LIBERATED. [One-word implication or technique name].",
+      "psychological_trigger": "shock / forbidden knowledge / FOMO / fear of missing breaking news",
+      "structural_lesson": "Open with an all-caps maximum-alarm phrase. Name the victim entity (company), name the act (pwned), name the liberation event. Zero explanation forces engagement as readers must reply or click to understand. Works only when subject matter is inherently high-stakes and the audience already cares deeply about the topic. The gap between the claim and the missing explanation IS the virality engine.",
+      "tone": "provocative",
+      "applicable_niches": [
+        "AI",
+        "crypto",
+        "cybersecurity"
+      ],
+      "tags": [
+        "all-caps-shock",
+        "breaking-news",
+        "forbidden-knowledge",
+        "FOMO",
+        "single-tweet",
+        "jailbreak"
+      ]
+    },
+    "1e971b41-faf9-473f-a020-f5ad470d998d": {
+      "id": "1e971b41-faf9-473f-a020-f5ad470d998d",
+      "date_saved": "2026-06-17",
+      "topic_niche": "AI",
+      "format": "Single Tweet",
+      "hook_pattern": "Hyperbolic insider first-person witness report: 'The [action] has induced the [superlative emotion] reaction from [respected group] that I've ever seen in my life'",
+      "hook_template": "The [controversial product decision / policy change] has induced the [most intense / angriest / most unanimous] reaction from [respected/expert community] that I've ever seen in my life.",
+      "psychological_trigger": "social proof / identity threat / authority signal / tribalism \u2014 readers either identify with the angry group or feel compelled to understand why",
+      "structural_lesson": "Position yourself as a trusted insider witnessing a historic moment of community emotion. Superlative language ('angriest ever') signals unprecedented scale while staying opinion-safe. The named group gives readers a tribe to identify with or react against. Personal credibility is the prerequisite \u2014 this only works if you are a known member of the community you're reporting on.",
+      "tone": "authoritative",
+      "applicable_niches": [
+        "AI",
+        "tech"
+      ],
+      "tags": [
+        "insider-witness",
+        "superlative",
+        "social-proof",
+        "authority",
+        "single-tweet",
+        "community-anger"
+      ]
+    },
+    "aeca9b33-b0be-4906-bf72-60501cb675aa": {
+      "id": "aeca9b33-b0be-4906-bf72-60501cb675aa",
+      "date_saved": "2026-06-17",
+      "topic_niche": "AI",
+      "format": "Thread",
+      "hook_pattern": "Vague urgency title + personal warning frame: 'Something [Big/Real/Scary] Is Happening' framed as a message written for loved ones, not the audience",
+      "hook_template": "Something [big / important / irreversible] is happening. I wrote this for [my family / people I love / people who don't work in tech]. Here's what I think you should know.",
+      "psychological_trigger": "fear / FOMO / personal urgency / status anxiety / empathy \u2014 the 'for family' framing signals genuine belief, not promotion",
+      "structural_lesson": "Lead with an ominous vague title that sounds like a personal revelation, not a product pitch. Frame the essay as a warning to loved ones (not the audience) to signal genuine conviction. Use a recent catalytic event as the inciting moment. Build with sensory metaphors ('water rising to your chest'), data, and personal stakes. End with empowerment steps to counteract the fear. 5,000-word depth signals investment and authority. The framing of 'for family' bypasses cynicism.",
+      "tone": "urgent / vulnerable",
+      "applicable_niches": [
+        "AI",
+        "tech",
+        "crypto"
+      ],
+      "tags": [
+        "fear-trigger",
+        "personal-warning",
+        "long-form",
+        "career-anxiety",
+        "FOMO",
+        "thread",
+        "essay"
+      ]
+    },
+    "bb2bd719-5a9f-4fd9-9984-ee5aa8411353": {
+      "id": "bb2bd719-5a9f-4fd9-9984-ee5aa8411353",
+      "date_saved": "2026-06-17",
+      "topic_niche": "AI",
+      "format": "Thread",
+      "hook_pattern": "Disproportionate-outcome surprise: a shockingly small or simple artifact produced a shockingly large result \u2014 then 'here's what it actually contains' as payoff",
+      "hook_template": "A [N]-line [file / post / document] hit [X] [stars/likes/views] in [Y] [days/weeks]. Most [devs/people] still haven't [read/seen] it. Here's what's actually inside.",
+      "psychological_trigger": "curiosity gap / FOMO / social proof / information asymmetry \u2014 readers feel behind and must catch up",
+      "structural_lesson": "Open with a jarring size-vs-impact contradiction (70-line file \u2192 220K GitHub stars). Add FOMO via 'most people haven't read it.' Deliver the breakdown as a numbered or bulleted listicle. The contrast between simplicity and impact is the core hook \u2014 readers feel smart for discovering it, then share to signal intelligence. Cross-platform convergence (GitHub + Hacker News + X + Substack simultaneously) amplifies the social proof cascade.",
+      "tone": "educational / insider",
+      "applicable_niches": [
+        "AI",
+        "tech"
+      ],
+      "tags": [
+        "curiosity-gap",
+        "FOMO",
+        "social-proof",
+        "educational",
+        "disproportionate-outcome",
+        "thread",
+        "listicle"
+      ]
+    },
+    "627ba377-979c-4a6d-950c-7d23a1d10cf9": {
+      "id": "627ba377-979c-4a6d-950c-7d23a1d10cf9",
+      "date_saved": "2026-06-17",
+      "topic_niche": "AI",
+      "format": "Single Tweet",
+      "hook_pattern": "Insider pre-announcement competitive benchmark claim: 'From what I'm hearing, [Product X] [strong positive claim] and [beats Competitor Y] on [specific benchmark]'",
+      "hook_template": "From what I'm hearing, [upcoming model/product/release] is [extremely strong claim] and [beats/destroys/outperforms] [named rival] on [specific domain / benchmark]. Get ready.",
+      "psychological_trigger": "FOMO / insider access / tribalism / anticipation \u2014 activates existing AI model-war tribalism between communities",
+      "structural_lesson": "'From what I'm hearing' signals insider access without requiring a named source. Specific benchmark domain (agentic coding, not vague 'intelligence') adds credibility. Naming a specific rival activates tribal allegiance and guarantees replies from both camps. Pairing with a deadline or prediction market signal (83% probability this week) amplifies urgency. Works best when release is imminent and community is already primed.",
+      "tone": "insider / anticipatory",
+      "applicable_niches": [
+        "AI",
+        "tech"
+      ],
+      "tags": [
+        "insider-leak",
+        "FOMO",
+        "tribalism",
+        "competitive-claim",
+        "anticipation",
+        "single-tweet",
+        "benchmark"
+      ]
+    },
+    "6d04ada6-a04b-45bc-98d2-3f45e7e33c7d": {
+      "id": "6d04ada6-a04b-45bc-98d2-3f45e7e33c7d",
+      "date_saved": "2026-06-17",
+      "topic_niche": "crypto",
+      "format": "Single Tweet",
+      "hook_pattern": "Ultra-minimal mystery post: a single word, number, or phrase plus a question mark \u2014 full context withheld, forcing the audience to interpret and debate",
+      "hook_template": "[Ambiguous number / word / phrase]?",
+      "psychological_trigger": "curiosity gap / tribalism / troll energy / community co-authorship \u2014 the replies become the content",
+      "structural_lesson": "Post the absolute minimum: one word or number and a question mark. The hook IS the void you leave for the community to fill. Works only when the poster has a very large established audience with a shared context, and when there is a live topic the community can map the mystery to (a recent sale, a price level, a number that appeared in the news). The replies and quote-tweets become the distribution engine. Not reproducible by small or unfollowed accounts. High-status, low-effort maximum engagement.",
+      "tone": "mysterious / provocative",
+      "applicable_niches": [
+        "crypto",
+        "Bitcoin"
+      ],
+      "tags": [
+        "cryptic",
+        "curiosity-gap",
+        "minimalism",
+        "tribalism",
+        "reply-bait",
+        "single-tweet",
+        "troll"
+      ]
+    },
+    "e0814320-0774-4d36-b521-0b640c289e4f": {
+      "id": "e0814320-0774-4d36-b521-0b640c289e4f",
+      "date_saved": "2026-06-17",
+      "topic_niche": "Web3",
+      "format": "Single Tweet",
+      "hook_pattern": "Paradigm inversion statement: 'The [traditional subject] of [established system] will be [radically unexpected entity]' \u2014 reframes who or what the system is actually for",
+      "hook_template": "The [current users / builders / owners] of [established system/platform/asset class] will be [AI agents / bots / machines / something unexpected]. [One-sentence implication].",
+      "psychological_trigger": "paradigm shift / identity threat / future FOMO / tribal debate \u2014 both agreers and disagreers feel compelled to reply",
+      "structural_lesson": "State a near-future reality that completely reframes the identity of an existing system's users. Works because it simultaneously threatens current users (identity threat) and excites future-oriented builders (FOMO). The controversy is built-in: the claim is technically plausible but socially provocative. Works best when speaker has founder or insider credibility. Backed by 62% market interest in AI x crypto narratives in Q1 2026 \u2014 timing to an existing macro trend amplifies reach.",
+      "tone": "authoritative / prophetic",
+      "applicable_niches": [
+        "crypto",
+        "Web3",
+        "AI"
+      ],
+      "tags": [
+        "paradigm-inversion",
+        "future-prediction",
+        "debate-bait",
+        "identity-threat",
+        "authoritative",
+        "single-tweet",
+        "AI-crypto"
+      ]
+    },
+    "762f8afe-7bde-4872-a3e8-24ae597d22c7": {
+      "id": "762f8afe-7bde-4872-a3e8-24ae597d22c7",
+      "date_saved": "2026-06-17",
+      "topic_niche": "crypto",
+      "format": "Single Tweet",
+      "hook_pattern": "Existential threat question: 'Has [beloved community asset] been killed by [emerging threat]?' followed by a specific credible mechanism",
+      "hook_template": "Has [revered asset / protocol / technology] been killed by [emerging threat / competitor]? New data: [specific concrete evidence]. Debate erupting.",
+      "psychological_trigger": "identity threat / existential fear / tribalism / contrarianism \u2014 community MUST respond to defend or acknowledge",
+      "structural_lesson": "Open with a question that threatens a community's core identity and financial stake. Follow immediately with a specific, concrete mechanism (not vague FUD \u2014 'data centers outbidding miners for power' is concrete). The question framing lets the poster appear neutral while the evidence does the fear-driving. Community members who hold the asset feel existential urgency to reply. Skeptics pile on. The resulting reply storm is the virality. Never assert \u2014 always question with evidence.",
+      "tone": "provocative / analytical",
+      "applicable_niches": [
+        "crypto",
+        "Bitcoin",
+        "AI"
+      ],
+      "tags": [
+        "existential-threat",
+        "identity-threat",
+        "tribalism",
+        "debate-bait",
+        "contrarianism",
+        "single-tweet",
+        "question-hook"
+      ]
     }
   },
   "patterns": {
@@ -8394,34 +8588,46 @@
       "Ultra-minimal status signal: A single understated sentence from a high-credibility actor, letting readers compute the implications",
       "Insider counter-narrative: 'I was [role] inside [company]. The CEO's AI story doesn't match reality. Here's what I saw.'",
       "Information vacuum exploitation: 'Just noticed [prominent account] was suspended. No explanation. Theories: [A], [B], [C]. What am I missing?'",
-      "Named technique claim: 'I broke [X] using a method I call [memorable name]. Here's proof.' \u2014 technical authority + forbidden knowledge"
+      "Named technique claim: 'I broke [X] using a method I call [memorable name]. Here's proof.' \u2014 technical authority + forbidden knowledge",
+      "All-caps breaking shock announcement: 'ALERT: [COMPANY] PWNED. [PRODUCT] LIBERATED.' \u2014 zero-context maximum-alarm, forces engagement for context (new June 17)",
+      "Hyperbolic insider witness report: 'This has induced the [most extreme] reaction from [respected group] that I've ever seen in my life' \u2014 social proof via superlative (new June 17)",
+      "Disproportionate-outcome surprise: 'A [N]-line file hit [X] stars in [Y] weeks. Most people haven't read it. Here's what's inside.' \u2014 curiosity gap + FOMO cascade (new June 17)",
+      "Ultra-minimal mystery drop: single word or number + '?' from a high-status account, letting the community fill the void with interpretations (new June 17)",
+      "Paradigm inversion: 'The [traditional users] of [system] will be [radically different entity].' \u2014 reframes everything, forces both sides to reply (new June 17)",
+      "Existential threat question: 'Has [beloved thing] been killed by [new force]? New data: [concrete mechanism].' \u2014 identity threat + tribal defense (new June 17)"
     ],
     "most_effective_formats": [
-      "Single Tweet (dominant \u2014 165 of 350 lessons, ~47%): punchy, aphoristic, hook-first, no padding",
-      "Thread (49 lessons, ~14%): educational or storytelling, 8-12 tweets optimal, each tweet must work standalone",
+      "Single Tweet (dominant \u2014 173 of 358 lessons, ~48%): punchy, aphoristic, hook-first, no padding \u2014 share rate rising as feeds get noisier",
+      "Thread (51 lessons, ~14%): educational or storytelling, 8-12 tweets optimal, each tweet must work standalone",
+      "Long-form essay posted directly on X (new dominant format June 2026): 3,000\u20135,000 words, framed as personal warning or insider manifesto \u2014 55M+ views possible",
       "Quote Tweet chain: investigative or counter-narrative layers that build community momentum",
       "Podcast clip repurposed to X thread: metric-first hook from podcast appearance, expanded for X",
       "Single Tweet + embedded product demo/proof: visual proof first, backstory second",
-      "Reaction tweet that spawns speculation chain: best for platform events, suspensions, policy shifts"
+      "Reaction tweet that spawns speculation chain: best for platform events, suspensions, policy shifts",
+      "GitHub repo / artifact link + X post: 'here's the file' + 'here's why it matters' \u2014 cross-platform proof drives credibility"
     ],
     "most_effective_tones": [
-      "Authoritative (34 uses): declarative, data-backed, no hedging \u2014 used in educational threads and contrarian takes",
-      "Matter-of-fact (28 uses): lets the facts carry the shock, no hype \u2014 works especially for solo founder proofs",
-      "Provocative (18 uses): designed to trigger reply, pairs with contrarian claim or hidden behavior exposure",
-      "Analytical (14 uses): chart-style breakdowns, works in VC/data niche threads",
-      "Educational (13 uses): 'here's how X works' structure \u2014 best for AI/Web3 explanation threads",
+      "Authoritative (38 uses): declarative, data-backed, no hedging \u2014 used in educational threads and contrarian takes",
+      "Matter-of-fact (30 uses): lets the facts carry the shock, no hype \u2014 works especially for solo founder proofs",
+      "Provocative (22 uses): designed to trigger reply, pairs with contrarian claim or hidden behavior exposure",
+      "Analytical (15 uses): chart-style breakdowns, works in VC/data niche threads",
+      "Educational (14 uses): 'here's how X works' structure \u2014 best for AI/Web3 explanation threads",
       "Understated (9 uses): maximum signal in minimum words \u2014 highest virality per character ratio for high-status actors",
-      "Prophetic/empowering (emerging): 'era declaration' tone, one or two punchy sentences, high share rate"
+      "Prophetic/empowering (emerging, strong June 2026): 'era declaration' tone, one or two punchy sentences, high share rate",
+      "Urgent/vulnerable (new June 2026): personal warning essays framed as concern for loved ones \u2014 bypasses audience cynicism, signals genuine belief"
     ],
     "most_effective_triggers": [
-      "FOMO (33 uses): 'get in before everyone else realizes' \u2014 crypto and AI launches",
-      "Identity threat (25 uses): challenges the reader's self-image or belief system",
-      "Contrarianism (23 uses): goes against the consensus, forces a reaction",
-      "Curiosity gap (17 uses): withholds the payoff until engagement or click",
+      "FOMO (37 uses): 'get in before everyone else realizes' \u2014 crypto and AI launches",
+      "Identity threat (29 uses): challenges the reader's self-image or belief system",
+      "Contrarianism (25 uses): goes against the consensus, forces a reaction",
+      "Curiosity gap (21 uses): withholds the payoff until engagement or click",
       "Belief violation (active June 2026): impossible outcomes that break the reader's mental model, then provide the playbook",
       "Betrayal/trust breach (active June 2026): hidden behaviors by trusted institutions \u2014 immediate outrage cascade",
       "Information vacuum (active June 2026): unexplained platform actions create speculation spirals in crypto communities",
-      "Status signaling (active June 2026): career moves by high-credibility actors decoded by the community as industry signals"
+      "Status signaling (active June 2026): career moves by high-credibility actors decoded by the community as industry signals",
+      "Forbidden knowledge / jailbreak energy (new June 17 2026): posts that claim to reveal what should be hidden \u2014 safety bypasses, secret nerfs, extracted system prompts \u2014 trigger massive engagement in AI/crypto communities",
+      "Tribalism / model-war (new June 17 2026): OpenAI vs Anthropic vs Google competitive frames \u2014 'from what I'm hearing' leaks about which model wins trigger intense reply activity from both camps",
+      "Existential threat to a community asset (new June 17 2026): 'Has [Bitcoin/DeFi/X] been killed?' \u2014 identity-layer threat produces defensive outrage and tribal solidarity"
     ],
     "cross_niche_insights": [
       "The 'one-person AI company' narrative is now a cross-niche phenomenon (AI + crypto + Web3 + indie hackers) \u2014 solo founder proof posts are the highest-trust content type in June 2026",
@@ -8430,8 +8636,12 @@
       "Employee counter-narratives consistently outperform CEO announcements in engagement \u2014 the 'I was inside and here's the truth' format beats every top-down corporate message",
       "Cascade story structure (post \u2192 company response \u2192 government action \u2192 community reaction) is the most powerful multi-day engagement arc in 2026 \u2014 one well-timed first post can own a week of conversation",
       "Single Tweet dominance is strengthening: as feeds get noisier, the punchy 1-2 sentence post with a strong hook outperforms even the best threads in raw engagement per word",
-      "Platform drama (suspensions, bans, export controls) generates instant community solidarity in both AI and crypto \u2014 being the first to frame the story wins the narrative"
+      "Platform drama (suspensions, bans, export controls) generates instant community solidarity in both AI and crypto \u2014 being the first to frame the story wins the narrative",
+      "Government/regulatory actions on AI models (Fable 5 ban, export controls) are now a top content trigger \u2014 faster virality than product launches because they combine outrage, fear, and tribalism simultaneously (new June 17 2026)",
+      "World Cup 2026 has activated a sports-crypto crossover pattern: 16K+ meme tokens, viral underdog athlete stories, and event-driven FOMO are a playbook for any future major sporting/cultural event (new June 17 2026)",
+      "AI x crypto convergence is the defining cross-niche narrative of mid-2026: 62%+ of investor interest, NEAR's 'AI agents as blockchain users' thesis, and autonomous agent wallets are replacing human-facing DeFi as the dominant mental model (new June 17 2026)",
+      "The 'leaked system prompt' format (extracting a model's instructions and publishing them) is a new viral content type bridging AI and crypto transparency culture \u2014 transparency-as-protest resonates across both communities (new June 17 2026)"
     ],
-    "last_updated": "2026-06-16"
+    "last_updated": "2026-06-17"
   }
 }
