@@ -8776,34 +8776,230 @@
         "thread",
         "investment"
       ]
+    },
+    "730bd250-f7eb-4bea-b9a4-13f3a49d1492": {
+      "id": "730bd250-f7eb-4bea-b9a4-13f3a49d1492",
+      "date_saved": "2026-06-19",
+      "topic_niche": "crypto/Web3",
+      "format": "Single Tweet",
+      "hook_pattern": "Category collapse declaration \u2014 not 'X is overhyped' but 'X is dead; only [Y] and [Z] remain alive'",
+      "hook_template": "[Entire category] is dead. All we have left is [specific surviving element] and [second surviving element].",
+      "psychological_trigger": "Identity threat + contrarianism \u2014 forces Web3 believers to defend or agree, both actions amplify reach",
+      "structural_lesson": "Ultra-short, zero hedging, declarative. From a high-credibility VC (Kyle Samani, Multicoin Capital) whose prior public commitment to the belief is documented \u2014 the confession IS the credibility. Blunt framing forces binary response: agree = share, disagree = quote-tweet. Both drive reach.",
+      "tone": "blunt declarative",
+      "applicable_niches": [
+        "crypto",
+        "Web3",
+        "AI",
+        "tech startups"
+      ],
+      "tags": [
+        "category-kill",
+        "insider-confession",
+        "contrarianism",
+        "identity-threat",
+        "single-tweet"
+      ]
+    },
+    "d56f7380-bb7c-4481-9411-a30929722fdc": {
+      "id": "d56f7380-bb7c-4481-9411-a30929722fdc",
+      "date_saved": "2026-06-19",
+      "topic_niche": "AI",
+      "format": "Single Tweet",
+      "hook_pattern": "Soft opener hides massive reveal \u2014 mundane framing ('Personal update:') makes the big news land harder than a direct announcement would",
+      "hook_template": "Personal update: [massive career or status change]. I think [reason it matters for the industry]. I am [emotional signal]. I remain [continuity signal that shows identity hasn't changed].",
+      "psychological_trigger": "Social proof + talent migration FOMO \u2014 top researcher moving = signal that the destination is winning",
+      "structural_lesson": "~286 characters, 4 sentences. Structure: soft mundane opener \u2192 big reveal \u2192 forward-looking industry reasoning \u2192 personal continuity note. Zero fanfare, zero bravado. The restraint amplifies the signal. Every major tech outlet picked it up within hours because the story was pre-written in the tweet.",
+      "tone": "understated authoritative",
+      "applicable_niches": [
+        "AI",
+        "tech startups"
+      ],
+      "tags": [
+        "personal-update",
+        "talent-migration",
+        "soft-opener",
+        "social-proof",
+        "single-tweet",
+        "announcement"
+      ]
+    },
+    "b7605bcd-34f2-412d-b0f4-86048488231a": {
+      "id": "b7605bcd-34f2-412d-b0f4-86048488231a",
+      "date_saved": "2026-06-19",
+      "topic_niche": "AI",
+      "format": "Single Tweet + External Artifact (GitHub gist)",
+      "hook_pattern": "Paradigm flip from expected behavior \u2014 'I stopped doing [what everyone expects of AI users] and started doing [unexpected primitive] instead'",
+      "hook_template": "I stopped using AI to [common expected use case]. I started using it to [unexpected alternative]. In the agentic era, you don't share the code \u2014 you share the idea. Here's mine:",
+      "psychological_trigger": "FOMO + paradigm shift + novelty \u2014 positions the reader as behind the curve, makes sharing feel like status elevation",
+      "structural_lesson": "Led with a counterintuitive personal behavior change, explained the WHY tied to a macro trend (agentic era), linked to a reproducible artifact (gist). The artifact becomes a shareable object that drives its own distribution separately from the tweet. Follow-up tweet 2 days later added 21M+ views as momentum compounded.",
+      "tone": "educational understated",
+      "applicable_niches": [
+        "AI",
+        "tech startups"
+      ],
+      "tags": [
+        "paradigm-flip",
+        "behavior-change",
+        "novelty",
+        "educational",
+        "artifact-led",
+        "FOMO"
+      ]
+    },
+    "2117eaf6-87d4-49ce-8c4c-21d1023f6c46": {
+      "id": "2117eaf6-87d4-49ce-8c4c-21d1023f6c46",
+      "date_saved": "2026-06-19",
+      "topic_niche": "AI",
+      "format": "Single Tweet + Image",
+      "hook_pattern": "Uncanny valley of credibility \u2014 deadpan satire with impossible metrics, zero wink, triggers mass 'is this real?' debate that IS the distribution engine",
+      "hook_template": "[Well-known company] just released [absurd-but-almost-plausible model/product] with [impossible metric] and [two plausible-sounding details]. [Straight-faced professional framing with no humor signals].",
+      "psychological_trigger": "Epistemic uncertainty + benchmark fatigue humor \u2014 'is this real?' forces everyone (believers, skeptics, curious) to engage; insiders bond by finding it funny; outsiders share to warn others",
+      "structural_lesson": "The Le Chaton Fat Mistral hoax (June 11, 2026) worked because: 1) format was indistinguishable from real announcements, 2) the absurd metric (100T parameters) sat just inside the 'maybe?' zone for non-experts, 3) Mistral's own CEO replied with a deadpan joke that amplified rather than killed it. The lesson: satire that looks exactly like the content it mocks triggers more engagement than labeled parody.",
+      "tone": "deadpan satirical",
+      "applicable_niches": [
+        "AI",
+        "tech startups"
+      ],
+      "tags": [
+        "satire",
+        "deadpan",
+        "epistemic-uncertainty",
+        "benchmark-humor",
+        "image-led",
+        "community-bonding"
+      ]
+    },
+    "42830b66-4d4b-4c5c-b928-6fcecdd1cae0": {
+      "id": "42830b66-4d4b-4c5c-b928-6fcecdd1cae0",
+      "date_saved": "2026-06-19",
+      "topic_niche": "AI/crypto",
+      "format": "Single Tweet (leading to thread or article)",
+      "hook_pattern": "Alarming dollar loss + completely unexpected attack vector \u2014 '$X lost to [mechanism everyone assumed was safe]'",
+      "hook_template": "[Trusted system or tool] just lost $[X] via [completely counterintuitive mechanism]. Here's exactly how it happened \u2014 and what it means for everyone building with AI agents.",
+      "psychological_trigger": "Fear/warning + curiosity gap + paradigm shift \u2014 positions AI agents as a new financial attack surface nobody had mapped",
+      "structural_lesson": "The Grok $200K Morse code hack (May 2026) spread because: 1) dollar amount up front, 2) the mechanism (Morse code prompt injection) was maximally counterintuitive, 3) it had a clear step-by-step attack chain that made it educational rather than just scary, 4) it was the first public proof of a new attack class. Best structure: alarming stat \u2192 mechanism reveal \u2192 attack chain steps \u2192 'what this means for you' close.",
+      "tone": "urgent educational",
+      "applicable_niches": [
+        "AI",
+        "crypto",
+        "Web3"
+      ],
+      "tags": [
+        "security",
+        "alarming-stat",
+        "novel-attack-vector",
+        "educational-warning",
+        "AI-agents",
+        "crypto-risk"
+      ]
+    },
+    "33d44f7c-9b52-4f0d-93ac-7422856fd6fe": {
+      "id": "33d44f7c-9b52-4f0d-93ac-7422856fd6fe",
+      "date_saved": "2026-06-19",
+      "topic_niche": "AI/tech startups",
+      "format": "Quote Tweet + Commentary",
+      "hook_pattern": "Capital migration narrative \u2014 reframe a funding round announcement as evidence of an invisible paradigm shift already underway",
+      "hook_template": "[Company] just raised $[X] as [technical capability] moves from [old frame: 'developer convenience'] to [new, higher-stakes frame: 'enterprise infrastructure']. The metric that proves it: [specific growth stat].",
+      "psychological_trigger": "FOMO + analytical contrarianism \u2014 readers share to appear as the analyst who spotted the deeper story behind the headline",
+      "structural_lesson": "OpenRouter's $113M raise (May 26, 2026) was turned into a viral insight by commentators who reframed 'routing API calls' as 'enterprise infrastructure.' The reframe + the metric (5T \u2192 25T tokens in 6 months) did the work. Structure: [funding headline] \u2192 [thesis: this signals X] \u2192 [metric that makes the thesis undeniable] \u2192 [forward implication]. The insight sharer gets more engagement than the company's own announcement.",
+      "tone": "analytical contrarian",
+      "applicable_niches": [
+        "AI",
+        "tech startups"
+      ],
+      "tags": [
+        "capital-migration",
+        "reframing",
+        "analytical",
+        "FOMO",
+        "quote-tweet",
+        "funding-announcement"
+      ]
+    },
+    "35f6cbf5-bd19-4995-87f8-a8afc3b83e4e": {
+      "id": "35f6cbf5-bd19-4995-87f8-a8afc3b83e4e",
+      "date_saved": "2026-06-19",
+      "topic_niche": "crypto/Web3",
+      "format": "Quote Tweet / Screenshot post",
+      "hook_pattern": "Moral theater via screenshot \u2014 post the self-aggrandizing or contradictory quote from a credentialed figure, add nothing (or one dry observation), let the community deliver all engagement",
+      "hook_template": "[Screenshot or verbatim quote of self-aggrandizing/contradictory statement from recognizable figure] [Optional: one-sentence dry understatement or silence]",
+      "psychological_trigger": "Shared community scorn + dunking as identity signal \u2014 laughing at the same target bonds the community; the outraged responses from supporters add fuel",
+      "structural_lesson": "Charles Hoskinson's 'I am not just a developer but a revolutionary figure who has created decentralized central banks' quote went semi-viral because: 1) no commentary needed \u2014 the quote indicts itself, 2) zero own commentary = maximum invitation for everyone else's, 3) supporters defending it added engagement from the other side. The lesson: your restraint IS the hook. Adding commentary closes the conversation; silence opens it.",
+      "tone": "understated deadpan",
+      "applicable_niches": [
+        "crypto",
+        "Web3",
+        "AI"
+      ],
+      "tags": [
+        "screenshot",
+        "dunking",
+        "moral-theater",
+        "community-bonding",
+        "quote-tweet",
+        "zero-commentary"
+      ]
+    },
+    "a368a11d-8b54-4637-b6bb-04680bf62616": {
+      "id": "a368a11d-8b54-4637-b6bb-04680bf62616",
+      "date_saved": "2026-06-19",
+      "topic_niche": "crypto",
+      "format": "Single Tweet (very short, 5\u201320 words)",
+      "hook_pattern": "Credibility vacuum tweet \u2014 the shorter and more ambiguous the post from a high-status figure, the larger the interpretation vacuum, and the more quote-tweets flood in to fill it",
+      "hook_template": "[5\u201315 word ambiguous statement that could imply [bullish/bearish/regulatory/competitive] meaning] \u2014 from someone whose opinion moves markets or opinion",
+      "psychological_trigger": "FOMO + information asymmetry + the interpretation game \u2014 readers feel compelled to decode the signal, each interpretation quote-tweet becomes free distribution",
+      "structural_lesson": "CZ (Binance) and similar high-credibility crypto figures consistently generate massive engagement with cryptic one-liners because: 1) ambiguity forces interpretation, 2) each interpretation is itself a quote-tweet (free distribution), 3) the audience's act of decoding creates parasocial investment. This pattern ONLY works with pre-existing credibility \u2014 unknown accounts attempting it land as vague, not mysterious.",
+      "tone": "cryptic authoritative",
+      "applicable_niches": [
+        "crypto",
+        "AI"
+      ],
+      "tags": [
+        "brevity",
+        "ambiguity",
+        "credibility-vacuum",
+        "FOMO",
+        "single-tweet",
+        "interpretation-game"
+      ]
     }
   },
   "patterns": {
     "most_effective_hook_patterns": [
       "Insider kill shot: credentialed figure publicly kills their former belief ('X is dead, only Y and Z remain')",
+      "Category collapse declaration: kill not just the belief but the entire category, leaving only specific survivors named",
+      "Soft opener hides massive reveal: mundane framing ('Personal update:') amplifies the news by contrast",
       "Vocabulary usurpation: rename a widely-used term with a better one, frame the old term as wrong, let the new term spread",
       "Proof-of-impossible demo: show the end product first, attach timestamped build video, let viewers disbelieve then confirm",
+      "Paradigm flip from expected behavior: 'I stopped doing [expected thing] and started doing [unexpected thing]'",
       "Historical parallel + calm urgency: open with a collective memory analogy, escalate with data, end with a call to prepare not panic",
       "Restraint-as-authority: maximum-credibility figure + minimum words = the interpretation vacuum becomes distribution engine",
       "Uncanny valley of credibility: satirical content in hyper-professional format triggers epistemic uncertainty and mass debate",
-      "Geopolitical speed-run: '[Competitor] did [threatening thing] within [N hours] of [event]' \u2014 the elapsed time IS the hook",
-      "Superlative contrarian insight: 'The most underappreciated [thing] in [field] is [well-known company] NOT doing [expected thing]'",
+      "Alarming dollar loss + novel attack vector: '$X lost to [mechanism everyone assumed was safe]'",
       "Capital migration narrative: quantify where VC dollars are quietly moving before the public narrative catches up",
+      "Moral theater via screenshot: post the self-indicting quote, add nothing, let the community do the work",
+      "Credibility vacuum tweet: the more ambiguous and brief from a high-status figure, the larger the interpretation vacuum",
+      "Geopolitical speed-run: '[Competitor] did [threatening thing] within [N hours] of [event]' \u2014 the elapsed time IS the hook",
       "Moral outrage as distribution: lead with the most controversial use case, let every angry share become free reach"
     ],
     "most_effective_formats": [
       "Single Tweet + Demo Video/Screen Recording (highest engagement-to-effort ratio for product/tool content)",
-      "Single Tweet + Provocative Image or Chart (benchmark charts, data visualizations, screenshots)",
+      "Single Tweet + Provocative Image or Chart (benchmark charts, data visualizations, screenshots of impossible outputs)",
       "Thread (5\u201310 tweets) with narrative arc: hook \u2192 evidence \u2192 counterargument \u2192 conclusion \u2192 call to action",
       "Single bold declarative tweet (10\u201330 words) from high-credibility figure \u2014 works best for announcements and hot takes",
-      "Quote Tweet debate: drop a contrarian take, quote-tweet incoming disagreement with added evidence"
+      "Quote Tweet debate: drop a contrarian take, quote-tweet incoming disagreement with added evidence",
+      "Screenshot post with zero commentary \u2014 the restraint IS the hook; community fills the silence",
+      "Single Tweet + External Artifact (GitHub gist, Notion doc, live demo link) \u2014 artifact compounds distribution separately"
     ],
     "most_effective_tones": [
       "Calm urgency / confessional-authoritative: vulnerable but data-backed, positioned as insider sharing truth at personal cost",
       "Blunt declarative: short, inarguable-sounding, forces binary response (agree/disagree both drive reach)",
       "Deadpan satirical: no wink, let the audience argue about whether it's real",
       "Proof-led understated: sparse text + video proof \u2014 authenticity over polish",
-      "Analytical contrarian: 'everyone is looking at X, but the real story is Y' \u2014 rewards sharers with sense of exclusive insight"
+      "Analytical contrarian: 'everyone is looking at X, but the real story is Y' \u2014 rewards sharers with sense of exclusive insight",
+      "Understated authoritative: the bigger the news, the quieter the delivery \u2014 contrast between importance and restraint amplifies signal",
+      "Urgent educational: alarming stat + clear mechanism + actionable takeaway \u2014 warning posts that teach spread further than pure alarm"
     ],
     "most_effective_triggers": [
       "Epistemic uncertainty: 'is this real?' forces everyone \u2014 believers, skeptics, and unsure \u2014 to engage",
@@ -8813,7 +9009,10 @@
       "Vocabulary capture: give the thing they already do a better name \u2014 they share it to feel seen",
       "Geopolitical competitive anxiety: speed + adversarial framing multiplies reach beyond tech niche",
       "Underdog + proof: sacrifice + product that works against all odds",
-      "Moral outrage as free distribution: lead with the use case that splits the room"
+      "Moral outrage as free distribution: lead with the use case that splits the room",
+      "Shared community scorn: dunking on the same target bonds the community \u2014 defenders from the other side add engagement",
+      "Paradigm shift FOMO: 'I stopped doing X' signals a behavioral inflection point \u2014 reader wonders if they're behind",
+      "Fear via novel attack vector: a new way to lose money or credibility that nobody had mapped"
     ],
     "cross_niche_insights": [
       "AI and crypto share the same core emotional driver: fear of being on the wrong side of a paradigm shift. Hooks targeting that fear travel across both niches.",
@@ -8824,8 +9023,11 @@
       "The 'elapsed time' hook ('[X] happened within [N hours] of [event]') is one of the most portable urgency frames across AI, crypto, and geopolitics",
       "Cross-niche amplification occurs when AI content gets geopolitical framing (US vs China) or financial framing (VC capital migration) \u2014 these extend reach beyond tech Twitter",
       "In 2026, the strongest hook formats are increasingly visual-first: demo videos, satirical images, benchmark charts, screenshots of impossible outputs",
-      "The first 15 minutes of engagement define algorithmic reach \u2014 posts designed to trigger disagreement (even from wrong people) outperform posts designed to trigger agreement"
+      "The first 15 minutes of engagement define algorithmic reach \u2014 posts designed to trigger disagreement (even from wrong people) outperform posts designed to trigger agreement",
+      "AI agents as financial attack surfaces is an emerging cross-niche anxiety (AI x crypto) that generates engagement across both communities \u2014 the Grok hack proved the pattern",
+      "Zero-commentary screenshot posts out-perform commented takes because silence is an invitation \u2014 every commenter becomes a distributor",
+      "Category collapse declarations ('X is dead, only Y and Z survive') are more viral than pure contrarian takes because they force survivors to self-identify and ralliers to defend \u2014 both groups distribute"
     ],
-    "last_updated": "2026-06-18"
+    "last_updated": "2026-06-19"
   }
 }
