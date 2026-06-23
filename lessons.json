@@ -9518,126 +9518,237 @@
         "market-signal",
         "calm-bullish"
       ]
+    },
+    "06bde0ea-1713-42af-820e-4e4bf3f980de": {
+      "id": "06bde0ea-1713-42af-820e-4e4bf3f980de",
+      "date_saved": "2026-06-23",
+      "topic_niche": "crypto",
+      "format": "Single Tweet",
+      "hook_pattern": "Single precise data point + binary audience question",
+      "hook_template": "[Asset/metric] just hit [specific number] \u2014 [alarming historical comparison]. Is this [contrarian opportunity] or [structural problem]?",
+      "psychological_trigger": "contrarianism + curiosity gap + identity threat",
+      "structural_lesson": "Lead with a precise, uncomfortable data point. Follow with a historical comparison that makes it feel significant. End with a binary question that forces the audience to take sides and reveal their identity. The act of choosing creates discussion.",
+      "tone": "provocative",
+      "applicable_niches": [
+        "crypto",
+        "investing",
+        "AI"
+      ],
+      "tags": [
+        "data-driven",
+        "binary-question",
+        "contrarian",
+        "identity-trigger"
+      ]
+    },
+    "e14ad4ad-3ab9-489a-9344-ea8404e7e5d4": {
+      "id": "e14ad4ad-3ab9-489a-9344-ea8404e7e5d4",
+      "date_saved": "2026-06-23",
+      "topic_niche": "AI",
+      "format": "Single Tweet",
+      "hook_pattern": "Compressed parallel list of brand-name failures as witty indictment",
+      "hook_template": "[Brand A] [doing X]. [Brand B] [doing Y]. [Brand C] [doing Z]. [Brand D] [doing W].",
+      "psychological_trigger": "shared frustration validation + humor + social proof of collective disillusionment",
+      "structural_lesson": "Use a 3-4 item parallel list where each item is [name + single damning adjective/behavior]. The rhythmic pattern creates a comedic cadence that is inherently shareable. Works best targeting major brands your audience depends on daily \u2014 their frustration is pre-loaded, you just name it.",
+      "tone": "humorous",
+      "applicable_niches": [
+        "AI",
+        "tech",
+        "SaaS"
+      ],
+      "tags": [
+        "parallel-list",
+        "brand-roast",
+        "humor",
+        "frustration-validation"
+      ]
+    },
+    "63bcd1f2-dac8-431e-aed1-5129748db5ca": {
+      "id": "63bcd1f2-dac8-431e-aed1-5129748db5ca",
+      "date_saved": "2026-06-23",
+      "topic_niche": "crypto/Web3",
+      "format": "Single Tweet",
+      "hook_pattern": "True believer apostasy declaration from an insider",
+      "hook_template": "I used to believe [X]. I was one of its biggest advocates. I don't anymore. Here's why:",
+      "psychological_trigger": "identity threat + curiosity gap + credibility signal via insider perspective",
+      "structural_lesson": "Establish your credibility as a former true believer first. The contrast between past faith and present rejection creates cognitive dissonance that compels engagement. Immediately redirect to a specific alternative that shows you still have conviction \u2014 preventing dismissal as mere cynicism.",
+      "tone": "authoritative",
+      "applicable_niches": [
+        "crypto",
+        "Web3",
+        "AI",
+        "tech startups"
+      ],
+      "tags": [
+        "insider-apostasy",
+        "contrarian",
+        "identity-threat",
+        "credibility"
+      ]
+    },
+    "92c6fe21-31de-4e19-8af7-1f367cf284c1": {
+      "id": "92c6fe21-31de-4e19-8af7-1f367cf284c1",
+      "date_saved": "2026-06-23",
+      "topic_niche": "AI/tech startups",
+      "format": "Single Tweet",
+      "hook_pattern": "Inverse proportion shock: tiny input, massive output",
+      "hook_template": "[Tiny number] [people/units] doing [massive metric]. The math doesn't make sense. Until you see how:",
+      "psychological_trigger": "FOMO + curiosity gap + identity aspiration",
+      "structural_lesson": "Lead with two numbers that create cognitive friction: a shockingly small input and a shockingly large output. The mental gap between them is irresistible. The 'here's how' promise converts curiosity into clicks. Works for team size vs revenue, feature count vs users, time invested vs results.",
+      "tone": "educational",
+      "applicable_niches": [
+        "AI",
+        "tech startups",
+        "crypto",
+        "SaaS"
+      ],
+      "tags": [
+        "inverse-proportion",
+        "curiosity-gap",
+        "FOMO",
+        "scale"
+      ]
+    },
+    "060f6960-8166-4811-9a75-1fdb35ec7d3a": {
+      "id": "060f6960-8166-4811-9a75-1fdb35ec7d3a",
+      "date_saved": "2026-06-23",
+      "topic_niche": "AI/tech startups",
+      "format": "Thread",
+      "hook_pattern": "Historical first as identity alarm",
+      "hook_template": "[Dominant player] just did [negative milestone] for the first time in [timeframe]. This isn't a blip. Here's what it actually means:",
+      "psychological_trigger": "loss aversion + identity threat + urgency + authority signaling",
+      "structural_lesson": "Frame a data point as a historical first to amplify its significance beyond the raw number. 'First time ever' transforms a statistic into a story. Follow with a brief, confident interpretation that signals you have the inside read \u2014 positioning yourself as the person who understands what others are missing.",
+      "tone": "authoritative",
+      "applicable_niches": [
+        "AI",
+        "crypto",
+        "tech",
+        "investing"
+      ],
+      "tags": [
+        "historical-milestone",
+        "authority",
+        "loss-aversion",
+        "data-driven"
+      ]
+    },
+    "4c0890ba-9be0-4e39-8477-c659e8896aa5": {
+      "id": "4c0890ba-9be0-4e39-8477-c659e8896aa5",
+      "date_saved": "2026-06-23",
+      "topic_niche": "AI/tech startups",
+      "format": "Single Tweet",
+      "hook_pattern": "Veteran humility paradox: vast experience + enduring uncertainty = relatability bomb",
+      "hook_template": "I've been doing [X] for [N] years. I still can't [basic-sounding thing]. Here's why that's actually [reframe].",
+      "psychological_trigger": "relatability + curiosity gap + identity validation",
+      "structural_lesson": "High credibility combined with genuine humility creates maximum trust. The paradox (expert + still uncertain) makes readers lean in because it breaks their expectation. End with a reframe that transforms the limitation into unexpected wisdom, leaving readers feeling they learned something counter-intuitive.",
+      "tone": "vulnerable",
+      "applicable_niches": [
+        "AI",
+        "tech",
+        "crypto",
+        "founder"
+      ],
+      "tags": [
+        "vulnerability",
+        "paradox",
+        "expert-humility",
+        "relatability"
+      ]
+    },
+    "c76b02a7-2ace-4787-894b-945032e69ff6": {
+      "id": "c76b02a7-2ace-4787-894b-945032e69ff6",
+      "date_saved": "2026-06-23",
+      "topic_niche": "crypto/Web3",
+      "format": "Single Tweet",
+      "hook_pattern": "Binary survival verdict on an entire sector",
+      "hook_template": "Most of [industry] is dead. It's never coming back. Only [specific survivor subset] remains. Here's why:",
+      "psychological_trigger": "fear/loss aversion + identity threat + urgency + contrarianism",
+      "structural_lesson": "Make the most sweeping possible claim about an industry's future in the first sentence \u2014 binary (dead/alive) language creates urgency. Immediately name the survivors to prevent audience dismissal. The move from total destruction to specific salvation keeps readers invested and signals credibility over pure doom.",
+      "tone": "provocative",
+      "applicable_niches": [
+        "crypto",
+        "Web3",
+        "AI",
+        "tech"
+      ],
+      "tags": [
+        "industry-verdict",
+        "fear-trigger",
+        "binary-claim",
+        "contrarian"
+      ]
+    },
+    "6016fd40-1762-4fef-874f-c1e5005a1c79": {
+      "id": "6016fd40-1762-4fef-874f-c1e5005a1c79",
+      "date_saved": "2026-06-23",
+      "topic_niche": "AI/tech startups",
+      "format": "Thread",
+      "hook_pattern": "Pre-recognition urgency: we're in the 'this seems small' phase of something enormous",
+      "hook_template": "I think we're in the '[minimizing common phrase]' phase of something much, much bigger than [memorable historical reference]. Pay attention.",
+      "psychological_trigger": "FOMO + pattern recognition + urgency + cognitive reframing",
+      "structural_lesson": "Frame the present moment as a pre-recognition phase of something historically significant. Borrowing a known historical reference (a crisis, a tech shift) gives readers a mental anchor for scale. The 'we don't realize yet' framing creates urgency without screaming \u2014 it positions the reader as someone about to be given privileged early understanding.",
+      "tone": "provocative",
+      "applicable_niches": [
+        "AI",
+        "tech startups",
+        "crypto"
+      ],
+      "tags": [
+        "urgency",
+        "historical-comparison",
+        "FOMO",
+        "pre-recognition-moment"
+      ]
     }
   },
   "patterns": {
     "most_effective_hook_patterns": [
-      "Insider kill shot: credentialed figure publicly kills their former belief ('X is dead, only Y and Z remain')",
-      "Category collapse declaration: kill not just the belief but the entire category, leaving only specific survivors named",
-      "Soft opener hides massive reveal: mundane framing ('Personal update:') amplifies the news by contrast",
-      "Vocabulary usurpation: rename a widely-used term with a better one, frame the old term as wrong, let the new term spread",
-      "Proof-of-impossible demo: show the end product first, attach timestamped build video, let viewers disbelieve then confirm",
-      "Paradigm flip from expected behavior: 'I stopped doing [expected thing] and started doing [unexpected thing]'",
-      "Historical parallel + calm urgency: open with a collective memory analogy, escalate with data, end with a call to prepare not panic",
-      "Restraint-as-authority: maximum-credibility figure + minimum words = the interpretation vacuum becomes distribution engine",
-      "Uncanny valley of credibility: satirical content in hyper-professional format triggers epistemic uncertainty and mass debate",
-      "Alarming dollar loss + novel attack vector: '$X lost to [mechanism everyone assumed was safe]'",
-      "Capital migration narrative: quantify where VC dollars are quietly moving before the public narrative catches up",
-      "Moral theater via screenshot: post the self-indicting quote, add nothing, let the community do the work",
-      "Credibility vacuum tweet: the more ambiguous and brief from a high-status figure, the larger the interpretation vacuum",
-      "Geopolitical speed-run: '[Competitor] did [threatening thing] within [N hours] of [event]' \u2014 the elapsed time IS the hook",
-      "Moral outrage as distribution: lead with the most controversial use case, let every angry share become free reach",
-      "Pandemic-scale comparison: frame a tech inflection as 'bigger than [universally-experienced crisis]', then back it with personal evidence",
-      "Casual ambiguity signal: a lifestyle post from a domain-credible figure that the community reads as a market macro call",
-      "Unexpected acquirer reveal: a non-AI-native giant buys a category-defining AI tool \u2014 the mismatch IS the hook",
-      "CEO candor on AI displacement: admitting AI replaced humans beats vague 'efficiency' framing because both optimists and pessimists distribute",
-      "Anti-establishment user-ownership manifesto: ex-insider reveals extractive nature of incumbent, launches counter-principle product",
-      "Policy breakthrough with global arbitrage framing: win in one country + competitive threat to all others = two audiences in one tweet",
-      "Nuanced kill shot with named survivors: '99.9% of [X] are dead, but here are the 3 types that survive' \u2014 three debate camps all distribute",
-      "Mundane opener hiding a paradigm bomb: 'Personal update:' + explosive news = contrast amplification from high-credibility accounts",
-      "Hyper-precise prediction with embedded math: exact ratios and price targets beat vague directional calls because they're calculable and debate-ready",
-      "Dated present-tense epiphany: 'It's [year] and I realized [era-ending thing]' \u2014 anchors the paradigm shift to a specific historical moment",
-      "Stealth operator reveal: metric first, then 'nobody knows it's AI' \u2014 the double-reveal outperforms single income disclosures",
-      "Death-and-resurrection arc: declare X dead, return weeks later with reversal data \u2014 two viral moments from one narrative",
-      "Ironic ROI reversal: the tool sold as the solution IS the problem \u2014 precise percentages make the irony irrefutable and uncopyable without citation",
-      "Decade-wait patience reveal: authority figure says 'only took N years' \u2014 implies relentless obsession, makes competitors look reactive, creates dread about what other decade-long plays exist",
-      "Quiet giant leapfrog: the less-hyped player surpassed the leader on the metric no one was tracking \u2014 gap between public perception and new reality IS the hook",
-      "Non-human cultural actor: AI/agent does the most human thing imaginable (builds community, earns money, creates culture) \u2014 category collapse of 'tool vs. participant' is the hook"
+      "Single precise data point + binary audience question (forces identity reveal)",
+      "Compressed parallel list of brand-name failures with witty labels (rhythm + shared frustration)",
+      "True believer apostasy declaration from a credible insider (contrast + credibility)",
+      "Inverse proportion shock: tiny input vs massive output (cognitive friction + curiosity gap)",
+      "Historical first as identity alarm: 'for the first time ever' milestone framing",
+      "Veteran humility paradox: vast experience + admission of enduring uncertainty",
+      "Binary survival verdict on an entire sector: 'X is dead, only Y survives'",
+      "Pre-recognition urgency: 'we're in the early phase of something much bigger than [reference]'",
+      "Decade-wait patience reveal: authority figure announces long-awaited milestone",
+      "Paradigm flip: the entire mode of interaction/production has changed",
+      "Ironic ROI reversal stat: single precise metric exposes conventional wisdom as wrong",
+      "Counterintuitive claim followed by a cascade of evidence"
     ],
     "most_effective_formats": [
-      "Single Tweet + Demo Video/Screen Recording (highest engagement-to-effort ratio for product/tool content)",
-      "Single Tweet + Provocative Image or Chart (benchmark charts, data visualizations, screenshots of impossible outputs)",
-      "Thread (5\u201310 tweets) with narrative arc: hook \u2192 evidence \u2192 counterargument \u2192 conclusion \u2192 call to action",
-      "Single bold declarative tweet (10\u201330 words) from high-credibility figure \u2014 works best for announcements and hot takes",
-      "Quote Tweet debate: drop a contrarian take, quote-tweet incoming disagreement with added evidence",
-      "Screenshot post with zero commentary \u2014 the restraint IS the hook; community fills the silence",
-      "Single Tweet + External Artifact (GitHub gist, Notion doc, live demo link) \u2014 artifact compounds distribution separately",
-      "Long-form essay published as X thread (5,000+ words) \u2014 signals author did the intellectual work, positions as must-read reference",
-      "Satirical chart/leaderboard image + deadpan caption \u2014 forces 'is this real?' debate that splits community into three camps",
-      "Corporate disclosure tweet (CEO-voice) + stark contrast framing ('not because of X, but because of Y')",
-      "Selective survival list thread (declare category mostly dead + name 3 surviving sub-categories with examples) \u2014 generates 3-camp debate",
-      "Ultra-short single tweet (<30 words) + mundane opener from high-credibility account \u2014 contrast between brevity and news weight IS the hook",
-      "Stat cascade tweet: devastating number \u2192 precise breakdown \u2192 production yield \u2192 no call to action (the math IS the conclusion)"
+      "Single punchy tweet with a provocative or data-backed opening line",
+      "8-12 tweet educational thread (47% better engagement than shorter threads)",
+      "Quote tweet with a sharp counter-take that adds new context",
+      "Thread with numbered list structure (1/ hook, 2-N/ payload, final/ CTA)",
+      "Tweet + single screenshot or chart (visual anchor for data claims)"
     ],
     "most_effective_tones": [
-      "Calm urgency / confessional-authoritative: vulnerable but data-backed, positioned as insider sharing truth at personal cost",
-      "Blunt declarative: short, inarguable-sounding, forces binary response (agree/disagree both drive reach)",
-      "Deadpan satirical: no wink, let the audience argue about whether it's real",
-      "Proof-led understated: sparse text + video proof \u2014 authenticity over polish",
-      "Analytical contrarian: 'everyone is looking at X, but the real story is Y' \u2014 rewards sharers with sense of exclusive insight",
-      "Understated authoritative: the bigger the news, the quieter the delivery \u2014 contrast between importance and restraint amplifies signal",
-      "Urgent educational: alarming stat + clear mechanism + actionable takeaway \u2014 warning posts that teach spread further than pure alarm",
-      "Casual-ambiguous: lifestyle or personal post that deliberately omits domain context \u2014 community fills the gap",
-      "Manifesto-challenger: ex-insider voice that names the old model as extractive and announces the counter-principle",
-      "Melancholic-declarative: brief, elegy-coded era-ending statements ('The end of an era') \u2014 brevity signals certainty, mournful tone lowers resistance",
-      "Dry-sarcastic minimal: one sarcastic sentence with no explanation \u2014 forces audience to decode the real take and publicly commit to a side",
-      "Data-devastation: let stacked precise numbers do the emotional work \u2014 zero editorializing when the ratio is damning enough",
-      "Addiction-warning nuanced: name the specific failure mode without being anti-technology \u2014 more trust-building than either pure boosters or pure skeptics"
+      "Provocative/contrarian (challenges consensus from a credible position)",
+      "Authoritative educational (specific, confident, insider-voiced)",
+      "Vulnerable/humble (expert admitting uncertainty or past wrongness)",
+      "Humorous indictment (roasts shared frustrations in rhythmic parallel)",
+      "Urgent/concerned (pre-recognition framing that makes readers feel behind)"
     ],
     "most_effective_triggers": [
-      "Epistemic uncertainty: 'is this real?' forces everyone \u2014 believers, skeptics, and unsure \u2014 to engage",
-      "Identity threat: a claim that directly challenges what your audience believes about themselves or their sector",
-      "Curiosity gap + exclusive insight: 'the thing everyone missed' framing \u2014 readers share to look smart",
-      "FOMO via capital/talent migration: the smart money / top researcher already moved",
-      "Vocabulary capture: give the thing they already do a better name \u2014 they share it to feel seen",
-      "Geopolitical competitive anxiety: speed + adversarial framing multiplies reach beyond tech niche",
-      "Underdog + proof: sacrifice + product that works against all odds",
-      "Moral outrage as free distribution: lead with the use case that splits the room",
-      "Shared community scorn: dunking on the same target bonds the community \u2014 defenders from the other side add engagement",
-      "Paradigm shift FOMO: 'I stopped doing X' signals a behavioral inflection point \u2014 reader wonders if they're behind",
-      "Fear via novel attack vector: a new way to lose money or credibility that nobody had mapped",
-      "Benchmark fatigue catharsis: community is primed to both laugh and rage at benchmarks \u2014 satire lands because it names the pain",
-      "Credibility-vacuum ambiguity: ambiguous post from high-status figure triggers projection \u2014 every interpretation becomes a distribution node",
-      "Displacement confirmation: when a CEO publicly admits AI replaced humans, it collapses the 'someday' timeline to 'now'",
-      "Cross-niche values merger: 'user-owned AI' merges crypto self-custody values with AI access anxiety \u2014 two communities share as one",
-      "Policy arbitrage anxiety: country X made a pro-crypto move \u2014 readers in country Y share it as a competitive warning",
-      "Selective survival FOMO: audiences rush to identify with named survivors, defend excluded projects, or challenge premise \u2014 all three amplify",
-      "Epistemic mischief: 'nobody knows it's AI' makes readers question everything they trust and urgently want to know how to replicate it",
-      "Calculability trap: precise math in a prediction forces every reader to calculate \u2014 those who agree share; those who disagree publicly rebut; both distribute",
-      "Era-ending identity threat + date-stamp: tying a paradigm shift to the current calendar year creates urgency and historical-witness feeling",
-      "Productivity guilt trap: the thing you're using to be more productive is secretly making you less productive \u2014 triggers both adopters and skeptics simultaneously",
-      "Valuation inversion anxiety: when the 'safety-first' player beats the 'move-fast' player at the most capitalist metric ($valuation), it validates an entire alternative value system",
-      "Category collapse: when AI stops being a tool and becomes a cultural actor (earning, building community, making decisions) \u2014 triggers philosophy, finance, and technology audiences simultaneously"
+      "Identity threat: challenges the audience's existing beliefs or commitments",
+      "Curiosity gap: poses a question or gap that can only be resolved by reading on",
+      "Shared frustration validation: names a pain everyone experiences but no one states clearly",
+      "FOMO / loss aversion: frames inaction as missing a historically significant moment",
+      "Contrarianism: takes the opposite position of the mainstream with credibility",
+      "Credibility paradox: combines high status with surprising humility or uncertainty",
+      "Pattern recognition: positions the present moment as rhyming with a known historical moment"
     ],
     "cross_niche_insights": [
-      "AI and crypto share the same core emotional driver: fear of being on the wrong side of a paradigm shift. Hooks targeting that fear travel across both niches.",
-      "The 'insider kill shot' pattern is most powerful when the speaker's prior public commitment to the belief is documented \u2014 the confession is the credibility",
-      "Benchmark inflation fatigue in AI (2026) means satirical content mocking benchmarks lands hard \u2014 the community is primed to both laugh and rage",
-      "Restraint scales with credibility: the more credibility you have, the fewer words you need. Unknown founders need proof and data; established figures need only 28 words",
-      "Visual proof (video, chart, screenshot) bypasses the skepticism barrier that pure text can't cross \u2014 especially for AI product demos",
-      "The 'elapsed time' hook ('[X] happened within [N hours] of [event]') is one of the most portable urgency frames across AI, crypto, and geopolitics",
-      "Cross-niche amplification occurs when AI content gets geopolitical framing (US vs China) or financial framing (VC capital migration) \u2014 these extend reach beyond tech Twitter",
-      "In 2026, the strongest hook formats are increasingly visual-first: demo videos, satirical images, benchmark charts, screenshots of impossible outputs",
-      "The first 15 minutes of engagement define algorithmic reach \u2014 posts designed to trigger disagreement (even from wrong people) outperform posts designed to trigger agreement",
-      "AI agents as financial attack surfaces is an emerging cross-niche anxiety (AI x crypto) that generates engagement across both communities",
-      "Zero-commentary screenshot posts out-perform commented takes because silence is an invitation \u2014 every commenter becomes a distributor",
-      "Category collapse declarations ('X is dead, only Y and Z survive') are more viral than pure contrarian takes because they force survivors to self-identify and ralliers to defend \u2014 both groups distribute",
-      "'User ownership' is a values bridge between Web3 (self-custody) and AI (model access) \u2014 content using this framing recruits audiences from both niches simultaneously",
-      "Ambiguous lifestyle posts from domain-credible figures (e.g., CZ) are never read as lifestyle posts \u2014 every casual word is audited for market signals",
-      "The candor gap is a 2026 viral driver: CEOs who publicly say 'AI replaced humans' outperform vague 'efficiency' framing because honesty is rare at C-suite scale",
-      "Long-form essays (5,000+ words) on X can go viral when the author is a domain founder and the premise is a paradigm-level claim \u2014 the length signals intellectual commitment, not noise",
-      "Non-AI acquirers buying AI tools (e.g., SpaceX + Cursor) create virality through mismatch surprise \u2014 the hook is the unexpected buyer identity, not the price tag",
-      "The nuanced kill shot outperforms the absolute kill shot in 2026: declaring '99.9% dead but here are 3 survivors' creates 3 distinct debate camps vs. 2, expanding total distribution surface",
-      "Precision beats vagueness for viral predictions: a specific ratio (5,000 XRP = 1 BTC) generates 10x more quotes/rebuttals than 'XRP will outperform BTC' \u2014 calculability is the distribution engine",
-      "The MCP death-and-resurrection arc in June 2026 confirms: two-act narratives (death call \u2192 reversal data) extract two separate viral moments from one story \u2014 the reversal consistently outperforms the original",
-      "In the vibe coding era (2026), the most viral founder story format pairs absurdly small input (2 people, weeks, $20K) with absurdly large output ($400M ARR) \u2014 the gap between input and output is the emotional hook",
-      "Altcoin season debate in June 2026 shows: era-ending declarations in crypto generate more sustained engagement than bullish predictions because they trigger both defenders and mourners simultaneously",
-      "In mid-2026, the most viral AI content is not about what AI CAN do \u2014 it's about hidden costs, failure modes, and unintended consequences of using it at scale. The post-hype hangover generates more engagement than the original hype did.",
-      "AI agents operating autonomously on X (posting, trading, community-building) have collapsed the boundary between AI-as-tool and AI-as-actor. Content treating AI as a cultural participant rather than a utility generates cross-niche crypto x AI x philosophy engagement.",
-      "The IPO race between Anthropic and OpenAI in mid-2026 is generating sustained X engagement because it frames 'safety vs. speed' as a market-tested question with financial stakes \u2014 making abstract AI ethics debates concrete and tradeable.",
-      "In June 2026, the most effective crypto hook is the 'outlier in chaos' pattern: lead with the market fear first, then reveal the one protocol with real usage metrics that defies it. Contrast magnifies both the fear and the outlier equally.",
-      "The 'idea file' paradigm (share the concept, not the code) is emerging as a new build-in-public format in mid-2026 \u2014 the artifact (GitHub gist, Notion doc) becomes a secondary distribution vector that compounds days after the original tweet."
+      "The ETH/BTC ratio debate pattern works across AI, crypto, and SaaS: pick any metric at a historical extreme, attach a binary question, and watch it ignite.",
+      "Insider apostasy (a true believer abandoning their faith) outperforms outsider criticism in every niche \u2014 the credibility gap is the content.",
+      "Tiny team + massive output is universally viral in 2026's context of AI leverage \u2014 it validates the lever everyone wants to pull.",
+      "The '47% of code is AI-generated' style stat (precise percentage + surprising domain) works across all niches as a hook for scale arguments.",
+      "Parallel failure lists ('Claude lazy, GPT fawning, Gemini hallucinating') beat individual critiques because they implicate the whole field and validate collective frustration.",
+      "Historical firsts ('below 50% for the first time') consistently outperform current-state reporting because they signal irreversible change, not mere fluctuation.",
+      "Pre-recognition framing ('we're in the early phase of something much bigger than X') is the highest-engagement format for macro takes across AI and crypto.",
+      "Vulnerability from high-status accounts (Karpathy admitting he can't predict engagement after 17 years) earns disproportionate engagement because it surprises the audience's expectations."
     ],
-    "last_updated": "2026-06-22"
+    "last_updated": "2026-06-23"
   }
 }
