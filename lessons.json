@@ -1,1 +1,25 @@
-placeholder_will_be_replaced_by_read
+{
+  "lessons": {
+    "cc0408be-5098-42de-8ad0-a40bbaa62cf9": {
+      "id": "cc0408be-5098-42de-8ad0-a40bbaa62cf9",
+      "date_saved": "2026-03-30",
+      "topic_niche": "AI",
+      "format": "Single Tweet (long-form essay, ~5000 words)",
+      "hook_pattern": "Historical parallel to a lived event everyone understands, then reveal the present moment is the same slow-burn inflection point",
+      "hook_template": "Think back to [widely remembered slow-burn crisis]. Everyone said it was overblown. Three weeks later everything changed. We are in that moment right now — except this time it's [X].",
+      "psychological_trigger": "Epistemic fear + insider access + pattern recognition from shared collective memory",
+      "structural_lesson": "Open with a relatable historical analogy the reader lived through. Establish insider credibility immediately ('I've spent X years in this world'). Escalate with hard data. Deliver a personal confession that breaks the 4th wall. End with a call to prepare — not panic.",
+      "tone": "calm urgency, confessional, authoritative-yet-vulnerable",
+      "applicable_niches": [
+        "AI",
+        "tech",
+        "macro"
+      ],
+      "tags": [
+        "historical-parallel",
+        "insider-confession",
+        "long-form",
+        "fear-reframing",
+        "existential"
+      ]
+    }
