@@ -11224,56 +11224,243 @@
         "self-referential"
       ],
       "id": "55917bb5-8eb1-44e5-8af1-63fb9e8ec905"
+    },
+    "f3a1b2c4-d5e6-7890-abcd-ef1234567890": {
+      "id": "f3a1b2c4-d5e6-7890-abcd-ef1234567890",
+      "date_saved": "2026-07-02",
+      "topic_niche": "crypto/AI",
+      "format": "Single Tweet",
+      "hook_pattern": "Normalization parallel: anchor new behavior to an already-accepted past behavior the reader lived through, then project forward",
+      "hook_template": "[Familiar technology] used to sound crazy, and now everyone does it. [New behavior] will follow a similar path. [Proof it has started].",
+      "psychological_trigger": "Future legitimacy + FOMO + social proof from institutional authority",
+      "structural_lesson": "Three-beat structure: (1) remind reader of something they once thought was crazy but now accept, (2) assert the new thing follows the same trajectory, (3) close with a concrete product or action that shows it has already begun. No hedging \u2014 state it as inevitable.",
+      "tone": "authoritative, calm, visionary",
+      "applicable_niches": [
+        "AI",
+        "crypto",
+        "fintech",
+        "Web3"
+      ],
+      "tags": [
+        "normalization-parallel",
+        "future-vision",
+        "institutional-authority",
+        "single-tweet",
+        "inevitability"
+      ]
+    },
+    "a9b8c7d6-e5f4-3210-9876-543210fedcba": {
+      "id": "a9b8c7d6-e5f4-3210-9876-543210fedcba",
+      "date_saved": "2026-07-02",
+      "topic_niche": "AI/tech startups",
+      "format": "Single Tweet",
+      "hook_pattern": "Insider metric reveal with forward commitment: share a surprising internal number, then publicly commit to a stretch goal",
+      "hook_template": "~[X]% of [internal process] at [company] is now [AI/automated]. I want to get it to [higher target] by [date]. [caveat that adds credibility].",
+      "psychological_trigger": "Credibility via specific data + accountability through public commitment + FOMO for competitors watching",
+      "structural_lesson": "Lead with a precise internal percentage that most outsiders would find surprising. Immediately raise the bar with a public goal and deadline, creating self-imposed accountability. Add a brief qualifier (safety, review, caveats) to prevent backlash \u2014 this makes the number feel more credible, not less bold.",
+      "tone": "direct, data-driven, accountable",
+      "applicable_niches": [
+        "AI",
+        "tech startups",
+        "SaaS",
+        "crypto"
+      ],
+      "tags": [
+        "insider-data",
+        "public-commitment",
+        "metrics",
+        "single-tweet",
+        "accountability"
+      ]
+    },
+    "b1c2d3e4-f5a6-7890-bcde-f12345678901": {
+      "id": "b1c2d3e4-f5a6-7890-bcde-f12345678901",
+      "date_saved": "2026-07-02",
+      "topic_niche": "crypto/markets",
+      "format": "Single Tweet / Thread opener",
+      "hook_pattern": "Communal sentiment crystallization: name the one word or emotion an entire community is feeling but hasn't said out loud",
+      "hook_template": "Everywhere you look, people keep repeating the same word: [word]. When that happens, pay attention.",
+      "psychological_trigger": "Recognition + belonging + contrarian curiosity (if everyone says the same thing, is the opposite true?)",
+      "structural_lesson": "Name the dominant emotion or word circulating in a community without explaining it yet. The reader immediately self-identifies ('yes, I've been saying that too'). Then either agree with it and go deeper, or flip it into a contrarian buy/sell signal. The communal recognition creates instant engagement before the thesis is even delivered.",
+      "tone": "observational, calm, slightly ominous",
+      "applicable_niches": [
+        "crypto",
+        "markets",
+        "tech",
+        "macro"
+      ],
+      "tags": [
+        "sentiment-crystallization",
+        "contrarianism",
+        "community-voice",
+        "single-tweet",
+        "market-psychology"
+      ]
+    },
+    "c2d3e4f5-a6b7-8901-cdef-234567890123": {
+      "id": "c2d3e4f5-a6b7-8901-cdef-234567890123",
+      "date_saved": "2026-07-02",
+      "topic_niche": "AI/tech startups",
+      "format": "Single Tweet",
+      "hook_pattern": "Anti-ambition pivot: reject the default success story (build a big company) and reframe the decision as choosing impact over wealth",
+      "hook_template": "I could have turned [X] into a huge company. I chose not to. Here's why: [deeper mission statement].",
+      "psychological_trigger": "Identity challenge + status inversion (humility as higher status) + curiosity about the reasoning",
+      "structural_lesson": "Acknowledge the road not taken with confidence, not regret. Invert the typical founder narrative by treating the pursuit of scale as the lesser ambition. Deliver the alternative value system in one crisp sentence. This pattern is extremely shareable because it provokes both agreement and pushback simultaneously.",
+      "tone": "confident, principled, anti-hustle",
+      "applicable_niches": [
+        "AI",
+        "tech startups",
+        "open-source",
+        "Web3"
+      ],
+      "tags": [
+        "anti-ambition",
+        "identity-inversion",
+        "founder-philosophy",
+        "single-tweet",
+        "status-flip"
+      ]
+    },
+    "d3e4f5a6-b7c8-9012-defa-345678901234": {
+      "id": "d3e4f5a6-b7c8-9012-defa-345678901234",
+      "date_saved": "2026-07-02",
+      "topic_niche": "AI",
+      "format": "Single Tweet (retrospective)",
+      "hook_pattern": "Meta-viral humility: admit you had no idea a throwaway thought would define an industry, then turn the uncertainty into a lesson",
+      "hook_template": "I still can't predict my own tweet engagement after [X] years. This was a [throwaway/shower thought/random] tweet. It became [outcome]. The lesson: [insight].",
+      "psychological_trigger": "Relatability + curiosity + permission to be imperfect (lowers the barrier to posting for the reader)",
+      "structural_lesson": "Creators with massive reach gain paradoxical credibility by admitting they don't fully understand their own success. Pair the admission with a concrete example of unpredictability, then extract a genuine principle. This generates engagement from both fans (who feel closer) and critics (who want to debate the principle).",
+      "tone": "humble, reflective, curious",
+      "applicable_niches": [
+        "AI",
+        "creator economy",
+        "tech",
+        "any niche"
+      ],
+      "tags": [
+        "meta-viral",
+        "humility",
+        "retrospective",
+        "permission-to-create",
+        "single-tweet"
+      ]
+    },
+    "e4f5a6b7-c8d9-0123-efab-456789012345": {
+      "id": "e4f5a6b7-c8d9-0123-efab-456789012345",
+      "date_saved": "2026-07-02",
+      "topic_niche": "AI/tech startups",
+      "format": "Single Tweet + Video/Demo",
+      "hook_pattern": "Impossible proof first: lead with the visual demonstration of something that should take weeks happening in minutes, let the product speak before any explanation",
+      "hook_template": "[Watch this.] [embedded demo: prompt \u2192 deployed result in real time] That took [X minutes/seconds]. Here's what I used.",
+      "psychological_trigger": "Disbelief + visceral FOMO + instant desire to replicate (how do I do this?)",
+      "structural_lesson": "Strip all preamble. Open with a media embed that shows the impossible thing happening in real time with no cuts or tricks. Keep the text minimal \u2014 one line of context maximum before the embed. Follow with 'Here's what I used' or 'thread below' to drive engagement. The product's impossibility does the heavy lifting; your job is to not get in the way.",
+      "tone": "minimal, confident, demo-first",
+      "applicable_niches": [
+        "AI",
+        "SaaS",
+        "developer tools",
+        "tech startups"
+      ],
+      "tags": [
+        "proof-first",
+        "demo-hook",
+        "vibe-coding",
+        "show-dont-tell",
+        "media-embed"
+      ]
+    },
+    "f5a6b7c8-d9e0-1234-fabc-567890123456": {
+      "id": "f5a6b7c8-d9e0-1234-fabc-567890123456",
+      "date_saved": "2026-07-02",
+      "topic_niche": "crypto/AI/Web3",
+      "format": "Single Tweet (alarming revelation)",
+      "hook_pattern": "Security horror story with mechanism: describe an exploit so simple it reads like fiction, then immediately explain the exact technical mechanism",
+      "hook_template": "An AI agent just lost [large sum] because of a [absurdly simple thing]. Here's exactly how it happened \u2014 and why your setup is probably vulnerable too.",
+      "psychological_trigger": "Fear + morbid curiosity + self-protection instinct + 'this can't be real' disbelief",
+      "structural_lesson": "Lead with the loss amount and the absurdity of the vector in the same sentence ('$200K lost to a Morse code tweet'). Then switch immediately to the mechanism \u2014 step by step, technically precise. End with a direct threat to the reader's own situation. The disbelief-to-understanding arc is what drives shares: people share it to warn others, which creates exponential reach.",
+      "tone": "urgent, precise, alarming",
+      "applicable_niches": [
+        "crypto",
+        "AI",
+        "Web3",
+        "cybersecurity"
+      ],
+      "tags": [
+        "security-horror",
+        "alarm-hook",
+        "mechanism-reveal",
+        "self-protection",
+        "single-tweet"
+      ]
+    },
+    "a6b7c8d9-e0f1-2345-abcd-678901234567": {
+      "id": "a6b7c8d9-e0f1-2345-abcd-678901234567",
+      "date_saved": "2026-07-02",
+      "topic_niche": "crypto/markets",
+      "format": "Thread",
+      "hook_pattern": "Peak fear as contrarian data signal: when sentiment reaches an extreme and institutions capitulate, frame it as a historically-grounded buying signal using specific measurable fear indicators",
+      "hook_template": "The Fear & Greed index just hit [extreme low]. Institutional ETFs just posted their worst [outflow month/event]. Last time this combination appeared: [historical reference]. Here's what happened next.",
+      "psychological_trigger": "Contrarianism + data authority + fear of missing the turn + historical pattern recognition",
+      "structural_lesson": "Stack two or three independent fear indicators (sentiment index, institutional flows, on-chain signals) that individually could be noise but together form a pattern. Anchor each data point to a precise number \u2014 vague fear doesn't convince, specific numbers do. Reference a historical parallel with a known outcome. End with a clear thesis, not a hedge. This format is reposted heavily because it gives traders a shareable rationale for a position they were already emotionally considering.",
+      "tone": "analytical, contrarian, precise",
+      "applicable_niches": [
+        "crypto",
+        "markets",
+        "macro",
+        "DeFi"
+      ],
+      "tags": [
+        "contrarian-signal",
+        "fear-indicator",
+        "data-stacking",
+        "historical-parallel",
+        "thread",
+        "market-psychology"
+      ]
     }
   },
   "patterns": {
     "most_effective_hook_patterns": [
-      "Counter-narrative: state dominant belief \u2192 contradicting data \u2192 unexpected villain \u2192 prescriptive reframe ('stop asking X, start asking Y')",
-      "Accumulation reveal: 'quietly became the most important [X]' + named entities + dollar figures \u2192 surfaces hidden pattern of dominance",
-      "Historical rarity signal: 'only the Nth time in history' + 2 precedents + no explicit conclusion (ambiguity doubles engagement)",
-      "Confessional vulnerability opener in lowercase ('what's keeping me up at night') + numbered bold predictions with specific figures",
-      "Embedded share command as literal first words ('Send this to everyone you care about') \u2014 pre-commits reader to sharing before reading",
-      "Meta-recursive reveal: product was built using itself in record time \u2014 3-sentence structure, no technical detail",
-      "Policy reversal + access unlock: authority lifting restrictions proves tech importance while triggering FOMO + relief simultaneously",
-      "Big-name loser in regulatory gate + 'era of X is over' closer: names winners first, loser last, era-ending claim drives quote-tweet debate",
-      "Personal failure arc: self-deprecating opener \u2192 turning point data \u2192 non-obvious lesson \u2014 vulnerability as credibility transfer",
-      "Data drop with zero opinion: striking stat or chart, no commentary \u2014 audience fights over interpretation in replies"
+      "reveal",
+      "story",
+      "proof",
+      "data",
+      "list",
+      "identity",
+      "contrarian"
     ],
     "most_effective_formats": [
-      "Single Tweet: highest virality per word \u2014 best for data reveals, counter-claims, accumulation lists, rarity signals",
-      "Thread (5-10 tweets): best for educational counter-narratives, prediction lists, step-by-step breakdowns with unexpected villain reveal",
-      "Tweet + Image/Video: strong for chart reveals, before/after comparisons, visual proof-of-concept demos",
-      "Quote Tweet: effective for adding contrarian take to already-viral news \u2014 borrows reach while adding perspective",
-      "Poll: best for forcing opinion commitment before sharing reasoning \u2014 generates replies as people defend their vote"
+      "Single Tweet",
+      "Thread",
+      "Quote Tweet",
+      "Video",
+      "Image"
     ],
     "most_effective_tones": [
-      "Contrarian / counter-intuitive: challenges consensus, forces engagement from both believers and skeptics simultaneously",
-      "Authoritative + specific: named companies, dollar amounts, percentages \u2014 specificity signals insider knowledge over generic takes",
-      "Vulnerable / confessional in lowercase: informal opener ('this is what's keeping me up') perceived as authentic not performative",
-      "Ominous / ambiguous: historical rarity signals with no conclusion given \u2014 ambiguity forces audience to complete the thought",
-      "Urgent / caring: altruism framing ('send this to people you care about') converts passive readers into active sharers",
-      "Awe-inducing / compressed: meta-recursive or speed-shock claims, philosophical implication in 3 sentences"
+      "authoritative",
+      "provocative",
+      "analytical",
+      "educational",
+      "urgent"
     ],
     "most_effective_triggers": [
-      "Pattern recognition shock: audience suddenly sees the hidden structure of something they thought they understood",
-      "Identity threat: forces update of strongly held belief (crypto holders vs regulation, junior workers vs AI displacement)",
-      "Historical FOMO: rare event creates 'am I missing something critical?' pressure \u2014 bulls and bears both must respond",
-      "Social pre-commitment: share instruction before content is consumed tricks reader into committing to sharing first",
-      "Intellectual relief: counter-narrative gives permission to reject a feared consensus \u2014 creates loyalty and saves",
-      "Awe + speed shock: achievement compressed to 3 sentences generates philosophical discussion in quote-tweets",
-      "Curiosity gap + completionist drive: numbered list creates obligation to read all before forming an opinion"
+      "FOMO",
+      "identity",
+      "curiosity",
+      "fear",
+      "contrarian",
+      "social proof",
+      "credibility"
     ],
     "cross_niche_insights": [
-      "AI and crypto now compete for the same risk-on capital: content framing AI as 'winning' at crypto's expense resonates across both audiences simultaneously",
-      "Regulatory events (MiCA, export controls) generate the most cross-niche engagement \u2014 affect both AI lab users and crypto traders",
-      "Infrastructure deals (compute agreements, chip announcements) bridge AI and crypto audiences \u2014 both care about who controls underlying compute",
-      "The 'era of X is over' claim works identically in AI (era of black-box models) and crypto (era of regulatory arbitrage) \u2014 same structure, different nouns",
-      "Counter-narratives about jobs/workers outperform in both niches \u2014 founders, employees, and investors all feel personally implicated",
-      "Confessional prediction threads from domain-credible founders are the highest-performing thread format when the author has 50K+ followers",
-      "Lowercase informal text signals authenticity in a feed full of polished corporate posts \u2014 especially effective for genuine founder concern",
-      "Data-only posts (chart + no opinion) generate longer reply threads than opinionated posts because the audience writes the narrative themselves",
-      "The 'quietly became' framing signals insider knowledge \u2014 works in both AI infrastructure (compute landlords) and crypto (protocol dominance) contexts"
+      "The AI x crypto convergence (agentic finance, AI agent wallets) is the dominant cross-niche narrative in mid-2026 \u2014 hooks that bridge both worlds get amplified in both communities simultaneously",
+      "Normalization parallels (X used to sound crazy, now it's everywhere) work in every niche because they borrow credibility from an already-accepted past",
+      "Data-first hooks outperform opinion hooks in AI and crypto alike \u2014 specific numbers (40%, $200K, Fear/Greed: 12) beat vague claims every time",
+      "Anti-polish content (throwaway tweets, raw demos, honest confessions) consistently outperforms polished corporate content across all niches in 2026",
+      "Security/alarm hooks in crypto x AI cross-post heavily \u2014 the audience for 'your AI agent is vulnerable' spans both niches and general tech",
+      "Public commitment mechanics (founder sets a measurable goal publicly) generate ongoing engagement as people track whether the goal was met",
+      "Threads drive 3x more engagement than single tweets but single tweets with embedded demos drive the highest raw impression counts"
     ],
-    "last_updated": "2026-07-01"
+    "last_updated": "2026-07-02"
   }
 }
