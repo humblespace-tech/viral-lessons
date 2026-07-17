@@ -14028,6 +14028,198 @@
         "category-signal",
         "prediction"
       ]
+    },
+    "0266e8f9-8228-446c-82c2-611bb8b9e18d": {
+      "id": "0266e8f9-8228-446c-82c2-611bb8b9e18d",
+      "date_saved": "2026-07-17",
+      "topic_niche": "AI/tech startups",
+      "format": "Single Tweet",
+      "hook_pattern": "Personal disaster + spontaneous competitor endorsement \u2014 credible founder describes losing everything to a product, then names the alternative they now trust",
+      "hook_template": "[Product] just [catastrophic failure] on me. And this is why I trust [competitor] [number]x more.",
+      "psychological_trigger": "Fear + safety-seeking + social proof from trusted expert \u2014 readers imagine the loss happening to them, then adopt the safer choice signal",
+      "structural_lesson": "Lead with a visceral personal loss (emphasize scale with ALL CAPS or superlatives). Attach the spontaneous product comparison in the same breath. No explanation needed \u2014 the community fills in the rest. The simpler the tweet, the more powerful the signal.",
+      "tone": "shocked, candid, spontaneous",
+      "applicable_niches": [
+        "AI",
+        "tech startups",
+        "SaaS"
+      ],
+      "tags": [
+        "personal-disaster",
+        "competitor-endorsement",
+        "safety-fear",
+        "single-tweet",
+        "founder-credibility"
+      ]
+    },
+    "e977c645-da77-45a9-9fac-4e767a3362c3": {
+      "id": "e977c645-da77-45a9-9fac-4e767a3362c3",
+      "date_saved": "2026-07-17",
+      "topic_niche": "crypto/Web3",
+      "format": "Single Tweet",
+      "hook_pattern": "Community bandwagon CTA on a real platform change \u2014 turns an algorithmic event into a collective ritual, inviting followers to participate in a shared moment",
+      "hook_template": "Like this post to [desired community outcome] back on your feed.",
+      "psychological_trigger": "Community identity + collective action + FOMO \u2014 the fear of missing the revival plus the easy one-click participation creates a viral action loop",
+      "structural_lesson": "Monitor platform algorithm changes in real time. When a change restores a suppressed community, be first to frame it as a revival and issue a simple CTA. Brand accounts that co-opt organic community sentiment (rather than create it) can generate disproportionate engagement for minimal effort.",
+      "tone": "communal, celebratory, casual",
+      "applicable_niches": [
+        "crypto",
+        "Web3",
+        "community building"
+      ],
+      "tags": [
+        "community-bandwagon",
+        "platform-algorithm",
+        "CTA",
+        "single-tweet",
+        "brand-moment"
+      ]
+    },
+    "4419aa78-561e-4a37-9806-5128c17ae640": {
+      "id": "4419aa78-561e-4a37-9806-5128c17ae640",
+      "date_saved": "2026-07-17",
+      "topic_niche": "AI/tech startups",
+      "format": "Thread (numbered list)",
+      "hook_pattern": "Superlative era declaration + track-record anchor + numbered mega-shifts list \u2014 opens with the boldest possible time claim, validates with credentials, delivers evidence in scannable format",
+      "hook_template": "[Year] is the [GREATEST/WORST/MOST IMPORTANT] time to [action] in [N] years. I'm [age]. I've [track record]. [N] MEGA shifts that make this the [superlative] time to [action] in a GENERATION:",
+      "psychological_trigger": "FOMO + identity stakes ('Am I missing this window?') + authority \u2014 the superlative claim creates urgency; the track record earns the right to make it; the numbered shifts provide shareable sub-content",
+      "structural_lesson": "State the superlative time claim immediately and without hedging. Front-load personal credibility (age, exits, investments). Deliver shifts as a numbered list with each item capitalized for scanability. The list format invites readers to screenshot their favorites, multiplying organic shares.",
+      "tone": "authoritative, urgent, energized",
+      "applicable_niches": [
+        "AI",
+        "tech startups",
+        "entrepreneurship"
+      ],
+      "tags": [
+        "era-declaration",
+        "numbered-list",
+        "authority-credibility",
+        "thread",
+        "FOMO",
+        "generational-claim"
+      ]
+    },
+    "0d45b09f-1b97-4b01-9909-82c742eaa8f1": {
+      "id": "0d45b09f-1b97-4b01-9909-82c742eaa8f1",
+      "date_saved": "2026-07-17",
+      "topic_niche": "AI",
+      "format": "Thread + open-source code release",
+      "hook_pattern": "Sci-fi framing of a real autonomous system + open-source packaging + famous-person validation \u2014 names the thing (autoresearch), frames it as the edge of what's possible, and invites community replication",
+      "hook_template": "I packaged up [project] into a self-contained repo. It [autonomous action the reader didn't think was possible]: [concrete result]. Here's how it works.",
+      "psychological_trigger": "Curiosity gap + democratization FOMO + vicarious ambition \u2014 the concrete result makes the sci-fi feel real; the open-source code invites participation; a CEO use case makes the promise credible",
+      "structural_lesson": "Give the code. Let readers replicate. Describe the autonomous loop in plain terms. Drop a famous practitioner use case (e.g. a CEO who got a concrete % improvement overnight). Frame the implications broadly ('this is how AI labs will do research going forward') to earn shares from the macro-narrative crowd.",
+      "tone": "calm technical excitement, open-source generosity",
+      "applicable_niches": [
+        "AI",
+        "ML research",
+        "developer tools"
+      ],
+      "tags": [
+        "open-source-release",
+        "sci-fi-made-real",
+        "autonomous-agent",
+        "code-share",
+        "thread",
+        "famous-user-validation"
+      ]
+    },
+    "3b8e524a-3ab9-4b8f-a275-532900378745": {
+      "id": "3b8e524a-3ab9-4b8f-a275-532900378745",
+      "date_saved": "2026-07-17",
+      "topic_niche": "AI",
+      "format": "Single Tweet + visual/demo",
+      "hook_pattern": "Impossibility-made-real stat as the entire opener \u2014 a single sentence that sounds wrong but is true, immediately followed by the tool name and a one-sentence mechanism",
+      "hook_template": "A [impossibly large number] [impressive thing] just [ran/happened] on a machine with [impossibly small resource]. No [expensive prerequisite]. The tool is called [X].",
+      "psychological_trigger": "Democratization + disbelief-to-belief conversion \u2014 the claim sounds impossible so readers stop to verify it, and the verification becomes engagement; the accessible hardware angle triggers 'I could do this' identity activation",
+      "structural_lesson": "Put the impossible stat in the first sentence. Name the tool. Explain the mechanism in one sentence. Show the visual. Nothing else. The simpler the framing, the more shareable \u2014 give readers one clean fact they can relay to others without distortion.",
+      "tone": "matter-of-fact, mildly awed",
+      "applicable_niches": [
+        "AI",
+        "open source",
+        "developer tools"
+      ],
+      "tags": [
+        "impossibility-made-real",
+        "democratization",
+        "single-tweet",
+        "stat-opener",
+        "visual",
+        "open-source"
+      ]
+    },
+    "67309673-0078-4c95-80f2-77f6012352ab": {
+      "id": "67309673-0078-4c95-80f2-77f6012352ab",
+      "date_saved": "2026-07-17",
+      "topic_niche": "AI",
+      "format": "Thread (digest/catch-up format)",
+      "hook_pattern": "Fast-field acknowledgment + time-promise \u2014 explicitly validates the reader's overwhelm, then offers a specific, small time commitment to resolve it",
+      "hook_template": "[Fast-moving field/topic] moved fast [in the last time period]. But you can catch up in just [N minutes] \u2193",
+      "psychological_trigger": "Cognitive relief + FOMO resolution \u2014 the reader fears falling behind; the post offers a fast path back; the downward arrow signals the content is already structured and scannable",
+      "structural_lesson": "Name the domain and the pace ('moved fast'). Quantify the catch-up time (5 minutes creates urgency; 30 creates friction). Use a trailing arrow (\u2193) to signal structured content below, which increases thread click-through rates. Deliver genuinely dense but organized content to validate the promise.",
+      "tone": "helpful, efficient, community-first",
+      "applicable_niches": [
+        "AI",
+        "crypto",
+        "Web3",
+        "developer tools"
+      ],
+      "tags": [
+        "digest-format",
+        "cognitive-relief",
+        "FOMO",
+        "thread",
+        "time-promise",
+        "catch-up"
+      ]
+    },
+    "fedc4b6b-555d-460e-9eef-f405bca2d977": {
+      "id": "fedc4b6b-555d-460e-9eef-f405bca2d977",
+      "date_saved": "2026-07-17",
+      "topic_niche": "AI/tech startups",
+      "format": "Single Tweet",
+      "hook_pattern": "NDA-lifted reveal framing with hedged uncertainty \u2014 signals insider access while sounding unguarded, making the verdict feel spontaneous rather than scripted",
+      "hook_template": "Apparently I'm allowed to talk about [thing] now? It's [informal superlative verdict]. [One key thing it fixed/does differently that others complained about].",
+      "psychological_trigger": "Insider access + authenticity + social proof \u2014 the 'apparently' phrasing creates the feel of a real unguarded moment; the informal verdict ('damn good') generates more trust than polished PR language; the specificity of what it fixed signals genuine use",
+      "structural_lesson": "The uncertainty framing ('apparently I'm allowed?') is the key structural move \u2014 it makes an NDA-lifted review feel accidental and unfiltered. Follow immediately with the verdict and one specific differentiated capability. Never over-explain. The community will ask the follow-up questions.",
+      "tone": "casual, insider, unpolished",
+      "applicable_niches": [
+        "AI",
+        "tech startups",
+        "developer tools"
+      ],
+      "tags": [
+        "NDA-reveal",
+        "insider-access",
+        "single-tweet",
+        "casual-verdict",
+        "early-access",
+        "authenticity"
+      ]
+    },
+    "46033594-234a-48ed-953e-a4d196047cd3": {
+      "id": "46033594-234a-48ed-953e-a4d196047cd3",
+      "date_saved": "2026-07-17",
+      "topic_niche": "crypto/Web3",
+      "format": "Single Tweet (security alert)",
+      "hook_pattern": "Security alert format: brand name + exploit verb + dollar amount \u2014 zero editorial words, maximum urgency",
+      "hook_template": "[AlertEntity] @[Protocol] has been exploited for $[X]M.",
+      "psychological_trigger": "Financial fear + community duty + urgency \u2014 readers with assets in the protocol act immediately; readers without share to protect others; the brevity signals the news is so serious no context is needed",
+      "structural_lesson": "Cut everything except the brand, the action, and the number. Security alerts go viral in crypto because they simultaneously trigger individual protective action and communal warning behavior. Being first with the alert creates authority; accuracy matters more than speed. The simpler and shorter, the more trusted the signal.",
+      "tone": "urgent, clinical, zero emotion",
+      "applicable_niches": [
+        "crypto",
+        "Web3",
+        "DeFi",
+        "security"
+      ],
+      "tags": [
+        "security-alert",
+        "exploit-news",
+        "single-tweet",
+        "urgency",
+        "community-duty",
+        "brevity"
+      ]
     }
   },
   "patterns": {
@@ -14041,7 +14233,11 @@
       "Major announcement debunk ('Everyone is misreading this') \u2014 flatters reader into feeling smarter than crowd",
       "Parallel rival launches ('Both shipped the same thing the same week \u2014 neither pretended it was coincidence') \u2014 highest-signal industry event format",
       "Show the impossible-seeming thing first, attach sacrifice backstory after",
-      "CEO casual ironic endorsement of unintended use case"
+      "CEO casual ironic endorsement of unintended use case",
+      "Personal disaster + spontaneous competitor endorsement \u2014 horror story from credible source forces readers to choose sides",
+      "Community bandwagon CTA on a real platform change \u2014 co-opts organic moment with a simple one-click participation ritual",
+      "NDA-lifted reveal with hedged uncertainty ('Apparently I'm allowed to talk about this now?') \u2014 makes a planned reveal feel unguarded and authentic",
+      "Fast-field acknowledgment + time-promise ('X moved fast. Catch up in 5 minutes') \u2014 resolves reader overwhelm with a specific, frictionless offer"
     ],
     "most_effective_formats": [
       "Single tweet with binary/command phrasing \u2014 highest retweet rate for hot takes",
@@ -14049,14 +14245,19 @@
       "Comparison thread (A vs B, exact dates, verdict + caveat) \u2014 highest reply rate",
       "Quote tweet with a single-sentence debunk \u2014 easiest engagement amplification",
       "Single tweet + embedded product demo/visual \u2014 highest conversion to followers",
-      "CEO/founder single casual tweet acknowledging irony \u2014 highest virality-to-effort ratio"
+      "CEO/founder single casual tweet acknowledging irony \u2014 highest virality-to-effort ratio",
+      "Security alert single tweet (brand + verb + dollar amount) \u2014 highest urgency-to-character ratio in crypto",
+      "Open-source code release + thread \u2014 earns technical credibility while inviting community replication",
+      "Digest/catch-up thread with trailing arrow (\u2193) \u2014 explicit promise of structure increases click-through on threads"
     ],
     "most_effective_tones": [
       "Authoritative-yet-vulnerable: combines data with personal confession",
       "Calm urgency: serious signal delivered without panic \u2014 feels like insider access",
       "Investigative restraint: facts-only debunk without editorializing (lets the gap create the outrage)",
       "Provocative declarative: zero hedging, invites both cheers and challenges",
-      "Self-aware irony (especially for executives): acknowledges the gap between vision and reality with humor"
+      "Self-aware irony (especially for executives): acknowledges the gap between vision and reality with humor",
+      "Shocked and candid: unpolished disaster report that sounds too raw to be staged",
+      "Casual insider: NDA-reveal hedging that signals access without sounding curated"
     ],
     "most_effective_triggers": [
       "Identity threat: am I on the right side of the paradigm shift?",
@@ -14066,7 +14267,9 @@
       "Insider access/signal-reading: translate what an executive really meant",
       "FOMO: the early buyers made 7 figures; the CEO just endorsed the meme",
       "Curiosity gap: everyone is misreading this \u2014 here's what it actually says",
-      "Epistemic fear: the expert community quietly converged on a new paradigm and didn't tell you"
+      "Epistemic fear: the expert community quietly converged on a new paradigm and didn't tell you",
+      "Platform algorithm change as community revival \u2014 reframes a technical change as an identity moment for suppressed communities",
+      "Democratization of impossibly expensive capability \u2014 'you can now do X on consumer hardware' triggers both curiosity and participation"
     ],
     "cross_niche_insights": [
       "Vocabulary coining is the highest-leverage move across both AI and crypto \u2014 whoever names a new trend owns the category narrative",
@@ -14076,8 +14279,11 @@
       "CEO casual/ironic tweets outperform polished corporate announcements by 10x \u2014 authenticity and self-awareness are the highest-trust signals",
       "The broken promise expose is the most sustainable format in crypto: promises are made constantly, execution fails regularly, the paper trail is always there",
       "Competitive parallel launches (two major players shipping the same product in the same week) are the most powerful single category-validation signal \u2014 always worth a dedicated analysis thread",
-      "2026 pattern: the gap between AI hype and measured reality is itself a constant source of viral material \u2014 both the hype AND the correction go viral"
+      "2026 pattern: the gap between AI hype and measured reality is itself a constant source of viral material \u2014 both the hype AND the correction go viral",
+      "July 2026 pattern: AI product safety failures (autonomous file deletion) generate viral content that simultaneously endorses competitors \u2014 negative product stories are now a marketing category",
+      "The 'catch-up in N minutes' digest format is emerging as the dominant high-engagement thread hook in fast-moving technical niches (AI, crypto) \u2014 it validates reader overwhelm before promising relief",
+      "Platform algorithm changes (X's mutual-follow boost, July 2026) create first-mover viral opportunities for brands that reframe the change as a community revival rather than a platform update"
     ],
-    "last_updated": "2026-07-16"
+    "last_updated": "2026-07-17"
   }
 }
