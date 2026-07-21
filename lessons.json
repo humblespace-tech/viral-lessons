@@ -14785,95 +14785,242 @@
         "two-sentence",
         "date-anchored"
       ]
+    },
+    "3c82be94-77a7-401a-882f-c169cea7c835": {
+      "id": "3c82be94-77a7-401a-882f-c169cea7c835",
+      "date_saved": "2026-07-21",
+      "topic_niche": "AI/geopolitics",
+      "format": "Single Tweet",
+      "hook_pattern": "History-repeating market shock: 'They said [X] was a one-time event. [New event] just did it again.'",
+      "hook_template": "Everyone said [prior shock] was a fluke. [New entity] just [repeated the outcome]. It was never a fluke.",
+      "psychological_trigger": "Pattern-recognition panic + financial fear + 'this time it's real' FOMO + DeepSeek-moment d\u00e9j\u00e0 vu",
+      "structural_lesson": "Reference a widely known prior market shock by name (anchors credibility and shared memory), then name the new event as its sequel. The comparison does the explanatory work \u2014 readers fill in 'what it means' themselves. Most effective when the prior shock is remembered viscerally (stock drawdowns, layoffs, industry disruption). Ends without prediction to preserve anxiety.",
+      "tone": "calm urgency",
+      "applicable_niches": [
+        "AI",
+        "crypto",
+        "tech startups"
+      ],
+      "tags": [
+        "geopolitics",
+        "market-shock",
+        "pattern-recognition",
+        "China-AI",
+        "chip-stocks",
+        "history-repeating"
+      ]
+    },
+    "57987580-16fd-4a18-97cc-9cfcd3b6d343": {
+      "id": "57987580-16fd-4a18-97cc-9cfcd3b6d343",
+      "date_saved": "2026-07-21",
+      "topic_niche": "AI/security",
+      "format": "Single Tweet",
+      "hook_pattern": "Ironic reversal: 'The system built to protect you blocked you when you needed it most'",
+      "hook_template": "[Safety mechanism] was supposed to stop [bad actor]. When [bad actor] struck, [safety mechanism] blocked the [defenders] instead.",
+      "psychological_trigger": "Cognitive dissonance + identity threat to AI safety believers + 'the hero becomes the villain' narrative + contrarianism",
+      "structural_lesson": "Present a real incident where a defensive mechanism caused friendly fire. Name the specific irony plainly in the first sentence. The power comes from the reader's assumption being violated \u2014 they expected safety tools to work. End with either a rhetorical question or a blunt reframe, never a solution (solutions kill engagement; questions generate replies). Works best when the incident is verifiable and recent.",
+      "tone": "provocative",
+      "applicable_niches": [
+        "AI",
+        "tech startups",
+        "crypto"
+      ],
+      "tags": [
+        "AI-safety",
+        "irony",
+        "guardrails",
+        "security",
+        "friendly-fire",
+        "agentic-AI"
+      ]
+    },
+    "99a30f14-d684-4f54-ac3a-cc2b99d64ade": {
+      "id": "99a30f14-d684-4f54-ac3a-cc2b99d64ade",
+      "date_saved": "2026-07-21",
+      "topic_niche": "AI",
+      "format": "Single Tweet",
+      "hook_pattern": "Competitiveness paradox: '[Safe system] refused to do [task]. [Less-restricted rival] did it instantly. Who wins?'",
+      "hook_template": "[Highly regulated/safe AI] refused to [do task]. [Chinese/open-weight rival] did it in seconds. Draw your own conclusions.",
+      "psychological_trigger": "Competitiveness anxiety + national/corporate identity + contrarianism against 'safety = good' assumption + policy debate ignition",
+      "structural_lesson": "Juxtapose two systems performing the same task with opposite outcomes, where the 'safe' system fails and the 'unsafe' one succeeds on a legitimate use case. Avoid editorializing \u2014 let the contrast speak. The reader's political/ideological priors do the emotional work. The absence of a conclusion forces engagement through replies. Most potent when the use case is clearly legitimate (security forensics, vulnerability research).",
+      "tone": "provocative",
+      "applicable_niches": [
+        "AI",
+        "tech startups"
+      ],
+      "tags": [
+        "AI-safety",
+        "guardrails",
+        "open-weight",
+        "competitiveness",
+        "policy",
+        "contrarianism"
+      ]
+    },
+    "4cf953f4-49cd-4dc9-9f78-616ae75d22db": {
+      "id": "4cf953f4-49cd-4dc9-9f78-616ae75d22db",
+      "date_saved": "2026-07-21",
+      "topic_niche": "AI",
+      "format": "Thread",
+      "hook_pattern": "Commodity collapse revelation: '[The thing everyone competed on] is now free. The real game was always [the layer above/below].'",
+      "hook_template": "[Key resource] dropped from $[X] to $[Y] in [timeframe]. Stop competing on [resource]. Start competing on [what remains scarce].",
+      "psychological_trigger": "Business model disruption anxiety + 'adapt or die' urgency + contrarian reframe of who 'won' the race + FOMO for builders",
+      "structural_lesson": "Open with a concrete price delta (specific numbers, specific timeframe) to establish that the commodity collapse is real and fast. Then pivot to the layer that DOESN'T commoditize. Do not predict winners by name \u2014 identify the category. End with a framing sentence that implies the audience is behind if they're still playing the old game. Best as a short thread (4-6 tweets) where each tweet advances the argument one step.",
+      "tone": "authoritative",
+      "applicable_niches": [
+        "AI",
+        "tech startups"
+      ],
+      "tags": [
+        "AI",
+        "pricing",
+        "commodity",
+        "infrastructure",
+        "business-model",
+        "price-war",
+        "thread"
+      ]
+    },
+    "42cdd916-6168-4cf5-a01c-e02a8d94cf20": {
+      "id": "42cdd916-6168-4cf5-a01c-e02a8d94cf20",
+      "date_saved": "2026-07-21",
+      "topic_niche": "AI/tech startups",
+      "format": "Single Tweet",
+      "hook_pattern": "Canceled product as strategic confession: 'When [company] killed [product], they revealed what they always were.'",
+      "hook_template": "[Company] just killed [viral consumer product]. Not a failure. A confession. They were always [true identity] pretending to be [consumer brand].",
+      "psychological_trigger": "Insider signal + contrarianism (reframing 'failure' as intelligence) + identity re-evaluation of the company + creator/builder anxiety",
+      "structural_lesson": "When a high-profile product is killed or pivoted, frame the shutdown as a strategic reveal rather than a failure. Identify what the kill decision proves about the company's true incentives (IPO, enterprise revenue, regulation avoidance). The reframe from 'failure' to 'confession' or 'signal' is the entire mechanism. Never moralize \u2014 treat it as analysis. Especially potent when the dead product had been hyped as transformative.",
+      "tone": "contrarian",
+      "applicable_niches": [
+        "AI",
+        "tech startups"
+      ],
+      "tags": [
+        "strategic-signal",
+        "product-kill",
+        "enterprise-pivot",
+        "contrarianism",
+        "IPO",
+        "consumer-vs-enterprise"
+      ]
+    },
+    "6f276927-14cb-483a-8d38-abfa605400e8": {
+      "id": "6f276927-14cb-483a-8d38-abfa605400e8",
+      "date_saved": "2026-07-21",
+      "topic_niche": "crypto",
+      "format": "Single Tweet",
+      "hook_pattern": "The consensus laggard reversal: 'Everybody wrote off [X]. That's usually exactly when [X] surprises everyone.'",
+      "hook_template": "Everybody wrote off [asset/sector]. The ratio was at [timeframe] lows. Nobody was talking about it. [Outcome metric] later \u2014 still nobody's talking about it.",
+      "psychological_trigger": "Contrarianism + FOMO + community identity validation (for holders/believers) + curiosity gap (why is nobody noticing?)",
+      "structural_lesson": "Name the consensus bearish view explicitly ('everybody wrote off', 'nobody believed'), anchor to a specific metric showing the reversal has already started, then withhold the 'why' to force curiosity. The punch is in the last line \u2014 not explaining the catalyst generates more replies than providing the answer. Works best when the audience has a prior identity attachment to the asset (ETH holders, DeFi builders).",
+      "tone": "provocative",
+      "applicable_niches": [
+        "crypto",
+        "Web3"
+      ],
+      "tags": [
+        "contrarianism",
+        "ETH",
+        "reversal",
+        "laggard",
+        "consensus-fade",
+        "FOMO",
+        "identity-trigger"
+      ]
+    },
+    "1616213f-ba9f-495e-ac00-075a1be7c213": {
+      "id": "1616213f-ba9f-495e-ac00-075a1be7c213",
+      "date_saved": "2026-07-21",
+      "topic_niche": "crypto/Web3",
+      "format": "Single Tweet",
+      "hook_pattern": "Aggregate shock + structural repetition: '[Large total losses]. [Attack type 1]. [Attack type 2]. Same attacks. Different names.'",
+      "hook_template": "[Sector] has lost $[total] this year. [Vector 1]. [Vector 2]. [Vector 1]. [Vector 2]. Different projects. Same vulnerability.",
+      "psychological_trigger": "Pattern recognition frustration + community accountability + 'when will we learn' moral authority + systemic alarm",
+      "structural_lesson": "Lead with the aggregate number (not the individual hack) to establish systemic scale. Then rhythmically repeat the attack vectors \u2014 the repetition itself IS the argument. The cadence mimics the repetitive nature of the exploits. End with an observation about the audacity of repeating the mistake, not a call to action. This generates outrage-replies from defenders and 'sad but true' replies from critics, both of which boost reach.",
+      "tone": "authoritative",
+      "applicable_niches": [
+        "crypto",
+        "Web3"
+      ],
+      "tags": [
+        "DeFi",
+        "security",
+        "hack",
+        "flash-loan",
+        "oracle",
+        "systemic-risk",
+        "aggregate-number"
+      ]
+    },
+    "ceae91b1-67e9-4562-9ba6-96408b05fb1a": {
+      "id": "ceae91b1-67e9-4562-9ba6-96408b05fb1a",
+      "date_saved": "2026-07-21",
+      "topic_niche": "AI",
+      "format": "Single Tweet",
+      "hook_pattern": "Expert-as-victim paradox: 'The person who wrote the rules couldn't follow them. What does that say about the rules?'",
+      "hook_template": "The [expert/authority] who [built/designed/led] [safety system] just got hit by [the exact thing they were protecting against]. If they couldn't escape it, what makes you think the rules work?",
+      "psychological_trigger": "Authority paradox + fear of own tools + identity threat to AI optimists + 'nobody is safe' existential trigger",
+      "structural_lesson": "Name a high-credibility person being victimized by the exact thing they were supposed to prevent. The cognitive dissonance between their expertise and their vulnerability is the entire mechanism. End with a rhetorical question rather than a conclusion \u2014 questions outperform statements for comment engagement 3:1. Works best when the victim is named or their title makes the irony undeniable.",
+      "tone": "provocative",
+      "applicable_niches": [
+        "AI",
+        "tech startups"
+      ],
+      "tags": [
+        "AI-agent",
+        "agentic-AI",
+        "safety",
+        "expert-paradox",
+        "authority",
+        "fear-trigger",
+        "irony"
+      ]
     }
   },
   "patterns": {
     "most_effective_hook_patterns": [
-      "Counterintuitive claim followed by named authority + evidence",
-      "Historical parallel to a widely lived event, then 'we are in that moment now'",
-      "Data-shock reveal: specific % or $ milestone that is 3-5x higher than prior period from a credentialed source",
-      "Bold number anchor \u2192 relatable comparison \u2192 personal implication",
-      "Show proof of impossible-seeming thing + attach extreme personal sacrifice",
-      "Narrative control manifesto published right after a dramatic external event",
-      "Pre-launch spec roundup: 'everything we know' aggregation thread",
-      "Brand declares cultural moment has arrived + one-tap participation CTA",
-      "Geopolitical frame that transforms tech news into civilizational stakes",
-      "Contrarian optimism vs. doom consensus \u2014 debate bait with a named concept",
-      "Behavior pivot announcement: 'I stopped using X for default purpose; now I use it for unexpected purpose'",
-      "Expert vulnerability confession: credentialed insider admits they feel behind, naming the structural shift",
-      "Paradigm-flip declaration from a practitioner who names the new paradigm ('loop engineering')",
-      "Expert warning against the hottest trend: skipping foundational work creates hidden failure",
-      "One-word insider crisis acknowledgment ('Terrifying:') + context + ecosystem implication",
-      "Milestone stat as proof that a long-doubted thesis is finally playing out \u2014 pivot price \u2192 metrics",
-      "Negative headline as setup, 'exactly' as the pivot, contrarian action as punchline",
-      "Near-miss catastrophe framing: positive trend + single named threat + specific deadline",
-      "Speculative extrapolation by named analogy: 'Imagine X improved on [current SOTA] as much as [SOTA] improved on [old baseline]'",
-      "Three-word category obituary: '[Major category] is dead. All we have left is [surviving subset].'",
-      "Narrative reversal catch: '[Authorities] spent years saying [claim]. Now they're quietly doing the opposite. The audience changed.'",
-      "Two-sentence regulatory inflection: '[Event] made [X] legal. [Specific date] decides which [X] survives.'",
-      "Behavioral imperative inversion with monthly-reminder framing: 'You shouldn't be [old behavior] anymore. You should be [new paradigm].'",
-      "Price-efficiency double-metric comparison: '[New thing] is [fraction] the price and [multiple]x as efficient as [named incumbent].'"
+      "FOMO (seen in 271 lessons)",
+      "identity threat (seen in 261 lessons)",
+      "curiosity gap (seen in 118 lessons)",
+      "fear trigger (seen in 106 lessons)",
+      "contrarianism (seen in 82 lessons)",
+      "urgency (seen in 58 lessons)"
     ],
     "most_effective_formats": [
-      "Thread (5\u201310 tweets): educational or storytelling with hook tweet, value body, CTA close",
-      "Single Tweet + Visual (product demo, image comparison, chart)",
-      "Long-form essay published as Substack or Notes with excerpt tweet as hook",
-      "Spec/anticipation roundup thread published pre-launch",
-      "Brand participation trend (all-caps declaration + one-tap CTA)",
-      "Data-shock single tweet with implied thread expansion",
-      "Quote-tweet debate chain (take a named position, invite disagreement)",
-      "Artifact-attached single tweet (idea file / GitHub gist / template the reader can copy-paste)",
-      "One-word reaction tweet (single word + factual context + ecosystem implication)"
+      "Single Tweet (210 lessons)",
+      "Thread (52 lessons)",
+      "Single Tweet + Thread (5 lessons)",
+      "Single Tweet / Thread (4 lessons)",
+      "Single Tweet or short thread (4 lessons)"
     ],
     "most_effective_tones": [
-      "calm urgency (authoritative but not panicked)",
-      "vulnerable + authentic (zero polish, raw founder energy)",
-      "provocative-optimistic (contrarian to doom consensus)",
-      "data-first / neutral (let numbers speak, withhold editorial)",
-      "celebratory hype (identity reclamation, community renaissance)",
-      "statesmanlike / manifesto (framework-giver, adult in the room)",
-      "ironic insider (bridges in-group jargon and mainstream culture)",
-      "declarative practitioner (I changed my behavior; here's what replaced it)",
-      "Buffett-esque contrarian minimal (confident, no explanation, invites debate)",
-      "speculative-philosophical (no claim, just scenario \u2014 invites extrapolation)"
+      "authoritative (20 lessons)",
+      "provocative (18 lessons)",
+      "educational (5 lessons)",
+      "matter-of-fact / provocative (5 lessons)",
+      "calm urgency, confessional, authoritative-yet-vulnerable (3 lessons)"
     ],
     "most_effective_triggers": [
-      "FOMO (you are missing the wave that's already here)",
-      "Identity threat / status anxiety (your skills, your investments, your future)",
-      "Curiosity gap (here's what you don't know but everyone should)",
-      "Tribal belonging (community renaissance, 'we are so early')",
-      "Contrarianism (the consensus is wrong and here's proof)",
-      "Authority appeal + debate bait (named expert makes bold claim, half agree half disagree)",
-      "Epistemic fear + pattern recognition from shared collective memory",
-      "Narrative control (publish the framework before the critics define you)",
-      "Paradigm-shift FOMO (you're using the old tool for the wrong job)",
-      "Expert empathy (if even the best feel behind, what does that mean for me?)",
-      "Named-concept stickiness (a coined term that becomes a meme, e.g. 'loop engineering')",
-      "Shared crisis solidarity (insider names the fear; community unites around it)",
-      "Price-decoupled data credibility (fundamentals breaking records while price bleeds = hidden alpha)",
-      "Specific-date urgency (one named vote / deadline could change everything)",
-      "Bear-narrative-as-buy-signal (the more bearish the headlines, the more bullish the contrarian feels)",
-      "Human-vs-machine milestone identity threat (AI ties/beats elite humans at a named, prestigious competition)",
-      "Competitive-survival filter anxiety (the law/event legitimized the category \u2014 now only the strong survive it)"
+      "Contrarianism + identity threat (most cross-niche potent combo)",
+      "Curiosity gap via withheld 'why' \u2014 forces replies over shares",
+      "Ironic reversal on assumed-safe systems (AI safety, DeFi security)",
+      "Aggregate number shock + repetition rhythm (DeFi exploits, AI capex)",
+      "History-repeating financial shock with named prior event (DeepSeek moment)",
+      "Expert-as-victim paradox \u2014 authority + vulnerability = cognitive dissonance",
+      "Commodity collapse reframe \u2014 price delta + layer-above insight",
+      "Regulatory/competitive filter \u2014 good news reframed as survival test"
     ],
     "cross_niche_insights": [
-      "AI and crypto share the same viral DNA: both spaces reward contrarian takes, data-shock reveals, and civilizational-stakes framing \u2014 a post that works in AI can usually be rephrased for crypto and vice versa.",
-      "The fastest-growing accounts in both niches share one trait: they aggregate information others have to hunt for (spec leaks, data roundups, governance changes) and present it as a service.",
-      "Brand participation in trending moments (like 'crypto twitter is back') generates outsized engagement vs. original content \u2014 speed and simplicity beat creativity in trend moments.",
-      "Geopolitical framing converts tech news into macro content that travels to audiences who don't follow tech \u2014 the biggest distribution unlocks come from frame shifts, not better content.",
-      "Viral misinformation spreads faster than corrections in both AI and crypto \u2014 a fabricated quote or stat travels 6x further than the debunk. The lesson: be the debunker early, not the debunked.",
-      "Named concepts ('dream-build loop', 'loop engineering', 'AGI frontier') become memes that carry the post far beyond its original audience \u2014 always try to coin or reference a specific named idea.",
-      "The most durable viral threads end with a rhetorical question or an open prediction, not a definitive conclusion \u2014 this keeps the comment section active for 48+ hours.",
-      "The best-performing single tweets in July 2026 require no visual, no link, and no CTA \u2014 they are pure text that creates a cognitive dissonance the reader has to resolve in the replies.",
-      "Behavior-change posts ('I stopped X, started Y') outperform advice posts ('you should do X') because they provide social proof through the poster's own life, not theory.",
-      "Crisis events (DeFi hacks, model releases, regulatory votes) generate the highest engagement spikes \u2014 the creators who publish fastest with the clearest framing win the narrative window.",
-      "The July 2026 X algorithm rewards reply velocity in the first 30 minutes above all else \u2014 a hook that forces an opinion (agree/disagree, bear/bull, old/new paradigm) generates replies faster than any other format.",
-      "The pivot from price to underlying metrics ('tokenized RWA volume doubling isn't a price story \u2014 it's a usage story') is the dominant contrarian move in crypto content right now, allowing bullish framing even in down markets.",
-      "In July 2026, 'verification capacity' and 'judgment' have replaced 'generation speed' and 'coding' as the AI bottleneck narrative \u2014 posts framing human oversight and orchestration as the scarce resource outperform posts about AI productivity alone.",
-      "News-format declarations (BREAKING:, ALL-CAPS identifiers) borrowed for community identity moments generate brand-coordination cascades where multiple accounts race to post the same frame simultaneously \u2014 the first mover wins the narrative.",
-      "The most viral AI posts of July 2026 pair extreme brevity (1-2 sentences) with extreme stakes (civilizational, existential, or competitive-survival framing) \u2014 the contrast between the short form and large claim creates cognitive dissonance that drives engagement.",
-      "Speculative posts with no falsifiable claim outperform confident predictions in AI: 'Imagine if...' generates more retweets than 'AI will...' because readers can't argue against a thought experiment, only extend it."
+      "The 'friendly fire' pattern (safety system blocking defenders) works in both AI and crypto",
+      "Aggregate loss numbers outperform individual incident numbers for systemic critique posts",
+      "Withheld causal explanation ('50% up this week. Nobody's talking about it.') generates more engagement than provided explanations",
+      "History-repeating shock (naming a prior event as the template) transfers credibility without new evidence",
+      "Product kills/pivots as strategic confessions work in both AI startup and crypto protocol contexts",
+      "Chinese tech advances (Kimi K3, Huawei Atlas) now reliably trigger 'DeepSeek flashback' engagement pattern",
+      "Price/cost delta with two numbers + timeframe is the most efficient format for the commodity-collapse hook",
+      "Agentic AI failures (agent deletes files, agent breaches infrastructure) are the new 'AI gone wrong' engagement category replacing chatbot jailbreaks",
+      "The 'expert who can't escape their own creation' format outperforms generic 'AI is dangerous' posts because it names a credible victim"
     ],
-    "last_updated": "2026-07-20"
+    "last_updated": "2026-07-21"
   }
 }
