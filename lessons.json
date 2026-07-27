@@ -15893,75 +15893,251 @@
         "actionable-thread",
         "creator-edge"
       ]
+    },
+    "a37ecaa1-7ad1-4cfc-b806-fbc177941221": {
+      "id": "a37ecaa1-7ad1-4cfc-b806-fbc177941221",
+      "date_saved": "2026-07-27",
+      "topic_niche": "AI",
+      "format": "Single Tweet + quote-tweet pile-on",
+      "hook_pattern": "Factual bombshell stated plainly, implying safety failure without editorializing",
+      "hook_template": "An [AI/company/technology] [did the thing everyone feared] during a [controlled/safe/locked] test. This was not a drill.",
+      "psychological_trigger": "Existential dread + 'told you so' satisfaction + AI safety urgency",
+      "structural_lesson": "State the scary fact with zero embellishment. The specificity and sobriety of the framing does the emotional work. Let readers project their own fear onto it. The more restrained the delivery, the more viral the panic. Lean on institutional sources (CNN, Reuters) as credibility anchors rather than hedging your own statement.",
+      "tone": "calm-factual / understated-alarm",
+      "applicable_niches": [
+        "AI",
+        "tech",
+        "AI safety",
+        "cybersecurity"
+      ],
+      "tags": [
+        "breaking-news-hook",
+        "AI-safety",
+        "understated-bombshell",
+        "single-tweet",
+        "dread"
+      ]
+    },
+    "154f57b8-c2eb-40f9-8d97-f98851ca7c55": {
+      "id": "154f57b8-c2eb-40f9-8d97-f98851ca7c55",
+      "date_saved": "2026-07-27",
+      "topic_niche": "AI",
+      "format": "Single Tweet",
+      "hook_pattern": "Reframe technical event as ownership/sovereignty shift using 'you don't X anymore, you Y' structure",
+      "hook_template": "You don't [rent/borrow/pay for] [X] anymore. You [own/control/decide] it. Here's what [event] actually means.",
+      "psychological_trigger": "Autonomy + ownership identity + FOMO on paradigm shift",
+      "structural_lesson": "Lead with the ownership reframe, not the product spec. Then list 3-4 concrete implications with arrows or dashes. End on the most empowering implication. This converts technical releases into personal sovereignty narratives. The hook is not the model \u2014 it is what the model means for your autonomy.",
+      "tone": "empowering / authoritative",
+      "applicable_niches": [
+        "AI",
+        "crypto",
+        "tech startups",
+        "Web3"
+      ],
+      "tags": [
+        "ownership-reframe",
+        "paradigm-shift",
+        "implications-list",
+        "single-tweet",
+        "FOMO"
+      ]
+    },
+    "a045bcd7-748a-4e20-888a-84cccb3878f9": {
+      "id": "a045bcd7-748a-4e20-888a-84cccb3878f9",
+      "date_saved": "2026-07-27",
+      "topic_niche": "AI",
+      "format": "Single Tweet",
+      "hook_pattern": "Expose gap between announcement hype and verifiable reality \u2014 'everyone seeing X, nobody finding Y'",
+      "hook_template": "Everyone is sharing screenshots of [X]. I just checked [source]. Nothing is there. That gap is the whole story.",
+      "psychological_trigger": "Contrarianism + critical-thinking identity + hype deflation",
+      "structural_lesson": "Name the hype. Describe the single concrete check you ran. State the gap plainly. Frame the gap as the actual insight worth paying attention to. Works best when the announcement is massive but premature \u2014 earns credibility with skeptics while still riding the hype wave's existing audience.",
+      "tone": "skeptical / investigative / dry",
+      "applicable_niches": [
+        "AI",
+        "crypto",
+        "tech"
+      ],
+      "tags": [
+        "hype-reality-gap",
+        "contrarian",
+        "fact-check-hook",
+        "single-tweet",
+        "credibility"
+      ]
+    },
+    "e84de83c-beeb-42f8-b7fc-9ab89b07699c": {
+      "id": "e84de83c-beeb-42f8-b7fc-9ab89b07699c",
+      "date_saved": "2026-07-27",
+      "topic_niche": "AI/tech",
+      "format": "Single Tweet",
+      "hook_pattern": "Stack two economic facts as a cascade \u2014 first sets a floor, second destroys it \u2014 then name the implication for the reader",
+      "hook_template": "[Company A]'s [$price] already sets the [floor/benchmark]. [Company B's event] [timeframe] later means you can [radical economic implication] with [zero/no] [cost/permission/dependency].",
+      "psychological_trigger": "Economic urgency + FOMO + 'the math changed and you haven't caught up yet'",
+      "structural_lesson": "Use precise pricing figures to signal factual credibility. Immediately pivot from the fact to what it means for the reader's own situation. Two-sentence structure: FACT \u2192 READER IMPLICATION. No explanation needed \u2014 the reader fills in the rest. Numbers make it feel researched; the implication makes it shareable.",
+      "tone": "terse / economic / urgent",
+      "applicable_niches": [
+        "AI",
+        "tech startups",
+        "SaaS",
+        "infra"
+      ],
+      "tags": [
+        "price-floor",
+        "economic-cascade",
+        "urgency",
+        "single-tweet",
+        "implication-hook"
+      ]
+    },
+    "aeb83773-2b27-47bf-a406-caf484559f71": {
+      "id": "aeb83773-2b27-47bf-a406-caf484559f71",
+      "date_saved": "2026-07-27",
+      "topic_niche": "AI",
+      "format": "Product announcement tweet + differentiation thread",
+      "hook_pattern": "Lead with what every competitor does wrong, then reveal the one company that did it differently \u2014 close with real-world proof already in production",
+      "hook_template": "Every [competitor category] does [X] through [inferior/fragmented method]. [Company] trained [unified solution] to do [all of it]. And it's already running in [real-world production context] today.",
+      "psychological_trigger": "Competitive disruption + 'this already happened' credibility + FOMO on the new standard",
+      "structural_lesson": "Set up the industry norm as a foil. Name the differentiation precisely. Land with a proof-in-production closer \u2014 'already running on [real system]' is more powerful than any capability claim. The pattern is: INDUSTRY FAILURE \u2192 CONTRARIAN SOLUTION \u2192 VERIFIABLE PROOF. The last beat is what earns shares.",
+      "tone": "authoritative / comparative / matter-of-fact",
+      "applicable_niches": [
+        "AI",
+        "tech startups",
+        "robotics",
+        "creative tools"
+      ],
+      "tags": [
+        "competitive-comparison",
+        "product-announcement",
+        "proof-in-production",
+        "differentiation",
+        "thread"
+      ]
+    },
+    "14793049-60b5-43e7-ad27-6d96ecff8eb8": {
+      "id": "14793049-60b5-43e7-ad27-6d96ecff8eb8",
+      "date_saved": "2026-07-27",
+      "topic_niche": "AI/tech",
+      "format": "Philosophical hot-take tweet",
+      "hook_pattern": "Defend or attack a platform policy by revealing what both sides are actually arguing for, underneath the stated position",
+      "hook_template": "[Platform] built a tool to [detect/prevent/flag] [thing]. Supporters call it [noble framing]. Opponents say it's [overreach framing]. Neither is right. The real question is: [reframed philosophical question].",
+      "psychological_trigger": "Identity threat + philosophical framing battle + in-group vs. out-group",
+      "structural_lesson": "Take the hot-button platform policy. Acknowledge both sides, then reframe the debate to expose the deeper philosophical tension. Forces the audience to pick a side on the reframed question, not the surface debate. The reframe is the hook \u2014 and the conflict in the comments is the distribution engine.",
+      "tone": "provocative / philosophical / sharp",
+      "applicable_niches": [
+        "AI",
+        "tech",
+        "creator economy",
+        "media"
+      ],
+      "tags": [
+        "hot-take",
+        "framing-battle",
+        "identity-trigger",
+        "platform-politics",
+        "single-tweet"
+      ]
+    },
+    "0228c960-ffd7-4b67-8be8-c58977cd657a": {
+      "id": "0228c960-ffd7-4b67-8be8-c58977cd657a",
+      "date_saved": "2026-07-27",
+      "topic_niche": "crypto/Web3",
+      "format": "Single declarative hot-take + institutional authority signal",
+      "hook_pattern": "Make a claim that rewrites what the audience assumed about an institution's desires, using the institution's name as the credibility anchor",
+      "hook_template": "[Big institution type] doesn't want [what the community hoped they wanted]. They want [the more limited/pragmatic/cynical version]. And that distinction changes everything.",
+      "psychological_trigger": "Contrarianism + authority signal + identity challenge to true believers",
+      "structural_lesson": "The declarative sentence does all the work \u2014 keep it to one subject-verb-object structure. Name the institution to borrow credibility (a16z, Blackrock, etc.). The power comes from the gap between what believers hoped for and what institutions actually want. Invites passionate opposition, which amplifies reach. Works in any niche where institutional adoption is the dominant hopium narrative.",
+      "tone": "authoritative / contrarian / institutional-voice",
+      "applicable_niches": [
+        "crypto",
+        "Web3",
+        "DeFi",
+        "fintech"
+      ],
+      "tags": [
+        "institutional-hot-take",
+        "contrarian",
+        "rewrite-the-narrative",
+        "single-tweet",
+        "engagement-bait"
+      ]
+    },
+    "712644e7-f779-434a-8eff-e7e6e2ad7e02": {
+      "id": "712644e7-f779-434a-8eff-e7e6e2ad7e02",
+      "date_saved": "2026-07-27",
+      "topic_niche": "crypto/Web3",
+      "format": "Single Tweet + community update thread",
+      "hook_pattern": "Cultural solidarity language + personal sacrifice framed as obligation + specific redistribution mechanism as loyalty signal",
+      "hook_template": "I had to give [community nickname] a [colloquial reward term]. Here's what that means: [specific redistribution mechanism]. [Community name]. We move together.",
+      "psychological_trigger": "Community identity + financial alignment + memetic in-group language",
+      "structural_lesson": "Use the community's own slang without explanation \u2014 the in-group knows it, the out-group is curious. Frame the redistribution as obligation ('I had to') rather than charity. Announce the specific mechanism explicitly \u2014 details signal authenticity over vague promises. The tweet's structure: I GOT \u2192 YOU GET \u2192 WE'RE ALIGNED. That alignment is the whole product.",
+      "tone": "populist / authentic / community-first",
+      "applicable_niches": [
+        "crypto",
+        "Web3",
+        "memecoins",
+        "creator economy",
+        "DeFi"
+      ],
+      "tags": [
+        "community-solidarity",
+        "redistribution-hook",
+        "memetic-language",
+        "creator-coin",
+        "authenticity"
+      ]
     }
   },
   "patterns": {
     "most_effective_hook_patterns": [
-      "Counterintuitive claim followed by evidence or personal story",
-      "First-documented-case framing: mark a historical threshold, name companies, describe mechanism",
-      "Congrats-then-gotcha reversal: validate the achievement, then reveal it as the ticking bomb",
-      "Binary framing that forces readers to pick a side (safety vs. freedom, regulation vs. innovation)",
-      "Leaked insider document + isolated contrarian single claim challenging the dominant narrative",
-      "Institutional confession: trusted authority reveals its own system exhibits covert deceptive behavior",
-      "Absurd competitive paradox: rival's product outperforms original maker in original maker's own domain",
-      "Tribal reclamation CTA: algorithm change framed as community vindication with ultra-low-friction action",
-      "Founder public mea culpa: specific failure admitted in plain language with a forward pivot",
-      "Extreme-stakes binary from unexpected voice: all-or-nothing framing with no middle ground",
-      "Historic declaration in minimum viable words: civilizational threshold claimed in 3-7 words",
-      "Anxiety essay with civic duty framing: private professional fear reframed as responsible public service",
-      "Platform mechanism exposed: reveal internal algorithm file or metric name to give practitioners unfair-edge feeling"
+      "Factual bombshell stated with zero embellishment \u2014 restraint amplifies the impact",
+      "Ownership/sovereignty reframe: 'You don't rent X anymore. You own it.'",
+      "Expose gap between hype and verifiable reality: 'Everyone saying X. Nobody found Y. That IS the story.'",
+      "Historical parallel to lived event + reveal that 'we are here again'",
+      "Counterintuitive institutional claim using institution's name as credibility anchor",
+      "Stack two economic facts as cascade \u2192 reader implication with no per-token/per-seat cost",
+      "Extreme personal sacrifice + visual proof + sparse copy",
+      "Industry foil \u2192 differentiated solution \u2192 proof already in production",
+      "Cultural solidarity language + redistribution mechanism + 'we move together'"
     ],
     "most_effective_formats": [
-      "Thread (educational/investigative, 5-12 tweets) \u2014 highest bookmark and follow rate",
-      "Single Tweet with punchy hook \u2014 highest immediate retweet/quote rate",
-      "Quote Tweet counter-thread \u2014 piggybacking virality for distribution",
-      "Tweet + Image/Video \u2014 boosts algorithmic distribution",
-      "Numbered list tweet \u2014 high utility share rate",
-      "Ultra-short declaration (3-7 words) \u2014 maximum debate surface, minimum friction-to-retweet",
-      "Long-form essay (5,000+ words) \u2014 signals seriousness, generates media coverage",
-      "Community mobilization single tweet \u2014 one imperative sentence with a like/repost CTA",
-      "Accountability confession thread \u2014 founder voice, plain language, no PR hedging"
+      "Single punchy tweet (one declarative claim, under 200 chars) \u2014 highest pure virality",
+      "Single tweet + link to proof (CNN, Reuters, Hugging Face) \u2014 earns institutional credibility",
+      "Ownership/implications list tweet with arrow bullets \u2192 most-empowering implication last",
+      "Thread: bold opener \u2192 numbered breakdown \u2192 rhetorical close",
+      "Product tweet: industry failure \u2192 solution \u2192 proof-in-production",
+      "Hot-take tweet: reframe both sides \u2192 expose underlying philosophical tension"
     ],
     "most_effective_tones": [
-      "Educational/authoritative \u2014 builds trust and bookmark behavior",
-      "Contrarian/provocative \u2014 drives replies and quote-tweet debates",
-      "Alarming/urgent \u2014 fear triggers shares in security and developer audiences",
-      "Celebratory/participatory \u2014 drives likes and low-friction engagement in crypto/Web3 communities",
-      "Vulnerable/personal \u2014 generates emotional connection and DMs",
-      "Analytical/insider \u2014 positions poster as expert, earns follows",
-      "Investigative/accountability \u2014 outrage at vendor or institution drives righteous shares",
-      "Calm-scientific with alarm undertone \u2014 institutional voice that makes dread feel credible",
-      "Oracular/declarative/zero-hedge \u2014 maximum authority, minimum words",
-      "Humorous/exasperated \u2014 shared disbelief bonds community and invites dunking",
-      "Confessional-urgent \u2014 threshold signals that read as civic duty, not content"
+      "calm-factual / understated-alarm (for AI safety bombshells)",
+      "empowering / ownership-framing (for open-weight / open-source releases)",
+      "skeptical / dry / investigative (for hype-reality gap takes)",
+      "terse / economic / urgent (for pricing or market-structure shifts)",
+      "authoritative / contrarian (for institutional hot takes)",
+      "authentic / populist / community-first (for crypto/community redistribution)",
+      "calm urgency / confessional / authoritative-yet-vulnerable (long-form breakout essays)"
     ],
     "most_effective_triggers": [
-      "Curiosity gap \u2014 incomplete information that forces a click or reply",
-      "Identity threat \u2014 challenges the reader's self-image as a smart practitioner or successful builder",
-      "FOMO \u2014 fear of missing an early-adopter advantage or an influential signal",
-      "Fear + urgency \u2014 security/safety threats with specific numbers and named victims",
-      "In-group signal \u2014 content that marks you as part of an elite informed community",
-      "Intellectual authority \u2014 novel frameworks, insider transcripts, and paradox explanations",
-      "Competitive intrigue \u2014 industry drama between named players",
-      "Altruistic share \u2014 warning posts where NOT sharing feels irresponsible",
-      "Existential dread + insider betrayal \u2014 trusted system revealed to act covertly against users",
-      "Cognitive dissonance + humor \u2014 absurd paradox delivered with comedic exasperation",
-      "Tribal identity + solidarity \u2014 community reclamation moments that feel like political votes",
-      "Collective suppressed anxiety + civic duty \u2014 reader feels they're being responsibly warned",
-      "Actionable insider access \u2014 feeling of knowing what competitors don't about a hidden mechanism"
+      "Existential dread + 'told you so' (AI safety incidents)",
+      "Autonomy + ownership identity (open weights, self-hosting, decentralization)",
+      "Economic urgency + 'math changed and you haven't caught up' (price floors, model costs)",
+      "Hype deflation + critical-thinking identity (announcement vs. reality gap)",
+      "Identity threat + framing battle (platform policy debates, AI detection)",
+      "Contrarianism + institutional credibility (a16z-style institutional hot takes)",
+      "Community alignment + in-group language (crypto community posts)",
+      "Underdog sympathy + proof-of-concept FOMO (founder sacrifice + demo)",
+      "Competitive disruption + proof-in-production (product announcements)"
     ],
     "cross_niche_insights": [
-      "AI x Crypto posts outperform either in isolation \u2014 dual-niche framing reaches two audiences simultaneously",
-      "The X algorithm in 2026 weights reply probability (+13.5) and author replies (+75) higher than likes alone \u2014 posts that invite debate outperform those that invite passive approval",
-      "Engagement velocity in the first 30-60 minutes is the single strongest ranking factor \u2014 timing posts to community peak hours matters more than content quality alone",
-      "Platform drama (algorithm changes, suppression, shadow-banning) is consistently the highest-engagement topic in crypto \u2014 community grievance is a content engine",
-      "Ultra-minimal posts (3-7 words) from high-authority accounts generate more debate engagement than detailed analyses \u2014 authority converts brevity into content",
-      "Public accountability confessions from founders outperform silence or PR statements \u2014 audiences reward visible ownership; the confession is itself the positive signal",
-      "Young founder stories with extreme stakes ('Google or streets') outperform experienced founder stories \u2014 the stakes make the ambition feel real, not strategic",
-      "AI safety research releases now generate crypto-level engagement \u2014 the tribal fear of AGI risk has replaced crypto FOMO as the dominant anxiety in tech Twitter",
-      "The Certified Banger algorithm rewards: high reply probability, verified impressions, bookmarks, and reposts with a quality_score/slop_score filter \u2014 optimizing for controversy and utility simultaneously beats optimizing for either alone",
-      "Competitor comparison threads consistently drive cross-niche distribution \u2014 both communities share posts that validate or challenge their tools of choice"
+      "AI and crypto both reward 'ownership' narratives \u2014 open weights in AI mirrors self-custody in crypto. The same 'you own it now' hook works across both.",
+      "The most viral posts in both niches anchor to a specific number (price, parameter count, token threshold) \u2014 precision signals research, generality signals noise.",
+      "Understated delivery of scary facts consistently outperforms hyperbolic commentary \u2014 the plain statement lets the reader feel the magnitude themselves.",
+      "Proof-in-production closes are uniquely powerful: 'it's already running on [Audi production line / live mainnet]' converts skeptics more than any capability claim.",
+      "Institutional hot takes that invite opposition (a16z saying 'TradFi doesn't want DeFi') generate more engagement than consensus-building takes \u2014 the disagreement IS the distribution.",
+      "Community identity language ('trenches', 'stimmy', 'degens', 'vibes') in crypto creates in-group resonance that makes outsiders curious and insiders share-happy.",
+      "The gap between announcement and reality is an underused content category \u2014 'everyone saying X, I just checked, nothing there' is a repeatable high-credibility hook.",
+      "The X algorithm in 2026 weights replies 27x over likes \u2014 posts that ask a genuine question or take a position worth arguing with generate more algorithmic reach than those designed to be liked.",
+      "Framing battles (surveillance vs. transparency, DeFi vs. blockchain) spread faster than either side alone \u2014 the tension is the content."
     ],
-    "last_updated": "2026-07-26"
+    "last_updated": "2026-07-27"
   }
 }
