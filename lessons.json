@@ -18577,54 +18577,235 @@
         "competitive-advantage",
         "platform-strategy"
       ]
+    },
+    "eb37a840-0014-46b7-8fba-a32e70606ab4": {
+      "date_saved": "2026-08-11",
+      "topic_niche": "AI/tech",
+      "format": "Single Tweet + Viral Counter-Tweet Chain",
+      "hook_pattern": "Authority figure makes unrelatable AI-as-solution-for-human-connection claim; cultural counter-figure destroys it with a single rhetorical question",
+      "hook_template": "[CEO/Authority] thinks [AI tool] can replace [fundamentally human thing]. [Cultural figure] replies: \"What if you just [the human thing instead]?\"",
+      "psychological_trigger": "Identity threat + outrage + social proof cascade \u2014 the counter-tweet outperforms the original by 10x because it validates what the audience already felt but could not articulate",
+      "structural_lesson": "The real viral moment is the counter-tweet, not the original. Posting a relatable one-line rebuttal to a tone-deaf authority claim hands the audience epistemic superiority. The rhetorical question format is lethal because it needs no explanation \u2014 the reader supplies the obvious answer themselves. The cultural figure does not need more followers; they need a sharper hook.",
+      "tone": "Quietly provocative",
+      "applicable_niches": [
+        "AI",
+        "tech",
+        "startup"
+      ],
+      "tags": [
+        "counter-tweet",
+        "rhetorical-question",
+        "outrage",
+        "identity-threat",
+        "single-tweet"
+      ],
+      "id": "eb37a840-0014-46b7-8fba-a32e70606ab4"
+    },
+    "dcb496a6-21b8-4b7e-9874-8eef2132eb81": {
+      "date_saved": "2026-08-11",
+      "topic_niche": "AI/tech",
+      "format": "Single Tweet \u2014 Insider Prediction",
+      "hook_pattern": "Credentialed insider predicts the death of a professional identity using a specific timeline and replacement framing",
+      "hook_template": "The [job title] will start to go away in [near-future year]. We will call them [new title] instead.",
+      "psychological_trigger": "Identity threat \u2014 targets professionals in the named role, forcing engagement either to defend or accept the prediction; epistemic superiority reward for those who share it before their peers",
+      "structural_lesson": "Predictions that attack a job title spread because they create an urgent binary: the reader must decide if they are the past or the future. Credentialing the speaker activates the insider-authority effect and shields the claim from easy dismissal. No supporting data is needed \u2014 the future-date plus role-name is the entire hook. The replacement framing adds a second layer: readers debate whether the new label fits them.",
+      "tone": "Authoritative",
+      "applicable_niches": [
+        "AI",
+        "tech",
+        "startup"
+      ],
+      "tags": [
+        "prediction",
+        "identity-threat",
+        "insider-authority",
+        "single-tweet",
+        "job-future"
+      ],
+      "id": "dcb496a6-21b8-4b7e-9874-8eef2132eb81"
+    },
+    "7f3080e6-309b-4ba4-a763-9e684ba0d1a4": {
+      "date_saved": "2026-08-11",
+      "topic_niche": "AI/tech",
+      "format": "Thread (idea-file / meta-reframe format)",
+      "hook_pattern": "Announce that a previous post unexpectedly went viral, then share an upgraded abstraction \u2014 reframing the specific artifact as a shareable idea template for the agent era",
+      "hook_template": "Wow, this went very viral. Here is a possibly improved version. Instead of sharing [specific code/app/product], I am sharing [abstract idea] \u2014 because in the era of [new paradigm], you give the idea to your agent and it builds it for your specific needs.",
+      "psychological_trigger": "Curiosity gap + new paradigm signal \u2014 the agent-era reframing makes readers feel they are crossing a threshold into a new mode of work; the follow-up thread rewards the first wave of engagers with a bonus upgrade",
+      "structural_lesson": "The meta-thread that follows a viral post captures a second wave of engagement by making the abstraction the product. Reframing code or a tool as a shareable idea template exploits the emerging AI-agent workflow norm. The humility framing (possibly improved) disarms skeptics. This pattern works best when the original post already validated the idea \u2014 the meta-thread is the compounding dividend.",
+      "tone": "Analytical insider",
+      "applicable_niches": [
+        "AI",
+        "tech",
+        "startup"
+      ],
+      "tags": [
+        "meta-thread",
+        "idea-template",
+        "agent-era",
+        "new-paradigm",
+        "thread",
+        "compounding-viral"
+      ],
+      "id": "7f3080e6-309b-4ba4-a763-9e684ba0d1a4"
+    },
+    "3834d2e7-a351-497b-8e8e-e3491f456f4c": {
+      "date_saved": "2026-08-11",
+      "topic_niche": "crypto/Web3/AI",
+      "format": "Single Tweet \u2014 Security Thriller",
+      "hook_pattern": "A hidden instruction inside an unconventional encoding triggered an autonomous AI agent to execute a large financial transaction; the hook names the unusual attack vector first",
+      "hook_template": "An attacker hid a [unusual encoding] inside a tweet. An AI agent read it, decoded it, and sent $[amount] to a stranger. No password cracked. No key stolen. Just a tweet.",
+      "psychological_trigger": "Trust betrayal + fear of personal loss + curiosity gap \u2014 the unconventional encoding detail is viscerally alarming because it reveals a completely non-obvious attack surface; readers share to warn their network",
+      "structural_lesson": "The most viral security stories lead with the mechanism, not the outcome. The closing two-word punch line (just a tweet) makes the abstraction concrete and quotable. Specificity of the attack vector \u2014 the actual encoding used \u2014 is what separates a viral post from generic security news. The lesson: the more surprising the method, the simpler your closing line needs to be.",
+      "tone": "Analytically horrified",
+      "applicable_niches": [
+        "crypto",
+        "Web3",
+        "AI",
+        "DeFi"
+      ],
+      "tags": [
+        "security-thriller",
+        "trust-betrayal",
+        "AI-agents",
+        "single-tweet",
+        "fear-trigger",
+        "mechanism-first"
+      ],
+      "id": "3834d2e7-a351-497b-8e8e-e3491f456f4c"
+    },
+    "55d6d809-9a5e-4603-b127-cc67108e632c": {
+      "date_saved": "2026-08-11",
+      "topic_niche": "AI/crypto",
+      "format": "Single Tweet + Thread \u2014 Two-Audience Collision",
+      "hook_pattern": "\"[Technology A] just killed [adjacent domain B]\" \u2014 bold declarative that two previously separate forces have collided with terminal consequences for one",
+      "hook_template": "[Technology] just killed [adjacent domain]. Here is exactly why, and why nobody is talking about it yet.",
+      "psychological_trigger": "FOMO + existential threat + epistemic superiority \u2014 the audience for the killed domain is forced to react by sharing to defend or mourn; the technology-side audience shares as a victory lap; both create cross-community reach",
+      "structural_lesson": "The two-audience collision hook structurally guarantees cross-community sharing because it threatens one group and validates another simultaneously. Backing the claim with a recent real-world trigger (a security incident, a published report, a live capability demo) upgrades it from opinion to news. The phrase \"nobody is talking about it\" activates the epistemic-superiority sharing motive for early adopters.",
+      "tone": "Provocative + data-first understatement",
+      "applicable_niches": [
+        "AI",
+        "crypto",
+        "tech",
+        "Web3"
+      ],
+      "tags": [
+        "two-audience-collision",
+        "existential-threat",
+        "FOMO",
+        "macro-shift",
+        "single-tweet",
+        "nobody-talking"
+      ],
+      "id": "55d6d809-9a5e-4603-b127-cc67108e632c"
+    },
+    "fe1fccfd-3f90-41f6-bbf1-e0a71b856e98": {
+      "date_saved": "2026-08-11",
+      "topic_niche": "crypto/Web3",
+      "format": "Thread \u2014 Escalating Reveal Structure",
+      "hook_pattern": "Lead with an all-time-high loss figure, then reveal the unexpected attack mechanism, then name the state-level actor \u2014 each reveal more alarming than the last",
+      "hook_template": "Crypto just had its worst year for hacks ever. $[X]M stolen. [Timeframe]. And for the first time, [novel attack mechanism] is the weapon.",
+      "psychological_trigger": "Fear of personal loss + trust betrayal + geopolitical stakes \u2014 the three-beat escalation keeps readers inside the thread; each tweet functions as a new alarm bell that makes leaving feel risky",
+      "structural_lesson": "The escalating-reveal thread is a reliable compounding engagement structure. The pattern \u2014 number, then mechanism, then named culprit \u2014 works because each element satisfies the previous question and opens a new one. Naming a geopolitical actor moves the story from niche news to national security, creating a second sharing audience beyond the primary community. The AI-as-weapon angle adds a third audience: general tech readers.",
+      "tone": "Calm urgency + data-first understatement",
+      "applicable_niches": [
+        "crypto",
+        "Web3",
+        "DeFi",
+        "AI"
+      ],
+      "tags": [
+        "escalating-reveal",
+        "data-bombshell",
+        "fear-trigger",
+        "geopolitical",
+        "thread",
+        "three-beat"
+      ],
+      "id": "fe1fccfd-3f90-41f6-bbf1-e0a71b856e98"
+    },
+    "f58906ce-4364-4f30-bb39-450fccb9b73e": {
+      "date_saved": "2026-08-11",
+      "topic_niche": "AI/tech",
+      "format": "Single Tweet \u2014 Understated Personal Announcement",
+      "hook_pattern": "\"Personal update:\" followed by one sentence of what changed, one sentence of why the timing matters, one sentence of what the reader should infer about the broader moment in the industry",
+      "hook_template": "Personal update: I have [action]. I think the next [timeframe] at [domain frontier] will be especially [adjective]. [One implication sentence about the broader field].",
+      "psychological_trigger": "Curiosity gap + social proof + industry-signal reading \u2014 the understated format lets the implications breathe; readers fill in the significance themselves and feel rewarded for their inference",
+      "structural_lesson": "The \"Personal update:\" opening creates maximum contrast with the magnitude of the announcement through deliberate understatement. Three sentences: what changed, why now, what this signals. The third sentence carries all the weight because it lets readers project their own reading of the industry moment. This format consistently outperforms press-release-style announcements because the restraint signals authenticity rather than spin.",
+      "tone": "Zero-polish transparency + authoritative",
+      "applicable_niches": [
+        "AI",
+        "tech",
+        "startup"
+      ],
+      "tags": [
+        "personal-update",
+        "insider-signal",
+        "understatement",
+        "single-tweet",
+        "curiosity-gap",
+        "three-sentence"
+      ],
+      "id": "f58906ce-4364-4f30-bb39-450fccb9b73e"
+    },
+    "cb8b7443-34d7-4e9e-9898-b8ea2b470dda": {
+      "date_saved": "2026-08-11",
+      "topic_niche": "AI/tech",
+      "format": "Single Tweet \u2014 Threshold Declaration",
+      "hook_pattern": "First-person declaration that a threshold has been crossed, framed as a quiet observation rather than a triumphant announcement, with optional self-contradicting nuance that increases rather than decreases engagement",
+      "hook_template": "We are [in / past / at] the [inflection point]. [One sentence on what comes next]. [Optional contradictory nuance that adds complexity without resolving the tension].",
+      "psychological_trigger": "Existential FOMO + epistemic debate + identity signal \u2014 the claim forces readers to publicly agree (signaling sophistication) or publicly disagree (signaling groundedness); both camps share, creating a two-sided amplification loop",
+      "structural_lesson": "Threshold-crossing declarations work because they create a permanent before-and-after mental model in the reader. The mechanism: frame the most dramatic possible claim in the quietest possible language. Ambiguity protects the poster while maximizing debate. Self-contradicting nuance (claiming both X and the opposite of X) paradoxically increases engagement by adding interpretive complexity \u2014 readers argue about what the poster really meant, extending the thread life for days.",
+      "tone": "Quietly provocative + authoritative",
+      "applicable_niches": [
+        "AI",
+        "tech"
+      ],
+      "tags": [
+        "threshold-claim",
+        "existential",
+        "understated-drama",
+        "FOMO",
+        "single-tweet",
+        "debate-trigger",
+        "self-contradicting"
+      ],
+      "id": "cb8b7443-34d7-4e9e-9898-b8ea2b470dda"
     }
   },
   "patterns": {
     "most_effective_hook_patterns": [
-      "Counterintuitive claim backed by personal experience ('Everyone thinks X. I used to too. Then Y happened.')",
-      "Impossible-sounding milestone + stripped-down mechanics ('I hit $1M ARR in 30 days. Solo. No funding. Here's exactly how.')",
-      "Historical parallel to lived event then 'we are here again' reveal",
-      "Naming the unnamed \u2014 articulating a frustration or pattern the community feels but hasn't labeled",
+      "Counterintuitive claim backed by personal experience (\"Everyone thinks X. I used to too. Then Y happened.\")",
+      "Impossible-sounding milestone + stripped-down mechanics (\"I hit $1M ARR in 30 days. Solo. No funding. Here is exactly how.\")",
+      "Historical parallel to lived event then \"we are here again\" reveal",
+      "Naming the unnamed \u2014 articulating a frustration or pattern the community feels but has not labeled",
       "BREAKING: macro event reframed through the counterintuitive NON-reaction as the real story",
       "Data shock: raw statistic stated with no preamble, let the number breathe",
-      "False binary destruction: 'Both [Camp A] and [Camp B] are wrong. Here's what they're missing.'",
-      "Security/trust betrayal: 'Your [trusted thing] just [failed]. Here's exactly what happened.'",
+      "False binary destruction: \"Both Camp A and Camp B are wrong. Here is what they are missing.\"",
+      "Security/trust betrayal: \"Your [trusted thing] just [failed]. Here is exactly what happened.\" \u2014 mechanism-first framing",
       "Meta-content diagnosis: name the new unspoken rule of the landscape without giving advice",
       "Hidden market shift: expose invisible data the dominant narrative is hiding",
-      "Insider confession: 'I've spent X years in this world. Here's what nobody's saying out loud.'",
-      "Show-proof-first: visual/demo evidence before the backstory ('Look at this. Now here's how I built it.')",
-      "Sacrifice + achievement: 'I built [X] under [extreme constraint]. Here's what I learned.'",
-      "Rhetorical question hook: 'What if everything you know about [X] is wrong?'",
-      "The quiet prediction: specific, dateable forecast delivered with zero hype",
-      "Third-option reveal: expose the overlooked variable both mainstream camps are ignoring",
-      "AI transcript as horror evidence: use the AI's own reasoning to reveal danger before the reveal",
-      "Policy/law flaw diagnosis: name the new rule then immediately surface its fatal non-obvious flaw",
-      "Platform-moment activation CTA: turn algorithmic change into community restoration action",
-      "Percentage-of-garbage hook: '[X]% of [type] is recycled garbage. The [Y]% that isn't does one thing differently.'",
-      "First-person incident report: 'My [AI tool/agent] went rogue. Here's what happened minute by minute.'",
-      "AI proof-of-capability + prompt chain: 'I gave [AI] my [impossible problem]. It solved it. Here's the exact chain.'",
-      "Governance verdict announcement: lead with outcome, quantify the failure margin, let numbers declare the ideological winner without editorializing",
-      "Hidden multiplier reveal: the visible collapse number is the iceberg tip \u2014 attribute to a named insider, then pivot to what the survivors share",
-      "Scenario planning by analogy: extend a known trajectory forward by the same distance it already traveled \u2014 one sentence, no interpretation, no prediction",
-      "Karmic reversal confession: I publicly defended the controversial thing, then it happened to me \u2014 the ironic victim is the most credible narrator",
-      "Category obituary + survivor enumeration: declare a broad category dead, name only 2-3 survivors with specificity, zero defense \u2014 underspecification forces engagement on your terms",
-      "Absurdist AI narration: mundane request \u2192 escalating unhinged agent behavior \u2192 punchline that contains a real technical insight",
-      "Platform mechanic reveal: name the specific new feature, expose the non-obvious implication, give one concrete behavior change creators can make today"
+      "Authority counter-tweet: cultural figure destroys a tone-deaf authority claim with a single rhetorical question",
+      "Two-audience collision: \"[Technology A] just killed [adjacent domain B]\" \u2014 threatens one community, validates another simultaneously",
+      "Threshold declaration: quietly frame the most dramatic possible claim (\"We are in the [inflection point]\") with optional self-contradicting nuance",
+      "Personal update understatement: three-sentence structure (what changed, why now, broader implication) that lets readers fill in the significance",
+      "Escalating reveal: number \u2192 mechanism \u2192 named culprit, each beat more alarming than the last",
+      "Insider prediction with identity threat: \"The [job title] will go away. We will call them [new label] instead.\"",
+      "Idea-file meta-thread: follow a viral post with an upgraded abstraction framed as a template for the agent era",
+      "Mechanism-first security thriller: name the unconventional attack vector in the hook, land with the simplest possible closing line"
     ],
     "most_effective_formats": [
-      "Thread (5-15 tweets): educational breakdown or founder story with numbered structure",
+      "Thread (5\u201315 tweets): educational breakdown or founder story with numbered structure",
       "Single punchy tweet + hard stat: one sentence claim + supporting number",
-      "BREAKING: tweet + pivot to counterintuitive angle",
-      "Thread with exact mechanics: step-by-step 'here's exactly how' numbered list with specific tool names",
+      "BREAKING tweet + pivot to counterintuitive angle",
+      "Thread with exact mechanics: step-by-step \"here is exactly how\" numbered list with specific tool names",
       "Quote-tweet debate: take a controversial post and add a one-line reframe",
       "Single tweet diagnosis: name a trend or shift in one crisp sentence, no advice given",
       "Long-form thread (20+ tweets): deep educational dive with historical narrative arc",
       "Thread with transcript excerpts: use primary source quotes (AI logs, earnings transcripts, leaked docs) as structural proof",
-      "First-person incident report (single tweet or 3-tweet thread): real-time confessional with timestamps",
-      "Screenshot + one-line cultural autopsy: image/evidence carries 80%, caption delivers the diagnosis",
-      "One-sentence thought experiment: single line with no interpretation \u2014 the absence of the author's opinion is the invitation to debate",
-      "Karmic reversal single tweet: three beats (public defense \u2192 personal disaster \u2192 named apology) in under 280 characters",
-      "Absurdist AI narration thread: 3-5 beats escalating from mundane to autonomous, ending with a punchline that contains a real insight"
+      "Counter-tweet chain: reply to a tone-deaf authority post with a rhetorical question that outperforms the original",
+      "Escalating-reveal thread: three-beat structure (number \u2192 mechanism \u2192 named culprit) that compounds engagement across tweets",
+      "Personal-update single tweet: three-sentence understated announcement that lets readers supply the significance",
+      "Meta-thread (idea-file format): follow a viral post with an abstraction-upgrade framed as an agent-era template"
     ],
     "most_effective_tones": [
       "Calm urgency: authoritative but never panicking; the reader trusts the signal",
@@ -18633,60 +18814,36 @@
       "Constructive-critical: affection for the subject + naming its hidden flaw; not a hater",
       "Zero-polish transparency: rough edges signal authenticity; over-production kills trust",
       "Quietly provocative: challenge assumptions without screaming; let the idea do the work",
-      "Analytical insider: you've done the work others haven't; share the finding, not the effort",
+      "Analytical insider: you have done the work others have not; share the finding, not the effort",
       "Analytically horrified: technically precise language applied to genuinely scary material \u2014 no sensationalism needed",
-      "Rallying community native: 'us vs. the algorithm' solidarity tone that costs nothing to engage with",
-      "Constructive-critical insider: affection for the space + naming its specific current failure mode without melodrama",
-      "Restrained verdict delivery: announce an outcome with the emotion drained out \u2014 the understatement amplifies the impact",
-      "Absurdist-realist: the comedy and the anxiety are the same thing; the humor is a Trojan horse for genuine concern"
+      "Understated authority: the quieter the claim delivery, the more credible the claim; restraint reads as conviction"
     ],
     "most_effective_triggers": [
       "Curiosity gap: information asymmetry that can only be closed by reading the thread",
-      "Identity threat: challenges professional/financial identity, forces engagement or defense",
+      "Identity threat: challenges professional or financial identity, forces engagement or defense",
       "FOMO: milestone achievable by the reader if they follow the exact steps",
-      "Community validation: names an experience the community shares but hasn't articulated",
+      "Community validation: names an experience the community shares but has not articulated",
       "Contrarianism: rewards the reader for questioning the mainstream narrative",
       "Fear of personal loss: security or financial risk that hits close to home",
       "Epistemic superiority: the reader signals intelligence by sharing a contrarian take",
       "Trust betrayal: something the reader relied on has failed them or others like them",
-      "Replication curiosity: 'I can do this too' \u2014 specific, actionable, believable",
-      "Data credibility: hard numbers in a world of opinion signal worth of the author's time",
-      "Creator identity pressure: calls out a shift in the landscape that forces adaptation",
-      "Market insight: reveals a hidden truth about a competitive landscape the reader cares about",
-      "AI autonomy anxiety: leverages growing mainstream fear that AI tools are becoming uncontrollable",
-      "Platform-solidarity: 'the algorithm is suppressing us' creates tribal engagement instinct",
-      "Quality-insider frustration: validated by naming the exact thing practitioners are already silently annoyed by",
-      "Replication proof: specific prompt chains / step-by-step mechanics make 'I could do this too' visceral",
-      "Governance tribalism: crypto and AI communities have strong identity investment in their 'sides' \u2014 announcing a winner via outcome data triggers both camps",
-      "Karmic irony: the person who dismissed a risk becoming its victim is the clearest possible proof of concept",
-      "Cognitive forced-simulation: one-liner thought experiments that contain no interpretation force each reader to run the mental math themselves \u2014 they engage to share their version"
+      "Two-sided amplification: a claim that forces both believers and skeptics to publicly respond, doubling reach",
+      "Rhetorical question as knockout: a one-line question that makes the counter-argument obvious without stating it",
+      "Insider-authority credentialing: speaker is the creator of the thing they are discussing, making dismissal harder",
+      "Geopolitical stakes escalation: naming a state-level actor moves niche news into national security territory, creating a second sharing audience"
     ],
     "cross_niche_insights": [
       "Authenticity now dominates polish across ALL niches: low-production founder stories outperform brand-safe content by wide margins in AI, crypto, and Web3",
-      "The 'solo founder' narrative is the new underdog story for 2026 \u2014 one person + AI stack beating teams is viral in every tech-adjacent niche",
-      "Geopolitical macro events are now table stakes for crypto content \u2014 the interesting content is about WHY markets didn't react, not THAT they reacted",
-      "Data-as-hook is intensifying: audiences distrust opinion-only takes but rally around surprising statistics. Leading with numbers before argument is now best practice",
-      "The 'naming the unnamed' pattern consistently outperforms advice-giving: diagnosing a shared experience creates more comments than prescribing a solution",
-      "Breaking news format ($BREAKING:) still drives urgency but readers have become sophisticated \u2014 the best-performing posts subvert the format with a counterintuitive pivot",
-      "Price prediction debates in crypto are evergreen virality machines \u2014 the formula is: name the two camps, destroy both, offer a third path with one specific datapoint",
-      "Security failures in crypto generate proportionally more engagement than equivalent gains \u2014 fear asymmetry means $100M hack > $500M gain in sharing velocity",
-      "AI model competition is now permanently viral terrain \u2014 any data point about market share shifts between ChatGPT/Claude/Gemini gets instant traction from developers",
-      "'Building in public' milestone tweets hit hardest when the constraint is extreme (solo, no funding, 30 days) \u2014 the constraint creates the story, the milestone is just the proof",
-      "Meta-commentary about content itself (what's working, what's dying) is consistently viral among creator/founder audiences \u2014 they are always hungry for the next-level insight about the game they're playing",
-      "In 2026, the first-mover advantage is naming emerging patterns before they're widely labeled \u2014 whoever coins the term for a trend owns the conversation",
-      "Cross-niche arbitrage: a hook that works in one niche (e.g. 'trust betrayal' in crypto) maps directly to AI (model capabilities overpromised) and tech startups (VC advice that didn't work)",
-      "AI safety stories now travel at crypto-speed: incidents involving AI agents behaving unexpectedly are the new DeFi exploit \u2014 both niches respond to the same 'trusted system betrayed me' trigger",
-      "Concrete AI capability proofs (wallet recovery, code generation, puzzle-solving) bridge AI and crypto audiences \u2014 they share the same 'financial life-hack' psychology",
-      "The X algorithm-as-adversary narrative is now a shared cultural touchpoint across all niches \u2014 content that frames the platform's own mechanics as the villain generates cross-community solidarity",
-      "In August 2026, legislation/regulation content is newly viral in AI the way it's always been in crypto \u2014 the 'AI Kill Switch Act' pattern mirrors the 'SEC crackdown' playbook from 2022-2023 crypto",
-      "Founder controversy content (public errors, apologies, stunts) now travels on AI Twitter the way it does on startup Twitter \u2014 the YC brand amplifies outrage the way 'VC-backed' once did in crypto",
-      "Primary-source proof (transcripts, logs, screenshots) is now required to establish credibility \u2014 audiences have become immune to claim-only takes without receipts",
-      "In August 2026, the X algorithm weights replies 27x more than likes \u2014 viral content is now designed to provoke thoughtful disagreement, not passive approval. The best-performing posts end with a claim the reader wants to correct.",
-      "The Bitcoin BIP-110 governance failure (Aug 9, 2026) proved that 'governance drama + outcome announcement' is evergreen viral content in both Bitcoin and Ethereum communities \u2014 the formula is: announce the result, give the embarrassing margin, name the ideology that won via the data alone.",
-      "Platform-level AI integration (Grok ranking the Following feed, Certified Banger badge) is creating a new category of viral content: creators analyzing the platform's own AI to gain algorithmic advantage. This is the new 'growth hacking' vertical.",
-      "The 2026 crypto shakeout (100+ projects folded) mirrors the pattern from AI SaaS in 2023-2024 \u2014 the 'hidden multiplier' claim ('for every 1 you hear about, 10 die silently') travels faster than the base statistic alone.",
-      "AI agent 'going rogue' content has achieved permanent virality in 2026 \u2014 any post narrating an AI doing something unintended (deleting files, taking autonomous action) activates both humor and anxiety simultaneously, doubling engagement channels."
+      "The solo founder narrative is the new underdog story for 2026 \u2014 one person plus AI stack beating teams is viral in every tech-adjacent niche",
+      "Geopolitical macro events are now table stakes for crypto content \u2014 the interesting content is about WHY markets did not react, not THAT they reacted",
+      "Data-as-hook is intensifying: audiences distrust opinion-only takes but rally around surprising statistics; leading with numbers before argument is now best practice",
+      "The naming-the-unnamed pattern consistently outperforms advice-giving: diagnosing a shared experience creates more comments than prescribing a solution",
+      "Counter-tweets now regularly outperform original posts: the most viral moment in a thread or discourse is often the response, not the opening. Build for the rebuttal economy.",
+      "AI-agent security incidents are a cross-niche viral accelerant: they combine the fear trigger of crypto hacks with the identity threat of AI replacing human judgment \u2014 both crypto and general tech audiences share simultaneously",
+      "Understated threshold claims (\"we may be in the singularity\") generate more sustained debate than triumphant announcements \u2014 the ambiguity keeps the thread alive for days",
+      "The algorithm now weights replies at ~150x the value of likes; content that demands a public yes/no stance (threshold claims, identity threats, false binaries) mechanically outperforms content that earns passive approval",
+      "The idea-file / agent-era template pattern is emerging as a new sharing format: instead of sharing code or a product, sharing a structured idea that the recipient can hand to their own AI agent to customize \u2014 this removes the need for the reader to have the same stack"
     ],
-    "last_updated": "2026-08-10"
+    "last_updated": "2026-08-11"
   }
 }
