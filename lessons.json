@@ -18962,21 +18962,220 @@
         "data-driven",
         "single-tweet"
       ]
+    },
+    "a5613f79-a442-4629-9965-477fe86b2cc3": {
+      "id": "a5613f79-a442-4629-9965-477fe86b2cc3",
+      "date_saved": "2026-08-13",
+      "topic_niche": "AI",
+      "format": "Single Tweet",
+      "hook_pattern": "Temporal credibility + superlative endorsement: 'I've been using this for [weeks] \u2014 it's the [product of year]'",
+      "hook_template": "I've been using [product] for [X weeks] at work and at home. It's the [superlative claim] of [year]. Here's why it spread so fast internally:",
+      "psychological_trigger": "social proof + FOMO \u2014 the endorser has weeks of private access; you're just now hearing about it",
+      "structural_lesson": "Opens with temporal authority (weeks of usage before public), validates through personal behavioral evidence (used at work AND home), delivers a bold verdict ('product of the year'), then pivots to 'why it spread internally' to satisfy curiosity. The inside-out reveal \u2014 product spread inside a company before hitting public \u2014 makes the engagement feel like witnessing a real-world experiment rather than a promo post.",
+      "tone": "authoritative / vulnerable hybrid",
+      "applicable_niches": [
+        "AI",
+        "tech startup",
+        "SaaS"
+      ],
+      "tags": [
+        "social-proof",
+        "temporal-credibility",
+        "product-launch",
+        "FOMO",
+        "single-tweet"
+      ]
+    },
+    "11785a9a-8754-4053-9afe-09e499dea20c": {
+      "id": "11785a9a-8754-4053-9afe-09e499dea20c",
+      "date_saved": "2026-08-13",
+      "topic_niche": "AI",
+      "format": "Quote Tweet / Amplified Podcast Clip",
+      "hook_pattern": "Authority figure exposes industry's public lie: 'Companies [do X] because it plays better in [press/investors]'",
+      "hook_template": "Companies are [publicly claiming X] because it [plays better in the press / impresses investors]. The real reason is [Y]. [Authority figure] just said the quiet part out loud.",
+      "psychological_trigger": "contrarianism + identity threat \u2014 exposes a fabricated narrative that people inside the industry suspected but nobody dared say on record",
+      "structural_lesson": "The hook is most effective when it comes from an unexpected authority (e.g., a government adviser, not a critic). The quote does the work \u2014 the tweet is just the container. Best format: add a brief 'why this matters' line after the pull-quote so non-experts feel included in the outrage. Works best when the exposed lie has two opposing audiences who each feel validated (workers: 'we knew it'; markets: 'we need to reprice').",
+      "tone": "provocative / expos\u00e9",
+      "applicable_niches": [
+        "AI",
+        "tech startup",
+        "macro/policy"
+      ],
+      "tags": [
+        "contrarianism",
+        "authority-source",
+        "debate-bait",
+        "expos\u00e9",
+        "quote-amplification"
+      ]
+    },
+    "6d2efdb4-8cab-4bdf-9579-09b6ed5af5e4": {
+      "id": "6d2efdb4-8cab-4bdf-9579-09b6ed5af5e4",
+      "date_saved": "2026-08-13",
+      "topic_niche": "AI",
+      "format": "Thread",
+      "hook_pattern": "Anti-VC origin story: 'No employees, no investors, no office \u2014 [outcome]'",
+      "hook_template": "No employees. No investors. No office. Just [person] with a [laptop] for [timeframe]. Result: [massive outcome]. Here's the breakdown:",
+      "psychological_trigger": "identity threat to hustle culture + aspirational FOMO \u2014 deconstructs the narrative that you need a team, funding, or infrastructure to win",
+      "structural_lesson": "The triple 'no' structure at the open is critical \u2014 it piles up every accepted precondition for success and strips each one away before dropping the outcome. Thread should move: humble beginning \u2192 solo discipline \u2192 first inflection \u2192 exit/milestone \u2192 what this proves. Avoid naming the specific product or dollar amount in tweet 1 \u2014 withhold the number to force the scroll. The story arc (no validation \u2192 sudden scale) hits the before/after transformation trigger hard.",
+      "tone": "understated confidence / aspirational",
+      "applicable_niches": [
+        "AI",
+        "tech startup",
+        "SaaS",
+        "indie hacking"
+      ],
+      "tags": [
+        "anti-narrative",
+        "solo-founder",
+        "identity-threat",
+        "FOMO",
+        "thread",
+        "aspirational"
+      ]
+    },
+    "ba12e8c0-f1f4-4f41-8331-ae9b977881cd": {
+      "id": "ba12e8c0-f1f4-4f41-8331-ae9b977881cd",
+      "date_saved": "2026-08-13",
+      "topic_niche": "crypto",
+      "format": "Single Tweet",
+      "hook_pattern": "Big round number + velocity signal: '[Asset/market] just hit $[X]B \u2014 [tripling/10x-ing] in [short timeframe]'",
+      "hook_template": "[Market/asset category] just crossed $[X]B \u2014 [tripling/10x-ing] in [timeframe]. Track the [trends/players/risks]: [link]",
+      "psychological_trigger": "FOMO + epistemic authority \u2014 a concrete, specific milestone combined with a velocity ratio makes the trend feel both real and urgent",
+      "structural_lesson": "The two-part structure does heavy lifting: (1) the absolute number gives credibility, (2) the velocity ratio (tripling, 10x) provides scale context. Most milestone tweets fail because they post just the number without the comparison frame. Adding a forward-signal phrase ('track the latest trends') converts a vanity stat into a utility offer \u2014 people share utility. Works best when the asset class is one most followers know exists but don't follow closely (e.g., RWA tokenization, DePIN).",
+      "tone": "authoritative-yet-terse / insider declarative",
+      "applicable_niches": [
+        "crypto",
+        "Web3",
+        "DeFi",
+        "RWA"
+      ],
+      "tags": [
+        "data-driven",
+        "milestone",
+        "velocity-signal",
+        "FOMO",
+        "single-tweet",
+        "RWA"
+      ]
+    },
+    "6dd47ca5-faca-421c-a606-766d7d0a251b": {
+      "id": "6dd47ca5-faca-421c-a606-766d7d0a251b",
+      "date_saved": "2026-08-13",
+      "topic_niche": "AI",
+      "format": "Single Tweet",
+      "hook_pattern": "Counterintuitive adoption stat that reframes who belongs: '[High %] of [category] have [unexpected characteristic]'",
+      "hook_template": "[X]% of [AI tool users / category] have [characteristic that contradicts assumed identity]. The gatekeepers are gone. Here's what they're actually [building/doing]:",
+      "psychological_trigger": "identity reframing + curiosity gap \u2014 the stat destroys an assumed boundary (e.g., 'coding is for engineers'), then the list satisfies curiosity while creating aspiration",
+      "structural_lesson": "Lead with the counterintuitive percentage \u2014 it feels like a fact check. Follow immediately with the identity-destroying implication ('the gatekeepers are gone'). Then pivot to a proof list or short thread of what people from outside the traditional category are actually building. This works in both AI and crypto because both communities celebrate 'anyone can participate' narratives \u2014 the stat gives them a shareable proof point for that belief.",
+      "tone": "educational / provocative",
+      "applicable_niches": [
+        "AI",
+        "tech startup",
+        "no-code",
+        "vibe coding"
+      ],
+      "tags": [
+        "counterintuitive-stat",
+        "identity-reframing",
+        "FOMO",
+        "single-tweet",
+        "adoption-data"
+      ]
+    },
+    "491124a8-e8bc-4b47-bd54-5770155cc76a": {
+      "id": "491124a8-e8bc-4b47-bd54-5770155cc76a",
+      "date_saved": "2026-08-13",
+      "topic_niche": "crypto",
+      "format": "Single Tweet",
+      "hook_pattern": "Permanent funeral declaration: '[Broad category] is dead. All we have is [narrower survival set].'",
+      "hook_template": "[Broad narrative / category] is dead. All we have is [specific surviving segment A] and [specific surviving segment B]. Stop calling everything [dead term].",
+      "psychological_trigger": "debate bait + identity threat \u2014 the absolute permanence of 'dead' forces both defenders and detractors to respond; declaring a specific survival set forces anyone who disagrees to pick a side",
+      "structural_lesson": "The word 'dead' is a content grenade in tech/crypto \u2014 it triggers both believers (who feel attacked and clap back) and critics (who feel vindicated and amplify). Adding a positive survival claim ('all we have is X and Y') upgrades this from pure nihilism to a thesis people can debate or adopt. Works best from a credible insider (VC, founder) because outsiders using 'dead' read as trolling while insiders read as reckoning. The controversy half-life is months \u2014 expect quote-tweet rebuttals weeks later.",
+      "tone": "provocative / declarative",
+      "applicable_niches": [
+        "crypto",
+        "Web3",
+        "DeFi",
+        "DePIN"
+      ],
+      "tags": [
+        "debate-bait",
+        "funeral-framing",
+        "contrarianism",
+        "identity-threat",
+        "single-tweet",
+        "permanent-language"
+      ]
+    },
+    "6e5cd586-5156-4ce5-9e60-d7dae3003abb": {
+      "id": "6e5cd586-5156-4ce5-9e60-d7dae3003abb",
+      "date_saved": "2026-08-13",
+      "topic_niche": "AI",
+      "format": "Single Tweet",
+      "hook_pattern": "Human metaphor applied to AI product: '[AI] isn't a tool \u2014 it's a [human role]'",
+      "hook_template": "Meet [Product] \u2014 your [always-on team of / fleet of / squad of] [human role]. Each [unit] has its own [computer/workspace/context] and can [action] 24/7. [Brief product description or link.]",
+      "psychological_trigger": "FOMO + identity reframing \u2014 framing AI as 'teammates' rather than 'tools' triggers the imagination about social dynamics and future of work, prompting both adoption and debate",
+      "structural_lesson": "The shift from 'tool' to 'human role noun' (teammate, analyst, researcher, agent) forces a cognitive reframe that drives engagement from two audiences: adopters who want to amplify the dream, and skeptics who want to poke holes in the claim. The specific operational detail ('has its own computer', '24/7') grounds the metaphor in credibility. Best paired with a launch announcement so the engagement also serves as distribution. The human metaphor also bypasses 'AI fatigue' \u2014 people are numb to 'AI does X', but react to 'AI is your [role]'.",
+      "tone": "aspirational / product-launch",
+      "applicable_niches": [
+        "AI",
+        "tech startup",
+        "SaaS",
+        "agents"
+      ],
+      "tags": [
+        "human-metaphor",
+        "product-launch",
+        "identity-reframing",
+        "FOMO",
+        "single-tweet",
+        "AI-agents"
+      ]
+    },
+    "a5d0848c-69f7-41c9-b88f-ed975b193098": {
+      "id": "a5d0848c-69f7-41c9-b88f-ed975b193098",
+      "date_saved": "2026-08-13",
+      "topic_niche": "AI",
+      "format": "Single Tweet",
+      "hook_pattern": "Precise large number + tight timeframe creates urgency: 'Nearly [X] [people/events/dollars] in [Y months]'",
+      "hook_template": "Nearly [X] [category of people] have [lost/gained/done X] in [short timeframe] \u2014 and AI [impact/cause] means [more/worse] could be [coming/next]. [Link for depth]",
+      "psychological_trigger": "fear + urgency \u2014 a precise, large number anchored to a short timeframe converts abstract trends into a felt reality; 'nearly' softens the precision, making it feel reported rather than spun",
+      "structural_lesson": "The word 'nearly' is underrated \u2014 it signals that someone bothered to count (epistemic work = credibility) while leaving room for rounding. Pairing the count with a tight timeframe ('already...in [year]') adds temporal pressure. The causal addition at the end ('AI impact means more could come') converts a historical data point into a forward signal \u2014 shares from people who want others to prepare, not just people who want to react. Closes with a link to provide exit ramp for skeptics and depth-seekers.",
+      "tone": "calm urgency / data-led",
+      "applicable_niches": [
+        "AI",
+        "tech",
+        "macro"
+      ],
+      "tags": [
+        "fear",
+        "urgency",
+        "data-driven",
+        "single-tweet",
+        "AI-jobs",
+        "layoffs",
+        "forward-signal"
+      ]
     }
   },
   "patterns": {
     "most_effective_hook_patterns": [
-      "Curiosity gap with specific number: 'X is true, and here's the number nobody's talking about'",
-      "Counterintuitive claim + evidence: 'Everyone thinks [X]. The data says [Y].'",
-      "Sovereignty/freedom reframe of technical milestone: 'This isn't about specs \u2014 it's about who controls [thing]'",
-      "Chosen Few social proof: '[Small elite number] of [prestigious names] \u2014 every one said yes'",
-      "Obituary Hot Take (controversy engine): '[Beloved thing] is dead. [Agent] killed it. Here's the math.'",
-      "Radical minimalism from a credible source: Personal update in 28 words that carries industry-level weight",
+      "Counterintuitive claim followed by evidence (e.g., 'Everyone assumes X. The data shows Y.')",
+      "Bold founder confession: 'I was wrong about [thing]. Here's what changed my mind.'",
+      "Milestone + velocity: '[Number] in [short time]' \u2014 absolute + rate together beat either alone",
+      "Inside-out reveal: product/trend spreading internally before going public",
+      "The triple-no origin story: 'No [A], no [B], no [C] \u2014 just [outcome]'",
+      "Authority exposes industry lie: establishment figure says the quiet part out loud",
+      "Permanent funeral framing: '[Category] is dead. All we have is [X].' \u2014 forces both sides to respond",
+      "Human metaphor for AI: 'not a tool \u2014 your [teammate/analyst/researcher]'",
+      "Counterintuitive adoption stat: '[High %] of [category] have [trait that contradicts assumed identity]'",
       "TradFi validates everything (vindication): 'They laughed at [thesis]. Today [institution] committed [amount].'",
       "Protocol-as-primitive reframe: '[Blockchain] became the [non-crypto use case] payment rail. It's already here.'",
       "Developer identity trigger: 'If you're still [incumbent behavior], you're violating [value you hold]'",
       "Infrastructure proof of concept: 'Everyone debates the hype. [Company] just reported [number].'",
-      "Historical parallel to lived event: 'Think back to [shared collective memory]. We are in that moment again.'"
+      "Historical parallel to lived event: 'Think back to [shared collective memory]. We are in that moment again.'",
+      "Temporal credibility endorsement: 'I've been using [product] for [weeks]. It's [the best thing I've used in years].' \u2014 private access = authority"
     ],
     "most_effective_formats": [
       "Text-only single tweet (70%+ of breakout viral hits in 2025-2026)",
@@ -18985,7 +19184,9 @@
       "Contrarian single-line hot take (generates ratio + shares from both sides)",
       "Personal update announcement (minimal words, maximum status signal)",
       "Thread: 'Here's what [institution doing X] actually means for [niche]'",
-      "Data-led single tweet with implied forward signal (no explicit prediction)"
+      "Data-led single tweet with implied forward signal (no explicit prediction)",
+      "Amplified podcast clip: pull-quote tweet from an interview + brief 'why this matters' frame",
+      "Anti-narrative origin thread: strip every assumed precondition for success, then reveal outcome"
     ],
     "most_effective_tones": [
       "Authoritative-yet-terse (data drops, no fluff)",
@@ -18994,7 +19195,9 @@
       "Provocative/inflammatory (controversy engine \u2014 ratio is good engagement)",
       "Measured vindication (TradFi validation posts)",
       "Insider declarative ('It's already here' vs 'it's coming')",
-      "Understated confidence (minimalism from credible source)"
+      "Understated confidence (minimalism from credible source)",
+      "Authoritative/vulnerable hybrid (personal testimony + bold verdict)",
+      "Expos\u00e9 tone (authority exposes fabricated narrative, unexpected source = amplification multiplier)"
     ],
     "most_effective_triggers": [
       "FOMO: 'This is already happening, not coming'",
@@ -19005,20 +19208,21 @@
       "Guilt + permission: accuse then provide the exit ramp",
       "Vindication: the 'told you so' without saying it",
       "Sovereignty/freedom: open source, on-device, no gatekeeper",
-      "Debate bait: permanent framing ('dead', 'forever', 'killed') that both sides must respond to"
+      "Debate bait: permanent framing ('dead', 'forever', 'killed') that both sides must respond to",
+      "Temporal credibility: weeks of private access before public announcement = authority signal",
+      "Fear + urgency: precise large number + tight timeframe = abstract trend becomes felt reality",
+      "Identity reframing: 'not a tool, a teammate' or 'not just for engineers' \u2014 destroys assumed boundaries"
     ],
     "cross_niche_insights": [
-      "AI and crypto audiences now share the same 'sovereignty' trigger: local AI (no big tech) mirrors self-custody Bitcoin (no banks)",
-      "Text-only posts dominate in both niches \u2014 external links in the main post kill reach in 2026",
-      "The AI-crypto convergence narrative (AI agents using on-chain payments) works in both niches simultaneously \u2014 one post, two audiences",
-      "Institutional validation (BlackRock, Nvidia + Wall Street) is the single most powerful credibility multiplier for both AI and crypto right now",
-      "Founders announcing minimal personal updates (joins, pivots) outperform product launches when credibility is high \u2014 let the move speak",
-      "The X algorithm in 2026 rewards conversation quality (50 thoughtful replies > 500 likes with no replies) \u2014 end posts with implicit questions or stakes that demand a response",
-      "Hashtags are dead in 2026 \u2014 X uses semantic understanding, hashtags signal spam",
       "Posting into the first hour of engagement is critical \u2014 reply to your own thread and engage early to juice the algorithm",
       "Infrastructure/earnings data posts punch above their weight because they feel exclusive and educational simultaneously",
-      "The 'AI killed [X]' and 'AI is [X]' frames are the highest-RPM controversy engines in tech/crypto in 2026"
+      "The 'AI killed [X]' and 'AI is [X]' frames are the highest-RPM controversy engines in tech/crypto in 2026",
+      "The 'no employees, no investors' origin story is the 2026 version of the garage startup myth \u2014 it triggers both aspiration and skepticism, both of which drive engagement",
+      "Precise numbers beat rounded numbers in data tweets \u2014 'nearly 80,000' outperforms '~80K' because it signals someone counted",
+      "Human metaphors for AI products ('teammate', 'analyst', 'squad') bypass AI fatigue by triggering social/identity imagination rather than feature comparison",
+      "The 'authority exposes lie' format works in both AI and crypto because both spaces have visible narratives the insiders know are partly false \u2014 the exposure feels like relief",
+      "Velocity ratios (tripling, 10x) outperform absolute numbers alone \u2014 readers need scale context, not just a milestone, to feel urgency"
     ],
-    "last_updated": "2026-08-12"
+    "last_updated": "2026-08-13"
   }
 }
