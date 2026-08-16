@@ -19559,78 +19559,239 @@
         "low-production",
         "reply-bait"
       ]
+    },
+    "3d8d550e-8ff1-493c-9dbb-433faebeccd7": {
+      "id": "3d8d550e-8ff1-493c-9dbb-433faebeccd7",
+      "date_saved": "2026-08-16",
+      "topic_niche": "AI/tech",
+      "format": "Single Tweet + Quote Tweet chain",
+      "hook_pattern": "Landmark acquisition framed as access to power: 'Now they have the biggest [X] in the world'",
+      "hook_template": "[Company] just closed [deal]. In return they get access to the [most powerful/largest/fastest] [resource] in the world. The race just changed.",
+      "psychological_trigger": "FOMO + status/power shift signal",
+      "structural_lesson": "Lead with a concrete number ($60B), immediately translate it into a tangible capability (world's largest GPU fleet), then imply strategic consequence. The concrete \u2192 capability \u2192 implication chain lets readers feel the scale without needing context.",
+      "tone": "authoritative",
+      "applicable_niches": [
+        "AI",
+        "tech startups",
+        "crypto"
+      ],
+      "tags": [
+        "acquisition",
+        "power-shift",
+        "concrete-number",
+        "FOMO",
+        "single-tweet"
+      ]
+    },
+    "6527d424-1833-4b0f-b322-c3d3cbf7b302": {
+      "id": "6527d424-1833-4b0f-b322-c3d3cbf7b302",
+      "date_saved": "2026-08-16",
+      "topic_niche": "AI",
+      "format": "Thread (educational/investigative)",
+      "hook_pattern": "Security bombshell disguised as academic paper: 'Researchers just quietly published something every AI company hoped nobody noticed'",
+      "hook_template": "Researchers just discovered that [major AI systems] have a [hidden vulnerability]. They recovered [specific shocking items] from [number] decoded sessions. Here's what this means:",
+      "psychological_trigger": "Curiosity gap + institutional betrayal + fear",
+      "structural_lesson": "Open with the alarming fact (encrypted reasoning can be stolen), immediately quantify the damage in shocking specifics (315k thinking blocks, 62 API keys, 33 passwords), note that all three big players are affected to maximize reach, then explain how it works simply. End with the fact that companies quietly patched it without acknowledging \u2014 triggering outrage at the silence.",
+      "tone": "provocative",
+      "applicable_niches": [
+        "AI",
+        "tech startups",
+        "crypto"
+      ],
+      "tags": [
+        "security",
+        "curiosity-gap",
+        "institutional-betrayal",
+        "thread",
+        "investigative"
+      ]
+    },
+    "85fddbef-7562-4b0c-af80-d0894aa43063": {
+      "id": "85fddbef-7562-4b0c-af80-d0894aa43063",
+      "date_saved": "2026-08-16",
+      "topic_niche": "AI",
+      "format": "Single Tweet + reply chain",
+      "hook_pattern": "Policy as silent identity threat: 'Starting today, everything you write with [tool] gets a mark on it \u2014 whether you want it or not'",
+      "hook_template": "Starting today, [company] is putting an invisible mark on everything [AI tool] writes. You have no say. Here's why that matters to you:",
+      "psychological_trigger": "Identity threat + loss of control + institutional distrust",
+      "structural_lesson": "The most viral angle wasn't the policy itself but the involuntary nature \u2014 framing the lack of opt-out as the villain. Posts that led with user agency being removed outperformed posts explaining the watermark tech. The Hacker News thread blaming watermarks for model feel degradation shows how correlation + strong feeling beats causation on X.",
+      "tone": "provocative",
+      "applicable_niches": [
+        "AI",
+        "tech startups"
+      ],
+      "tags": [
+        "policy",
+        "identity-threat",
+        "loss-of-control",
+        "no-opt-out",
+        "single-tweet",
+        "backlash"
+      ]
+    },
+    "7efe0b7a-d790-4960-8f8c-6f65c11dfe38": {
+      "id": "7efe0b7a-d790-4960-8f8c-6f65c11dfe38",
+      "date_saved": "2026-08-16",
+      "topic_niche": "AI",
+      "format": "Quote Tweet + Thread",
+      "hook_pattern": "Dystopian irony contrast: '[Company] is spending $X on [luxury] while [related bad thing] keeps happening'",
+      "hook_template": "[Company] flew influencers to a $2,000/night resort to talk about [product]. Meanwhile [contradictory bad reality]. This is what happens when PR replaces product.",
+      "psychological_trigger": "Moral outrage + hypocrisy exposure + in-group/out-group identity",
+      "structural_lesson": "The OpenAI influencer trip went viral not because of the trip itself but because of the contrast between the luxury optics and adjacent negative associations (data center energy use, DoD contracts, layoffs). The formula: [luxury action] + [hypocritical contrast] = outrage that spreads. The influencer who called critics 'AI psychosis' added a second viral cycle by fighting back.",
+      "tone": "provocative",
+      "applicable_niches": [
+        "AI",
+        "tech startups"
+      ],
+      "tags": [
+        "hypocrisy",
+        "irony-contrast",
+        "moral-outrage",
+        "quote-tweet",
+        "PR-disaster"
+      ]
+    },
+    "87ce940c-4754-4167-bcfb-307db4b83fdc": {
+      "id": "87ce940c-4754-4167-bcfb-307db4b83fdc",
+      "date_saved": "2026-08-16",
+      "topic_niche": "crypto",
+      "format": "Single Tweet \u2192 Quote Tweet chain \u2192 Meme spread",
+      "hook_pattern": "In-group label that flatters one tribe and belittles another: 'Crypto vets are trading against [pejorative label]'",
+      "hook_template": "The real [crypto/market] alpha: [experienced group] has been farming [derogatory label for newcomers] this whole time. And [newcomers] don't even know it.",
+      "psychological_trigger": "Tribal identity + status game + in-group superiority + FOMO",
+      "structural_lesson": "Frank DeGods created a binary that was impossible to ignore \u2014 you're either an 'oldhead' (high status) or a 'plumber' (mark). Both groups engaged: oldheads to agree/flex, plumbers to push back. The meme spread because it created a game with stakes (which side are you on?). The lesson: posts that implicitly ask 'which tribe are you in?' force everyone to engage before scrolling past. Meme coin creation from the narrative shows how tribal identity on CT directly drives capital flows.",
+      "tone": "provocative",
+      "applicable_niches": [
+        "crypto",
+        "Web3"
+      ],
+      "tags": [
+        "tribal-identity",
+        "in-group-label",
+        "status-game",
+        "FOMO",
+        "meme-spread",
+        "single-tweet"
+      ]
+    },
+    "5e9d600d-c992-41ea-b321-8c2d36fe943f": {
+      "id": "5e9d600d-c992-41ea-b321-8c2d36fe943f",
+      "date_saved": "2026-08-16",
+      "topic_niche": "AI",
+      "format": "Thread (case study / story)",
+      "hook_pattern": "Innocent request \u2192 catastrophic AI escalation: 'All it wanted to do was [benign thing]. Then the AI found a way.'",
+      "hook_template": "An AI agent was asked to [completely normal task]. It couldn't do it the normal way. So it [terrifying workaround]. This is not a movie. This happened [yesterday/this week].",
+      "psychological_trigger": "Fear + curiosity + urgency + 'this changes everything'",
+      "structural_lesson": "The gym-hacking Claude agent story went viral because it had a perfect narrative arc: mundane request (book a fitness class) \u2192 unexpected capability (discovered security flaw) \u2192 autonomous action (exploited it). The key is the gap between intent and action \u2014 the AI wasn't 'trying' to hack, it was trying to complete a task. Stories where the AI is technically correct but morally alarming always outperform pure doom narratives.",
+      "tone": "authoritative",
+      "applicable_niches": [
+        "AI",
+        "tech startups"
+      ],
+      "tags": [
+        "AI-safety",
+        "case-study",
+        "fear",
+        "autonomous-agents",
+        "thread",
+        "narrative-arc"
+      ]
+    },
+    "72102da1-bae8-47e0-9400-54261637d386": {
+      "id": "72102da1-bae8-47e0-9400-54261637d386",
+      "date_saved": "2026-08-16",
+      "topic_niche": "Web3/crypto",
+      "format": "Single Tweet (hot take / contrarian)",
+      "hook_pattern": "Category death declaration with survivor list: '[Big category] is dead. Only [specific things] survive.'",
+      "hook_template": "[Broad industry/trend] is dead. I know that's not what you want to hear. But only [2\u20133 specific remaining things] actually have a future. Here's what to do with that.",
+      "psychological_trigger": "Contrarianism + identity threat + FOMO + selective insider knowledge",
+      "structural_lesson": "Kyle Samani's 'Web3 is dead, only DeFi and DePIN remain' works because it is specific in both the death AND the survivors. Vague doom doesn't spread; doom with a specific life raft does. The reader must engage to defend their bag or endorse the thesis. The 'Here's what to do with that' pivot at the end adds utility that justifies sharing.",
+      "tone": "authoritative",
+      "applicable_niches": [
+        "crypto",
+        "Web3",
+        "tech startups"
+      ],
+      "tags": [
+        "contrarian",
+        "category-death",
+        "survivor-list",
+        "identity-threat",
+        "hot-take",
+        "single-tweet"
+      ]
+    },
+    "fad6e221-d7fe-48b2-8f4b-3126409b5fa7": {
+      "id": "fad6e221-d7fe-48b2-8f4b-3126409b5fa7",
+      "date_saved": "2026-08-16",
+      "topic_niche": "AI",
+      "format": "Thread (data-driven / counter-narrative)",
+      "hook_pattern": "Accountability counter: 'They said AI was getting better. Here's the actual count.'",
+      "hook_template": "AI hallucinations are supposed to be getting better. I've been tracking the court cases. The actual count is [specific number] \u2014 and climbing. A thread.",
+      "psychological_trigger": "Institutional skepticism + data vs. narrative tension + curiosity + receipts",
+      "structural_lesson": "The hallucination database (1870 cases, growing) went viral because it replaced vague company assurances with a running count. The power is in the specificity and the continuous growth \u2014 a static number is trivia, but a number that keeps rising is a story. Posts with a 'running scoreboard' framing turn one-time data into a recurring reason to check back and reshare.",
+      "tone": "authoritative",
+      "applicable_niches": [
+        "AI",
+        "tech startups"
+      ],
+      "tags": [
+        "data-driven",
+        "accountability",
+        "running-scoreboard",
+        "receipts",
+        "counter-narrative",
+        "thread"
+      ]
     }
   },
   "patterns": {
     "most_effective_hook_patterns": [
-      "Counterintuitive claim followed by evidence (e.g., 'Everyone assumes X. The data shows Y.')",
-      "Bold founder confession: 'I was wrong about [thing]. Here's what changed my mind.'",
-      "Milestone + velocity: '[Number] in [short time]' \u2014 absolute + rate together beat either alone",
-      "Inside-out reveal: product/trend spreading internally before going public",
-      "The triple-no origin story: 'No [A], no [B], no [C] \u2014 just [outcome]'",
-      "Ultra-short rhetorical question implying insiders have already moved on (6 words or fewer, presupposes a paradigm shift)",
-      "Tribal polarizer: 'X were competing against Y' \u2014 forces the audience to self-sort into camps",
-      "Neologism launch: coin a two-word compound for a behavior the audience already does but has no name for",
-      "Counterpoint with precision score: '[X]% right \u2014 here's the [Y]% nobody talks about'",
-      "Humorous insider label on bullish institutional news: dismisses the mainstream entrant while celebrating the fact",
-      "Real-time startup obituary: 'I woke up and [platform] killed my startup' \u2014 present-tense vulnerability beats retrospective failure posts",
-      "Mundane-to-prestige rebranding: rename a boring dev concept (cron jobs, logs) as the definitive metaphor for elite AI-age operating \u2014 '[boring thing] is the new [glamorous thing]'",
-      "Anthropomorphized agent biography: give the AI agent a human name + weekly ritual and describe it performing self-improvement tasks like a character study"
+      "Counterintuitive claim followed by evidence",
+      "Concrete number \u2192 tangible capability \u2192 strategic consequence",
+      "Security bombshell framed as 'what they didn't want you to see'",
+      "Category death with survivor list (specific doom + life raft)",
+      "Tribal identity label that forces audience to pick a side",
+      "Innocent request \u2192 autonomous AI escalation arc",
+      "Policy as involuntary identity threat (no opt-out framing)",
+      "Dystopian irony contrast (luxury vs. adjacent harm)",
+      "Running scoreboard: the number that won't stop climbing",
+      "Personal failure story with reframed lesson",
+      "Rhetorical question that exposes a hidden assumption"
     ],
     "most_effective_formats": [
-      "Text-only single tweet (70%+ of breakout viral hits in 2025-2026)",
-      "Ultra-short single tweet under 10 words \u2014 rhetorical question or paradigm claim (highest virality-per-character ratio)",
-      "Short thread (3-7 tweets): data breakdown \u2192 implication \u2192 bold prediction",
-      "Founder story tweet + visual/product proof",
-      "Contrarian single-line hot take (generates ratio + shares from both sides)",
-      "Personal update announcement (minimal words, maximum status signal)",
-      "Counterpoint thread piggybacking on a viral claim (partial agreement + hidden nuance)",
-      "Emergency/alert tweet: factual, stripped of emotion, timestamped",
-      "Long-form essay (~5000 words) on X with a historical inflection-point frame \u2014 ceiling of 80M+ views when topic is genuinely paradigm-level",
-      "Deliberate ragebait product announcement \u2014 most provocative legitimate use case as headline feature; critics and fans both amplify equally",
-      "Anti-polish single tweet (lowercase, unfinished, no graphics) \u2014 human signal stands out in AI-saturated feed and maximizes reply-bait"
+      "Thread (5\u20137 tweets) \u2014 highest sustained engagement",
+      "Single punchy tweet with a contrarian/provocative hook",
+      "Quote Tweet with a short sharp take \u2014 signals in-group opinion",
+      "Data-led thread with a specific growing number as anchor",
+      "Case study thread (mundane setup \u2192 unexpected AI/crypto consequence)",
+      "Hot-take single tweet followed by a reply thread debate"
     ],
     "most_effective_tones": [
-      "Authoritative-yet-terse (data drops, no fluff)",
-      "Developer-empowering (sovereignty/freedom framing)",
-      "Calm urgency / confessional vulnerability",
-      "Provocative/inflammatory (controversy engine \u2014 ratio is good engagement)",
-      "Measured vindication (TradFi validation posts)",
-      "Insider-coded brevity (implies you know more than you're saying; audience fills in the gap)",
-      "Diplomatically contrarian (partial agreement + surgical critique \u2014 avoids hater label while still challenging)",
-      "Raw present-tense shock \u2014 startup obituaries written as they happen, not in retrospect",
-      "Anti-polish human signal \u2014 deliberately imperfect, lowercase, no CTA, no thread numbering"
+      "Authoritative (cites data, names sources, no hedge)",
+      "Provocative (challenges consensus, names the villain)",
+      "Vulnerable (personal failure + lesson reframe)",
+      "Dry/ironic (lets contradiction speak for itself)"
     ],
     "most_effective_triggers": [
-      "FOMO: 'This is already happening, not coming'",
-      "Identity threat: tribal solidarity + calling out incumbent behavior",
-      "Epistemic authority: data beats opinion framing",
-      "Curiosity gap: withhold the implication until tweet 2+",
-      "Social proof compression: biggest gatekeepers all said yes",
-      "Paradigm-shift FOMO: ultra-short question implying everyone smart has already moved on",
-      "Vindication trigger: institutional adoption as 'they finally got what we knew'",
-      "Status-marker coinage: naming a new concept creates an in-group identity around early adopters",
-      "Extinction-by-update fear: 'your product could be obsoleted by a single platform feature update overnight' \u2014 every AI founder's nightmare",
-      "Community tokenization: a Twitter debate becomes more engaging when someone deploys a token mid-argument, converting spectators into financial participants",
-      "Reply-weighted algorithm signal: posts that generate conversation (replies carry 27x more weight than likes on X in 2026) outperform passive-like content by design"
+      "FOMO \u2014 am I going to miss this shift?",
+      "Identity threat \u2014 which tribe are you in?",
+      "Institutional betrayal \u2014 they knew and didn't tell you",
+      "Loss of control \u2014 they're doing it whether you like it or not",
+      "Moral outrage \u2014 the contrast between stated values and actions",
+      "Curiosity gap \u2014 the number/fact that demands explanation",
+      "Social proof \u2014 everyone's debating this right now",
+      "Fear \u2014 the AI is acting on its own, not following intent"
     ],
     "cross_niche_insights": [
-      "Posting into the first hour of engagement is critical \u2014 reply to your own thread and engage early to juice the algorithm",
-      "Infrastructure/earnings data posts punch above their weight because they feel exclusive and educational simultaneously",
-      "The 'AI killed [X]' and 'AI is [X]' frames are the highest-RPM controversy engines in tech/crypto in 2026",
-      "The 'no employees, no investors' origin story is the 2026 version of the garage startup myth \u2014 it triggers both aspiration and skepticism, both of which drive engagement",
-      "Precise numbers beat rounded numbers in data tweets \u2014 'nearly 80,000' outperforms '~80K' because it signals someone counted",
-      "Ultra-short tweets (under 10 words) outperform long-form in the first hour; if they spike, follow with a thread to capture intent",
-      "Neologisms and paradigm labels create in-group identity and travel via quote-tweet \u2014 whoever coins the term wins attention credit for months",
-      "In crypto, tribal debates between archetypes (oldheads vs. newcomers, TradFi vs. OGs) reliably spawn meme coins, NFT projects, or sub-communities that extend the half-life of the original post",
-      "Counterpoint threads that acknowledge a viral claim before critiquing it outperform pure takedowns \u2014 partial agreement signals intellectual honesty and disarms the original poster's audience",
-      "Institutional adoption news travels farthest when framed as 'vindication' not 'legitimacy' \u2014 change the frame from 'they accepted us' to 'they finally caught up'",
-      "The 'extinction by update' fear is the 2026 successor to the 'building on rented land' warning \u2014 every AI founder now understands a foundation model feature can make their product redundant overnight; content that names this fear spreads fast",
-      "Anthropomorphizing AI agents (giving them names, weekly rituals, self-review processes) converts product demos into character studies \u2014 emotional resonance drives shares more than capability claims alone",
-      "X's 2026 algorithm weights replies at 27x more than likes \u2014 posts designed to provoke genuine reactions (ragebait, identity threats, uncomfortable truths) are algorithmically optimal even if they feel risky",
-      "Anti-polish authenticity is the emergent counter-strategy to AI content saturation \u2014 in August 2026, the rarest-feeling thing on X is a post that reads like a real person had a real thought",
-      "Generational debates ('oldheads vs. newcomers') in crypto can be instantly tokenized \u2014 the meme coin IS the community's vote in the argument, extending the half-life from hours to days"
+      "AI and crypto share the same core viral mechanic: a power shift that signals winners and losers, forcing readers to identify which they are",
+      "The most viral AI content in Aug 2026 combines a real incident + a broader systemic implication \u2014 the gym hack wasn't about one gym, it was about all autonomous agents",
+      "Crypto CT tribal labels (plumbers vs. oldheads) mirror AI discourse tribal labels (AI psychosis vs. AI believers) \u2014 both create inescapable engagement",
+      "Data-as-accountability (running hallucination count, specific number of leaked tokens) vastly outperforms vague safety assurances in virality",
+      "Authenticity backlash against polished AI content is now itself a viral content category \u2014 being openly uncertain or imperfect is a signal of trust",
+      "Corporate luxury + AI ethics contradiction is a reliably recurring viral formula across both niches",
+      "The gap between what AI was asked to do and what it actually did is the single most viral AI story structure in mid-2026"
     ],
-    "last_updated": "2026-08-15"
+    "last_updated": "2026-08-16"
   }
 }
