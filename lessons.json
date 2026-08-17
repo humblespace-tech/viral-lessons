@@ -19743,55 +19743,371 @@
         "counter-narrative",
         "thread"
       ]
+    },
+    "323702ed-c6f6-49a5-be66-66d8abebd84e": {
+      "id": "323702ed-c6f6-49a5-be66-66d8abebd84e",
+      "date_saved": "2026-08-17",
+      "topic_niche": "AI/tech",
+      "format": "Single Tweet",
+      "hook_pattern": "Ironic contradiction: subject publicly attacked X, then secretly did business with X",
+      "hook_template": "[Person] called [Company/Thing] '[insult]' [timeframe] ago. [Surprising thing they just did with them].",
+      "psychological_trigger": "Cognitive dissonance + irony + hypocrisy exposure",
+      "structural_lesson": "Surface a factual contradiction between someone's stated position and their revealed action. Let the irony speak without editorializing. The implied punchline does the work \u2014 no analysis needed.",
+      "tone": "dry / deadpan",
+      "applicable_niches": [
+        "AI",
+        "tech",
+        "crypto"
+      ],
+      "tags": [
+        "irony",
+        "contradiction",
+        "single-tweet",
+        "hot-take",
+        "character-reveal"
+      ]
+    },
+    "c3f91b47-f762-40c0-b621-39c881c44c0f": {
+      "id": "c3f91b47-f762-40c0-b621-39c881c44c0f",
+      "date_saved": "2026-08-17",
+      "topic_niche": "AI/tech",
+      "format": "Single Tweet",
+      "hook_pattern": "Comparative scale reveal: translate an incomprehensible large number by mapping it to familiar references",
+      "hook_template": "[Subject] will earn $[X] [timeframe]. How much is that? Well, [Famous Company A] made $[Y], [Famous Company B] made $[Z], [Famous Company C] made $[W]. In other words, [punchline].",
+      "psychological_trigger": "Anchoring + scale shock + perspective shift",
+      "structural_lesson": "Take an abstract, hard-to-visualize large number. Break it down by comparing it to 3-4 things the audience already understands intimately. The contrast creates an 'oh wow' moment. End with a punchy summary statement that lands the insight.",
+      "tone": "informational / provocative",
+      "applicable_niches": [
+        "AI",
+        "tech",
+        "crypto",
+        "finance"
+      ],
+      "tags": [
+        "data-tweet",
+        "scale-reveal",
+        "comparison",
+        "anchoring",
+        "single-tweet"
+      ]
+    },
+    "8199e260-e017-413e-a7d3-400d19b9d409": {
+      "id": "8199e260-e017-413e-a7d3-400d19b9d409",
+      "date_saved": "2026-08-17",
+      "topic_niche": "crypto",
+      "format": "Quote Tweet / Debate Chain",
+      "hook_pattern": "Skills-versus-environment debate: 'Were they actually good, or were they just lucky to face weaker competition?'",
+      "hook_template": "[Legendary cohort] weren't as good as everyone thinks. They were just trading / competing against [weaker opponents]. The market / field has evolved.",
+      "psychological_trigger": "Identity threat + tribal conflict + legacy vs recency bias",
+      "structural_lesson": "Challenge the reputation of a respected group by attributing their success to environmental factors rather than skill. This triggers two camps: defenders of the old guard and those who identify with the new generation. The debate chain IS the virality. Meme assets often follow as the debate becomes a running narrative.",
+      "tone": "provocative / contrarian",
+      "applicable_niches": [
+        "crypto",
+        "AI",
+        "tech",
+        "finance"
+      ],
+      "tags": [
+        "identity-threat",
+        "debate-bait",
+        "contrarian",
+        "quote-tweet",
+        "generational-conflict"
+      ]
+    },
+    "2f63278e-7e31-431a-bfa9-932cd34b88da": {
+      "id": "2f63278e-7e31-431a-bfa9-932cd34b88da",
+      "date_saved": "2026-08-17",
+      "topic_niche": "AI/tech",
+      "format": "Single Tweet",
+      "hook_pattern": "Surprising winner reveal: 'I'm more confident in [unexpected category] than [expected category], and here's the counterintuitive reason'",
+      "hook_template": "I'm a lot more confident in [underdog category] becoming [desired outcome] than in [presumed frontrunner] doing the same. [1-sentence reason why].",
+      "psychological_trigger": "Contrarianism + credibility transfer + reframing conventional wisdom",
+      "structural_lesson": "State a confident opinion that inverts the conventional wisdom about who wins in a market or competition. Signal expertise through specificity. The more surprising the winner you're backing, the more replies you get from both believers and skeptics.",
+      "tone": "authoritative / contrarian",
+      "applicable_niches": [
+        "AI",
+        "tech",
+        "venture capital",
+        "crypto"
+      ],
+      "tags": [
+        "contrarian",
+        "market-prediction",
+        "authority-signal",
+        "single-tweet",
+        "debate-trigger"
+      ]
+    },
+    "0ec71864-4b41-4406-b599-5595189ff3c9": {
+      "id": "0ec71864-4b41-4406-b599-5595189ff3c9",
+      "date_saved": "2026-08-17",
+      "topic_niche": "AI/tech",
+      "format": "Single Tweet",
+      "hook_pattern": "Benchmark dethroned: open source model beats the closed leader on a specific, named metric",
+      "hook_template": "[Open source model] just scored [X] on [benchmark name], beating every closed model except [the most expensive one]. The gap is closing.",
+      "psychological_trigger": "Tribal allegiance (open vs closed) + competitive thrill + FOMO signal for developers",
+      "structural_lesson": "Name the specific benchmark and the specific score. Compare it directly to 2-3 named competitors. The specificity is what earns credibility and drives shares. Avoid vague claims like 'competitive' \u2014 instead say 'beats X on Y.' Open vs closed model wars reliably generate high-reply engagement.",
+      "tone": "informational / slightly celebratory",
+      "applicable_niches": [
+        "AI",
+        "tech"
+      ],
+      "tags": [
+        "benchmark",
+        "open-source",
+        "data-tweet",
+        "competitive-comparison",
+        "tribal-trigger"
+      ]
+    },
+    "492be342-4d00-4459-9058-90ff5ea026a0": {
+      "id": "492be342-4d00-4459-9058-90ff5ea026a0",
+      "date_saved": "2026-08-17",
+      "topic_niche": "AI/tech/startups",
+      "format": "Thread",
+      "hook_pattern": "Landmark acquisition decoded: 'The most iconic company in [sector] just paid $[X] for a [N]-year-old [product]. Here's why that actually makes sense.'",
+      "hook_template": "[Famous acquirer] just paid $[staggering number] for [young company]. That's more than [familiar comparison]. Here's what everyone is missing about this deal: \ud83e\uddf5",
+      "psychological_trigger": "Scale shock + curiosity gap + insider framing",
+      "structural_lesson": "Open with the jaw-dropping number and the counterintuitive acquirer. Immediately pivot to 'here's what everyone is missing' to set up the thread as exclusive insight. Then explain the strategic logic in 5-7 tweets, ending with a prediction. Threads on landmark M&A in AI/tech outperform individual opinion takes by 3-4x in bookmarks.",
+      "tone": "authoritative / educational",
+      "applicable_niches": [
+        "AI",
+        "tech",
+        "startups",
+        "venture capital"
+      ],
+      "tags": [
+        "acquisition",
+        "thread",
+        "curiosity-gap",
+        "insider-framing",
+        "scale-reveal"
+      ]
+    },
+    "52030dfc-1040-484f-8b25-620315f3b247": {
+      "id": "52030dfc-1040-484f-8b25-620315f3b247",
+      "date_saved": "2026-08-17",
+      "topic_niche": "AI/tech/marketing",
+      "format": "Single Tweet",
+      "hook_pattern": "Data-backed counter-narrative: 'Unpopular take \u2014 [common assumed positive] is actually hurting [group] more than helping them. Here's the data.'",
+      "hook_template": "Unpopular take: [widely adopted trend] is hurting [brands/founders/investors] more than it's helping. [Specific stat]. [1-sentence implication].",
+      "psychological_trigger": "Identity threat + fear of being wrong + social proof (data anchor)",
+      "structural_lesson": "Lead with 'unpopular take' to signal intentional contrarianism and prime readers for disagreement. Back the claim with a specific statistic in the second sentence. End with a one-line implication that personalizes the stakes for the reader. Authenticity-vs-AI-content posts perform above average in August 2026 due to the AI fatigue cycle.",
+      "tone": "provocative / data-driven",
+      "applicable_niches": [
+        "AI",
+        "tech",
+        "marketing",
+        "Web3"
+      ],
+      "tags": [
+        "data-backed",
+        "contrarian",
+        "authenticity",
+        "identity-threat",
+        "single-tweet"
+      ]
+    },
+    "a437685d-677f-43c5-96e0-ad0845e4c45d": {
+      "id": "a437685d-677f-43c5-96e0-ad0845e4c45d",
+      "date_saved": "2026-08-17",
+      "topic_niche": "AI/tech",
+      "format": "Single Tweet",
+      "hook_pattern": "Revenue-pace reality check: growth so fast the ordinary mental model breaks, expressed through a jaw-dropping year-over-year ratio",
+      "hook_template": "[Company] grew revenue [X]-fold in one year. Let that sink in: $[Y] to $[Z] in 12 months. [1 implication or prediction]. The race is over before most people realized it started.",
+      "psychological_trigger": "FOMO + scale shock + urgency signal",
+      "structural_lesson": "State the growth multiple first (e.g., 14x), then immediately restate it in raw dollar terms so both the ratio and the absolute scale hit simultaneously. End with a bold forward-looking statement or rhetorical question. Revenue revelation posts on AI labs generate peak engagement when the number defies the reader's prior mental model.",
+      "tone": "urgent / authoritative",
+      "applicable_niches": [
+        "AI",
+        "tech",
+        "venture capital"
+      ],
+      "tags": [
+        "revenue-reveal",
+        "growth-rate",
+        "scale-shock",
+        "single-tweet",
+        "FOMO"
+      ]
     }
   },
   "patterns": {
     "most_effective_hook_patterns": [
-      "Counterintuitive claim followed by evidence",
-      "Concrete number \u2192 tangible capability \u2192 strategic consequence",
-      "Security bombshell framed as 'what they didn't want you to see'",
-      "Category death with survivor list (specific doom + life raft)",
-      "Tribal identity label that forces audience to pick a side",
-      "Innocent request \u2192 autonomous AI escalation arc",
-      "Policy as involuntary identity threat (no opt-out framing)",
-      "Dystopian irony contrast (luxury vs. adjacent harm)",
-      "Running scoreboard: the number that won't stop climbing",
-      "Personal failure story with reframed lesson",
-      "Rhetorical question that exposes a hidden assumption"
+      {
+        "pattern": "Origin-to-empire arc",
+        "frequency": 2
+      },
+      {
+        "pattern": "Historical parallel to a lived event everyone understands, t",
+        "frequency": 1
+      },
+      {
+        "pattern": "Show proof of an impossible-seeming thing, then attach extre",
+        "frequency": 1
+      },
+      {
+        "pattern": "Open with your most controversial use case, not your most po",
+        "frequency": 1
+      },
+      {
+        "pattern": "Build quietly in public with milestone posts, then let a hig",
+        "frequency": 1
+      },
+      {
+        "pattern": "Ultra-low-effort participation trend with a high-reward emot",
+        "frequency": 1
+      },
+      {
+        "pattern": "Reassuring setup in the first clause, devastating pivot in t",
+        "frequency": 1
+      },
+      {
+        "pattern": "AI agent posts consistently weird, philosophical content; co",
+        "frequency": 1
+      },
+      {
+        "pattern": "Maximum ambiguity with maximum implied stakes \u2014 say the mini",
+        "frequency": 1
+      },
+      {
+        "pattern": "Name a shared, unspoken frustration within the community wit",
+        "frequency": 1
+      },
+      {
+        "pattern": "Make a bold, specific, falsifiable numerical prediction with",
+        "frequency": 1
+      },
+      {
+        "pattern": "Innocent real-world activity post carries a dual meaning; co",
+        "frequency": 1
+      }
     ],
     "most_effective_formats": [
-      "Thread (5\u20137 tweets) \u2014 highest sustained engagement",
-      "Single punchy tweet with a contrarian/provocative hook",
-      "Quote Tweet with a short sharp take \u2014 signals in-group opinion",
-      "Data-led thread with a specific growing number as anchor",
-      "Case study thread (mundane setup \u2192 unexpected AI/crypto consequence)",
-      "Hot-take single tweet followed by a reply thread debate"
+      {
+        "format": "Single Tweet",
+        "frequency": 283
+      },
+      {
+        "format": "Thread",
+        "frequency": 86
+      },
+      {
+        "format": "Single Tweet / Thread",
+        "frequency": 8
+      },
+      {
+        "format": "Single Tweet + Thread",
+        "frequency": 5
+      },
+      {
+        "format": "Single Tweet or short thread",
+        "frequency": 4
+      },
+      {
+        "format": "Thread / Quote Tweet",
+        "frequency": 4
+      },
+      {
+        "format": "Single Tweet / Thread opener",
+        "frequency": 3
+      },
+      {
+        "format": "Single Tweet / Quote Tweet",
+        "frequency": 3
+      }
     ],
     "most_effective_tones": [
-      "Authoritative (cites data, names sources, no hedge)",
-      "Provocative (challenges consensus, names the villain)",
-      "Vulnerable (personal failure + lesson reframe)",
-      "Dry/ironic (lets contradiction speak for itself)"
+      {
+        "tone": "authoritative",
+        "frequency": 99
+      },
+      {
+        "tone": "provocative",
+        "frequency": 78
+      },
+      {
+        "tone": "educational",
+        "frequency": 41
+      },
+      {
+        "tone": "analytical",
+        "frequency": 38
+      },
+      {
+        "tone": "matter-of-fact",
+        "frequency": 30
+      },
+      {
+        "tone": "urgent",
+        "frequency": 24
+      },
+      {
+        "tone": "contrarian",
+        "frequency": 18
+      },
+      {
+        "tone": "vulnerable",
+        "frequency": 17
+      }
     ],
     "most_effective_triggers": [
-      "FOMO \u2014 am I going to miss this shift?",
-      "Identity threat \u2014 which tribe are you in?",
-      "Institutional betrayal \u2014 they knew and didn't tell you",
-      "Loss of control \u2014 they're doing it whether you like it or not",
-      "Moral outrage \u2014 the contrast between stated values and actions",
-      "Curiosity gap \u2014 the number/fact that demands explanation",
-      "Social proof \u2014 everyone's debating this right now",
-      "Fear \u2014 the AI is acting on its own, not following intent"
+      {
+        "trigger": "FOMO",
+        "frequency": 128
+      },
+      {
+        "trigger": "Contrarianism",
+        "frequency": 40
+      },
+      {
+        "trigger": "curiosity gap",
+        "frequency": 33
+      },
+      {
+        "trigger": "Curiosity gap",
+        "frequency": 33
+      },
+      {
+        "trigger": "Identity threat",
+        "frequency": 30
+      },
+      {
+        "trigger": "contrarianism",
+        "frequency": 27
+      },
+      {
+        "trigger": "Fear",
+        "frequency": 21
+      },
+      {
+        "trigger": "identity threat",
+        "frequency": 17
+      },
+      {
+        "trigger": "urgency",
+        "frequency": 13
+      },
+      {
+        "trigger": "Humor",
+        "frequency": 12
+      }
     ],
     "cross_niche_insights": [
-      "AI and crypto share the same core viral mechanic: a power shift that signals winners and losers, forcing readers to identify which they are",
-      "The most viral AI content in Aug 2026 combines a real incident + a broader systemic implication \u2014 the gym hack wasn't about one gym, it was about all autonomous agents",
-      "Crypto CT tribal labels (plumbers vs. oldheads) mirror AI discourse tribal labels (AI psychosis vs. AI believers) \u2014 both create inescapable engagement",
-      "Data-as-accountability (running hallucination count, specific number of leaked tokens) vastly outperforms vague safety assurances in virality",
-      "Authenticity backlash against polished AI content is now itself a viral content category \u2014 being openly uncertain or imperfect is a signal of trust",
-      "Corporate luxury + AI ethics contradiction is a reliably recurring viral formula across both niches",
-      "The gap between what AI was asked to do and what it actually did is the single most viral AI story structure in mid-2026"
+      "Replies are weighted 27x more than likes in the 2026 X algorithm \u2014 posts designed to generate disagreement outperform those designed for passive approval",
+      "Authenticity backlash is real: ~30% of consumers say they're less likely to buy from brands using AI-generated ads \u2014 counterintuitively, human vulnerability posts outperform polished AI content in 2026",
+      "The first 30 minutes determine viral trajectory \u2014 posts need 10+ engagements in that window for algorithmic amplification",
+      "Comparative scale reveals (mapping incomprehensible numbers to familiar references) work across every niche \u2014 AI revenue, crypto market caps, VC rounds",
+      "Benchmark defeat posts (open source beating closed models) trigger tribal allegiance responses across AI and crypto communities",
+      "Ironic contradiction frames (public attack followed by revealed private cooperation) generate high-reply organic spread with minimal text required",
+      "Identity threat debates (old guard vs new generation) reliably spawn multi-day narrative chains and derivative content including meme assets",
+      "Text-only tweets account for 70%+ of breakout viral hits \u2014 visual polish is not required for AI/crypto/tech audiences",
+      "Threads of 8-12 tweets perform 47% better than shorter ones; hook tweet does 80% of the work",
+      "Model race in 2026 is a speed + pricing + distribution war, not just a capability war \u2014 posts framing this distinction perform well among technical founders",
+      "Contrarian posts that back an 'unexpected winner' in a market generate more high-quality replies than posts backing the obvious frontrunner",
+      "Social search now dominates \u2014 people search inside X first for AI model comparisons, crypto analysis, and founder takes"
     ],
-    "last_updated": "2026-08-16"
+    "last_updated": "2026-08-17"
   }
 }
