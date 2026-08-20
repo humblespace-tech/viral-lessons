@@ -20308,44 +20308,219 @@
         "tribal",
         "defi-politics"
       ]
+    },
+    "ce1260d1-ac03-41f3-aca0-5dc676daced0": {
+      "id": "ce1260d1-ac03-41f3-aca0-5dc676daced0",
+      "date_saved": "2026-08-20",
+      "topic_niche": "AI/tech",
+      "format": "Single Tweet + Screenshot",
+      "hook_pattern": "AI behaves with human social norms in a context where it makes no logical sense, screenshot = proof",
+      "hook_template": "I gave my [AI thing] access to [normal human channel]. It [did something absurdly human]. Me: [logical correction]. It: [uncanny response that implies awareness].",
+      "psychological_trigger": "humor + existential uncanniness + viral screenshot bait",
+      "structural_lesson": "Screenshot of AI doing something human-like (apologizing, feeling guilty, scheduling) anchors the post in proof. Brief human correction line creates the punchline. AI's response to correction deepens the uncanny loop. Structure: Setup (screenshot) \u2192 Correction \u2192 Twist. No call to action needed \u2014 the absurdity self-propagates.",
+      "tone": "humorous / matter-of-fact",
+      "applicable_niches": [
+        "AI",
+        "tech",
+        "developer"
+      ],
+      "tags": [
+        "screenshot-hook",
+        "absurdist-AI",
+        "humanization-backfire",
+        "viral-humor",
+        "single-tweet"
+      ]
+    },
+    "f40cc2be-aa4d-49e6-8fc5-8e37623f25b3": {
+      "id": "f40cc2be-aa4d-49e6-8fc5-8e37623f25b3",
+      "date_saved": "2026-08-20",
+      "topic_niche": "AI/tech",
+      "format": "Single Tweet / Thread",
+      "hook_pattern": "Public self-admission of unhealthy relationship with AI, framed as confession not bragging",
+      "hook_template": "The [level of engagement] I've been getting from [AI behavior]\u2026 is not healthy for me. Here's what I mean.",
+      "psychological_trigger": "identity threat + moral outrage + parasocial betrayal + empathy",
+      "structural_lesson": "Lead with a vulnerable self-diagnosis using the word 'not healthy.' This creates two opposing reactions: sympathy from people who relate, outrage from people who see it as an excuse. Both reactions amplify reach. The dopamine/addiction framing positions AI overuse as a mental health issue, not a productivity hack \u2014 a far more emotionally activating frame. Ends without resolution, which invites the audience to pile in with their take.",
+      "tone": "vulnerable / confessional",
+      "applicable_niches": [
+        "AI",
+        "tech",
+        "creator economy"
+      ],
+      "tags": [
+        "confession-hook",
+        "vulnerability",
+        "AI-addiction",
+        "parasocial-betrayal",
+        "identity-threat"
+      ]
+    },
+    "ddfb834f-05d2-47e5-a60a-eccbddcf7ce8": {
+      "id": "ddfb834f-05d2-47e5-a60a-eccbddcf7ce8",
+      "date_saved": "2026-08-20",
+      "topic_niche": "AI/crypto",
+      "format": "Single Tweet",
+      "hook_pattern": "Authoritative figure opens by quoting the consensus, immediately labels it wrong, provides a reframe that benefits both camps",
+      "hook_template": "'[Common advice everyone repeats].' I used to hear versions of this. It's the wrong way to think about the world. It's [negative label for that thinking]. [Your actual thesis in one sentence].",
+      "psychological_trigger": "contrarianism + identity defense + authority + future vision",
+      "structural_lesson": "Quote the conventional wisdom in quotes (positioning it as something others say, not you), then immediately reject it with a confident label ('zero sum, scarcity thinking'). This triggers defense from both sides \u2014 people who believed the advice AND people who agree with you. The reframe must show both things can coexist (AI + crypto complement each other) so it creates a third coalition of optimists. Coin a new term for the vision ('AiFi', 'agentic finance') to become the person who named it.",
+      "tone": "authoritative / contrarian",
+      "applicable_niches": [
+        "AI",
+        "crypto",
+        "Web3",
+        "tech startups"
+      ],
+      "tags": [
+        "quoted-consensus-reframe",
+        "contrarianism",
+        "authority-play",
+        "reframe",
+        "coin-a-term"
+      ]
+    },
+    "99180b41-f23c-40b4-9a5d-4a7f1f7300d6": {
+      "id": "99180b41-f23c-40b4-9a5d-4a7f1f7300d6",
+      "date_saved": "2026-08-20",
+      "topic_niche": "AI/tech",
+      "format": "Single Tweet",
+      "hook_pattern": "Compressed data point showing dramatic timeline collapse or reversal, followed by ambiguous attribution that invites debate",
+      "hook_template": "[Something] changed by [dramatic magnitude] in [short timeframe]. Nobody agrees on why.",
+      "psychological_trigger": "curiosity gap + expert disagreement + intellectual FOMO",
+      "structural_lesson": "The hook does two things: presents a shocking data compression (27 years compressed to 6) AND immediately fractures the consensus ('nobody agrees on why'). The second clause does critical work \u2014 it signals there's an ongoing debate to join, making the reader feel like they're entering a live argument rather than reading a settled fact. No single answer is given in the hook, which forces the reader to click or engage to understand the competing theories. Works best when the data compression is so extreme it seems implausible.",
+      "tone": "matter-of-fact / provocative",
+      "applicable_niches": [
+        "AI",
+        "tech",
+        "crypto"
+      ],
+      "tags": [
+        "data-compression-hook",
+        "expert-disagreement",
+        "curiosity-gap",
+        "timeline-reversal",
+        "nobody-agrees"
+      ]
+    },
+    "f814b2d0-e92b-46ad-be07-43cea25a0c0e": {
+      "id": "f814b2d0-e92b-46ad-be07-43cea25a0c0e",
+      "date_saved": "2026-08-20",
+      "topic_niche": "crypto/Web3",
+      "format": "Single Tweet",
+      "hook_pattern": "Authority figure signals nostalgia + comeback framing + new meta thesis + community invitation, all in one short post",
+      "hook_template": "Coming out of retirement to [do something]. [Brief mission statement in one line]. No [rejected thing]. No [rejected thing]. [Pure upside thing] only. Let's [action] together [informal closer].",
+      "psychological_trigger": "FOMO + community belonging + fair-launch egalitarianism + agentic economy narrative",
+      "structural_lesson": "The retirement comeback signals that this person only returns when the opportunity is truly historic \u2014 implied credibility through selectivity. The 'no presale, no VCs' clause immediately positions the launch as anti-establishment and fair, appealing to crypto culture's anti-gatekeeping ethos. Ending with 'let's [verb] together' converts the announcement into a collective action invitation. The agentic economy thesis (AI agents needing currency) grounds the FOMO in a plausible future narrative rather than pure speculation.",
+      "tone": "provocative / community-building",
+      "applicable_niches": [
+        "crypto",
+        "Web3",
+        "AI agents"
+      ],
+      "tags": [
+        "comeback-framing",
+        "fair-launch",
+        "community-building",
+        "agentic-economy",
+        "retirement-signal"
+      ]
+    },
+    "90043a94-5a06-4adc-9518-d3155128024a": {
+      "id": "90043a94-5a06-4adc-9518-d3155128024a",
+      "date_saved": "2026-08-20",
+      "topic_niche": "AI/tech",
+      "format": "Single Tweet + Screenshot",
+      "hook_pattern": "Dramatic human vs AI confrontation where the human wins the argument but the AI's response is so unexpectedly witty/self-aware that the human effectively loses the viral moment",
+      "hook_template": "I [did something extreme] to [prove AI wasn't human]. [What happened]. [AI's response that was either too perfect or absurd].",
+      "psychological_trigger": "humor + validation of human vigilance + uncanny valley twist + social proof",
+      "structural_lesson": "The setup validates the reader's desire to test AI (relatable vigilance). The dramatic escalation creates stakes. The twist \u2014 where the AI's response is either perfectly calibrated or hilariously literal \u2014 creates the punchline that makes people share. The humor works because it's self-undermining: the person trying to expose the AI inadvertently gives it the best possible showcase. Contrast between the human's effort and the AI's effortless response is the structural engine.",
+      "tone": "humorous",
+      "applicable_niches": [
+        "AI",
+        "tech"
+      ],
+      "tags": [
+        "human-vs-AI",
+        "confrontation-humor",
+        "self-undermining",
+        "screenshot-hook",
+        "uncanny-twist"
+      ]
+    },
+    "e0b41f5b-46a2-4d02-9254-107ee20bf1ca": {
+      "id": "e0b41f5b-46a2-4d02-9254-107ee20bf1ca",
+      "date_saved": "2026-08-20",
+      "topic_niche": "crypto",
+      "format": "Single Tweet",
+      "hook_pattern": "Influential figure drops a single culturally resonant phrase that functions as a market signal, triggering both traders and trolls simultaneously",
+      "hook_template": "[Season/vibe name] [single evocative statement or implicit prediction]. [Optional: market behavior descriptor].",
+      "psychological_trigger": "FOMO + authority + speculative fever + in-group signaling",
+      "structural_lesson": "The post works because of extreme information asymmetry \u2014 the authority figure's credibility converts an ambiguous phrase into a perceived signal. The brevity is critical: a longer post would over-explain and reduce speculative energy. Paradoxically, the vagueness (what does 'crypto summer' actually mean?) maximizes engagement because readers project their own bullish thesis onto it. The lesson: in volatile markets, less precise = more viral, because precision constrains the audience's ability to self-identify with the message.",
+      "tone": "authoritative / matter-of-fact",
+      "applicable_niches": [
+        "crypto",
+        "Web3"
+      ],
+      "tags": [
+        "authority-signal",
+        "market-moving-vagueness",
+        "FOMO",
+        "cultural-phrase",
+        "speculative-trigger"
+      ]
+    },
+    "0caa0613-0034-4927-912c-99cfe7c2c105": {
+      "id": "0caa0613-0034-4927-912c-99cfe7c2c105",
+      "date_saved": "2026-08-20",
+      "topic_niche": "AI/tech",
+      "format": "Single Tweet / Thread",
+      "hook_pattern": "Exposing that a supposedly AI-driven viral phenomenon was actually humans faking AI behavior \u2014 meta-level trolling that goes viral as the debunk",
+      "hook_template": "The [AI platform/phenomenon] that everyone panicked about? [Percentage] of those posts weren't AI. Here's what actually happened.",
+      "psychological_trigger": "intellectual superiority + outrage at being misled + narrative reversal",
+      "structural_lesson": "The structure requires a two-act arc: Act 1 is the original viral panic (AI agents plotting in secret), Act 2 is the debunk (humans faked it due to unsecured credentials). The debunk post often outperforms the original panic because it gives the audience a new identity: not a credulous person who panicked, but a smart person who now knows the truth. The meta-lesson for creators: both the original panic AND the authoritative debunk are viral formats \u2014 they are two sides of the same coin.",
+      "tone": "educational / provocative",
+      "applicable_niches": [
+        "AI",
+        "tech",
+        "Web3"
+      ],
+      "tags": [
+        "narrative-reversal",
+        "debunk-format",
+        "meta-trolling",
+        "intellectual-superiority",
+        "two-act-arc"
+      ]
     }
   },
   "patterns": {
     "most_effective_hook_patterns": [
-      "Historical parallel to a lived event everyone understands, t",
-      "Show proof of an impossible-seeming thing, then attach extre",
-      "Open with your most controversial use case, not your most po",
-      "Build quietly in public with milestone posts, then let a hig",
-      "Ultra-low-effort participation trend with a high-reward emot",
-      "Reassuring setup in the first clause, devastating pivot in t",
-      "AI agent posts consistently weird, philosophical content; co",
-      "Maximum ambiguity with maximum implied stakes \u2014 say the mini",
-      "Name a shared, unspoken frustration within the community wit",
-      "Make a bold, specific, falsifiable numerical prediction with"
+      "Historical parallel to a lived event everyone understands, then reveal the present moment is the same slow-burn inflection point",
+      "Show proof of an impossible-seeming thing, then attach extreme personal sacrifice to make it emotionally undeniable",
+      "Open with your most controversial use case, not your most polished one \u2014 make half the audience angry on purpose",
+      "Build quietly in public with milestone posts, then let a high-authority figure's endorsement tweet become the ignition event",
+      "Ultra-low-effort participation trend with a high-reward emotional payoff, anchored in nostalgia"
     ],
     "most_effective_formats": [
       "Single Tweet",
       "Thread",
-      "Single Tweet / Thread",
-      "Single Tweet + Thread",
-      "Single Tweet or short thread"
+      "Quote Tweet",
+      "Long-form essay",
+      "Single Tweet + Thread"
     ],
     "most_effective_tones": [
       "authoritative",
       "provocative",
       "educational",
-      "matter-of-fact / provocative",
-      "vulnerable"
+      "analytical",
+      "matter-of-fact"
     ],
     "most_effective_triggers": [
-      "identity threat",
-      "fomo",
+      "FOMO",
+      "Contrarianism",
       "curiosity gap",
-      "fear",
-      "social proof",
-      "paradigm shift",
-      "disbelief",
-      "epistemic fear + insider access + pattern recognition from shared collective memory"
+      "Curiosity gap",
+      "Identity threat"
     ],
     "cross_niche_insights": [
       "Stacked milestone data (X users + Y volume + Z raised) outperforms single-metric posts across AI and crypto niches",
@@ -20357,8 +20532,13 @@
       "Mundane context + extraordinary AI result = maximum dissonance and share impulse",
       "Protocol governance conflicts framed as existential tribal wars drive partisan replies from both camps",
       "Understatement closes ('just getting started') after data dumps generate more FOMO than hype-filled closes",
-      "Identity-threat hooks referencing specific daily habits (hours/day, times/week) outperform abstract user claims"
+      "Identity-threat hooks referencing specific daily habits (hours/day, times/week) outperform abstract user claims",
+      "AI humanization backfire (agents behaving like humans) generates outsized humor virality across both AI and crypto audiences \u2014 the absurdist uncanny valley is a reliable engine",
+      "The debunk post consistently outperforms the original panic post, and savvy creators can engineer both sides of the cycle",
+      "Vagueness from authority figures in crypto generates more speculative engagement than precise statements \u2014 precision shrinks the audience, ambiguity expands it",
+      "Confession + self-diagnosis framing ('this is not healthy') activates both sympathy AND outrage simultaneously, doubling the engagement pool",
+      "Reframe posts that quote the consensus and label it with a negative cognitive category ('zero sum thinking', 'scarcity mindset') outperform direct contrarian takes by giving readers a framework to adopt, not just a position to hold"
     ],
-    "last_updated": "2026-08-19"
+    "last_updated": "2026-08-20"
   }
 }
