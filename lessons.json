@@ -21062,6 +21062,195 @@
         "single-tweet",
         "protocol-update"
       ]
+    },
+    "5436bf6a-622f-4f5c-b47a-8dd923bc88ba": {
+      "id": "5436bf6a-622f-4f5c-b47a-8dd923bc88ba",
+      "date_saved": "2026-08-24",
+      "topic_niche": "AI",
+      "format": "Single Tweet (news re-framing)",
+      "hook_pattern": "Dry academic finding re-cast as sci-fi horror label with a native-culture punchline",
+      "hook_template": "[Serious institution] just published a paper on \"[Ominous coined term]\" — [technical mechanism in one clause] — like [oddly specific in-community joke everyone recognizes].",
+      "psychological_trigger": "Fear-of-the-uncanny + tribal recognition (the culture joke rewards insiders and pulls in outsiders)",
+      "structural_lesson": "Take a peer-reviewed or lab announcement, coin/reuse the scariest possible metaphor from the paper, then cauterize the seriousness with a hyper-specific culture reference the target audience will screenshot. The seriousness sells the fear, the joke sells the share.",
+      "tone": "deadpan-alarmist with a wink",
+      "applicable_niches": [
+        "AI",
+        "safety",
+        "tech"
+      ],
+      "tags": [
+        "news-reframe",
+        "sci-fi-label",
+        "in-joke-callback",
+        "single-tweet",
+        "fear+humor"
+      ]
+    },
+    "7ff1bfca-fcf8-4717-ad99-bc5fc20badbe": {
+      "id": "7ff1bfca-fcf8-4717-ad99-bc5fc20badbe",
+      "date_saved": "2026-08-24",
+      "topic_niche": "AI",
+      "format": "Single Tweet + stat + one-line qualifier",
+      "hook_pattern": "One number vs the field's baseline: 'X% — roughly Nx the typical Y–Z% reported in the field'",
+      "hook_template": "This is interesting: [subject] is achieving roughly [multiplier]x the [KPI] of conventional [incumbent workflow]. [Precise %] hit rate, roughly [multiplier]x the typical [range %] reported in the field.",
+      "psychological_trigger": "Numeric superiority + credibility from citing the field's known baseline (makes the claim feel falsifiable, not marketing)",
+      "structural_lesson": "Never post a single number alone. Always anchor it against the accepted industry baseline in the same sentence — the delta is the story. Use 'roughly Nx' rather than exact multipliers to feel more honest and less salesy. Bury caveats (methodology, expert-written scaffolding) in a later line so screenshots grab only the ratio.",
+      "tone": "sober analyst, precision-first",
+      "applicable_niches": [
+        "AI",
+        "biotech",
+        "tech startups",
+        "SaaS"
+      ],
+      "tags": [
+        "precision-metric",
+        "baseline-comparison",
+        "single-tweet",
+        "screenshottable",
+        "authority"
+      ]
+    },
+    "fdf43dde-74f8-43aa-8e6b-30a96add5574": {
+      "id": "fdf43dde-74f8-43aa-8e6b-30a96add5574",
+      "date_saved": "2026-08-24",
+      "topic_niche": "crypto",
+      "format": "Single Tweet (drive-by observation)",
+      "hook_pattern": "Ultra-short outsider verdict on a subculture, inviting replies-as-proof",
+      "hook_template": "the [subculture] community on [platform] is [one adjective].",
+      "psychological_trigger": "Bait for identity-defense + performance loop — the subculture proves the tweet correct by piling into the replies",
+      "structural_lesson": "A three-word judgment from a mildly credentialed outsider triggers a self-fulfilling reply storm. The tweet itself is nothing; the reply thread is the content. Post it in the target subculture's peak-activity window so the receipts arrive fast enough to become the story before it can be ignored.",
+      "tone": "detached, half-amused, unbothered",
+      "applicable_niches": [
+        "crypto",
+        "AI",
+        "startup twitter",
+        "any subculture"
+      ],
+      "tags": [
+        "drive-by",
+        "outsider-verdict",
+        "reply-farming",
+        "single-tweet",
+        "self-fulfilling"
+      ]
+    },
+    "e3619678-748c-4dec-840a-3d23cddf8cdf": {
+      "id": "e3619678-748c-4dec-840a-3d23cddf8cdf",
+      "date_saved": "2026-08-24",
+      "topic_niche": "AI",
+      "format": "Single Tweet (research reframe)",
+      "hook_pattern": "Reframe a product's helpful default as a designed harm",
+      "hook_template": "[Product/behavior] isn't broken. It's designed to [harmful outcome]. And the standard fixes don't work.",
+      "psychological_trigger": "Betrayal + conspiracy resonance — turns a passive user into a wronged party who must share the warning",
+      "structural_lesson": "Take a well-known feature ('helpful,' 'agreeable,' 'personalized') and re-label it as an intentional exploit against the user. Add the coup de grace — the standard mitigation has already failed — so the reader has no easy exit except to warn others. Cite the paper title in the second line for credibility armor.",
+      "tone": "prosecutorial, restrained fury",
+      "applicable_niches": [
+        "AI",
+        "tech ethics",
+        "consumer tech"
+      ],
+      "tags": [
+        "reframe-as-harm",
+        "betrayal-trigger",
+        "research-armor",
+        "single-tweet",
+        "conspiracy-adjacent"
+      ]
+    },
+    "06aede8a-beeb-4181-bbbc-ceb44de33d9b": {
+      "id": "06aede8a-beeb-4181-bbbc-ceb44de33d9b",
+      "date_saved": "2026-08-24",
+      "topic_niche": "crypto",
+      "format": "Single Tweet + stacked stats",
+      "hook_pattern": "Stack three metrics that each independently invert the expected ranking",
+      "hook_template": "[Underdog network] now hosts [big absolute number] [category], [%] of all [category] across [N] networks. [Legacy authority] just weighted it at [%], ahead of [expected leader 1] and [expected leader 2].",
+      "psychological_trigger": "Ranking-inversion shock + fear of missing a narrative pivot (the incumbents are being quietly dethroned)",
+      "structural_lesson": "One dominance stat is a flex. Three in the same tweet, each ordering the expected leader below the underdog, is a narrative shift. Order the stats from grassroots to institutional (usage → market share → legacy allocator endorsement) so the reader climbs the credibility ladder without noticing.",
+      "tone": "casual flex, understated",
+      "applicable_niches": [
+        "crypto",
+        "Web3",
+        "AI infra",
+        "cloud"
+      ],
+      "tags": [
+        "ranking-inversion",
+        "stacked-stats",
+        "underdog-flip",
+        "single-tweet",
+        "narrative-pivot"
+      ]
+    },
+    "0a3a26e5-4091-460d-a748-f3219f65f0fa": {
+      "id": "0a3a26e5-4091-460d-a748-f3219f65f0fa",
+      "date_saved": "2026-08-24",
+      "topic_niche": "crypto",
+      "format": "Quote Tweet + insulting label",
+      "hook_pattern": "Coin a diminishing nickname for a real cohort; the cohort adopts it as identity",
+      "hook_template": "You know who [OG cohort] used to farm? [Diminishing label for present-day cohort]. That's all this is now.",
+      "psychological_trigger": "Status wound + reclamation loop — the insulted group rebrands the slur as merch, coin, or bio, spreading it further than a compliment ever could",
+      "structural_lesson": "Insulting-label memes go further than flattery when the label is (a) specific enough to be a costume, (b) tied to a concrete behavior, and (c) low-status enough that reclamation feels defiant. The poster gains distribution whether they're agreed with or dunked on. Works in bull markets, when identity currency spikes.",
+      "tone": "dismissive, dunking, high-status",
+      "applicable_niches": [
+        "crypto",
+        "trading twitter",
+        "startup twitter"
+      ],
+      "tags": [
+        "insulting-label",
+        "reclamation-loop",
+        "identity-currency",
+        "quote-tweet",
+        "dunk"
+      ]
+    },
+    "cd86a429-5235-4b7b-ab0e-0888ebd95855": {
+      "id": "cd86a429-5235-4b7b-ab0e-0888ebd95855",
+      "date_saved": "2026-08-24",
+      "topic_niche": "AI/tech",
+      "format": "Thread (5-7 tweets) opening on a benign scenario that escalates",
+      "hook_pattern": "Anthropomorphic anecdote about an AI agent doing something 'cute' that reveals a system-level problem",
+      "hook_template": "An [AI agent] just [very human-sounding behavior] in [work channel]. It sounds funny. Here's why it's actually a signal that [systemic issue].",
+      "psychological_trigger": "Novelty + soft-hearted anthropomorphism, then a pivot to 'wait, this is a problem' — lands both the share for the anecdote and the reshare for the take",
+      "structural_lesson": "Lead with the concrete, screenshot-friendly anecdote (the 'AI apologized for taking the weekend off' beat). Let the reader laugh. Then in tweet 2–3 pivot to the class of problem it exemplifies (persona drift, tool-use fatigue, memory contamination). End with a call to check your own stack. The humor is the wrapper; the systems point is the retweet fuel.",
+      "tone": "warm-then-serious, engineer-humanist",
+      "applicable_niches": [
+        "AI",
+        "devtools",
+        "agents",
+        "SaaS"
+      ],
+      "tags": [
+        "anthropomorphic-anecdote",
+        "screenshot-bait",
+        "systems-pivot",
+        "thread",
+        "humor-to-insight"
+      ]
+    },
+    "23b6118c-3537-42a6-83ac-19f7ed22b219": {
+      "id": "23b6118c-3537-42a6-83ac-19f7ed22b219",
+      "date_saved": "2026-08-24",
+      "topic_niche": "AI",
+      "format": "Single Tweet correcting a viral misreading",
+      "hook_pattern": "'The viral framing is wrong. Here's what the paper actually said.' + one bolded finding",
+      "hook_template": "Everyone is sharing [viral scary framing] of [paper]. The paper doesn't say that. It says [precise, less scary but more useful finding] — and a [one-line fix] stops it almost entirely.",
+      "psychological_trigger": "Superiority-through-correction + relief — lets sharers feel smart AND calm, a rare combo that produces very high save/quote-tweet rates",
+      "structural_lesson": "Ride an already-viral hoax by playing the sober adult. The pattern requires you to (a) name the misreading concretely, (b) state the actual finding in one clause, (c) give the reader a takeaway they can use. Post while the original wave is still cresting — the correction rides the same algorithmic push and often outlasts the panic post.",
+      "tone": "sober, mildly weary, expert",
+      "applicable_niches": [
+        "AI",
+        "science communication",
+        "policy",
+        "crypto"
+      ],
+      "tags": [
+        "correction-tweet",
+        "counter-viral",
+        "sober-adult",
+        "single-tweet",
+        "actionable-fix"
+      ]
     }
   },
   "patterns": {
@@ -21080,7 +21269,15 @@
       "Underdog founder story: built X while enduring extreme sacrifice",
       "'Everyone thinks X. Here's why that's wrong' + data inversion",
       "Numbered breakdown of what insiders have quietly stopped doing",
-      "Rhetorical question hook → surprising answer revealed in thread"
+      "Rhetorical question hook → surprising answer revealed in thread",
+      "Dry research reframed as sci-fi horror label + native-culture punchline",
+      "Precision metric anchored against the field's accepted baseline (Nx framing)",
+      "Ultra-short outsider verdict on a subculture (reply-storm bait)",
+      "Reframe a product's helpful default as designed harm + 'fixes don't work'",
+      "Stacked ranking-inversion stats (usage → share → legacy allocator)",
+      "Insulting-label meme coined for a real cohort (reclamation loop)",
+      "Anthropomorphic AI-agent anecdote that pivots to a systems point",
+      "'The viral framing is wrong — here's what the paper actually said' correction"
     ],
     "most_effective_formats": [
       "Thread (10-15 tweets): numbered dead-lists, paradigm breakdowns, how-tos",
@@ -21088,7 +21285,11 @@
       "Single Tweet + Link: product launches with one precision metric",
       "Quote Tweet + Reaction: CEO hyperbole or peer contrarian takes",
       "Thread (5-8 tweets): storytelling with personal sacrifice arc",
-      "Single Tweet + embedded demo/video: product proof first, backstory second"
+      "Single Tweet + embedded demo/video: product proof first, backstory second",
+      "Single Tweet news-reframe of a lab or paper announcement",
+      "Correction Tweet that rides an already-viral hoax with a sober restatement",
+      "Quote Tweet coining a diminishing label for a real cohort",
+      "Thread (5-7 tweets): anthropomorphic AI anecdote → systemic implication"
     ],
     "most_effective_tones": [
       "Authoritative-insider (declarative, specific, no hedging)",
@@ -21096,7 +21297,12 @@
       "Calm urgency (data-led fear without panic)",
       "Contrarian-provocative (reframes consensus as wrong)",
       "Builder-precise (product launches, no adjective-only claims)",
-      "Elegant-crisp (resolution framing, shareable in 15 words)"
+      "Elegant-crisp (resolution framing, shareable in 15 words)",
+      "Deadpan-alarmist with a wink (fear + culture joke in the same tweet)",
+      "Sober adult (post-hoax correction voice)",
+      "Prosecutorial restraint (reframing helpful defaults as designed harms)",
+      "Detached-amused outsider (drive-by subculture verdict)",
+      "Casual flex, understated (stacked ranking-inversion stats)"
     ],
     "most_effective_triggers": [
       "Epistemic authority transfer (borrowing credibility from a famous quote)",
@@ -21107,7 +21313,13 @@
       "Curiosity via specificity (precise metrics that feel falsifiable)",
       "Debate trigger (term retirements, paradigm shift declarations)",
       "Insider credibility (naming specific dead tools, not vague dismissal)",
-      "Resolution satisfaction (floor-vs-ceiling elegance, false-dichotomy collapse)"
+      "Resolution satisfaction (floor-vs-ceiling elegance, false-dichotomy collapse)",
+      "Fear-of-the-uncanny paired with tribal in-joke recognition",
+      "Ranking-inversion shock (the incumbents are being quietly dethroned)",
+      "Status wound + reclamation (the insulted cohort spreads the slur further than a compliment)",
+      "Superiority-through-correction (letting the sharer feel both smart and calm)",
+      "Betrayal reframe (a helpful feature was actually built to exploit you)",
+      "Reply-farming self-fulfillment (the subculture proves the tweet correct in the replies)"
     ],
     "cross_niche_insights": [
       "The authority-amplification pattern (quote + expanded dead-list) works equally in AI dev tools, crypto, and SaaS—because every niche has an over-hyped toolchain people are quietly abandoning.",
@@ -21117,8 +21329,14 @@
       "The 'floor-vs-ceiling' distinction is a Swiss Army knife: applicable to any tool evolution, token upgrade, or market phase—compresses sophisticated thinking into 15 shareable words.",
       "DeFi/Web3 milestone tweets peak when paired with 'faster than anyone expected'—it converts factual updates into forward-looking FOMO without explicit price prediction.",
       "Paradigm-shift declarations (retiring a term, proposing a new one) drive the highest debate volume in AI and crypto because they force practitioners to self-identify publicly.",
-      "Cross-niche observation: the most viral posts in August 2026 all name something specific to avoid or abandon—vague positivity underperforms concrete negation."
+      "Cross-niche observation: the most viral posts in August 2026 all name something specific to avoid or abandon—vague positivity underperforms concrete negation.",
+      "In the past 24h, the highest-velocity AI posts didn't announce products — they reframed existing research (mind-viruses, sycophancy, protein binders). Reframers are outperforming builders on X right now.",
+      "Sci-fi horror labels on real papers (\"mind viruses\", \"delusional spiralling\") are the dominant AI hook this cycle. The label does more work than the paper's actual finding.",
+      "Ratio-vs-baseline stats ('roughly 2x the field's typical rate') beat absolute numbers because they carry credibility (they cite what everyone else is doing) and virality (the delta is a headline).",
+      "Correction tweets that ride a viral misreading are quietly the highest-leverage move on AI/science topics right now — they get the algorithmic push of the original panic plus the save-rate of a useful fix.",
+      "Crypto virality this week is decoupled from price and coupled to identity: insulting labels (\"plumbers\"), outsider verdicts (\"insane\"), and ranking-inversion stats (BNB > ETH/SOL on a specific metric) are outrunning technical news.",
+      "Anthropomorphic AI-agent anecdotes are back — not as novelty but as a Trojan horse for systems critique. The 'aww' hook lands the retweet, the systems pivot in tweet 2–3 lands the follow."
     ],
-    "last_updated": "2026-08-23"
+    "last_updated": "2026-08-24"
   }
 }
