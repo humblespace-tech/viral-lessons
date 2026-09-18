@@ -25657,6 +25657,184 @@
         "single-tweet",
         "cognitive-dissonance"
       ]
+    },
+    "180a12bb-4a35-4357-acfb-c7a77f0a40a3": {
+      "id": "180a12bb-4a35-4357-acfb-c7a77f0a40a3",
+      "date_saved": "2026-09-18",
+      "topic_niche": "AI",
+      "format": "Single Tweet",
+      "hook_pattern": "Unqualified declarative claim on a contested topic, anchored by hardware/compute scale",
+      "hook_template": "[Contested milestone] has arrived. [X] trained on [staggering compute spec]. [Short superlative sentence]. Congratulations [team].",
+      "psychological_trigger": "Identity threat + FOMO: forces reader to decide if they believe the claim and signals they might be behind if they don't",
+      "structural_lesson": "Led with the boldest possible interpretation of a real event, backed it with a specific and staggering scale metric, closed with social celebration to deflect defensiveness \u2014 the controversy was built in, not an accident",
+      "tone": "authoritative",
+      "applicable_niches": [
+        "AI",
+        "tech"
+      ],
+      "tags": [
+        "declarative-claim",
+        "AGI",
+        "scale-anchor",
+        "controversial",
+        "single-tweet"
+      ]
+    },
+    "f0271726-b4f3-428e-939b-1401ae011dc2": {
+      "id": "f0271726-b4f3-428e-939b-1401ae011dc2",
+      "date_saved": "2026-09-18",
+      "topic_niche": "AI",
+      "format": "Single Tweet",
+      "hook_pattern": "Meta-historical framing: telling the audience they are witnessing something they will cite in the future",
+      "hook_template": "This is one of those [posts/moments/tweets] you will screenshot and look back at in [N] years. [Person] saying [claim] hits very differently when you look at what is actually underneath it.",
+      "psychological_trigger": "FOMO + social proof: flatters reader's sense of being early to a historic moment, creates urgency to engage before the moment passes",
+      "structural_lesson": "Opens with future-looking meta-frame to prime the reader, repeats the original claim in quotation for contrast, then unpacks the hidden depth with specific details the casual observer missed \u2014 earns credibility by doing the analysis the original post didn't",
+      "tone": "prophetic",
+      "applicable_niches": [
+        "AI",
+        "crypto",
+        "tech"
+      ],
+      "tags": [
+        "screenshot-this",
+        "meta-frame",
+        "historical",
+        "commentary",
+        "single-tweet"
+      ]
+    },
+    "2f24b469-c122-4739-be3f-d2797a94c94e": {
+      "id": "2f24b469-c122-4739-be3f-d2797a94c94e",
+      "date_saved": "2026-09-18",
+      "topic_niche": "crypto",
+      "format": "Single Tweet",
+      "hook_pattern": "Meme-template adoption hook: announces a migration/allegiance shift in an exaggerated copyable format that invites imitation",
+      "hook_template": "After [dramatic pause / time of deliberation], [our team / project] has decided to [join / move to / leave] [X]. [Optional: humorous reason].",
+      "psychological_trigger": "Humor + social proof: the joke works because the template is recognizable, but it also signals real positioning, creating a cascade where others copy it and the original meme-founder wins attribution",
+      "structural_lesson": "Used a 'leaving [incumbent]' joke frame that appeared authentic enough to go viral at 3M+ views; the key was it was simultaneously plausible AND clearly tongue-in-cheek, which gave brands permission to copy it \u2014 virality was engineered through template transferability, not just clever writing",
+      "tone": "humorous-provocative",
+      "applicable_niches": [
+        "crypto",
+        "Web3"
+      ],
+      "tags": [
+        "meme-template",
+        "migration-hook",
+        "copyable-format",
+        "brand-humor",
+        "single-tweet"
+      ]
+    },
+    "8df07ef6-de4b-47fe-a3bc-dbcc8e482f78": {
+      "id": "8df07ef6-de4b-47fe-a3bc-dbcc8e482f78",
+      "date_saved": "2026-09-18",
+      "topic_niche": "crypto",
+      "format": "Single Tweet",
+      "hook_pattern": "Attention arbitrage observation: calling out a massive milestone that the crowd hasn't noticed yet",
+      "hook_template": "[Protocol/company] just [achieved a staggering milestone] and nobody on [platform] noticed.",
+      "psychological_trigger": "Curiosity gap + contrarianism: makes the reader feel they have been missing something important, positions the poster as the only one paying attention while everyone else is distracted",
+      "structural_lesson": "One sentence with two parts: (1) the fact, (2) the crowd's blindness to it \u2014 the second part is what makes it viral because it triggers a reflexive 'wait, really?' response; the structural lesson is that making the reader feel uninformed is more powerful than informing them",
+      "tone": "analytical-contrarian",
+      "applicable_niches": [
+        "crypto",
+        "Web3",
+        "AI"
+      ],
+      "tags": [
+        "nobody-noticed",
+        "attention-arbitrage",
+        "one-liner",
+        "contrarian",
+        "single-tweet"
+      ]
+    },
+    "4b1a326f-e5fa-43e0-af2a-ff25bfbc772d": {
+      "id": "4b1a326f-e5fa-43e0-af2a-ff25bfbc772d",
+      "date_saved": "2026-09-18",
+      "topic_niche": "AI",
+      "format": "Single Tweet",
+      "hook_pattern": "Category rename with explosive stat: reframes a technology category using a new label that implies transformation, anchored by a forward-looking statistic",
+      "hook_template": "[Year]: [Old category label] [past tense verb]. [Future-state stat]. That's transformational. [New category label] is changing everything. [Old thing]\u2014[new thing that does more].",
+      "psychological_trigger": "FOMO + identity signal: the category rename signals that the reader is behind if they still use the old language; the stat creates urgency about how fast this shift is happening",
+      "structural_lesson": "Opens with a year-as-label to anchor the post as a trend summary, uses a stat to establish scale, then delivers the reframe ('no more chatbots \u2014 digital workers') \u2014 the rename is the shareable unit because it gives readers new vocabulary to use in their own conversations",
+      "tone": "authoritative",
+      "applicable_niches": [
+        "AI",
+        "tech"
+      ],
+      "tags": [
+        "category-rename",
+        "stat-hook",
+        "future-state",
+        "single-tweet",
+        "AI-agents"
+      ]
+    },
+    "160e8cbe-577d-4855-9c61-7b77a5795675": {
+      "id": "160e8cbe-577d-4855-9c61-7b77a5795675",
+      "date_saved": "2026-09-18",
+      "topic_niche": "AI",
+      "format": "Thread",
+      "hook_pattern": "Data reversal narrative: consensus was dramatically wrong and the numbers prove it",
+      "hook_template": "[X] was [small %] of [metric] [time period] ago. Today it is [large %]. Everyone predicted [the opposite / the status quo]. Here's what actually happened.",
+      "psychological_trigger": "Contrarian reframe + identity challenge: makes consensus holders feel they had the wrong map; makes early adopters feel vindicated; creates urgency because the shift already happened",
+      "structural_lesson": "Leads with the reversal data (before/after) to establish stakes, then unpacks what caused it in thread form \u2014 the hook works because the delta (4.5% to 63%) is so extreme that it sounds made up, which triggers verification clicks and shares",
+      "tone": "analytical-contrarian",
+      "applicable_niches": [
+        "AI",
+        "tech"
+      ],
+      "tags": [
+        "data-reversal",
+        "consensus-collapse",
+        "before-after",
+        "thread",
+        "open-source"
+      ]
+    },
+    "3ff1dcdf-b955-4ea5-8d69-d48632f8d996": {
+      "id": "3ff1dcdf-b955-4ea5-8d69-d48632f8d996",
+      "date_saved": "2026-09-18",
+      "topic_niche": "Web3",
+      "format": "Thread",
+      "hook_pattern": "In-group label rejection: instructing the audience to stop using a term they've built identity around, then offering a better frame",
+      "hook_template": "Stop [adopting/buying/using] '[popular label]' as a frame. Here's what actually matters: [reframe]. [List of 3-5 concrete alternative principles].",
+      "psychological_trigger": "Identity threat + authority: telling people in the community to reject their own tribe's label is provocative enough to generate debate, but the alternative frame provides enough value that converts turn it into a bookmark",
+      "structural_lesson": "Opens with an instruction that feels like an attack on the reader's existing identity, uses that friction to earn engagement, then delivers a set of replacement principles that are more concrete and actionable \u2014 the lesson is that instructing people to change their language is more engaging than telling them new information",
+      "tone": "provocative",
+      "applicable_niches": [
+        "Web3",
+        "crypto"
+      ],
+      "tags": [
+        "label-rejection",
+        "in-group-contrarian",
+        "thread",
+        "founder-lessons",
+        "reframe"
+      ]
+    },
+    "d9d86a54-b1e2-458a-ac4c-b7e0d3a15807": {
+      "id": "d9d86a54-b1e2-458a-ac4c-b7e0d3a15807",
+      "date_saved": "2026-09-18",
+      "topic_niche": "crypto",
+      "format": "Single Tweet",
+      "hook_pattern": "Ecosystem indictment via repetition signal: a damning statistic made more alarming by the phrase 'same attack keeps working'",
+      "hook_template": "[Ecosystem] has lost $[amount] to [threat] in [year] and the same [attack/mistake/pattern] keeps working.",
+      "psychological_trigger": "Alarm + shame: triggers threat response in holders/builders, implies systemic failure rather than one-off incidents, and the 'keeps working' phrase places moral blame on the ecosystem for not learning",
+      "structural_lesson": "Single sentence with two load-bearing parts: (1) aggregate damage figure (2) the repetition signal \u2014 'keeps working' is the key phrase because it implies the problem is solvable but nobody cares enough to fix it, which triggers angry engagement from the community",
+      "tone": "alarming-urgent",
+      "applicable_niches": [
+        "crypto",
+        "Web3"
+      ],
+      "tags": [
+        "ecosystem-indictment",
+        "repetition-signal",
+        "security",
+        "single-tweet",
+        "alarm"
+      ]
     }
   },
   "patterns": {
@@ -25670,13 +25848,20 @@
       "Identity-challenging question that reveals how the reader thinks about themselves",
       "Cryptic teaser designed to generate retroactive viral meaning",
       "Absurdist-but-real tech development framed with dry cultural commentary",
-      "Personal turning point story with universal lesson"
+      "Personal turning point story with universal lesson",
+      "Unqualified declarative claim on a contested topic anchored by hardware/compute scale",
+      "Attention arbitrage: calling out a massive milestone the crowd hasn't noticed",
+      "Meme-template adoption hook engineered for imitation and cascade virality",
+      "Category rename with explosive stat: new vocabulary that makes old language obsolete",
+      "Data reversal narrative: consensus was dramatically wrong and the numbers prove it",
+      "In-group label rejection: instructing the audience to abandon their own tribe's framing",
+      "Ecosystem indictment via repetition signal ('same attack keeps working')"
     ],
     "most_effective_formats": [
-      "Single Tweet (383 lessons)",
-      "Thread (113 lessons)",
-      "Quote Tweet (5 lessons)",
-      "Poll (2 lessons)",
+      "Single Tweet (391 lessons) \u2014 dominant format; works for declarative claims, contrarian takes, attention arbitrage",
+      "Thread (121 lessons) \u2014 best for data reversals, founder lessons, category reframes requiring unpacking",
+      "Quote Tweet (5 lessons) \u2014 meta-commentary on others' viral posts amplifies original and adds new layer",
+      "Poll (2 lessons) \u2014 generates engagement + a result that becomes a follow-up viral post",
       "Tweet + Image/Video (0 lessons)"
     ],
     "most_effective_tones": [
@@ -25687,7 +25872,8 @@
       "humorous-provocative",
       "educational",
       "alarming-urgent",
-      "prophetic"
+      "prophetic",
+      "dry-declarative (matter-of-fact framing of extraordinary claims)"
     ],
     "most_effective_triggers": [
       "FOMO (fear of missing a landmark moment)",
@@ -25697,7 +25883,11 @@
       "Existential fear (stakes are civilization-level, not personal)",
       "Contrarian reframe (familiar data, new interpretation)",
       "Authority + insider access (you would only know this if you were there)",
-      "Humor + cultural commentary (absurdist framing of real events)"
+      "Humor + cultural commentary (absurdist framing of real events)",
+      "Attention arbitrage (crowd is blind to something massive \u2014 poster is the only one watching)",
+      "Category rename (new vocabulary makes the reader feel their mental model is outdated)",
+      "Ecosystem shame (repetition signal implies collective failure to learn)",
+      "Template cascade (meme format engineered for brand imitation and attribution return)"
     ],
     "cross_niche_insights": [
       "AI and crypto content performs best when it combines technical specificity with emotional stakes \u2014 raw numbers alone do not spread, but numbers attached to a bold interpretation always do.",
@@ -25707,8 +25897,12 @@
       "Cryptic or mysterious posts from authoritative accounts generate disproportionate engagement when a subsequent event makes them appear prophetic \u2014 ambiguity is a feature, not a bug.",
       "In AI/crypto, the highest-performing contrarian posts do not just disagree \u2014 they reframe consensus as naivety, making the reader feel they were being misled before reading the post.",
       "Competitive stacking (listing 3-5 major companies doing the same thing) signals momentum and forces readers to decide: am I early or late?",
-      "Short timelines ('4 years', 'last 30 days') are the most reliable compression device \u2014 they make acceleration legible and trigger FOMO simultaneously."
+      "Meme-template engineering is now a deliberate virality strategy in crypto: posts designed to be copied by others (with credit implied) create cascade virality and outperform posts designed only to be shared.",
+      "Category rename is among the most powerful viral mechanics in AI/tech: giving a new name to something everyone already knows resets the conversation and gives readers new vocabulary, which drives organic spread as they use the term in their own posts.",
+      "The 'nobody noticed' construction creates a dual trigger: makes the reader feel uninformed (threat) while making the poster appear uniquely observant (authority) \u2014 this asymmetry drives shares as readers want to fix their informedness.",
+      "In-group label rejection posts (telling the community to abandon their own terminology) consistently outperform agreement posts \u2014 the friction of being told your vocabulary is wrong generates more engagement than being told something new.",
+      "Repetition signals ('same thing keeps happening', 'still hasn't changed') are more alarming than single incidents because they imply systemic failure and moral culpability, not bad luck."
     ],
-    "last_updated": "2026-09-17"
+    "last_updated": "2026-09-18"
   }
 }
