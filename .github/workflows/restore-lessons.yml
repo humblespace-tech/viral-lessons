@@ -1,11 +1,17 @@
 name: Restore Full Lessons Knowledge Base
 
 on:
+  push:
+    branches: [master]
+    paths-ignore:
+      - '.github/workflows/restore-lessons.yml'
   workflow_dispatch:
 
 jobs:
   restore:
     runs-on: ubuntu-latest
+    # Skip if this is the workflow bot's own commit (prevents infinite loop)
+    if: "!contains(github.event.head_commit.message, 'Fix lessons.json: restore full 1239-lesson knowledge base')"
     permissions:
       contents: write
     steps:
@@ -15,10 +21,22 @@ jobs:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Check if restore is needed
+        id: check
+        run: |
+          COUNT=$(python3 -c "import json; d=json.load(open('lessons.json')); print(len(d['lessons']))")
+          echo "lesson_count=$COUNT" >> $GITHUB_OUTPUT
+          echo "Current lesson count: $COUNT"
+          if [ "$COUNT" = "1239" ]; then
+            echo "Already at 1239 lessons, skipping restore"
+          fi
+
       - name: Restore lessons.json from git history + missing lessons
+        if: steps.check.outputs.lesson_count != '1239'
         run: python3 fix_lessons.py
 
       - name: Commit restored lessons.json and remove helper files
+        if: steps.check.outputs.lesson_count != '1239'
         run: |
           git config user.email "noreply@anthropic.com"
           git config user.name "Claude Sonnet 4.6"
