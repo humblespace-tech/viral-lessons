@@ -1,0 +1,32 @@
+name: Restore Full Lessons Knowledge Base
+
+on:
+  workflow_dispatch:
+
+jobs:
+  restore:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout with full history
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Restore lessons.json from git history + missing lessons
+        run: python3 fix_lessons.py
+
+      - name: Commit restored lessons.json and remove helper files
+        run: |
+          git config user.email "noreply@anthropic.com"
+          git config user.name "Claude Sonnet 4.6"
+          git add lessons.json
+          git rm fix_lessons.py missing_lessons.json patterns.json
+          git status
+          git commit -m "Fix lessons.json: restore full 1239-lesson knowledge base
+
+Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>
+Claude-Session: https://claude.ai/code/session_01TSoSgZMerBe7TkoKfSyzQA"
+          git push

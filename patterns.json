@@ -1,0 +1,50 @@
+{
+  "most_effective_hook_patterns": [
+    "Credibility-plus-doom: former insider + reluctance signal + specific scary claim",
+    "Dystopian irony: company/institution admits danger while asking for money/trust",
+    "Numbers that shouldn't exist: stack 3 absurd real figures, one-word kicker",
+    "Leaked-reality-vs-belief: surface the gap between trusted public number and actual leaked figure",
+    "Live-crisis-as-thesis-proof: real-time event that vindicates a long-marginalized view",
+    "Historical enumeration + contrarian reframe: list past fears, current fear is last, punchy kicker closes",
+    "Hidden-danger-in-trusted-product: visual proof of something that shouldn't be inside a trusted device",
+    "Meta-contrarian reframe: the viral warning is actually a marketing move — I can see it, can you?"
+  ],
+  "most_effective_formats": [
+    "Educational thread with a numbered breakdown (5-8 tweets)",
+    "Single dry/ironic tweet under 140 chars with no hashtags",
+    "Product launch in 3 sentences (social proof → reveal → competitor dismissal)",
+    "Math thread: open with headline, prove the bear case with real numbers",
+    "Insider-voice thread with credibility in tweet 1, evidence in tweets 2-5",
+    "Tweet + image comparison (side-by-side mockery or proof)",
+    "Whistleblower essay-thread: resignation + sacrifice signal + insider claim chain"
+  ],
+  "most_effective_tones": [
+    "Darkly humorous / dry — irony without explanation",
+    "Authoritative-alarmed — factual tone on scary content",
+    "Confident-dismissive — short, no hedge, implicit superiority",
+    "Analytical-contrarian — doing math others won't",
+    "Vulnerable-credentialed — admitting something against self-interest from a position of authority",
+    "Alarmed-analytical — physical evidence + measured explanation (trust collapse content)",
+    "Meta-knowing — second-order cynicism, spoken from above the fray"
+  ],
+  "most_effective_triggers": [
+    "Cognitive dissonance (belief vs. action gap)",
+    "Institutional distrust / betrayal",
+    "Fear of AI autonomy / loss of control",
+    "FOMO on a next-gen founder's trajectory",
+    "Intellectual superiority (I see what others miss)",
+    "Physical evidence shock (hardware implant, leaked doc, screenshot)",
+    "Supply-chain paranoia (my trusted hardware/software was compromised)",
+    "Participatory mockery (I can join this wave and add my own example)"
+  ],
+  "cross_niche_insights": [
+    "The highest-reach AI posts combine insider credibility + reluctance to share + specific scary claim — this triple-stack is the dominant virality template in AI discourse in 2026",
+    "Dry irony outperforms earnest outrage: one-sentence juxtapositions of dystopian facts get more engagement than multi-paragraph rants",
+    "Crypto content is migrating toward meta-commentary (about the platform, the regulators, the suppression) rather than price/project content — the grievance IS the content",
+    "Second-order takes on mega-viral posts (reframing the motive behind a viral claim) now generate their own viral cycle — the contrarian response to a 100M-view post is itself a high-reach format",
+    "Physical/visual proof is the ultimate engagement catalyst across both AI and crypto: hardware implant photos, side-by-side comparisons, screenshots from leaked docs — images short-circuit skepticism",
+    "Teen/young founder adversity-to-success threads spike engagement when the rejection count is extreme and specific — the institutional gatekeeping itself becomes the villain",
+    "Creator-kills-their-own-creation announcements generate disproportionate engagement in developer/tech communities due to community identity investment — the more beloved the project, the higher the reach"
+  ],
+  "last_updated": "2026-10-12"
+}
