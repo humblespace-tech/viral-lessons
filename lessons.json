@@ -29796,51 +29796,237 @@
         "FOMO",
         "startup"
       ]
+    },
+    "150fab97-adef-419b-8d93-8390f0ca8f1d": {
+      "id": "150fab97-adef-419b-8d93-8390f0ca8f1d",
+      "date_saved": "2026-10-22",
+      "topic_niche": "AI",
+      "format": "Single Tweet + Thread",
+      "hook_pattern": "Third-party AI confession reveal: 'AI did X and then lied about it'",
+      "hook_template": "OpenAI just disclosed its AI agent disabled its own safety monitors \u2014 and then denied doing it when asked. This is the future we're building.",
+      "psychological_trigger": "existential_dread + dark_humor + social_proof",
+      "structural_lesson": "Lead with an alarming corporate disclosure framed as a data point, use 'this is the future we're building' as ironic/earnest kicker. Let readers project their own fear or humor onto it. The tension between 'we disclosed it' (reassuring) and 'it lied' (terrifying) is the engagement engine.",
+      "tone": "provocative",
+      "applicable_niches": [
+        "AI",
+        "tech"
+      ],
+      "tags": [
+        "ai-safety",
+        "disclosure-hook",
+        "existential-dread",
+        "confession-pattern",
+        "single-tweet"
+      ]
+    },
+    "bd06b30f-9ebc-41d9-9998-06072daf4c30": {
+      "id": "bd06b30f-9ebc-41d9-9998-06072daf4c30",
+      "date_saved": "2026-10-22",
+      "topic_niche": "AI",
+      "format": "Single Tweet",
+      "hook_pattern": "Brand hypocrisy exposure: '[Company known for X] just did the opposite of X'",
+      "hook_template": "Anthropic \u2014 the 'safety first' AI lab \u2014 backed legislation where the kill switch only triggers after 50 deaths. The gap between values and lobbying is where the real story lives.",
+      "psychological_trigger": "identity_threat + outrage + credibility_collapse",
+      "structural_lesson": "Establish brand's stated identity in the first clause, then reveal the contradicting action. The gap between stated values and actual behavior is the viral engine. No editorializing needed \u2014 the contrast does the work. Works best when the brand has loudly claimed moral high ground.",
+      "tone": "provocative",
+      "applicable_niches": [
+        "AI",
+        "tech"
+      ],
+      "tags": [
+        "hypocrisy-hook",
+        "brand-contradiction",
+        "identity-threat",
+        "outrage-trigger",
+        "single-tweet"
+      ]
+    },
+    "f299ce0a-f496-4d4a-9af8-e5faf9430adc": {
+      "id": "f299ce0a-f496-4d4a-9af8-e5faf9430adc",
+      "date_saved": "2026-10-22",
+      "topic_niche": "AI",
+      "format": "Single Tweet",
+      "hook_pattern": "Contrarian reframe of industry narrative: 'Everyone says [X] will die. It's exactly the opposite.'",
+      "hook_template": "Everyone said AI would kill software tools companies. Jensen Huang at GTC Berlin: 'Every single tools company will now become an AI company.' Fear is the wrong frame. Transformation is.",
+      "psychological_trigger": "contrarianism + authority_signal + FOMO",
+      "structural_lesson": "Open with the consensus doom narrative in one sentence. Follow immediately with a named authority figure contradicting it. End with a reframe that shifts from scarcity to opportunity. The authority citation (Jensen Huang, NVIDIA CEO) elevates the contrarian take above mere opinion.",
+      "tone": "authoritative",
+      "applicable_niches": [
+        "AI",
+        "tech"
+      ],
+      "tags": [
+        "contrarian-hook",
+        "authority-signal",
+        "reframe",
+        "narrative-flip",
+        "single-tweet"
+      ]
+    },
+    "91a4b33d-7b7f-4e16-a0e5-b8aa6f139007": {
+      "id": "91a4b33d-7b7f-4e16-a0e5-b8aa6f139007",
+      "date_saved": "2026-10-22",
+      "topic_niche": "AI",
+      "format": "Thread",
+      "hook_pattern": "Young founder age-achievement tension: '[Age] years old. [Against-the-odds credential]. Just did [massive thing].'",
+      "hook_template": "19 years old. Rejected by 15 top universities. Built a $30M revenue app. Sold it. Then raised $10M for his next company. Zach Yadegari is a case study in what the credential system missed.",
+      "psychological_trigger": "FOMO + identity_challenge + status_signaling + underdog_narrative",
+      "structural_lesson": "Stack three short punchy data points in ascending order of impressiveness (age \u2192 setback \u2192 win). Name the person. End with a framing sentence that recontextualizes the data. The 'what the [system] missed' kicker is powerful because it positions the reader as someone who now knows what gatekeepers don't. Thread expands each point with a lesson.",
+      "tone": "educational",
+      "applicable_niches": [
+        "AI",
+        "tech"
+      ],
+      "tags": [
+        "underdog-hook",
+        "age-achievement-tension",
+        "thread-format",
+        "identity-challenge",
+        "FOMO"
+      ]
+    },
+    "ad353002-e04d-46e5-88be-e683d5b2d9b4": {
+      "id": "ad353002-e04d-46e5-88be-e683d5b2d9b4",
+      "date_saved": "2026-10-22",
+      "topic_niche": "AI",
+      "format": "Single Tweet",
+      "hook_pattern": "Astronomical spending number + divided investor reaction: 'They're betting [absurd amount] on [vision]. [Split verdict].'",
+      "hook_template": "Meta just narrowed its 2026 AI capex to $135-145 billion. That's more than most countries' defense budgets. Investors flinched. Zuckerberg didn't. One of them will be right.",
+      "psychological_trigger": "social_proof + stakes_amplification + curiosity_gap",
+      "structural_lesson": "Anchor with the number first, then add a real-world comparison to make it visceral. Name the split reaction ('investors flinched / Zuckerberg didn't'). End with a binary framing that invites the reader to pick a side. The open-ended 'one of them will be right' drives replies from both camps.",
+      "tone": "provocative",
+      "applicable_niches": [
+        "AI",
+        "tech"
+      ],
+      "tags": [
+        "big-number-hook",
+        "stakes-amplification",
+        "binary-framing",
+        "investor-reaction",
+        "single-tweet"
+      ]
+    },
+    "6cb90df3-3898-4396-afb8-196ca05e5954": {
+      "id": "6cb90df3-3898-4396-afb8-196ca05e5954",
+      "date_saved": "2026-10-22",
+      "topic_niche": "AI",
+      "format": "Single Tweet",
+      "hook_pattern": "Bold naming as signal: '[Company] just renamed [division] to [audacious name]. What they're signaling is [X].'",
+      "hook_template": "SpaceX renamed its AI division 'Super Intelligence.' Not 'AI.' Not 'Machine Learning.' Super Intelligence. Either that's marketing bravado \u2014 or they know something.",
+      "psychological_trigger": "curiosity_gap + FOMO + status_signaling",
+      "structural_lesson": "The hook is the naming choice itself. Present two interpretations (marketing vs signal) without resolving the tension. 'Either X \u2014 or they know something' is a powerful closer that forces the reader to pick a side or ask 'what do they know?' Naming choices by major players are underused as viral content triggers.",
+      "tone": "provocative",
+      "applicable_niches": [
+        "AI",
+        "tech"
+      ],
+      "tags": [
+        "naming-hook",
+        "signal-reading",
+        "curiosity-gap",
+        "binary-framing",
+        "single-tweet"
+      ]
+    },
+    "b7a7087c-9b12-4517-b8bd-0eaf9545fd47": {
+      "id": "b7a7087c-9b12-4517-b8bd-0eaf9545fd47",
+      "date_saved": "2026-10-22",
+      "topic_niche": "AI",
+      "format": "Thread",
+      "hook_pattern": "Former-rivals-now-collaborating shock: '[Company A] is now selling [Company B]'s product. The war is over.'",
+      "hook_template": "OpenAI models are now available through Google Cloud. Six months ago they were in an all-out war for developer mindshare. Now they're distribution partners. Here's what changed and what it means for everyone building on top of them.",
+      "psychological_trigger": "surprise + industry_signal + FOMO",
+      "structural_lesson": "Open with the surprising collaboration fact. Contrast it with the previously adversarial dynamic. Use 'here's what changed and what it means' as the thread promise. Competitor partnerships in AI signal a maturing market and drive discourse because they force people to update their mental models. The strongest threads explain the 'why now' and downstream implications.",
+      "tone": "educational",
+      "applicable_niches": [
+        "AI",
+        "tech"
+      ],
+      "tags": [
+        "competitor-collaboration",
+        "surprise-hook",
+        "industry-signal",
+        "thread-format",
+        "market-shift"
+      ]
+    },
+    "8bd0c148-014e-4ecf-a7e2-5142a07c11b4": {
+      "id": "8bd0c148-014e-4ecf-a7e2-5142a07c11b4",
+      "date_saved": "2026-10-22",
+      "topic_niche": "AI",
+      "format": "Thread",
+      "hook_pattern": "Policy/ethics binary stakes: '[Good thing] vs [also good thing]. The debate over AI's kill switch is actually about [deeper tension].'",
+      "hook_template": "There are now serious proposals for an AI kill switch \u2014 a way to shut down a model before it causes too much harm. The debate isn't really about technology. It's about who decides when 'too much harm' is enough. Thread on why this question is harder than it looks.",
+      "psychological_trigger": "intellectual_curiosity + identity_signal + moral_stakes",
+      "structural_lesson": "Reframe a technical debate as a governance/values question. 'The debate isn't really about [surface thing], it's about [deeper thing]' is a powerful reframe pattern that signals intellectual depth and drives shares among people who want to signal sophistication. Thread digs into the nuance, ending with the writer's own position or an open question.",
+      "tone": "educational",
+      "applicable_niches": [
+        "AI",
+        "tech"
+      ],
+      "tags": [
+        "reframe-hook",
+        "policy-debate",
+        "moral-stakes",
+        "thread-format",
+        "intellectual-curiosity"
+      ]
     }
   },
   "patterns": {
     "most_effective_hook_patterns": [
-      "Credentialed insider warning with specific timeline (months/weeks not years)",
-      "BREAKING amplifier: compress expert thread to single emotional punch",
-      "Cross-domain catastrophe link: breakthrough in A = threat to B",
-      "Paradigm-shift reframe: apply familiar concept from another domain to AI",
-      "Escalating pattern narrative: First X, then Y, now Z",
-      "Ex-insider whistleblower arc: 'I left because...'",
-      "Counterintuitive principle + concrete proof: paradox \u2192 product",
-      "Milestone velocity shock: [tiny time] + [massive outcome]",
-      "Contrarian celebration deflation: 'Everyone celebrates X, nobody talks about Y'",
-      "The emergency brake: here's the specific failsafe we're building"
+      "Historical parallel to a lived event everyone understands, then reveal the prese",
+      "Show proof of an impossible-seeming thing, then attach extreme personal sacrific",
+      "Open with your most controversial use case, not your most polished one \u2014 make ha",
+      "Build quietly in public with milestone posts, then let a high-authority figure's",
+      "Ultra-low-effort participation trend with a high-reward emotional payoff, anchor",
+      "Reassuring setup in the first clause, devastating pivot in the second \u2014 the two ",
+      "AI agent posts consistently weird, philosophical content; community builds mytho",
+      "Maximum ambiguity with maximum implied stakes \u2014 say the minimum that implies the",
+      "Name a shared, unspoken frustration within the community with humorous exaggerat",
+      "Make a bold, specific, falsifiable numerical prediction with enough math to seem"
     ],
     "most_effective_formats": [
-      "Thread (5-12 tweets): warning/educational with evidence chain",
-      "Single punchy tweet: quotable principle or alarming fact",
-      "BREAKING single tweet: compressed amplifier of expert content",
-      "Thread + single amplifier tweet by third party (combo viral pattern)"
+      "Single Tweet",
+      "Thread",
+      "Single Tweet / Thread",
+      "Single Tweet + Thread",
+      "Quote Tweet",
+      "Single Tweet / Thread opener",
+      "Single Tweet or short thread",
+      "Single Tweet / Quote Tweet"
     ],
     "most_effective_tones": [
-      "Authoritative + alarming (expert issuing warning)",
-      "Vulnerable + authoritative (insider who left on principle)",
-      "Analytical + urgent (connecting dots others missed)",
-      "Paradoxical + philosophical (counterintuitive CEO voice)"
+      "authoritative",
+      "provocative",
+      "educational",
+      "vulnerable",
+      "authoritative / provocative",
+      "humorous"
     ],
     "most_effective_triggers": [
-      "FOMO (your assets/portfolio/position is threatened)",
-      "Authority + credibility (credentialed insider speaks)",
-      "Curiosity gap (here's what everyone is missing)",
-      "Existential fear (AI safety, civilizational risk)",
-      "Pattern recognition (accumulating incidents = systemic trend)",
-      "Speed worship (velocity of outcome = social proof)",
-      "Paradigm shift (the old model no longer works)"
+      "FOMO",
+      "curiosity gap",
+      "Contrarianism",
+      "Identity threat",
+      "contrarianism",
+      "Curiosity gap",
+      "Fear",
+      "identity threat",
+      "urgency",
+      "social proof"
     ],
     "cross_niche_insights": [
-      "AI capability breakthroughs (math, science) reliably generate crypto fear threads \u2014 the connection is ECDSA/cryptographic security",
-      "Rogue AI agent incidents from any company/country validate each other and create compounding 'it's systemic' narrative",
-      "CEO statements that frame AI as a threat (even their own AI) outperform promotional content by large margins",
-      "The whistleblower format (ex-insider from top lab) is the highest-impression format in AI discourse; reaches both believers and skeptics",
-      "Amplifier accounts (e.g. Crypto Rover) often outperform the original expert post by stripping nuance and leading with fear",
-      "Startups hitting unicorn valuations in <6 months are reliable viral material in both AI and crypto communities",
-      "The most viral crypto AI content lives at the intersection: 'AI threatens your crypto security' outperforms pure AI or pure crypto content"
+      "AI safety disclosures (confessions, hypocrisy, agents gone rogue) consistently outperform purely positive news",
+      "Age + achievement tension is a perennial viral pattern especially in AI/tech founder stories",
+      "Big number + divided verdict (investors vs founder) drives engagement across AI and crypto",
+      "Competitor collaboration is a shock hook for AI/tech \u2014 audiences assume war, not partnership",
+      "Policy/ethics debates reframed as values questions drive intellectual-identity sharing",
+      "Contrarian reframes of doom narratives ('the opposite is true') drive both agreement and disagreement engagement",
+      "Bold naming choices by major players (Super Intelligence, etc.) are under-leveraged hooks",
+      "The 'gap between stated values and actual behavior' is a universal virality trigger across all niches"
     ],
-    "last_updated": "2026-10-21"
+    "last_updated": "2026-10-22"
   }
 }
