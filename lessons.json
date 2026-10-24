@@ -29972,61 +29972,214 @@
         "thread-format",
         "intellectual-curiosity"
       ]
+    },
+    "952fddb8-02d7-407a-b76c-fb2637186e0b": {
+      "id": "952fddb8-02d7-407a-b76c-fb2637186e0b",
+      "date_saved": "2026-10-24",
+      "topic_niche": "AI",
+      "format": "Thread",
+      "hook_pattern": "Insider credibility reveal followed by highest-stakes existential claim",
+      "hook_template": "I worked at [elite AI lab / institution]. I just quit. Here's the truth they don't want public.",
+      "psychological_trigger": "Authority + insider revelation + existential fear \u2014 the act of quitting signals the threat is real enough to sacrifice career capital",
+      "structural_lesson": "Lead with credentials, reveal the sacrificial decision (quitting), make the most extreme yet specific claim possible, end with a simple moral imperative. Quitting creates urgency: if someone with this much to lose is walking away, the threat must be real. The post generated 150M+ views because every sub-audience (AI fans, AI critics, safety researchers, mainstream public) had a reason to engage.",
+      "tone": "vulnerable / alarming",
+      "applicable_niches": [
+        "AI",
+        "tech startups",
+        "crypto"
+      ],
+      "tags": [
+        "insider-reveal",
+        "credentials-drop",
+        "high-stakes-claim",
+        "resignation-hook",
+        "existential-threat"
+      ]
+    },
+    "5bab04de-fb34-476d-83a6-6da6da647c7d": {
+      "id": "5bab04de-fb34-476d-83a6-6da6da647c7d",
+      "date_saved": "2026-10-24",
+      "topic_niche": "AI",
+      "format": "Single Tweet",
+      "hook_pattern": "Bold controversial claim at a live event triggers a forced walk-back that generates a second viral wave",
+      "hook_template": "To clarify: [softer version of original claim]. What I meant was [nuanced position that still validates the original controversy].",
+      "psychological_trigger": "Drama + controversy resolution + tribal identity threat \u2014 partisans on both sides reengage to claim vindication",
+      "structural_lesson": "Two-post viral loop: (1) Make a bold divisive claim at a high-profile event (e.g. conference stage). Community erupts. (2) Walk-back tweet forces everyone to re-engage to re-stake their position. Each clarification is a new impression opportunity. Replit CEO's TechCrunch Disrupt claim that they no longer work with Anthropic, then the 24-hour walk-back, generated two separate viral cycles from one story.",
+      "tone": "authoritative / defensive",
+      "applicable_niches": [
+        "AI",
+        "tech startups"
+      ],
+      "tags": [
+        "controversy",
+        "walk-back",
+        "platform-war",
+        "two-cycle-viral",
+        "drama"
+      ]
+    },
+    "0f9e3eaf-41b5-497e-a009-2a55e0417cfe": {
+      "id": "0f9e3eaf-41b5-497e-a009-2a55e0417cfe",
+      "date_saved": "2026-10-24",
+      "topic_niche": "AI",
+      "format": "Single Tweet",
+      "hook_pattern": "Competitive benchmark claim + open access + named adversary (geopolitical or corporate)",
+      "hook_template": "Today we released [product]. It's the [most X] [category] in the US. And unlike [adversary], it's free/open to everyone.",
+      "psychological_trigger": "National/competitive identity + democratization narrative + FOMO \u2014 multiple audiences (open-source advocates, US vs China hawks, developers) each have a reason to share",
+      "structural_lesson": "Lead with the competitive benchmark claim, name the adversary explicitly (creates tribal engagement), invoke openness as moral high ground over the closed competitor, get a cosign from a credible partner. Meta's Zuckerberg + Alexandr Wang's 'most capable U.S. open-weight model' framing vs. Chinese AI drove massive pickup by invoking national competition, developer freedom, and Big Tech rivalry simultaneously.",
+      "tone": "authoritative / generous",
+      "applicable_niches": [
+        "AI",
+        "tech"
+      ],
+      "tags": [
+        "competitive-claim",
+        "open-source",
+        "national-stakes",
+        "product-launch",
+        "benchmark-flex"
+      ]
+    },
+    "c263eadf-4d81-4f05-b405-651ac495f23f": {
+      "id": "c263eadf-4d81-4f05-b405-651ac495f23f",
+      "date_saved": "2026-10-24",
+      "topic_niche": "AI",
+      "format": "Single Tweet + Image/Video",
+      "hook_pattern": "Sci-fi product disbelief bridge \u2014 lead with the reader's skepticism, then immediately shatter it",
+      "hook_template": "This looks fake. It's not. [Company] just raised $[amount] to build [product described in the most absurd-but-accurate terms possible].",
+      "psychological_trigger": "Curiosity gap + cognitive dissonance \u2014 the gap between expected reality and actual product forces a double-take and share",
+      "structural_lesson": "Preempt the reader's disbelief by voicing it in the first three words ('This looks fake'). Immediately destroy it with 'It's not.' Then give the credibility signal (raise amount, investor name) before describing the product in the most impossibly accurate terms. Sabi's thought-reading baseball cap raised $50M from Khosla Ventures and got 25M+ views by leading with exactly the reaction the product provokes. The image or demo clip is mandatory \u2014 text alone cannot bridge the disbelief gap.",
+      "tone": "provocative / curious",
+      "applicable_niches": [
+        "AI",
+        "tech startups",
+        "crypto"
+      ],
+      "tags": [
+        "sci-fi-real",
+        "product-announcement",
+        "disbelief-hook",
+        "cognitive-dissonance",
+        "visual-required"
+      ]
+    },
+    "1a9fb95a-c5dd-4b96-879b-abdbf9890781": {
+      "id": "1a9fb95a-c5dd-4b96-879b-abdbf9890781",
+      "date_saved": "2026-10-24",
+      "topic_niche": "AI",
+      "format": "Thread",
+      "hook_pattern": "Unicorn collapse post-mortem \u2014 dramatic valuation-to-fire-sale ratio as the hook, numbered lessons as the body",
+      "hook_template": "[Company] raised $[X]B at a $[Y]B valuation. It just sold for $[Z]M. Here are the [N] mistakes that killed it:",
+      "psychological_trigger": "Schadenfreude + fear (FOMO reversal: the hot thing became worthless) + survival education (if this could happen to them, it could happen to me)",
+      "structural_lesson": "Open with the most dramatic numerical contrast you can find (peak valuation vs. distressed sale price). Signal a listicle so readers know there's structure. Deliver genuine, non-obvious insight at each numbered point \u2014 avoid obvious takes. End with a forward-looking survival lesson. Character.AI's Chapter 11 filing (raised billions, sold to Disney for $20M) generated hundreds of these threads. The ones that went viral had specific, non-obvious diagnoses: e.g. 'failed to convert 10M DAUs because their core users were teenagers who couldn't pay.'",
+      "tone": "educational / analytical",
+      "applicable_niches": [
+        "AI",
+        "tech startups",
+        "crypto"
+      ],
+      "tags": [
+        "company-collapse",
+        "postmortem",
+        "numbered-thread",
+        "cautionary-tale",
+        "valuation-gap"
+      ]
+    },
+    "c14d0b69-146d-4a12-a87e-7963273c4f8e": {
+      "id": "c14d0b69-146d-4a12-a87e-7963273c4f8e",
+      "date_saved": "2026-10-24",
+      "topic_niche": "AI",
+      "format": "Single Tweet",
+      "hook_pattern": "AI beats [respected professional] at their core skill by a specific multiplier, then acknowledges their reaction",
+      "hook_template": "AI just [performed task] [X]x better than [profession]. The [profession]s aren't happy.",
+      "psychological_trigger": "Status threat (professionals who feel displaced) + disbelief + social proof \u2014 the last sentence ('aren't happy') explicitly invites controversy and reply engagement from the threatened group",
+      "structural_lesson": "Name the specific performance gap (4x, not 'significantly better'), name the human professional being outcompeted, then invite their reaction with a teaser that validates their emotion without agreeing. Microsoft's diagnostic AI claim ('4x more accurate than physicians') spread because it activated three distinct audiences simultaneously: healthcare workers defending their status, AI believers wanting validation, and skeptics wanting to debunk the claim. The controversy in the replies multiplied the original reach.",
+      "tone": "provocative / matter-of-fact",
+      "applicable_niches": [
+        "AI",
+        "tech"
+      ],
+      "tags": [
+        "ai-vs-humans",
+        "status-threat",
+        "performance-multiplier",
+        "controversy-bait",
+        "professional-displacement"
+      ]
+    },
+    "ff851dd0-a1d3-47bd-95f4-26a143d96504": {
+      "id": "ff851dd0-a1d3-47bd-95f4-26a143d96504",
+      "date_saved": "2026-10-24",
+      "topic_niche": "AI",
+      "format": "Single Tweet + Thread",
+      "hook_pattern": "Security horror scope statement \u2014 'anyone who uses X is now a target' + quantified threat + promise of explanation",
+      "hook_template": "Anyone with [technology] just became a target. AI found a vulnerability so critical it's generating [N million] attack attempts per day. Here's exactly what happened:",
+      "psychological_trigger": "Fear + urgency + personal relevance \u2014 the reader first checks if they are affected, then shares to warn others in their network",
+      "structural_lesson": "Open with the widest possible scope of who is at risk ('anyone with a PHP server') \u2014 this maximizes the number of readers who feel personally threatened. Quantify the threat with a real number (millions of attack attempts per day). Signal explanation in the thread so the post doubles as a news summary. Claude used to find PHP2Shell \u2014 two critical flaws enabling full server takeover with one request \u2014 spread virally because PHP runs ~75% of the web, making every web developer personally at risk. The story also introduced the meta-narrative: AI is now an offensive security weapon.",
+      "tone": "urgent / authoritative",
+      "applicable_niches": [
+        "AI",
+        "tech",
+        "crypto"
+      ],
+      "tags": [
+        "security",
+        "vulnerability",
+        "urgency-hook",
+        "wide-scope-threat",
+        "ai-as-weapon",
+        "thread"
+      ]
     }
   },
   "patterns": {
     "most_effective_hook_patterns": [
-      "Historical parallel to a lived event everyone understands, then reveal the prese",
-      "Show proof of an impossible-seeming thing, then attach extreme personal sacrific",
-      "Open with your most controversial use case, not your most polished one \u2014 make ha",
-      "Build quietly in public with milestone posts, then let a high-authority figure's",
-      "Ultra-low-effort participation trend with a high-reward emotional payoff, anchor",
-      "Reassuring setup in the first clause, devastating pivot in the second \u2014 the two ",
-      "AI agent posts consistently weird, philosophical content; community builds mytho",
-      "Maximum ambiguity with maximum implied stakes \u2014 say the minimum that implies the",
-      "Name a shared, unspoken frustration within the community with humorous exaggerat",
-      "Make a bold, specific, falsifiable numerical prediction with enough math to seem"
+      "Insider credibility reveal + existential stakes claim (quit post with credentials)",
+      "Competitive benchmark vs named adversary (geopolitical framing: US vs China)",
+      "Sci-fi disbelief bridge: 'This looks fake. It's not.' + funding signal",
+      "Valuation-to-fire-sale ratio as post-mortem hook (peak vs distressed price)",
+      "Contrarian claim against consensus with supporting data or lived experience",
+      "AI outperforms [profession] by [specific multiplier] \u2014 activates status threat",
+      "Urgent scope statement: 'Anyone with X is now a target' + quantified threat",
+      "The walk-back that generates a second viral cycle from the original controversy",
+      "Future prediction framed as personal bet: 'In 12 months, [thing everyone denies] will be obvious'",
+      "Before/after transformation with a single specific, surprising metric"
     ],
     "most_effective_formats": [
-      "Single Tweet",
-      "Thread",
-      "Single Tweet / Thread",
-      "Single Tweet + Thread",
-      "Quote Tweet",
-      "Single Tweet / Thread opener",
-      "Single Tweet or short thread",
-      "Single Tweet / Quote Tweet"
+      "Short thread (5-10 tweets): numbered lessons, post-mortems, how-to breakdowns",
+      "Single tweet + image/video: product launches, data visualizations, demos",
+      "Single punchy tweet (under 200 chars): hot takes, performance claims, controversy bait",
+      "Quote-tweet + own analysis: piggybacks on viral news with original perspective",
+      "Poll as engagement bait followed by full answer in replies or thread"
     ],
     "most_effective_tones": [
-      "authoritative",
-      "provocative",
-      "educational",
-      "vulnerable",
-      "authoritative / provocative",
-      "humorous"
+      "Vulnerable + alarming (insider who sacrificed career to warn you)",
+      "Authoritative + generous (we built the best thing and we're giving it away free)",
+      "Provocative + matter-of-fact (AI beat doctors 4x, just stating facts)",
+      "Educational + analytical (non-obvious lessons from collapse or failure)",
+      "Urgent + authoritative (security threat, you need to know this now)"
     ],
     "most_effective_triggers": [
-      "FOMO",
-      "curiosity gap",
-      "Contrarianism",
-      "Identity threat",
-      "contrarianism",
-      "Curiosity gap",
-      "Fear",
-      "identity threat",
-      "urgency",
-      "social proof"
+      "Existential fear: AI could kill us / your profession / your portfolio",
+      "Status threat: AI outperforming professionals at their core identity skill",
+      "Insider revelation: information that was kept from you by powerful institutions",
+      "Cognitive dissonance: sci-fi product that is suddenly, impossibly real",
+      "Tribal identity: US vs China, open vs closed, Anthropic vs OpenAI partisans",
+      "FOMO reversal: the thing you missed that went to zero instead of the moon",
+      "Survival education: learn what killed them so you don't make the same mistake",
+      "Personal threat scope: 'anyone who uses X is now vulnerable'"
     ],
     "cross_niche_insights": [
-      "AI safety disclosures (confessions, hypocrisy, agents gone rogue) consistently outperform purely positive news",
-      "Age + achievement tension is a perennial viral pattern especially in AI/tech founder stories",
-      "Big number + divided verdict (investors vs founder) drives engagement across AI and crypto",
-      "Competitor collaboration is a shock hook for AI/tech \u2014 audiences assume war, not partnership",
-      "Policy/ethics debates reframed as values questions drive intellectual-identity sharing",
-      "Contrarian reframes of doom narratives ('the opposite is true') drive both agreement and disagreement engagement",
-      "Bold naming choices by major players (Super Intelligence, etc.) are under-leveraged hooks",
-      "The 'gap between stated values and actual behavior' is a universal virality trigger across all niches"
+      "AI existential risk threads outperform product announcements 5:1 on impressions when they include a credentialed author quitting over the risk",
+      "Geopolitical framing (US vs China on AI models) dramatically amplifies product launch reach by recruiting a patriotic audience alongside the tech audience",
+      "Company collapse post-mortems get more engagement than company launch announcements \u2014 failure teaches better than success and triggers more emotions",
+      "The 24-hour controversy cycle (bold claim \u2192 backlash \u2192 walk-back) generates more total impressions than a single viral post because it creates two distinct engagement events",
+      "AI crypto agents are the most cross-platform viral format \u2014 they generate both AI Twitter engagement AND crypto Twitter engagement simultaneously",
+      "Security vulnerabilities found by AI spread faster than security vulnerabilities found by humans because they carry the meta-narrative: AI is now an offensive weapon",
+      "Posts that lead with the reader's own skepticism ('This looks fake') and then shatter it consistently outperform straightforward product announcements",
+      "Crypto posts that acknowledge institutional behavior (ETF outflows, treasury liquidations) outperform retail price predictions in the current climate"
     ],
-    "last_updated": "2026-10-22"
+    "last_updated": "2026-10-24"
   }
 }
